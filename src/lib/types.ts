@@ -1,10 +1,12 @@
 export type Platform = "youtube" | "tiktok" | "instagram" | "facebook" | "x";
 export type Format = "short" | "long" | "text" | "carousel";
+export type Category = "ai" | "true_crime" | "diesel" | "rideshare";
 
 export interface Card {
   id: string;
   collected_at: string;
   platform: Platform;
+  category: Category;
   url: string;
   creator_handle: string;
   title: string;
@@ -34,3 +36,26 @@ export const PLATFORMS: Platform[] = [
   "facebook",
   "x",
 ];
+
+export const CATEGORIES: Category[] = [
+  "ai",
+  "true_crime",
+  "diesel",
+  "rideshare",
+];
+
+/** Quiet display labels for category chips / marks. */
+export function categoryLabel(category: Category | string): string {
+  switch (category) {
+    case "ai":
+      return "AI";
+    case "true_crime":
+      return "True crime";
+    case "diesel":
+      return "Diesel";
+    case "rideshare":
+      return "Rideshare";
+    default:
+      return String(category);
+  }
+}
