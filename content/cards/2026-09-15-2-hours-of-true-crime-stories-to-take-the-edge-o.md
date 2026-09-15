@@ -1,0 +1,27 @@
+---
+id: 2026-09-15-2-hours-of-true-crime-stories-to-take-the-edge-o
+collected_at: 2026-09-15T10:04:30-07:00
+platform: youtube
+category: true_crime
+url: https://www.youtube.com/watch?v=jbEFMAVbI-U
+creator_handle: "@TrustMeBroCompilations"
+title: "2 Hours Of True Crime Stories To Take The Edge Off"
+hook_onscreen: ""
+hook_spoken: "every   person    currently    on    the    FBI's    most every person currently on the FBI's most every person currently on the FBI's most wanted   list"
+thumbnail_path: thumbs/2026-09-15-2-hours-of-true-crime-stories-to-take-the-edge-o.jpg
+thumbnail_url: "https://i.ytimg.com/vi_webp/jbEFMAVbI-U/maxresdefault.webp"
+transcript_path: transcripts/2026-09-15-2-hours-of-true-crime-stories-to-take-the-edge-o.txt
+views: 1075079
+likes: 11810
+comments: 268
+saves: null
+post_date: "2025-10-14"
+niche_tags: [true_crime, faceless, narration]
+pattern_tags: [number, negative]
+format: long
+notes: "faceless-pref harvest"
+---
+
+## Transcript (~30s)
+
+every   person    currently    on    the    FBI's    most every person currently on the FBI's most every person currently on the FBI's most wanted   list.    Chances    are    you've    heard wanted list. Chances are you've heard wanted list. Chances are you've heard about   the    FBI's    most    wanted    list    at    some about the FBI's most wanted list at some about the FBI's most wanted list at some point   in    your    life.    It's    also    likely point in your life. It's also likely point in your life. It's also likely that   you    don't    know    much    about    it that you don't know much about it that you don't know much about it besides   the    fact    that    it's    a    list    of besides the fact that it's a list of besides the fact that it's a list of criminals.   Well,    I    was    in    the    same    boat, criminals. Well, I was in the same boat, criminals. Well, I was in the same boat, so   I    did    some    research    and    today    I'm so I did some research and today I'm so I did some research and today I'm going   to    explain    a    brief    history    about going to explain a brief history about going to explain a brief history about the   FBI's    most    wanted    list    and    then    take the FBI's most wanted list and then take the FBI's most wanted list and then take a   deep    dive    into    every    single    person a deep dive into every single person a deep dive into every single person who's   on    the    list    and    why    they're    there. who's on the list and why they're there. who's on the list and why they're there. Spoiler   alert,    these    are    some    bad Spoiler alert, these are some bad Spoiler alert, these are some bad people.   The    most    wanted    list    was people. The most wanted list was people. The most wanted list was actually   born    in    1949    when    the    director actually born in 1949 when the director actually born in 1949 when the director of   the    FBI    was    at    dinner    with    the    chief of the FBI was at dinner with the chief of the FBI was at dinner with the chief and   editor    of    the    International    News and editor of the International News and editor of the International News Service.   As    they    were    discussing    ways    to Service. As they were discussing ways to Service. As they were discussing ways to promote   and    capture    the    FBI's    toughest promote and capture the FBI's toughest promote and capture the
