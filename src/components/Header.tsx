@@ -8,22 +8,19 @@ const NAV = [
 
 export function Header() {
   return (
-    <header className="border-b border-ink/15 bg-paper/90 backdrop-blur-[2px]">
-      <div className="mx-auto flex max-w-6xl items-baseline justify-between gap-6 px-4 py-5 sm:px-6">
+    <header className="border-b border-hairline bg-paper">
+      <div className="mx-auto flex max-w-6xl items-baseline justify-between gap-6 px-4 py-4 sm:px-6">
         <Link href="/" className="group">
-          <span className="font-display text-xl tracking-tight text-ink sm:text-2xl">
-            Hook Farm
-          </span>
-          <span className="ml-2 hidden text-sm text-ink/50 sm:inline">
-            viral packaging corpus
+          <span className="font-display text-xl tracking-tight text-ink lowercase sm:text-[1.35rem]">
+            hook farm
           </span>
         </Link>
-        <nav className="flex gap-5 text-sm">
+        <nav className="flex gap-5 text-xs uppercase tracking-wider text-studio">
           {NAV.map((item) => (
             <Link
               key={item.href}
               href={item.href}
-              className="text-ink/70 transition-colors hover:text-accent"
+              className="transition-colors hover:text-ink"
             >
               {item.label}
             </Link>

@@ -1,17 +1,23 @@
 @import "tailwindcss";
 
 :root {
-  --paper: #f4efe4;
-  --paper-shade: #ebe4d4;
-  --ink: #1a1712;
-  --accent: #9a4a2e;
+  --paper: #faf9f7;
+  --card: #ffffff;
+  --hairline: #e8e3e8;
+  --ghost: #efeaee;
+  --ink: #221c24;
+  --studio: #6f6470;
+  --faint: #9a8f9b;
 }
 
 @theme inline {
   --color-paper: var(--paper);
-  --color-paper-shade: var(--paper-shade);
+  --color-card: var(--card);
+  --color-hairline: var(--hairline);
+  --color-ghost: var(--ghost);
   --color-ink: var(--ink);
-  --color-accent: var(--accent);
+  --color-studio: var(--studio);
+  --color-faint: var(--faint);
   --font-sans: var(--font-source-sans);
   --font-display: var(--font-newsreader);
   --font-mono: var(--font-ibm-plex-mono);
@@ -22,9 +28,7 @@ html {
 }
 
 body {
-  background:
-    radial-gradient(ellipse at top, rgba(154, 74, 46, 0.04), transparent 55%),
-    var(--paper);
+  background: var(--paper);
   color: var(--ink);
   font-family: var(--font-source-sans), ui-sans-serif, system-ui, sans-serif;
 }
@@ -34,7 +38,7 @@ body {
 }
 
 ::selection {
-  background: color-mix(in srgb, var(--accent) 28%, transparent);
+  background: color-mix(in srgb, var(--ink) 18%, transparent);
   color: var(--ink);
 }
 
