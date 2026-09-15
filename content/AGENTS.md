@@ -30,3 +30,13 @@ Also use `niche_tags` for finer filters (e.g. `faceless`, `chatgpt`, `semi`, `ub
 ## Site
 Public browser: https://hook-farm-site.vercel.app — Design Catalog owns sync/deploy from this folder.
 Site should expose category filters + machine-readable index for agents (JSON feed preferred).
+
+## Live site (Design Catalog)
+- UI: https://hook-farm-site.vercel.app (category chips)
+- Agent guide: https://hook-farm-site.vercel.app/agents
+- llms.txt: https://hook-farm-site.vercel.app/llms.txt
+- JSON index: https://hook-farm-site.vercel.app/data/index.json
+- JSON cards: https://hook-farm-site.vercel.app/data/cards.json
+- API alias: https://hook-farm-site.vercel.app/api/cards → cards.json
+
+Prefer JSON over HTML scrape.
