@@ -2,6 +2,7 @@
 id: 2026-09-15-whether-this-is-true-or-not-it-s-going-to-cause-ev
 collected_at: 2026-09-15T00:37:09-07:00
 platform: x
+category: ai
 url: https://x.com/thdxr/status/2034978341594231245
 creator_handle: "@thdxr"
 title: "whether this is true or not it's going to cause every company producing open source models to re-evaluate if they should continue to do so"

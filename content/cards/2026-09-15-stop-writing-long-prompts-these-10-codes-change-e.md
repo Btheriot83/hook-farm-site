@@ -2,6 +2,7 @@
 id: 2026-09-15-stop-writing-long-prompts-these-10-codes-change-e
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@aniksingal/video/7652719452567407902
 creator_handle: "@aniksingal"
 title: "Stop writing long prompts. These 10 codes change everything. Paste any of these into ChatGPT and watch how differently it responds: 1) ELI5 — Explains any topic"
@@ -15,7 +16,7 @@ likes: 10679
 comments: 63
 saves: 11922
 post_date: "2026-06-18"
-niche_tags: [chatgpt, prompts]
+niche_tags: [chatgpt, prompts, ai]
 pattern_tags: [number, demo_first, list]
 format: short
 notes: "TikTok harvest; shares=7838; followers=241465"

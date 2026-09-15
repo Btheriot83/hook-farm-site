@@ -2,6 +2,7 @@
 id: 2026-09-15-here-are-the-5-secret-codes-for-chatgpt-but-there
 collected_at: 2026-09-15T00:39:03-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@chris.tech.latte/video/7685494212300688670
 creator_handle: "@chris.tech.latte"
 title: "Here are the 5 secret codes for ChatGPT, but there even more powerful ones. Comment “Codes” to get my free guide.  #chatgpt #aitips #ai #openai #learnontiktok "
@@ -15,7 +16,7 @@ likes: 448
 comments: 51
 saves: 373
 post_date: "2026-09-14"
-niche_tags: [chatgpt]
+niche_tags: [chatgpt, ai]
 pattern_tags: [number, secret, how_to_promise]
 format: short
 notes: "clockworks TikTok hashtag harvest; shares=114"

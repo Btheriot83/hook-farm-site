@@ -2,6 +2,7 @@
 id: 2026-09-15-claude-code-full-course-4-hours-build-sell-2026
 collected_at: 2026-09-15T00:32:17-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=QoQBzR1NIqI
 creator_handle: "@NickSaraev"
 title: "CLAUDE CODE FULL COURSE 4 HOURS: Build & Sell (2026)"
@@ -15,7 +16,7 @@ likes: 65551
 comments: 1900
 saves: null
 post_date: "2026-02-12"
-niche_tags: [claude, how-to]
+niche_tags: [claude, how-to, ai]
 pattern_tags: [number]
 format: long
 notes: "batch harvest ytsearch"

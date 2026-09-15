@@ -2,6 +2,7 @@
 id: 2026-09-15-make-com-automation-tutorial-for-beginners
 collected_at: 2026-09-15T00:39:44-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=JSA2oezQWOU
 creator_handle: "@KevinStratvert"
 title: "Make.com Automation Tutorial for Beginners"
@@ -15,7 +16,7 @@ likes: 18936
 comments: 588
 saves: null
 post_date: "2024-05-28"
-niche_tags: [automation, tooling]
+niche_tags: [automation, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

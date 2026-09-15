@@ -2,6 +2,7 @@
 id: 2026-09-15-gemini-chat-gpt-how-to-create-the-80s-trend-photo
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@criphin.sy/video/7685595662884392200
 creator_handle: "@criphin.sy"
 title: "Gemini chat gpt how to create the 80s trend photo  chat gpt image generation tutorial ai generated picture prompt probar el filtro 80 en foto gratis probar el f"
@@ -15,7 +16,7 @@ likes: 400
 comments: 3
 saves: 67
 post_date: "2026-09-15"
-niche_tags: [gemini, prompts, image]
+niche_tags: [gemini, prompts, image, ai]
 pattern_tags: [number, how_to_promise, demo_first]
 format: short
 notes: "TikTok harvest; shares=238; followers=58352"

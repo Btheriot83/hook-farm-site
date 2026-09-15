@@ -2,6 +2,7 @@
 id: 2026-09-15-chatgpt-just-became-free-unlimited-you-don-t-nee
 collected_at: 2026-09-15T00:29:47-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=qE2qvh961zc
 creator_handle: "@AIMaster"
 title: "ChatGPT Just Became Free & Unlimited \u2014 You Don\u2019t Need a Subscription"
@@ -15,7 +16,7 @@ likes: 1126
 comments: 63
 saves: null
 post_date: "2026-09-07"
-niche_tags: [chatgpt, productivity]
+niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

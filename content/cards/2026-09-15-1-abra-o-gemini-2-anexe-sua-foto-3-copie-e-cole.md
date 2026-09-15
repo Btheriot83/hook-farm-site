@@ -2,6 +2,7 @@
 id: 2026-09-15-1-abra-o-gemini-2-anexe-sua-foto-3-copie-e-cole
 collected_at: 2026-09-15T09:23:10-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@cristianprompts/video/7685232473436851476
 creator_handle: "@cristianprompts"
 title: "1\ufe0f\u20e3 Abra o Gemini 2\ufe0f\u20e3Anexe sua foto  3\ufe0f\u20e3Copie e cole o prompt  #vaipr..."
@@ -15,7 +16,7 @@ likes: 276
 comments: 77
 saves: null
 post_date: "2026-09-14"
-niche_tags: [gemini, prompts, image]
+niche_tags: [gemini, prompts, image, ai]
 pattern_tags: [curiosity_gap]
 format: short
 notes: "incremental morning harvest tiktok user feed; Gemini photo prompt step list"

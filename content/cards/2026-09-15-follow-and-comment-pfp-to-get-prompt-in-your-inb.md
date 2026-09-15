@@ -2,6 +2,7 @@
 id: 2026-09-15-follow-and-comment-pfp-to-get-prompt-in-your-inb
 collected_at: 2026-09-15T00:39:37-07:00
 platform: instagram
+category: ai
 url: https://www.instagram.com/reel/DZ-Z2-_vbnu/
 creator_handle: "@sagarfx.studio"
 title: "Follow and comment \"Pfp\" to get Prompt in your inbox..🖤🔥"
@@ -15,7 +16,7 @@ likes: 145
 comments: 390
 saves: null
 post_date: "2026-06-24"
-niche_tags: [chatgpt, gemini, prompts]
+niche_tags: [chatgpt, gemini, prompts, ai]
 pattern_tags: [number, demo_first]
 format: short
 notes: "IG Reels Apify harvest gemini prompts"

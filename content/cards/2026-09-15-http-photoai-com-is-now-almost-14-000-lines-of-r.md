@@ -2,6 +2,7 @@
 id: 2026-09-15-http-photoai-com-is-now-almost-14-000-lines-of-r
 collected_at: 2026-09-15T00:37:09-07:00
 platform: x
+category: ai
 url: https://x.com/levelsio/status/1675829733668319233
 creator_handle: "@levelsio"
 title: "http://PhotoAI.com is now almost 14,000 lines of raw PHP mixed with inline HTML, CSS in <style> and raw JS in <script> tags"

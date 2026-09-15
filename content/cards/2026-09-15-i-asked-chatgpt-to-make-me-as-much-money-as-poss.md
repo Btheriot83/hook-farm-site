@@ -2,6 +2,7 @@
 id: 2026-09-15-i-asked-chatgpt-to-make-me-as-much-money-as-poss
 collected_at: 2026-09-15T00:43:15-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=nY234RoQeHw
 creator_handle: "@AndreiJikh"
 title: "I Asked ChatGPT To Make Me As Much Money As Possible"
@@ -15,7 +16,7 @@ likes: 53181
 comments: 1000
 saves: null
 post_date: "2023-03-20"
-niche_tags: [money, chatgpt]
+niche_tags: [money, chatgpt, ai]
 pattern_tags: [curiosity_gap, authority]
 format: long
 notes: "batch harvest ytsearch"

@@ -2,6 +2,7 @@
 id: 2026-09-15-why-ai-might-not-replace-your-job-after-all
 collected_at: 2026-09-15T00:41:25-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=EGskcTRnLJ0
 creator_handle: "@BloombergTelevision"
 title: "Why AI Might Not Replace Your Job After All"
@@ -15,7 +16,7 @@ likes: 8759
 comments: 1300
 saves: null
 post_date: "2026-03-21"
-niche_tags: [money, replaced_job]
+niche_tags: [money, replaced_job, ai]
 pattern_tags: [before_after]
 format: long
 notes: "batch harvest ytsearch"

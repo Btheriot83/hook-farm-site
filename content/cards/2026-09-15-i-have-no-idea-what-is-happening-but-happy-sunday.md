@@ -2,6 +2,7 @@
 id: 2026-09-15-i-have-no-idea-what-is-happening-but-happy-sunday
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@theoldcozy/video/7685009733593419030
 creator_handle: "@theoldcozy"
 title: "I have no idea what is happening but happy Sunday..."
@@ -15,7 +16,7 @@ likes: 6724
 comments: 44
 saves: 867
 post_date: "2026-09-13"
-niche_tags: [midjourney]
+niche_tags: [midjourney, ai]
 pattern_tags: [curiosity_gap]
 format: short
 notes: "TikTok harvest; shares=437; followers=29734"

@@ -2,6 +2,7 @@
 id: 2026-09-15-the-ai-music-race-is-over
 collected_at: 2026-09-15T09:16:05-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=ECLy6JnBdoY
 creator_handle: "@RickBeato"
 title: "The AI Music Race is Over"
@@ -15,7 +16,7 @@ likes: 40546
 comments: 9400
 saves: null
 post_date: "2025-11-28"
-niche_tags: [udio, music]
+niche_tags: [udio, music, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

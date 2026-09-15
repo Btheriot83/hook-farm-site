@@ -2,6 +2,7 @@
 id: 2026-09-15-master-ai-image-generation-comfyui-full-tutorial
 collected_at: 2026-09-15T09:16:51-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=g74Cq9Ip2ik
 creator_handle: "@AISearch"
 title: "Master AI image generation - ComfyUI FULL TUTORIAL"
@@ -15,7 +16,7 @@ likes: 21110
 comments: 1400
 saves: null
 post_date: "2024-08-16"
-niche_tags: [comfyui, image, how-to]
+niche_tags: [comfyui, image, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

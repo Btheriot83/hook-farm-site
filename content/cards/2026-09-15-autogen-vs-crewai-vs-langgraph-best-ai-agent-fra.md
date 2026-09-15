@@ -2,6 +2,7 @@
 id: 2026-09-15-autogen-vs-crewai-vs-langgraph-best-ai-agent-fra
 collected_at: 2026-09-15T00:38:33-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=8HqeY5v0ohM
 creator_handle: "@DigibaseMedia"
 title: "AutoGen vs CrewAI vs LangGraph \u2013 Best AI Agent Framework In 2025!"
@@ -15,7 +16,7 @@ likes: 598
 comments: 33
 saves: null
 post_date: "2025-07-15"
-niche_tags: [agents, tooling]
+niche_tags: [agents, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

@@ -2,6 +2,7 @@
 id: 2026-09-15-claude-artifacts-what-they-are-and-how-to-use-th
 collected_at: 2026-09-15T00:34:13-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=9YGg4JaVN4w
 creator_handle: "@TheAIProductivityCoach"
 title: "Claude Artifacts: What They Are and How to Use Them (2026)"
@@ -15,7 +16,7 @@ likes: 1488
 comments: 51
 saves: null
 post_date: "2026-05-10"
-niche_tags: [claude, tooling]
+niche_tags: [claude, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

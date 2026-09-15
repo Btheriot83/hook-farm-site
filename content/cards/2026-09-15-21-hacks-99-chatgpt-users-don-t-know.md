@@ -2,6 +2,7 @@
 id: 2026-09-15-21-hacks-99-chatgpt-users-don-t-know
 collected_at: 2026-09-15T00:27:12-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=R1VJet09Mug
 creator_handle: "@Futurepedia"
 title: "21 Hacks 99% ChatGPT Users Don't Know"
@@ -15,7 +16,7 @@ likes: 7768
 comments: 156
 saves: null
 post_date: "2025-11-19"
-niche_tags: [chatgpt, how-to, prompts]
+niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [number, negative]
 format: long
 notes: "batch harvest ytsearch"

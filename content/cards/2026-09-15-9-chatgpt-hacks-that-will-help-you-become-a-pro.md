@@ -2,6 +2,7 @@
 id: 2026-09-15-9-chatgpt-hacks-that-will-help-you-become-a-pro
 collected_at: 2026-09-15T00:27:32-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=u1NMxMqoqtY
 creator_handle: "@PhillipIm"
 title: "9 ChatGPT Hacks That Will Help You Become a PRO! (BONUS Apple Hack)"
@@ -15,7 +16,7 @@ likes: 36569
 comments: 1400
 saves: null
 post_date: "2025-06-20"
-niche_tags: [chatgpt, productivity]
+niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

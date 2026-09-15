@@ -2,6 +2,7 @@
 id: 2026-09-15-master-cursor-ai-in-13-minutes-you-ll-be-unstopp
 collected_at: 2026-09-15T00:35:59-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=-SkWL0MK9Ec
 creator_handle: "@ZinhoAutomates"
 title: "Master Cursor AI In 13 Minutes (You'll Be Unstoppable)"
@@ -15,7 +16,7 @@ likes: null
 comments: 10
 saves: null
 post_date: "2026-01-12"
-niche_tags: [cursor, agents]
+niche_tags: [cursor, agents, ai]
 pattern_tags: [number]
 format: long
 notes: "batch harvest ytsearch"

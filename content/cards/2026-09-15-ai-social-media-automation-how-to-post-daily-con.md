@@ -2,6 +2,7 @@
 id: 2026-09-15-ai-social-media-automation-how-to-post-daily-con
 collected_at: 2026-09-15T00:40:11-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=4ZI_fL4cw_c
 creator_handle: "@Solopreneur"
 title: "AI Social Media Automation: How to Post Daily Content 100% on Autopilot!"
@@ -15,7 +16,7 @@ likes: 6345
 comments: 623
 saves: null
 post_date: "2024-11-05"
-niche_tags: [automation, tooling]
+niche_tags: [automation, tooling, ai]
 pattern_tags: [number, how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

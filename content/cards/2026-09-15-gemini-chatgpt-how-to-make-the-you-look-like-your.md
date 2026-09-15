@@ -2,6 +2,7 @@
 id: 2026-09-15-gemini-chatgpt-how-to-make-the-you-look-like-your
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@criphin.sy/video/7685630558851927303
 creator_handle: "@criphin.sy"
 title: "Gemini ChatGPT how to make the you look like your mom trend. family resemblance in photos trend. look like parents trend. you look like your dad. look alike fat"
@@ -15,7 +16,7 @@ likes: 116
 comments: 2
 saves: 40
 post_date: "2026-09-15"
-niche_tags: [chatgpt, gemini]
+niche_tags: [chatgpt, gemini, ai]
 pattern_tags: [how_to_promise, before_after]
 format: short
 notes: "TikTok harvest; shares=30; followers=58352"

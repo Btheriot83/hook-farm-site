@@ -2,6 +2,7 @@
 id: 2026-09-15-you-don-t-need-prompting-anymore-just-tell-the-a
 collected_at: 2026-09-15T00:39:03-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@agora_archives/video/7603057793624460566
 creator_handle: "@agora_archives"
 title: "You don’t need prompting anymore. Just tell the A.I which creative direction you like and it will create consistent images in that style. "
@@ -15,7 +16,7 @@ likes: 1658
 comments: 25
 saves: 2135
 post_date: "2026-02-04"
-niche_tags: [midjourney, prompts]
+niche_tags: [midjourney, prompts, ai]
 pattern_tags: [curiosity_gap, how_to_promise]
 format: short
 notes: "clockworks TikTok hashtag harvest; shares=183"

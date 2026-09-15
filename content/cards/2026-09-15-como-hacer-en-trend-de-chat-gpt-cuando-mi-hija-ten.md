@@ -2,6 +2,7 @@
 id: 2026-09-15-como-hacer-en-trend-de-chat-gpt-cuando-mi-hija-ten
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@donaldhall565/video/7685065399326575890
 creator_handle: "@donaldhall565"
 title: "como hacer en trend de chat gpt cuando mi hija tenga 18 años ✨ le pregunte a chat gpt como seria mi hija y le pregunte a chat gpt como seria mi hijo para ver el"
@@ -15,7 +16,7 @@ likes: 91
 comments: 0
 saves: 34
 post_date: "2026-09-13"
-niche_tags: [chatgpt]
+niche_tags: [chatgpt, ai]
 pattern_tags: [number]
 format: short
 notes: "TikTok harvest; shares=1103; followers=10242"

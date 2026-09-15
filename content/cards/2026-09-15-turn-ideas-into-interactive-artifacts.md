@@ -2,6 +2,7 @@
 id: 2026-09-15-turn-ideas-into-interactive-artifacts
 collected_at: 2026-09-15T00:34:09-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=iSn77jvjojA
 creator_handle: "@Anthropic"
 title: "Turn ideas into interactive artifacts"
@@ -15,7 +16,7 @@ likes: 2772
 comments: 127
 saves: null
 post_date: "2025-06-26"
-niche_tags: [claude, tooling]
+niche_tags: [claude, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: short
 notes: "batch harvest ytsearch"

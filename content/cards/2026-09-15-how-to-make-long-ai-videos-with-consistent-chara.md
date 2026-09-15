@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-make-long-ai-videos-with-consistent-chara
 collected_at: 2026-09-15T09:17:18-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=dOmKYJoRboE
 creator_handle: "@IsadoesAI"
 title: "How to Make Long AI Videos with Consistent Characters (2026)"
@@ -15,7 +16,7 @@ likes: null
 comments: 17
 saves: null
 post_date: "2026-05-18"
-niche_tags: [image, tooling]
+niche_tags: [image, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

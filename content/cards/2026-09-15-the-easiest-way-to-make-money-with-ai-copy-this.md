@@ -2,6 +2,7 @@
 id: 2026-09-15-the-easiest-way-to-make-money-with-ai-copy-this
 collected_at: 2026-09-15T00:42:17-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=HKWLH1Zh79A
 creator_handle: "@TheDiaryOfACEOClips"
 title: "The EASIEST Way To Make Money With AI (Copy This)"
@@ -15,7 +16,7 @@ likes: 7885
 comments: 439
 saves: null
 post_date: "2026-09-03"
-niche_tags: [money, how-to]
+niche_tags: [money, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

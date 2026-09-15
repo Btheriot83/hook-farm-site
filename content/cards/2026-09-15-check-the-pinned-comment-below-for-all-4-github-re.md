@@ -2,6 +2,7 @@
 id: 2026-09-15-check-the-pinned-comment-below-for-all-4-github-re
 collected_at: 2026-09-15T00:39:03-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@valeridoesai/video/7680294929351937302
 creator_handle: "@valeridoesai"
 title: "Check the pinned comment below for all 4 GitHub repos 👇"
@@ -15,7 +16,7 @@ likes: 1902
 comments: 182
 saves: 2762
 post_date: "2026-08-31"
-niche_tags: [claude, agents, automation, video]
+niche_tags: [claude, agents, automation, video, ai]
 pattern_tags: [number]
 format: short
 notes: "clockworks TikTok hashtag harvest; shares=581"

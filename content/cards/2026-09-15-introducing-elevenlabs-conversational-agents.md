@@ -2,6 +2,7 @@
 id: 2026-09-15-introducing-elevenlabs-conversational-agents
 collected_at: 2026-09-15T09:16:33-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=v-EYzZCLF48
 creator_handle: "@ElevenLabs"
 title: "Introducing ElevenLabs Conversational Agents"
@@ -15,7 +16,7 @@ likes: 78935
 comments: 621
 saves: null
 post_date: "2024-12-03"
-niche_tags: [elevenlabs, voice, tooling]
+niche_tags: [elevenlabs, voice, tooling, ai]
 pattern_tags: [tool_reveal]
 format: long
 notes: "batch harvest ytsearch"

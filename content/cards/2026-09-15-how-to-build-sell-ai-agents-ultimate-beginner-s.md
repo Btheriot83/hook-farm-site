@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-build-sell-ai-agents-ultimate-beginner-s
 collected_at: 2026-09-15T00:36:59-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=w0H1-b044KY
 creator_handle: "@LiamOttley"
 title: "How to Build & Sell AI Agents: Ultimate Beginner\u2019s Guide"
@@ -15,7 +16,7 @@ likes: 86172
 comments: 2800
 saves: null
 post_date: "2025-03-27"
-niche_tags: [agents, how-to]
+niche_tags: [agents, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

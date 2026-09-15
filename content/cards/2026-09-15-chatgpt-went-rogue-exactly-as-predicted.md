@@ -2,6 +2,7 @@
 id: 2026-09-15-chatgpt-went-rogue-exactly-as-predicted
 collected_at: 2026-09-15T00:27:44-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=NXxWZu5nZK4
 creator_handle: "@Siliconversations"
 title: "ChatGPT Went Rogue (Exactly As Predicted)"
@@ -15,7 +16,7 @@ likes: 25537
 comments: 2400
 saves: null
 post_date: "2026-08-01"
-niche_tags: [chatgpt, productivity]
+niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

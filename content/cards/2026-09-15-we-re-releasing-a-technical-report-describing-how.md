@@ -2,6 +2,7 @@
 id: 2026-09-15-we-re-releasing-a-technical-report-describing-how
 collected_at: 2026-09-15T00:37:09-07:00
 platform: x
+category: ai
 url: https://x.com/cursor_ai/status/2036566134468542651
 creator_handle: "@cursor_ai"
 title: "We're releasing a technical report describing how Composer 2 was trained."

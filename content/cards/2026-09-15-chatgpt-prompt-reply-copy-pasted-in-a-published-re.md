@@ -2,6 +2,7 @@
 id: 2026-09-15-chatgpt-prompt-reply-copy-pasted-in-a-published-re
 collected_at: 2026-09-15T00:37:09-07:00
 platform: x
+category: ai
 url: https://x.com/Saboo_Shubham_/status/1768714521340752093
 creator_handle: "@Saboo_Shubham_"
 title: "ChatGPT prompt reply copy-pasted in a published research paper."
@@ -15,7 +16,7 @@ likes: 982
 comments: 62
 saves: 187
 post_date: "2024-03-15"
-niche_tags: [chatgpt, prompts]
+niche_tags: [chatgpt, prompts, ai]
 pattern_tags: [curiosity_gap]
 format: short
 notes: "HN/fxtwitter harvest; rts=85"

@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-make-edit-images-with-chatgpt-for-beginne
 collected_at: 2026-09-15T00:26:59-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=JKQCWSVqNYc
 creator_handle: "@TheAIAdvantage"
 title: "How to Make & Edit Images with ChatGPT for Beginners"
@@ -15,7 +16,7 @@ likes: 5580
 comments: 279
 saves: null
 post_date: "2025-03-26"
-niche_tags: [chatgpt, how-to, prompts]
+niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

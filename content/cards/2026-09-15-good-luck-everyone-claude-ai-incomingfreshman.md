@@ -2,6 +2,7 @@
 id: 2026-09-15-good-luck-everyone-claude-ai-incomingfreshman
 collected_at: 2026-09-15T00:39:03-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@andreas.univ/video/7683548358845140254
 creator_handle: "@andreas.univ"
 title: "Good luck everyone #claude #ai #incomingfreshman #collegeadvice #college "
@@ -15,7 +16,7 @@ likes: 1371
 comments: 22
 saves: 521
 post_date: "2026-09-09"
-niche_tags: [claude]
+niche_tags: [claude, ai]
 pattern_tags: [curiosity_gap, how_to_promise]
 format: short
 notes: "clockworks TikTok hashtag harvest; shares=41"

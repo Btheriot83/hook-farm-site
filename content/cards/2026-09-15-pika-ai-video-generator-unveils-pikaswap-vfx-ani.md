@@ -2,6 +2,7 @@
 id: 2026-09-15-pika-ai-video-generator-unveils-pikaswap-vfx-ani
 collected_at: 2026-09-15T09:18:08-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=1ugUllz4wCs
 creator_handle: "@HowToIn5Minutes"
 title: "PIKA AI Video Generator Unveils PikaSwap VFX Animation"
@@ -15,7 +16,7 @@ likes: 1580
 comments: 77
 saves: null
 post_date: "2025-02-21"
-niche_tags: [pika, video]
+niche_tags: [pika, video, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

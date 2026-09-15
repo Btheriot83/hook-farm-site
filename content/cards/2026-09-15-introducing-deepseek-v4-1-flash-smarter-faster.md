@@ -2,6 +2,7 @@
 id: 2026-09-15-introducing-deepseek-v4-1-flash-smarter-faster
 collected_at: 2026-09-15T00:38:33-07:00
 platform: x
+category: ai
 url: https://x.com/deepseek_ai/status/2097930608790167907
 creator_handle: "@deepseek_ai"
 title: "🚀 Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient."
@@ -15,7 +16,7 @@ likes: 28163
 comments: 982
 saves: 4639
 post_date: "2026-09-10"
-niche_tags: [chatgpt]
+niche_tags: [chatgpt, ai]
 pattern_tags: [number, tool_reveal]
 format: short
 notes: "Reddit/HN fxtwitter harvest; rts=3056"

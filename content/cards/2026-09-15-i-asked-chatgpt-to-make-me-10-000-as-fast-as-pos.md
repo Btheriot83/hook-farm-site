@@ -2,6 +2,7 @@
 id: 2026-09-15-i-asked-chatgpt-to-make-me-10-000-as-fast-as-pos
 collected_at: 2026-09-15T00:43:32-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=qSg0OQwyYoY
 creator_handle: "@JourneyWithTheHintons"
 title: "I Asked ChatGPT to Make Me $10,000 as Fast as Possible"
@@ -15,7 +16,7 @@ likes: 16453
 comments: 721
 saves: null
 post_date: "2025-10-16"
-niche_tags: [money, chatgpt]
+niche_tags: [money, chatgpt, ai]
 pattern_tags: [authority]
 format: long
 notes: "batch harvest ytsearch"

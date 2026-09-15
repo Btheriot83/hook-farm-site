@@ -2,6 +2,7 @@
 id: 2026-09-14-how-i-make-24937mo-posting-youtube-shorts-using-cl
 collected_at: 2026-09-14T23:25:00-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=V_t51u1tBJc
 creator_handle: "@KellanHenneberry"
 title: "How I Make $24,937/mo Posting YouTube Shorts (Using Claude AI)"
@@ -15,7 +16,7 @@ likes: 40713
 comments: 1900
 saves: null
 post_date: "2026-06-28"
-niche_tags: [claude, money, how-to]
+niche_tags: [claude, money, how-to, ai]
 pattern_tags: [number, replaced_job, how_to_promise, authority]
 format: long
 notes: "Exact $24,937/mo money hook + Claude"

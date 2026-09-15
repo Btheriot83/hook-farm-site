@@ -2,6 +2,7 @@
 id: 2026-09-15-vibe-coding-fundamentals-in-33-minutes
 collected_at: 2026-09-15T00:36:20-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=iLCDSY2XX7E
 creator_handle: "@TinaHuang"
 title: "Vibe Coding Fundamentals In 33 minutes"
@@ -15,7 +16,7 @@ likes: 29953
 comments: 1100
 saves: null
 post_date: "2025-05-19"
-niche_tags: [cursor, coding]
+niche_tags: [cursor, coding, ai]
 pattern_tags: [number]
 format: long
 notes: "batch harvest ytsearch"

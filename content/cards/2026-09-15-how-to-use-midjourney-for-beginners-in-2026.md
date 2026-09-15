@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-use-midjourney-for-beginners-in-2026
 collected_at: 2026-09-15T09:17:13-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=xoZG5WQbgMw
 creator_handle: "@TheAIAdvantage"
 title: "How to Use Midjourney for Beginners in 2026"
@@ -15,7 +16,7 @@ likes: 2747
 comments: 72
 saves: null
 post_date: "2025-10-14"
-niche_tags: [image, tooling]
+niche_tags: [image, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

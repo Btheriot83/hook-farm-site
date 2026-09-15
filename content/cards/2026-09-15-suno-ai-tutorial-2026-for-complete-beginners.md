@@ -2,6 +2,7 @@
 id: 2026-09-15-suno-ai-tutorial-2026-for-complete-beginners
 collected_at: 2026-09-15T09:15:50-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=72R1NjNaUnE
 creator_handle: "@ChillPanic"
 title: "Suno Ai Tutorial 2026 (For Complete Beginners)"
@@ -15,7 +16,7 @@ likes: 9596
 comments: 575
 saves: null
 post_date: "2025-07-19"
-niche_tags: [suno, music, how-to]
+niche_tags: [suno, music, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

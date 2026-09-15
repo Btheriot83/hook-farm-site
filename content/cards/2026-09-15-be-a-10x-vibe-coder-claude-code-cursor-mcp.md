@@ -2,6 +2,7 @@
 id: 2026-09-15-be-a-10x-vibe-coder-claude-code-cursor-mcp
 collected_at: 2026-09-15T00:33:27-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=li788UL1qyI
 creator_handle: "@GregIsenberg"
 title: "Be a 10x Vibe Coder (Claude Code + Cursor + MCP)"
@@ -15,7 +16,7 @@ likes: 4557
 comments: 161
 saves: null
 post_date: "2025-12-01"
-niche_tags: [claude, cursor, tooling]
+niche_tags: [claude, cursor, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

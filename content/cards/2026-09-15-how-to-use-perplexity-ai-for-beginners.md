@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-use-perplexity-ai-for-beginners
 collected_at: 2026-09-15T09:22:28-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=qpN-pjev-vM
 creator_handle: "@corbin"
 title: "How To Use Perplexity AI For Beginners"
@@ -15,7 +16,7 @@ likes: 4231
 comments: 138
 saves: null
 post_date: "2024-02-14"
-niche_tags: [perplexity, tooling]
+niche_tags: [perplexity, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

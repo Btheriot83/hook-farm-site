@@ -2,6 +2,7 @@
 id: 2026-09-15-zapier-ai-tutorial-for-beginners-automation-made
 collected_at: 2026-09-15T00:40:18-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=JtdUgJGI_Oo
 creator_handle: "@KevinStratvert"
 title: "Zapier AI Tutorial for Beginners: Automation Made Simple \ud83d\udfe7"
@@ -15,7 +16,7 @@ likes: 12259
 comments: 279
 saves: null
 post_date: "2024-12-18"
-niche_tags: [automation, tooling]
+niche_tags: [automation, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

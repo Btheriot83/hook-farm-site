@@ -2,6 +2,7 @@
 id: 2026-09-15-the-ultimate-beginner-s-guide-to-vibe-coding
 collected_at: 2026-09-15T00:36:44-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=-VuZmoc-Sq8
 creator_handle: "@MeticsMedia"
 title: "The Ultimate Beginner\u2019s Guide to Vibe Coding"
@@ -15,7 +16,7 @@ likes: 17242
 comments: 231
 saves: null
 post_date: "2026-04-27"
-niche_tags: [cursor, coding]
+niche_tags: [cursor, coding, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

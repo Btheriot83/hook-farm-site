@@ -2,6 +2,7 @@
 id: 2026-09-15-n8n-tutorial-for-beginners-how-to-build-ai-autom
 collected_at: 2026-09-15T00:39:19-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=Fy1UCBcgF2o
 creator_handle: "@CharlieChang"
 title: "n8n Tutorial for Beginners: How to Build AI Automations for FREE (Step-by-Step)"
@@ -15,7 +16,7 @@ likes: 12185
 comments: 279
 saves: null
 post_date: "2025-04-09"
-niche_tags: [automation, agents, tooling]
+niche_tags: [automation, agents, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

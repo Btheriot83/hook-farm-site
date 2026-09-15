@@ -2,6 +2,7 @@
 id: 2026-09-15-the-ai-agent-tutorial-that-should-ve-been-your-f
 collected_at: 2026-09-15T00:37:30-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=GchXMRwuWxE
 creator_handle: "@JeffSu"
 title: "The AI Agent Tutorial That Should've Been Your First (no code)"
@@ -15,7 +16,7 @@ likes: 10406
 comments: 561
 saves: null
 post_date: "2025-08-12"
-niche_tags: [agents, how-to]
+niche_tags: [agents, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

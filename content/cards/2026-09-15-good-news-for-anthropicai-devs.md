@@ -2,6 +2,7 @@
 id: 2026-09-15-good-news-for-anthropicai-devs
 collected_at: 2026-09-15T00:37:09-07:00
 platform: x
+category: ai
 url: https://x.com/alexalbert__/status/1812921642143900036
 creator_handle: "@alexalbert__"
 title: "Good news for @AnthropicAI devs:"
@@ -15,7 +16,7 @@ likes: 2680
 comments: 159
 saves: 794
 post_date: "2024-07-15"
-niche_tags: [claude]
+niche_tags: [claude, ai]
 pattern_tags: [number, tool_reveal]
 format: short
 notes: "HN/fxtwitter harvest; rts=241"

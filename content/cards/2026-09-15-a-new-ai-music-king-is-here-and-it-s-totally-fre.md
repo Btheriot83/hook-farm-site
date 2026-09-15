@@ -2,6 +2,7 @@
 id: 2026-09-15-a-new-ai-music-king-is-here-and-it-s-totally-fre
 collected_at: 2026-09-15T09:16:11-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=uBmLqOTs2jo
 creator_handle: "@AIAutomationLabs"
 title: "A New AI Music King is Here and it's Totally FREE & Unlimited!"
@@ -15,7 +16,7 @@ likes: 17166
 comments: 2900
 saves: null
 post_date: "2025-02-08"
-niche_tags: [udio, music]
+niche_tags: [udio, music, ai]
 pattern_tags: [tool_reveal]
 format: long
 notes: "batch harvest ytsearch"

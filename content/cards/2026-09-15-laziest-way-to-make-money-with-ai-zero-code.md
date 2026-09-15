@@ -2,6 +2,7 @@
 id: 2026-09-15-laziest-way-to-make-money-with-ai-zero-code
 collected_at: 2026-09-15T00:42:52-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=biAYfwX4bkY
 creator_handle: "@DanMartell"
 title: "Laziest Way to Make Money With AI (Zero Code)"
@@ -15,7 +16,7 @@ likes: 16687
 comments: 495
 saves: null
 post_date: "2026-03-19"
-niche_tags: [money, how-to]
+niche_tags: [money, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

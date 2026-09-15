@@ -2,6 +2,7 @@
 id: 2026-09-15-laziest-ways-to-make-money-with-ai-for-beginners
 collected_at: 2026-09-15T00:41:54-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=ytAW1_g2IfI
 creator_handle: "@MarkTilbury"
 title: "Laziest Ways to Make Money with AI (For Beginners)"
@@ -15,7 +16,7 @@ likes: 75288
 comments: 1800
 saves: null
 post_date: "2026-07-25"
-niche_tags: [money, how-to]
+niche_tags: [money, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

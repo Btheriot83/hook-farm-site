@@ -2,6 +2,7 @@
 id: 2026-09-15-ai-agents-explained-what-is-an-ai-agent-and-how
 collected_at: 2026-09-15T00:30:45-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=ZvDkJsKE80k
 creator_handle: "@TechWithTim"
 title: "AI Agents Explained - What Is an AI Agent and how to build one? (Real Examples, Not Hype)"
@@ -15,7 +16,7 @@ likes: 4666
 comments: 124
 saves: null
 post_date: "2026-07-16"
-niche_tags: [chatgpt, agents]
+niche_tags: [chatgpt, agents, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

@@ -2,6 +2,7 @@
 id: 2026-09-15-ai-videos-in-2025-are-getting-crazy-google-veo-3
 collected_at: 2026-09-15T09:18:23-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=c7R94ykz0po
 creator_handle: "@GrowWithKaz"
 title: "AI Videos in 2025 Are Getting Crazy! Google Veo 3 TUTORIAL!"
@@ -15,7 +16,7 @@ likes: 10029
 comments: 923
 saves: null
 post_date: "2025-05-26"
-niche_tags: [veo, video, gemini]
+niche_tags: [veo, video, gemini, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

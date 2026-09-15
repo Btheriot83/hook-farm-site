@@ -2,6 +2,7 @@
 id: 2026-09-15-n8n-tutorial-zero-to-hero-course
 collected_at: 2026-09-15T00:39:10-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=UIf-SlmMays
 creator_handle: "@freeCodeCamp.org"
 title: "n8n Tutorial \u2013 Zero to Hero Course"
@@ -15,7 +16,7 @@ likes: 10117
 comments: 216
 saves: null
 post_date: "2025-12-11"
-niche_tags: [automation, agents, tooling]
+niche_tags: [automation, agents, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

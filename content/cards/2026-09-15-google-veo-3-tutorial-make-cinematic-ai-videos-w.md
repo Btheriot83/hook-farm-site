@@ -2,6 +2,7 @@
 id: 2026-09-15-google-veo-3-tutorial-make-cinematic-ai-videos-w
 collected_at: 2026-09-15T09:18:40-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=IjF5Uun2jrM
 creator_handle: "@KevinStratvert"
 title: "Google Veo 3 Tutorial: Make Cinematic AI Videos with Just a Prompt"
@@ -15,7 +16,7 @@ likes: 8165
 comments: 380
 saves: null
 post_date: "2025-07-03"
-niche_tags: [veo, video, gemini]
+niche_tags: [veo, video, gemini, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

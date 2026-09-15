@@ -2,6 +2,7 @@
 id: 2026-09-15-chatgpt-for-empowering-parents
 collected_at: 2026-09-15T00:30:37-07:00
 platform: x
+category: ai
 url: https://x.com/gdb/status/2099602912645452021
 creator_handle: "@gdb"
 title: "chatgpt for empowering parents:"
@@ -15,7 +16,7 @@ likes: 720
 comments: 96
 saves: 98
 post_date: "2026-09-14"
-niche_tags: [chatgpt]
+niche_tags: [chatgpt, ai]
 pattern_tags: [negative]
 format: text
 notes: "X harvest via Apify; rts=40"

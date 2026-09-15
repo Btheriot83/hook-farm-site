@@ -2,6 +2,7 @@
 id: 2026-09-15-7-tips-that-turn-chatgpt-6-astra-into-agi
 collected_at: 2026-09-15T00:28:57-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=ppN_erpEuZ0
 creator_handle: "@AlexFinn"
 title: "7 tips that turn ChatGPT 6 Astra into AGI"
@@ -15,7 +16,7 @@ likes: 2490
 comments: 238
 saves: null
 post_date: "2026-09-07"
-niche_tags: [chatgpt, how-to, prompts]
+niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [number]
 format: long
 notes: "batch harvest ytsearch"

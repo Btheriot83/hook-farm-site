@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-use-suno-ai-tutorial-free-ai-music-genera
 collected_at: 2026-09-15T09:15:54-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=BVR4rb5aDGE
 creator_handle: "@MoeLueker"
 title: "How to Use Suno AI Tutorial (FREE AI Music Generator)"
@@ -15,7 +16,7 @@ likes: 5151
 comments: 656
 saves: null
 post_date: "2024-05-21"
-niche_tags: [suno, music, how-to]
+niche_tags: [suno, music, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

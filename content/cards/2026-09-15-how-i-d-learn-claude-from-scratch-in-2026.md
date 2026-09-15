@@ -2,6 +2,7 @@
 id: 2026-09-15-how-i-d-learn-claude-from-scratch-in-2026
 collected_at: 2026-09-15T00:34:05-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=9sp5PCKbvuc
 creator_handle: "@BradBonanno|AIAutomation"
 title: "How I'd Learn Claude From Scratch in 2026"
@@ -15,7 +16,7 @@ likes: 3706
 comments: 109
 saves: null
 post_date: "2026-05-07"
-niche_tags: [claude, tooling]
+niche_tags: [claude, tooling, ai]
 pattern_tags: [how_to_promise, authority]
 format: long
 notes: "batch harvest ytsearch"

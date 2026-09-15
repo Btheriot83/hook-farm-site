@@ -2,6 +2,7 @@
 id: 2026-09-15-chatgpt-just-fixed-one-of-its-biggest-problems-a
 collected_at: 2026-09-15T00:39:03-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@htdtips/video/7684986938490703135
 creator_handle: "@htdtips"
 title: "ChatGPT Just Fixed One of Its Biggest Problems — And Most People Haven’t Noticed Yet"
@@ -15,7 +16,7 @@ likes: 779
 comments: 18
 saves: 754
 post_date: "2026-09-13"
-niche_tags: [chatgpt]
+niche_tags: [chatgpt, ai]
 pattern_tags: [how_to_promise]
 format: short
 notes: "clockworks TikTok hashtag harvest; shares=93"

@@ -2,6 +2,7 @@
 id: 2026-09-15-my-multi-agent-team-with-openclaw
 collected_at: 2026-09-15T00:37:46-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=bzWI3Dil9Ig
 creator_handle: "@BrianCasel"
 title: "My Multi-Agent Team with OpenClaw"
@@ -15,7 +16,7 @@ likes: 17322
 comments: 856
 saves: null
 post_date: "2026-02-16"
-niche_tags: [agents, tooling]
+niche_tags: [agents, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

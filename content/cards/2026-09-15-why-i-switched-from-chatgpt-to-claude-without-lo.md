@@ -2,6 +2,7 @@
 id: 2026-09-15-why-i-switched-from-chatgpt-to-claude-without-lo
 collected_at: 2026-09-15T00:31:46-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=XRU-CjzYt_o
 creator_handle: "@DanMartell"
 title: "Why I Switched From ChatGPT to Claude (without losing anything)"
@@ -15,7 +16,7 @@ likes: 21231
 comments: 1500
 saves: null
 post_date: "2026-04-02"
-niche_tags: [chatgpt, money]
+niche_tags: [chatgpt, money, ai]
 pattern_tags: [before_after, authority]
 format: long
 notes: "batch harvest ytsearch"

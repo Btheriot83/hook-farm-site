@@ -2,6 +2,7 @@
 id: 2026-09-15-laziest-way-to-make-money-with-ai-starting-from
 collected_at: 2026-09-15T00:41:58-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=uz_3dSU8rQo
 creator_handle: "@DanMartell"
 title: "Laziest Way to Make Money with AI (Starting From Zero)"
@@ -15,7 +16,7 @@ likes: 38371
 comments: 1300
 saves: null
 post_date: "2025-06-17"
-niche_tags: [money, how-to]
+niche_tags: [money, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

@@ -2,6 +2,7 @@
 id: 2026-09-15-master-make-com-in-2-hours-complete-beginner-s-g
 collected_at: 2026-09-15T00:39:55-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=MpmpC4C5fZs
 creator_handle: "@JonoCatliff"
 title: "Master Make.com in 2 Hours: Complete Beginner\u2019s Guide for 2026"
@@ -15,7 +16,7 @@ likes: 8927
 comments: 546
 saves: null
 post_date: "2024-11-07"
-niche_tags: [automation, tooling]
+niche_tags: [automation, tooling, ai]
 pattern_tags: [number, how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

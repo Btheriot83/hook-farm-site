@@ -2,6 +2,7 @@
 id: 2026-09-15-introducing-studio-3-0-the-best-ai-audio-models
 collected_at: 2026-09-15T09:16:23-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=ZZSROGCVg9M
 creator_handle: "@ElevenLabs"
 title: "Introducing Studio 3.0 \u2014 The Best AI Audio Models in One Editor"
@@ -15,7 +16,7 @@ likes: 644
 comments: 55
 saves: null
 post_date: "2025-09-17"
-niche_tags: [elevenlabs, voice, tooling]
+niche_tags: [elevenlabs, voice, tooling, ai]
 pattern_tags: [tool_reveal]
 format: long
 notes: "batch harvest ytsearch"

@@ -2,6 +2,7 @@
 id: 2026-09-15-learn-80-of-claude-cowork-in-under-20-minutes
 collected_at: 2026-09-15T00:32:34-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=z9rdrNrkvDY
 creator_handle: "@JeffSu"
 title: "Learn 80% of Claude Cowork in Under 20 Minutes"
@@ -15,7 +16,7 @@ likes: 25262
 comments: 975
 saves: null
 post_date: "2026-04-07"
-niche_tags: [claude, how-to]
+niche_tags: [claude, how-to, ai]
 pattern_tags: [number, how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

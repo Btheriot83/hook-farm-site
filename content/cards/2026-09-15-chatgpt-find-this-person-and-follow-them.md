@@ -2,6 +2,7 @@
 id: 2026-09-15-chatgpt-find-this-person-and-follow-them
 collected_at: 2026-09-15T00:35:50-07:00
 platform: x
+category: ai
 url: https://x.com/andonlabs/status/2098103320208712049
 creator_handle: "@andonlabs"
 title: "\"ChatGPT, find this person and follow them.\""
@@ -15,7 +16,7 @@ likes: 2139
 comments: 317
 saves: 865
 post_date: "2026-09-10"
-niche_tags: [chatgpt]
+niche_tags: [chatgpt, ai]
 pattern_tags: [number]
 format: short
 notes: "HN-linked viral X post via fxtwitter; rts=239"

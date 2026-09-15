@@ -2,6 +2,7 @@
 id: 2026-09-15-anyone-else-annoyed-by-claude-code-over-explaining
 collected_at: 2026-09-15T00:34:14-07:00
 platform: x
+category: ai
 url: https://x.com/moshhamedani/status/2099592389275091161
 creator_handle: "@moshhamedani"
 title: "Anyone else annoyed by Claude Code over-explaining lately? Also, all these \"privately\" things driving me nuts, adding too much mental overhead."
@@ -15,7 +16,7 @@ likes: 129
 comments: 45
 saves: 5
 post_date: "2026-09-14"
-niche_tags: [claude]
+niche_tags: [claude, ai]
 pattern_tags: [curiosity_gap, negative]
 format: text
 notes: "X harvest batch2 Apify"

@@ -2,6 +2,7 @@
 id: 2026-09-15-comment-human-and-i-ll-send-you-the-ebook-5-s
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@insiderforce/video/7656888705927351572
 creator_handle: "@insiderforce"
 title: "Comment \"HUMAN\" and I'll send you the ebook. 🔥 5 secret ChatGPT codes nobody is talking about. /pulse - adds rhythm, energy, and emotion. Writing that actually "
@@ -15,7 +16,7 @@ likes: 57295
 comments: 4179
 saves: 49687
 post_date: "2026-06-29"
-niche_tags: [chatgpt, prompts, claude]
+niche_tags: [chatgpt, prompts, claude, ai]
 pattern_tags: [number, secret]
 format: short
 notes: "TikTok harvest; shares=26508; followers=33509"

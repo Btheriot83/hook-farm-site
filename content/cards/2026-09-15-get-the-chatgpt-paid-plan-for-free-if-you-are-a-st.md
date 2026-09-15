@@ -2,6 +2,7 @@
 id: 2026-09-15-get-the-chatgpt-paid-plan-for-free-if-you-are-a-st
 collected_at: 2026-09-15T00:39:03-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@k.buildsapps/video/7685487976964492557
 creator_handle: "@k.buildsapps"
 title: "Get the chatgpt paid plan for free if you are a student and how to use it properly to be more productive #students #chatgpt "
@@ -15,7 +16,7 @@ likes: 326
 comments: 1
 saves: 184
 post_date: "2026-09-14"
-niche_tags: [chatgpt]
+niche_tags: [chatgpt, ai]
 pattern_tags: [how_to_promise]
 format: short
 notes: "clockworks TikTok hashtag harvest; shares=47"

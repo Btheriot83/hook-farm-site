@@ -2,6 +2,7 @@
 id: 2026-09-15-5-genius-ways-to-make-money-with-chatgpt
 collected_at: 2026-09-15T00:43:28-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=lqvZxkBXAXw
 creator_handle: "@GillianPerkins"
 title: "5 GENIUS Ways to Make Money with ChatGPT"
@@ -15,7 +16,7 @@ likes: 10118
 comments: 461
 saves: null
 post_date: "2023-03-21"
-niche_tags: [money, chatgpt]
+niche_tags: [money, chatgpt, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

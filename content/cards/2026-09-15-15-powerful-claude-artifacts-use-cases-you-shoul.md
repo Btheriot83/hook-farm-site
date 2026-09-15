@@ -2,6 +2,7 @@
 id: 2026-09-15-15-powerful-claude-artifacts-use-cases-you-shoul
 collected_at: 2026-09-15T00:34:18-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=UA2W4xTqQzs
 creator_handle: "@SkillLeapAI"
 title: "15 Powerful Claude Artifacts Use Cases You Should Try"
@@ -15,7 +16,7 @@ likes: 1446
 comments: 59
 saves: null
 post_date: "2024-08-27"
-niche_tags: [claude, tooling]
+niche_tags: [claude, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

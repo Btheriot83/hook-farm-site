@@ -2,6 +2,7 @@
 id: 2026-09-15-generative-ai-vs-ai-agents-vs-agentic-ai
 collected_at: 2026-09-15T00:37:50-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=O2gerCxEXvc
 creator_handle: "@codebasics"
 title: "Generative AI vs AI agents vs Agentic AI"
@@ -15,7 +16,7 @@ likes: 12425
 comments: 231
 saves: null
 post_date: "2025-06-30"
-niche_tags: [agents, tooling]
+niche_tags: [agents, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

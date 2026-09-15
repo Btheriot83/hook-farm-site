@@ -2,6 +2,7 @@
 id: 2026-09-15-290-chat-gpt-codes-that-completely-change-how-yo
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@johnsavage.ai/video/7679441810120379678
 creator_handle: "@johnsavage.ai"
 title: "🤯 290 Chat GPT codes that completely change how you edit images. 👇 ✅ ALL CODES HERE: https://files.johnsavageai.com/ai-pdf-workflows/290-plus-secret-codes-for-c"
@@ -15,7 +16,7 @@ likes: 22991
 comments: 1235
 saves: 19179
 post_date: "2026-08-29"
-niche_tags: [chatgpt, image, prompts]
+niche_tags: [chatgpt, image, prompts, ai]
 pattern_tags: [number, secret]
 format: short
 notes: "TikTok harvest; shares=2008; followers=12718"

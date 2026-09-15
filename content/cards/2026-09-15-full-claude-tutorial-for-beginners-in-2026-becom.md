@@ -2,6 +2,7 @@
 id: 2026-09-15-full-claude-tutorial-for-beginners-in-2026-becom
 collected_at: 2026-09-15T00:32:38-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=rRrBbyv3ChM
 creator_handle: "@AIFoundations"
 title: "FULL Claude Tutorial for Beginners in 2026! (Become a PRO!)"
@@ -15,7 +16,7 @@ likes: 32107
 comments: 666
 saves: null
 post_date: "2026-03-09"
-niche_tags: [claude, how-to]
+niche_tags: [claude, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-use-chatgpt-by-openai-for-beginners
 collected_at: 2026-09-15T00:26:34-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=AXn2XVLf7d0
 creator_handle: "@TheAIAdvantage"
 title: "How To Use ChatGPT by OpenAI For Beginners"
@@ -15,7 +16,7 @@ likes: 52665
 comments: 1800
 saves: null
 post_date: "2022-12-08"
-niche_tags: [chatgpt, how-to, prompts]
+niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

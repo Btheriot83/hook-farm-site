@@ -2,6 +2,7 @@
 id: 2026-09-15-introducing-plan-mode
 collected_at: 2026-09-15T00:35:30-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=WInPBmCK3l4
 creator_handle: "@Cursor"
 title: "Introducing Plan Mode"
@@ -15,7 +16,7 @@ likes: 2266
 comments: 123
 saves: null
 post_date: "2025-10-07"
-niche_tags: [cursor, agents]
+niche_tags: [cursor, agents, ai]
 pattern_tags: [tool_reveal]
 format: long
 notes: "batch harvest ytsearch"

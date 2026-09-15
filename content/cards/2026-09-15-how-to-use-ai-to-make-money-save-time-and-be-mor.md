@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-use-ai-to-make-money-save-time-and-be-mor
 collected_at: 2026-09-15T00:42:12-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=64qXq8AG_9M
 creator_handle: "@MelRobbins"
 title: "How to Use AI to Make Money, Save Time, and Be More Productive"
@@ -15,7 +16,7 @@ likes: 29515
 comments: 2000
 saves: null
 post_date: "2025-11-06"
-niche_tags: [money, how-to]
+niche_tags: [money, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

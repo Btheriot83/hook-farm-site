@@ -2,6 +2,7 @@
 id: 2026-09-15-the-chatgpt-settings-that-stop-it-saying-yes-all
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@willfrancis24/video/7678359533315427606
 creator_handle: "@willfrancis24"
 title: "The ChatGPT settings that stop it saying \"yes\" all the time and telling you all your ideas are incredible! If ChatGPT is your favourite AI tool, you can really "
@@ -15,7 +16,7 @@ likes: 10386
 comments: 158
 saves: 12776
 post_date: "2026-08-26"
-niche_tags: [chatgpt]
+niche_tags: [chatgpt, ai]
 pattern_tags: [curiosity_gap]
 format: short
 notes: "TikTok harvest; shares=2143; followers=253533"

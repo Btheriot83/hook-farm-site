@@ -2,6 +2,7 @@
 id: 2026-09-15-the-fallen-even-fallen-angels-have-to-start-so
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@artivient/video/7684790973053930773
 creator_handle: "@artivient"
 title: "// THE FALLEN. even fallen angels have to start somewhere. unfortunately, this one started with some stoopid bird😹"
@@ -15,7 +16,7 @@ likes: 70320
 comments: 529
 saves: 13150
 post_date: "2026-09-12"
-niche_tags: [midjourney, video]
+niche_tags: [midjourney, video, ai]
 pattern_tags: [curiosity_gap]
 format: short
 notes: "TikTok harvest; shares=5321; followers=2799"

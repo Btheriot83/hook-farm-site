@@ -2,6 +2,7 @@
 id: 2026-09-15-google-notebook-lm-tutorial-become-a-power-user
 collected_at: 2026-09-15T09:21:56-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=UG0DP6nVnrc
 creator_handle: "@SantrelMedia"
 title: "Google Notebook LM Tutorial - [Become A Power User in 15 min]"
@@ -15,7 +16,7 @@ likes: 11156
 comments: 314
 saves: null
 post_date: "2024-12-19"
-niche_tags: [notebooklm, tooling, how-to]
+niche_tags: [notebooklm, tooling, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

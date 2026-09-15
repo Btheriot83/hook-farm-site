@@ -2,6 +2,7 @@
 id: 2026-09-15-watch-how-i-connected-chrome-s-ai-api-to-ollama
 collected_at: 2026-09-15T00:37:09-07:00
 platform: x
+category: ai
 url: https://x.com/AndreiDavid/status/1881428512835596394
 creator_handle: "@AndreiDavid"
 title: "🚀 Watch how I connected Chrome's AI API to @ollama, enabling ANY web app built for Chrome's local Gemini to seamlessly work with open-source LLMs! A🧵on making A"
@@ -15,7 +16,7 @@ likes: 472
 comments: 13
 saves: 576
 post_date: "2025-01-20"
-niche_tags: [gemini]
+niche_tags: [gemini, ai]
 pattern_tags: [how_to_promise]
 format: short
 notes: "HN/fxtwitter harvest; rts=59"

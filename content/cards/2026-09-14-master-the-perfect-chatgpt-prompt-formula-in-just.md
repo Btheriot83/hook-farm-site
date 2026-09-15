@@ -2,6 +2,7 @@
 id: 2026-09-14-master-the-perfect-chatgpt-prompt-formula-in-just
 collected_at: 2026-09-14T23:25:00-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=jC4v5AS4RIM
 creator_handle: "@JeffSu"
 title: "Master the Perfect ChatGPT Prompt Formula (in just 8 minutes)!"
@@ -15,7 +16,7 @@ likes: 89786
 comments: 1800
 saves: null
 post_date: "2023-08-01"
-niche_tags: [chatgpt, prompts, how-to]
+niche_tags: [chatgpt, prompts, how-to, ai]
 pattern_tags: [authority, how_to_promise, number]
 format: long
 notes: "Classic prompt formula packaging; 3.76M"

@@ -2,6 +2,7 @@
 id: 2026-09-15-head-of-chatgpt-codex-agents-for-normal-people-a
 collected_at: 2026-09-15T00:30:58-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=DPe_srf0GlI
 creator_handle: "@SiliconValleyGirl"
 title: "Head of ChatGPT & Codex: agents for normal people are HERE"
@@ -15,7 +16,7 @@ likes: 3582
 comments: 148
 saves: null
 post_date: "2026-05-22"
-niche_tags: [chatgpt, agents]
+niche_tags: [chatgpt, agents, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

@@ -2,6 +2,7 @@
 id: 2026-09-15-kratos-you-are-in-the-wrong-world-bro-or-maybe-n
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@theoldcozy/video/7685380053596687638
 creator_handle: "@theoldcozy"
 title: "Kratos, you are in the wrong world bro. Or maybe not? What if I call you \"Ghost of fantasy\"..."
@@ -15,7 +16,7 @@ likes: 4606
 comments: 42
 saves: 609
 post_date: "2026-09-14"
-niche_tags: [midjourney]
+niche_tags: [midjourney, ai]
 pattern_tags: [curiosity_gap, negative]
 format: short
 notes: "TikTok harvest; shares=308; followers=29734"

@@ -2,6 +2,7 @@
 id: 2026-09-15-googl-opens-anthropic-s-claude-to-engineers-compa
 collected_at: 2026-09-15T00:34:14-07:00
 platform: x
+category: ai
 url: https://x.com/wallstengine/status/2099630451912802331
 creator_handle: "@wallstengine"
 title: "$GOOGL OPENS ANTHROPIC’S CLAUDE TO ENGINEERS COMPANY-WIDE"
@@ -15,7 +16,7 @@ likes: 392
 comments: 16
 saves: 74
 post_date: "2026-09-14"
-niche_tags: [claude]
+niche_tags: [claude, ai]
 pattern_tags: [authority]
 format: short
 notes: "X harvest batch2 Apify"

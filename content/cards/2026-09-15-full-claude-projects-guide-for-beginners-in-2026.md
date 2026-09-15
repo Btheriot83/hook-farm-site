@@ -2,6 +2,7 @@
 id: 2026-09-15-full-claude-projects-guide-for-beginners-in-2026
 collected_at: 2026-09-15T00:34:22-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=fOnKo_Hole8
 creator_handle: "@AIFoundations"
 title: "FULL Claude Projects Guide For Beginners in 2026! (Become a PRO)"
@@ -15,7 +16,7 @@ likes: 2042
 comments: 72
 saves: null
 post_date: "2026-04-09"
-niche_tags: [claude, tooling]
+niche_tags: [claude, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-create-custom-gpt-openai-tutorial
 collected_at: 2026-09-15T00:31:04-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=0Q1AQAxpdGg
 creator_handle: "@KevinStratvert"
 title: "How to Create Custom GPT | OpenAI Tutorial"
@@ -15,7 +16,7 @@ likes: 9227
 comments: 342
 saves: null
 post_date: "2024-04-29"
-niche_tags: [chatgpt, tooling]
+niche_tags: [chatgpt, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

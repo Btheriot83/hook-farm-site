@@ -2,6 +2,7 @@
 id: 2026-09-14-crazy-1000-youtube-shorts-in-17-minutes-using-ai-c
 collected_at: 2026-09-14T23:25:00-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=Ahjw6JTzYWo
 creator_handle: "@JamilVelji"
 title: "CRAZY! 1,000 YouTube Shorts in 17 MINUTES Using AI (Canva + ChatGPT)"
@@ -15,7 +16,7 @@ likes: 150779
 comments: 3500
 saves: null
 post_date: "2023-08-14"
-niche_tags: [chatgpt, tooling, money, how-to]
+niche_tags: [chatgpt, tooling, money, how-to, ai]
 pattern_tags: [number, curiosity_gap, tool_reveal, how_to_promise]
 format: long
 notes: "Scale shock: 1000 Shorts in 17 min"

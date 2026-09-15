@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-do-the-look-alike-trend-how-to-do-the-look
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@kudong49/video/7683137092377005334
 creator_handle: "@kudong49"
 title: "how to do the look alike trend. how to do the look alike trend chatgpt. soulmate theory look alike chat gpt. the theory that soulmates lookalike. how to do the "
@@ -15,7 +16,7 @@ likes: 65820
 comments: 497
 saves: 36498
 post_date: "2026-09-08"
-niche_tags: [chatgpt]
+niche_tags: [chatgpt, ai]
 pattern_tags: [how_to_promise, before_after]
 format: short
 notes: "TikTok harvest; shares=22566; followers=34818"

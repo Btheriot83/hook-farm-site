@@ -2,6 +2,7 @@
 id: 2026-09-15-ai-agents-explained-a-comprehensive-guide-for-be
 collected_at: 2026-09-15T00:37:17-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=hLJTcVHW8_I
 creator_handle: "@AIAlfie"
 title: "AI Agents Explained: A Comprehensive Guide for Beginners"
@@ -15,7 +16,7 @@ likes: 9222
 comments: 348
 saves: null
 post_date: "2024-04-29"
-niche_tags: [agents, how-to]
+niche_tags: [agents, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

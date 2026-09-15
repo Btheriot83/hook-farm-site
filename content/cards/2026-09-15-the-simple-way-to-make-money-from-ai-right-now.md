@@ -2,6 +2,7 @@
 id: 2026-09-15-the-simple-way-to-make-money-from-ai-right-now
 collected_at: 2026-09-15T00:42:42-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=92XVHHN9KKE
 creator_handle: "@TheDiaryOfACEOClips"
 title: "The SIMPLE Way To Make Money From AI Right Now"
@@ -15,7 +16,7 @@ likes: 14622
 comments: 495
 saves: null
 post_date: "2026-03-24"
-niche_tags: [money, how-to]
+niche_tags: [money, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-turn-a-business-question-into-a-strategy
 collected_at: 2026-09-15T00:31:41-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=XjSJ6ybS9I8
 creator_handle: "@OpenAI"
 title: "How to Turn a Business Question Into a Strategy Deck With ChatGPT Work | Tutorial"
@@ -15,7 +16,7 @@ likes: 292
 comments: 32
 saves: null
 post_date: "2026-08-18"
-niche_tags: [chatgpt, money]
+niche_tags: [chatgpt, money, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

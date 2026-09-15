@@ -2,6 +2,7 @@
 id: 2026-09-14-1000-hours-of-learning-claude-in-15-minutes-beginn
 collected_at: 2026-09-14T23:25:00-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=sL5hPovH1vU
 creator_handle: "@DanMartell"
 title: "1000+ hours of Learning Claude in 15 Minutes (Beginner to Pro)"
@@ -15,7 +16,7 @@ likes: 27101
 comments: 473
 saves: null
 post_date: "2026-06-15"
-niche_tags: [claude, how-to]
+niche_tags: [claude, how-to, ai]
 pattern_tags: [number, authority, how_to_promise, before_after]
 format: long
 notes: "1000+ hours compressed to 15 min"

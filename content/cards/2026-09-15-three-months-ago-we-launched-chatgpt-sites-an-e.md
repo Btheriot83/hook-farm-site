@@ -2,6 +2,7 @@
 id: 2026-09-15-three-months-ago-we-launched-chatgpt-sites-an-e
 collected_at: 2026-09-15T00:35:50-07:00
 platform: x
+category: ai
 url: https://x.com/ChatGPT/status/2098457920291946894
 creator_handle: "@ChatGPT"
 title: "Three months ago, we launched ChatGPT Sites – an easy way for anyone to build and host fully functional, interactive web apps. Since then, people have created o"
@@ -15,7 +16,7 @@ likes: 8193
 comments: 341
 saves: 4312
 post_date: "2026-09-11"
-niche_tags: [chatgpt, prompts]
+niche_tags: [chatgpt, prompts, ai]
 pattern_tags: [number]
 format: text
 notes: "HN-linked viral X post via fxtwitter; rts=516"

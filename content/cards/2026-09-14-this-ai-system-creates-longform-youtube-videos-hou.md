@@ -2,6 +2,7 @@
 id: 2026-09-14-this-ai-system-creates-longform-youtube-videos-hou
 collected_at: 2026-09-14T23:25:00-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=ivty6t0lUkQ
 creator_handle: "@RoboNuggets"
 title: "This AI System Creates Longform YouTube Videos Hourly (n8n NO CODE automation tutorial 🥚)"
@@ -15,7 +16,7 @@ likes: 29428
 comments: 625
 saves: null
 post_date: "2025-04-21"
-niche_tags: [automation, agents, tooling, money]
+niche_tags: [automation, agents, tooling, money, ai]
 pattern_tags: [curiosity_gap, tool_reveal, how_to_promise, demo_first]
 format: long
 notes: "AI system creates longform hourly"

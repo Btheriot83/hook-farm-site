@@ -2,6 +2,7 @@
 id: 2026-09-15-cursor-tutorial-for-beginners-ai-code-editor
 collected_at: 2026-09-15T00:34:32-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=ocMOZpuAMw4
 creator_handle: "@TechWithTim"
 title: "Cursor Tutorial for Beginners (AI Code Editor)"
@@ -15,7 +16,7 @@ likes: 15393
 comments: 413
 saves: null
 post_date: "2024-10-17"
-niche_tags: [cursor, tooling]
+niche_tags: [cursor, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

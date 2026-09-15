@@ -2,6 +2,7 @@
 id: 2026-09-15-how-ai-is-changing-the-job-market-what-in-the-wo
 collected_at: 2026-09-15T00:41:20-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=p_kF_SDB0-c
 creator_handle: "@BBCWorldService"
 title: "How AI is changing the job market - What in the World podcast, BBC World Service"
@@ -15,7 +16,7 @@ likes: 9031
 comments: 840
 saves: null
 post_date: "2025-09-16"
-niche_tags: [money, replaced_job]
+niche_tags: [money, replaced_job, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

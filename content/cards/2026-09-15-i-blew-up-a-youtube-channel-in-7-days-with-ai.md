@@ -2,6 +2,7 @@
 id: 2026-09-15-i-blew-up-a-youtube-channel-in-7-days-with-ai
 collected_at: 2026-09-15T00:44:03-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=1r0eyM7suUg
 creator_handle: "@JackCraig"
 title: "I BLEW UP a YouTube Channel in 7 Days with AI"
@@ -15,7 +16,7 @@ likes: 77732
 comments: 3300
 saves: null
 post_date: "2025-11-21"
-niche_tags: [money, how-to]
+niche_tags: [money, how-to, ai]
 pattern_tags: [curiosity_gap, authority]
 format: long
 notes: "batch harvest ytsearch"

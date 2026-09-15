@@ -2,6 +2,7 @@
 id: 2026-09-15-the-secret-way-i-m-using-chatgpt-sites-to-10x-my
 collected_at: 2026-09-15T00:29:00-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=1uAetuID7u0
 creator_handle: "@PaulJLipsky"
 title: "The Secret Way I'm Using ChatGPT Sites to 10x My Productivity"
@@ -15,7 +16,7 @@ likes: 4175
 comments: 341
 saves: null
 post_date: "2026-07-21"
-niche_tags: [chatgpt, how-to, prompts]
+niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [negative, secret, authority]
 format: long
 notes: "batch harvest ytsearch"

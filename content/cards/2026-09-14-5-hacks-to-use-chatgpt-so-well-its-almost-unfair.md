@@ -2,6 +2,7 @@
 id: 2026-09-14-5-hacks-to-use-chatgpt-so-well-its-almost-unfair
 collected_at: 2026-09-14T23:25:00-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=loujaeBy8p0
 creator_handle: "@SandeepSwadia"
 title: "5 Hacks To Use ChatGPT So Well It’s Almost Unfair"
@@ -15,7 +16,7 @@ likes: 71338
 comments: 1300
 saves: null
 post_date: "2026-02-18"
-niche_tags: [chatgpt, how-to, prompts]
+niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [number, negative, how_to_promise, secret]
 format: long
 notes: "Almost unfair / hacks framing; 2.47M views"

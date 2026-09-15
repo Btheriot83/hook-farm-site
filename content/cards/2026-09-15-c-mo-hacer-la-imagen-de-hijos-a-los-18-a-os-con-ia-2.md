@@ -2,6 +2,7 @@
 id: 2026-09-15-c-mo-hacer-la-imagen-de-hijos-a-los-18-a-os-con-ia-2
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@asff2193yl2/video/7684906882460405005
 creator_handle: "@asff2193yl2"
 title: "cómo hacer la imagen de hijos a los 18 años con IA tutorial para crear imagen de hija de 18 años con IA como seria mi hijo chat gpt trend cómo usar IA para ver "
@@ -15,7 +16,7 @@ likes: 85
 comments: 3
 saves: 62
 post_date: "2026-09-13"
-niche_tags: [image]
+niche_tags: [image, ai]
 pattern_tags: [number, how_to_promise]
 format: short
 notes: "TikTok harvest; shares=1227; followers=643"

@@ -2,6 +2,7 @@
 id: 2026-09-15-follow-and-comment-pfp-for-the-prompt
 collected_at: 2026-09-15T00:30:37-07:00
 platform: instagram
+category: ai
 url: https://www.instagram.com/reel/DdGdWRXNg6D/
 creator_handle: "@gauravx.8"
 title: "Follow and Comment “PFP” for the prompt"
@@ -15,7 +16,7 @@ likes: 9182
 comments: 7396
 saves: null
 post_date: "2026-09-10"
-niche_tags: [chatgpt, gemini, prompts]
+niche_tags: [chatgpt, gemini, prompts, ai]
 pattern_tags: [demo_first]
 format: short
 notes: "IG Reels harvest; share_count=2273"

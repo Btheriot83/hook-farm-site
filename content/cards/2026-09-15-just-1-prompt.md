@@ -2,6 +2,7 @@
 id: 2026-09-15-just-1-prompt
 collected_at: 2026-09-15T00:39:37-07:00
 platform: instagram
+category: ai
 url: https://www.instagram.com/reel/DU30GCMk3tk/
 creator_handle: "@_vishal__________7_"
 title: "JUST 1 PROMPT"
@@ -15,7 +16,7 @@ likes: null
 comments: 6458
 saves: null
 post_date: "2026-02-17"
-niche_tags: [gemini, prompts]
+niche_tags: [gemini, prompts, ai]
 pattern_tags: [number, demo_first]
 format: short
 notes: "IG Reels Apify harvest gemini prompts"

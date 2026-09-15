@@ -2,6 +2,7 @@
 id: 2026-09-15-i-found-a-secret-ai-music-generator-100-free-and
 collected_at: 2026-09-15T09:16:15-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=k_TPO1v4tLQ
 creator_handle: "@AIAutomationLabs"
 title: "I Found a Secret AI MUSIC Generator - 100% FREE and Unlimited (With Commercial usage rights)"
@@ -15,7 +16,7 @@ likes: 10411
 comments: 1300
 saves: null
 post_date: "2025-07-29"
-niche_tags: [udio, music]
+niche_tags: [udio, music, ai]
 pattern_tags: [number, negative, secret, authority]
 format: long
 notes: "batch harvest ytsearch"

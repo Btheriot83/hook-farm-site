@@ -2,6 +2,7 @@
 id: 2026-09-15-cursor-3-minute-demo-the-most-popular-ai-code-ed
 collected_at: 2026-09-15T00:34:58-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=LR04bU_yV5k
 creator_handle: "@GregBaugues"
 title: "Cursor 3 minute demo - the most popular AI code editor"
@@ -15,7 +16,7 @@ likes: 1456
 comments: 59
 saves: null
 post_date: "2024-12-20"
-niche_tags: [cursor, tooling]
+niche_tags: [cursor, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

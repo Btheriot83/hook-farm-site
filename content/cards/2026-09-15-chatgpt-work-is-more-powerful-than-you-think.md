@@ -2,6 +2,7 @@
 id: 2026-09-15-chatgpt-work-is-more-powerful-than-you-think
 collected_at: 2026-09-15T00:29:43-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=18Ih4w16UP0
 creator_handle: "@Futurepedia"
 title: "ChatGPT Work Is More Powerful Than You Think"
@@ -15,7 +16,7 @@ likes: 1746
 comments: 104
 saves: null
 post_date: "2026-08-25"
-niche_tags: [chatgpt, productivity]
+niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

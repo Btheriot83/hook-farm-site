@@ -2,6 +2,7 @@
 id: 2026-09-14-i-lost-my-job-to-ai
 collected_at: 2026-09-14T23:25:00-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=GfcZXfit0Ss
 creator_handle: "@Coopymations"
 title: "I Lost My Job to AI"
@@ -15,7 +16,7 @@ likes: 79965
 comments: 5400
 saves: null
 post_date: "2025-11-11"
-niche_tags: [money, agents]
+niche_tags: [money, agents, ai]
 pattern_tags: [replaced_job, negative, curiosity_gap]
 format: long
 notes: "I Lost My Job to AI — personal stakes"

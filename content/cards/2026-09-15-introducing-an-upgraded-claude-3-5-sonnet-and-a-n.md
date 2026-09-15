@@ -2,6 +2,7 @@
 id: 2026-09-15-introducing-an-upgraded-claude-3-5-sonnet-and-a-n
 collected_at: 2026-09-15T00:37:09-07:00
 platform: x
+category: ai
 url: https://x.com/AnthropicAI/status/1848742740420341988
 creator_handle: "@AnthropicAI"
 title: "Introducing an upgraded Claude 3.5 Sonnet, and a new model, Claude 3.5 Haiku. We’re also introducing a new capability in beta: computer use."
@@ -15,7 +16,7 @@ likes: 9924
 comments: 463
 saves: 2525
 post_date: "2024-10-22"
-niche_tags: [claude, agents]
+niche_tags: [claude, agents, ai]
 pattern_tags: [number, tool_reveal]
 format: short
 notes: "HN/fxtwitter harvest; rts=1808"

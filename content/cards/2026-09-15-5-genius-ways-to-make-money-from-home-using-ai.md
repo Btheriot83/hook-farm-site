@@ -2,6 +2,7 @@
 id: 2026-09-15-5-genius-ways-to-make-money-from-home-using-ai
 collected_at: 2026-09-15T00:42:21-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=qSqq5I1WtCA
 creator_handle: "@CharlieChang"
 title: "5 Genius Ways to Make Money From Home (Using AI)"
@@ -15,7 +16,7 @@ likes: 14798
 comments: 321
 saves: null
 post_date: "2023-11-15"
-niche_tags: [money, how-to]
+niche_tags: [money, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

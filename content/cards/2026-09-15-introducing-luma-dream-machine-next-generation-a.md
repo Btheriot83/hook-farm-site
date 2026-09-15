@@ -2,6 +2,7 @@
 id: 2026-09-15-introducing-luma-dream-machine-next-generation-a
 collected_at: 2026-09-15T09:17:59-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=Zb3tffmBPRE
 creator_handle: "@Luma"
 title: "Introducing Luma Dream Machine - Next Generation AI Video"
@@ -15,7 +16,7 @@ likes: 1633
 comments: 234
 saves: null
 post_date: "2024-06-12"
-niche_tags: [luma, video]
+niche_tags: [luma, video, ai]
 pattern_tags: [tool_reveal]
 format: short
 notes: "batch harvest ytsearch"

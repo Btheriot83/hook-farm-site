@@ -2,6 +2,7 @@
 id: 2026-09-15-local-ai-agents-in-26-minutes
 collected_at: 2026-09-15T00:37:22-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=M-NTwkM3VwM
 creator_handle: "@TinaHuang"
 title: "Local AI Agents In 26 Minutes"
@@ -15,7 +16,7 @@ likes: 16781
 comments: 512
 saves: null
 post_date: "2026-04-15"
-niche_tags: [agents, how-to]
+niche_tags: [agents, how-to, ai]
 pattern_tags: [number]
 format: long
 notes: "batch harvest ytsearch"

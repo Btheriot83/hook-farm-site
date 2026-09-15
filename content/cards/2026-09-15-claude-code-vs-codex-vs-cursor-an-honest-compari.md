@@ -2,6 +2,7 @@
 id: 2026-09-15-claude-code-vs-codex-vs-cursor-an-honest-compari
 collected_at: 2026-09-15T00:33:32-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=JMYspR42HFM
 creator_handle: "@Theo-t3․gg"
 title: "Claude Code vs Codex vs Cursor (an honest comparison)"
@@ -15,7 +16,7 @@ likes: 4259
 comments: 516
 saves: null
 post_date: "2026-05-26"
-niche_tags: [claude, cursor, tooling]
+niche_tags: [claude, cursor, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

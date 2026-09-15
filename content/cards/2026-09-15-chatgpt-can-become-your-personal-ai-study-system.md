@@ -2,6 +2,7 @@
 id: 2026-09-15-chatgpt-can-become-your-personal-ai-study-system
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@sebintel/video/7671228060536032534
 creator_handle: "@sebintel"
 title: "ChatGPT can become your personal AI study system. These 4 simple commands turn any topic into cheat sheets, learning blueprints, flashcards, and mind maps in se"
@@ -15,7 +16,7 @@ likes: 3018
 comments: 419
 saves: 3429
 post_date: "2026-08-07"
-niche_tags: [chatgpt, prompts]
+niche_tags: [chatgpt, prompts, ai]
 pattern_tags: [number]
 format: short
 notes: "TikTok harvest; shares=1384; followers=66337"

@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-use-comfyui-step-by-step-tutorial
 collected_at: 2026-09-15T09:17:02-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=hl7kwMwkLJU
 creator_handle: "@KevinStratvert"
 title: "How to Use ComfyUI (Step-by-Step Tutorial)"
@@ -15,7 +16,7 @@ likes: 3681
 comments: 143
 saves: null
 post_date: "2026-06-12"
-niche_tags: [comfyui, image, how-to]
+niche_tags: [comfyui, image, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

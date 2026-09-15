@@ -2,6 +2,7 @@
 id: 2026-09-15-learn-zapier-in-7-minutes-business-personal-auto
 collected_at: 2026-09-15T00:40:23-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=lD8Llq2heis
 creator_handle: "@ItsKeaton"
 title: "Learn Zapier in 7 minutes: Business & Personal Automation Tutorial For Beginners (2025)"
@@ -15,7 +16,7 @@ likes: 2465
 comments: 75
 saves: null
 post_date: "2025-02-26"
-niche_tags: [automation, tooling]
+niche_tags: [automation, tooling, ai]
 pattern_tags: [number, how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

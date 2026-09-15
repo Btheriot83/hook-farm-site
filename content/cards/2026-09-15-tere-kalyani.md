@@ -2,6 +2,7 @@
 id: 2026-09-15-tere-kalyani
 collected_at: 2026-09-15T00:30:37-07:00
 platform: instagram
+category: ai
 url: https://www.instagram.com/reel/DcU4zwmyD_2/
 creator_handle: "@debjani_das7"
 title: "Tere Kalyani ✨💓"
@@ -15,7 +16,7 @@ likes: null
 comments: 354
 saves: null
 post_date: "2026-08-22"
-niche_tags: [chatgpt, prompts]
+niche_tags: [chatgpt, prompts, ai]
 pattern_tags: [demo_first]
 format: short
 notes: "IG Reels harvest; share_count=None"

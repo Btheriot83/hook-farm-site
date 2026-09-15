@@ -2,6 +2,7 @@
 id: 2026-09-15-6-ways-to-make-money-with-the-new-gpt-agent-it-b
 collected_at: 2026-09-15T00:30:32-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=I24XPX0HS5c
 creator_handle: "@ChrisKoerneronTheKoernerOfficePodcast"
 title: "6 Ways to Make Money With the New GPT Agent (It Blew My Mind)"
@@ -15,7 +16,7 @@ likes: 18526
 comments: 756
 saves: null
 post_date: "2025-07-20"
-niche_tags: [chatgpt, agents]
+niche_tags: [chatgpt, agents, ai]
 pattern_tags: [number, tool_reveal]
 format: long
 notes: "batch harvest ytsearch"

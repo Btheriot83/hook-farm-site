@@ -2,6 +2,7 @@
 id: 2026-09-15-a2a-vs-mcp-ai-agent-communication-explained
 collected_at: 2026-09-15T00:38:27-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=BMDFPOyezH4
 creator_handle: "@IBMTechnology"
 title: "A2A vs MCP: AI Agent Communication Explained"
@@ -15,7 +16,7 @@ likes: 3782
 comments: 121
 saves: null
 post_date: "2026-03-02"
-niche_tags: [agents, tooling]
+niche_tags: [agents, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

@@ -2,6 +2,7 @@
 id: 2026-09-15-claude-code-2-1-271-has-been-released
 collected_at: 2026-09-15T00:34:14-07:00
 platform: x
+category: ai
 url: https://x.com/ClaudeCodeLog/status/2099627237012090958
 creator_handle: "@ClaudeCodeLog"
 title: "Claude Code 2.1.271 has been released."
@@ -15,7 +16,7 @@ likes: 177
 comments: 11
 saves: 14
 post_date: "2026-09-14"
-niche_tags: [claude]
+niche_tags: [claude, ai]
 pattern_tags: [number, authority, list]
 format: short
 notes: "X harvest batch2 Apify"

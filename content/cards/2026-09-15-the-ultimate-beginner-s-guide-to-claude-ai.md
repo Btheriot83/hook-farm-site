@@ -2,6 +2,7 @@
 id: 2026-09-15-the-ultimate-beginner-s-guide-to-claude-ai
 collected_at: 2026-09-15T00:33:03-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=9oJySubZRSA
 creator_handle: "@MeticsMedia"
 title: "The Ultimate Beginner\u2019s Guide to Claude AI"
@@ -15,7 +16,7 @@ likes: 15690
 comments: 314
 saves: null
 post_date: "2026-08-10"
-niche_tags: [claude, how-to]
+niche_tags: [claude, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

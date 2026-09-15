@@ -2,6 +2,7 @@
 id: 2026-09-15-30-chatgpt-5-2-hacks-you-need-to-know-in-2026-be
 collected_at: 2026-09-15T00:30:08-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=NJ8RmgY-jP0
 creator_handle: "@AIMaster"
 title: "30 ChatGPT 5.2 Hacks You Need to Know in 2026 (Become a PRO!)"
@@ -15,7 +16,7 @@ likes: 445
 comments: 33
 saves: null
 post_date: "2026-01-21"
-niche_tags: [chatgpt, productivity]
+niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [number]
 format: long
 notes: "batch harvest ytsearch"

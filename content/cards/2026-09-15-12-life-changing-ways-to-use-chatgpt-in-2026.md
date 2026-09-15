@@ -2,6 +2,7 @@
 id: 2026-09-15-12-life-changing-ways-to-use-chatgpt-in-2026
 collected_at: 2026-09-15T00:27:57-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=WfSiryTVDiY
 creator_handle: "@CharlieChang"
 title: "12 Life-Changing Ways To Use ChatGPT in 2026"
@@ -15,7 +16,7 @@ likes: 2961
 comments: 92
 saves: null
 post_date: "2026-08-19"
-niche_tags: [chatgpt, productivity]
+niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

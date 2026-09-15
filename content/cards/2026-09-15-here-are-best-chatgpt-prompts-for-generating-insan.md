@@ -2,6 +2,7 @@
 id: 2026-09-15-here-are-best-chatgpt-prompts-for-generating-insan
 collected_at: 2026-09-15T00:30:37-07:00
 platform: instagram
+category: ai
 url: https://www.instagram.com/reel/DcTH50ZyASS/
 creator_handle: "@techonfreak"
 title: "Here are best chatgpt prompts for generating insane ai images..."
@@ -15,7 +16,7 @@ likes: 1902
 comments: 9
 saves: null
 post_date: "2026-08-21"
-niche_tags: [chatgpt, prompts, image]
+niche_tags: [chatgpt, prompts, image, ai]
 pattern_tags: [demo_first]
 format: short
 notes: "IG Reels harvest; share_count=1737"

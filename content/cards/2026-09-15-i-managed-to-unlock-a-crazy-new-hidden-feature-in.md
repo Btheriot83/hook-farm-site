@@ -2,6 +2,7 @@
 id: 2026-09-15-i-managed-to-unlock-a-crazy-new-hidden-feature-in
 collected_at: 2026-09-15T00:35:50-07:00
 platform: x
+category: ai
 url: https://x.com/NicerInPerson/status/2014989679796347375
 creator_handle: "@NicerInPerson"
 title: "I managed to unlock a crazy new hidden feature in Claude Code called Swarms. You're not talking to an AI coder anymore. You're talking to a team lead. The lead "
@@ -15,7 +16,7 @@ likes: 2910
 comments: 143
 saves: 4596
 post_date: "2026-01-24"
-niche_tags: [claude]
+niche_tags: [claude, ai]
 pattern_tags: [secret, tool_reveal]
 format: short
 notes: "HN-linked viral X post via fxtwitter; rts=245"

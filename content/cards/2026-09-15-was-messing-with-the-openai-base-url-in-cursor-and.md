@@ -2,6 +2,7 @@
 id: 2026-09-15-was-messing-with-the-openai-base-url-in-cursor-and
 collected_at: 2026-09-15T00:37:09-07:00
 platform: x
+category: ai
 url: https://x.com/fynnso/status/2034706304875602030
 creator_handle: "@fynnso"
 title: "was messing with the OpenAI base URL in Cursor and caught this"
@@ -15,7 +16,7 @@ likes: 6905
 comments: 278
 saves: 1607
 post_date: "2026-03-19"
-niche_tags: [agents]
+niche_tags: [agents, ai]
 pattern_tags: [number]
 format: short
 notes: "HN/fxtwitter harvest; rts=465"

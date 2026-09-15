@@ -2,6 +2,7 @@
 id: 2026-09-15-gpt-6-pro-limits-are-totally-separate-from-your-co
 collected_at: 2026-09-15T00:30:37-07:00
 platform: x
+category: ai
 url: https://x.com/DavidOndrej1/status/2099594885783277815
 creator_handle: "@DavidOndrej1"
 title: "GPT-6 Pro limits are totally separate from your Codex limits"
@@ -15,7 +16,7 @@ likes: 1505
 comments: 83
 saves: 371
 post_date: "2026-09-14"
-niche_tags: [chatgpt]
+niche_tags: [chatgpt, ai]
 pattern_tags: [number, secret]
 format: text
 notes: "X harvest via Apify; rts=11"

@@ -2,6 +2,7 @@
 id: 2026-09-15-cursor-vs-claude-code-the-ultimate-comparison-gu
 collected_at: 2026-09-15T00:33:41-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=OSBo9qcpRfw
 creator_handle: "@Codevolution"
 title: "Cursor vs Claude Code | The Ultimate Comparison Guide"
@@ -15,7 +16,7 @@ likes: 2043
 comments: 73
 saves: null
 post_date: "2025-09-04"
-niche_tags: [claude, cursor, tooling]
+niche_tags: [claude, cursor, tooling, ai]
 pattern_tags: [how_to_promise, curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

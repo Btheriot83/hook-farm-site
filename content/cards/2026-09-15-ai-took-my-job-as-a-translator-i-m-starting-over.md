@@ -2,6 +2,7 @@
 id: 2026-09-15-ai-took-my-job-as-a-translator-i-m-starting-over
 collected_at: 2026-09-15T00:41:33-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=OovTIngZtCY
 creator_handle: "@MidlifeCrisisDiaries"
 title: "AI took my job as a translator. I'm starting over at 39"
@@ -15,7 +16,7 @@ likes: 17996
 comments: 4500
 saves: null
 post_date: "2026-02-27"
-niche_tags: [money, replaced_job]
+niche_tags: [money, replaced_job, ai]
 pattern_tags: [curiosity_gap, authority]
 format: long
 notes: "batch harvest ytsearch"

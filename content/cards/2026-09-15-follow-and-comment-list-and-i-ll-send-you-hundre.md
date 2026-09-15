@@ -2,6 +2,7 @@
 id: 2026-09-15-follow-and-comment-list-and-i-ll-send-you-hundre
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@maverickgpt/video/7668104714155740447
 creator_handle: "@maverickgpt"
 title: "Follow and comment “List” and I’ll send you hundreds more 👇 5 secret codes that make ChatGPT 10x better. Just paste these before any prompt: /human — Makes your"
@@ -15,7 +16,7 @@ likes: 12290
 comments: 441
 saves: 13040
 post_date: "2026-07-30"
-niche_tags: [chatgpt, prompts]
+niche_tags: [chatgpt, prompts, ai]
 pattern_tags: [number, secret, authority, before_after, demo_first]
 format: short
 notes: "TikTok harvest; shares=2275; followers=588570"

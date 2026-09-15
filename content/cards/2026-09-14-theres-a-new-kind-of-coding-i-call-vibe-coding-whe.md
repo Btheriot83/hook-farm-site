@@ -2,6 +2,7 @@
 id: 2026-09-14-theres-a-new-kind-of-coding-i-call-vibe-coding-whe
 collected_at: 2026-09-14T23:45:00-07:00
 platform: x
+category: ai
 url: https://x.com/karpathy/status/1886192184808149383
 creator_handle: "@karpathy"
 title: "There's a new kind of coding I call \"vibe coding\", where you fully give in to the vibes, embrace exponentials, and forge"
@@ -15,7 +16,7 @@ likes: 34157
 comments: 1472
 saves: 17845
 post_date: "2025-02-02"
-niche_tags: [cursor, tooling, how-to]
+niche_tags: [cursor, tooling, how-to, ai]
 pattern_tags: [curiosity_gap, authority, tool_reveal]
 format: text
 notes: "Karpathy coined 'vibe coding' naming Cursor Composer; landmark packaging"

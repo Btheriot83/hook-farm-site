@@ -2,6 +2,7 @@
 id: 2026-09-15-5-tips-to-make-you-a-pro-at-cursor
 collected_at: 2026-09-15T00:35:07-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=YtTWNzOtkxU
 creator_handle: "@Supabase"
 title: "5 tips to make you a PRO at Cursor"
@@ -15,7 +16,7 @@ likes: 2664
 comments: 206
 saves: null
 post_date: "2025-06-18"
-niche_tags: [cursor, tooling]
+niche_tags: [cursor, tooling, ai]
 pattern_tags: [number]
 format: long
 notes: "batch harvest ytsearch"

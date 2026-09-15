@@ -2,6 +2,7 @@
 id: 2026-09-15-cursor-ai-tutorial-for-beginners-build-app-with
 collected_at: 2026-09-15T00:35:02-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=oQDCAJnr1aU
 creator_handle: "@MikeyNoCode"
 title: "Cursor AI Tutorial for Beginners: Build App with AI (2026)"
@@ -15,7 +16,7 @@ likes: null
 comments: 88
 saves: null
 post_date: "2026-01-08"
-niche_tags: [cursor, tooling]
+niche_tags: [cursor, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

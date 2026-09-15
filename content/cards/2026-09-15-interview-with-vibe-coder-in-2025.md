@@ -2,6 +2,7 @@
 id: 2026-09-15-interview-with-vibe-coder-in-2025
 collected_at: 2026-09-15T00:36:24-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=JeNS1ZNHQs8
 creator_handle: "@KaiLentit"
 title: "Interview with Vibe Coder in 2025"
@@ -15,7 +16,7 @@ likes: 37591
 comments: 1200
 saves: null
 post_date: "2025-04-01"
-niche_tags: [cursor, coding]
+niche_tags: [cursor, coding, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

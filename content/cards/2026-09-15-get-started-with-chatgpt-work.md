@@ -2,6 +2,7 @@
 id: 2026-09-15-get-started-with-chatgpt-work
 collected_at: 2026-09-15T00:27:17-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=GphgJjaKKhw
 creator_handle: "@OpenAI"
 title: "Get started with ChatGPT Work"
@@ -15,7 +16,7 @@ likes: 4866
 comments: null
 saves: null
 post_date: "2026-07-09"
-niche_tags: [chatgpt, how-to, prompts]
+niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

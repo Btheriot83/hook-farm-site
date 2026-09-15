@@ -2,6 +2,7 @@
 id: 2026-09-15-the-best-ai-side-hustles-to-start-in-2026-no-ski
 collected_at: 2026-09-15T00:43:36-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=q1g65sjQI-4
 creator_handle: "@ImanGadzhi"
 title: "The Best AI Side Hustles To Start In 2026 (No Skills)"
@@ -15,7 +16,7 @@ likes: 9317
 comments: 1500
 saves: null
 post_date: "2026-07-30"
-niche_tags: [money, chatgpt]
+niche_tags: [money, chatgpt, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

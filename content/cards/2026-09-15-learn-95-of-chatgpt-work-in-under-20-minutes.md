@@ -2,6 +2,7 @@
 id: 2026-09-15-learn-95-of-chatgpt-work-in-under-20-minutes
 collected_at: 2026-09-15T00:27:21-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=KmcTu2EigTs
 creator_handle: "@JeffSu"
 title: "Learn 95% of ChatGPT Work in Under 20 Minutes"
@@ -15,7 +16,7 @@ likes: 3071
 comments: 257
 saves: null
 post_date: "2026-08-25"
-niche_tags: [chatgpt, how-to, prompts]
+niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [number, how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

@@ -2,6 +2,7 @@
 id: 2026-09-15-c-mo-usar-midjourney-f-cil-midjourney-ai-ia
 collected_at: 2026-09-15T00:39:03-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@xataka/video/7207438312330546438
 creator_handle: "@xataka"
 title: "Cómo usar Midjourney FÁCIL! 🔥 #midjourney #ai #ia #inteligenteartificial #tips #trucos #tecnologia "
@@ -15,7 +16,7 @@ likes: 176100
 comments: 507
 saves: 90760
 post_date: "2023-03-06"
-niche_tags: [midjourney]
+niche_tags: [midjourney, ai]
 pattern_tags: [curiosity_gap, how_to_promise]
 format: short
 notes: "clockworks TikTok hashtag harvest; shares=15000"

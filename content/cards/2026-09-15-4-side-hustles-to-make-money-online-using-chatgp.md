@@ -2,6 +2,7 @@
 id: 2026-09-15-4-side-hustles-to-make-money-online-using-chatgp
 collected_at: 2026-09-15T00:43:24-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=wx5oWMHhMGU
 creator_handle: "@JourneyWithTheHintons"
 title: "4 Side Hustles To Make Money Online using ChatGPT for FREE (Work At Home)"
@@ -15,7 +16,7 @@ likes: 39586
 comments: 1300
 saves: null
 post_date: "2023-02-12"
-niche_tags: [money, chatgpt]
+niche_tags: [money, chatgpt, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

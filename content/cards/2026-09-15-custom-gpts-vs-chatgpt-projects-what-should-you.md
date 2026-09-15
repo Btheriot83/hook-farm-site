@@ -2,6 +2,7 @@
 id: 2026-09-15-custom-gpts-vs-chatgpt-projects-what-should-you
 collected_at: 2026-09-15T00:31:26-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=5CQKQub5mOQ
 creator_handle: "@RyanDoser"
 title: "Custom GPTs vs ChatGPT Projects: What Should You Use?"
@@ -15,7 +16,7 @@ likes: 730
 comments: 86
 saves: null
 post_date: "2025-03-25"
-niche_tags: [chatgpt, tooling]
+niche_tags: [chatgpt, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

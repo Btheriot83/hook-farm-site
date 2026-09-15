@@ -2,6 +2,7 @@
 id: 2026-09-15-a-computer-for-every-agent
 collected_at: 2026-09-15T00:35:34-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=6Nru5OQq9O4
 creator_handle: "@Cursor"
 title: "A computer for every agent"
@@ -15,7 +16,7 @@ likes: 769
 comments: 52
 saves: null
 post_date: "2026-02-24"
-niche_tags: [cursor, agents]
+niche_tags: [cursor, agents, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

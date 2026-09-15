@@ -2,6 +2,7 @@
 id: 2026-09-15-introducing-cursor-https-cursor-so
 collected_at: 2026-09-15T00:35:50-07:00
 platform: x
+category: ai
 url: https://x.com/amanrsanger/status/1615539968772050946
 creator_handle: "@amanrsanger"
 title: "Introducing Cursor!! (https://cursor.so)"
@@ -15,7 +16,7 @@ likes: 3558
 comments: 126
 saves: 1491
 post_date: "2023-01-18"
-niche_tags: [agents]
+niche_tags: [agents, ai]
 pattern_tags: [tool_reveal]
 format: short
 notes: "HN-linked viral X post via fxtwitter; rts=344"

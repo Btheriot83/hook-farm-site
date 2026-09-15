@@ -2,6 +2,7 @@
 id: 2026-09-15-give-me-26-minutes-i-ll-give-you-10-000-hours-of
 collected_at: 2026-09-15T00:32:43-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=wtDDjBOfTZo
 creator_handle: "@ImanGadzhi"
 title: "\u2060Give Me 26 minutes, I'll Give You 10,000 hours of Claude Knowledge"
@@ -15,7 +16,7 @@ likes: 38944
 comments: 5200
 saves: null
 post_date: "2026-07-22"
-niche_tags: [claude, how-to]
+niche_tags: [claude, how-to, ai]
 pattern_tags: [number, authority]
 format: long
 notes: "batch harvest ytsearch"

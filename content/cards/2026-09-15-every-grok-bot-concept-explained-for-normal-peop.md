@@ -2,6 +2,7 @@
 id: 2026-09-15-every-grok-bot-concept-explained-for-normal-peop
 collected_at: 2026-09-15T09:22:40-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=NyfYxpXiw_0
 creator_handle: "@NateHerk|AIAutomation"
 title: "Every Grok Bot Concept Explained for Normal People"
@@ -15,7 +16,7 @@ likes: 3104
 comments: 156
 saves: null
 post_date: "2026-09-01"
-niche_tags: [grok, how-to]
+niche_tags: [grok, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

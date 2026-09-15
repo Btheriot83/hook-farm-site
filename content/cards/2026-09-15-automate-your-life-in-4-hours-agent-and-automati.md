@@ -2,6 +2,7 @@
 id: 2026-09-15-automate-your-life-in-4-hours-agent-and-automati
 collected_at: 2026-09-15T00:40:33-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=-leIp449qXA
 creator_handle: "@freeCodeCamp.org"
 title: "Automate Your Life in 4 hours \u2013 Agent and Automation Zapier Course"
@@ -15,7 +16,7 @@ likes: 2424
 comments: 67
 saves: null
 post_date: "2026-04-21"
-niche_tags: [automation, tooling]
+niche_tags: [automation, tooling, ai]
 pattern_tags: [number]
 format: long
 notes: "batch harvest ytsearch"

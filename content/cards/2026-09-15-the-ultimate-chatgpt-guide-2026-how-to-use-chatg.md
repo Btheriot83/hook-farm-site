@@ -2,6 +2,7 @@
 id: 2026-09-15-the-ultimate-chatgpt-guide-2026-how-to-use-chatg
 collected_at: 2026-09-15T00:30:00-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=McOK2URVyNg
 creator_handle: "@AIMaster"
 title: "The ULTIMATE ChatGPT Guide 2026: How to Use ChatGPT 5.5 For Beginners"
@@ -15,7 +16,7 @@ likes: 505
 comments: 19
 saves: null
 post_date: "2026-05-20"
-niche_tags: [chatgpt, productivity]
+niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

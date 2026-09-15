@@ -2,6 +2,7 @@
 id: 2026-09-15-ai-agents-explained-build-your-first-agent-in-8
 collected_at: 2026-09-15T00:37:26-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=Zqno_vux6d8
 creator_handle: "@GoogleCloudTech"
 title: "AI agents explained: Build your first agent in 8 minutes"
@@ -15,7 +16,7 @@ likes: 13268
 comments: 182
 saves: null
 post_date: "2026-06-10"
-niche_tags: [agents, how-to]
+niche_tags: [agents, how-to, ai]
 pattern_tags: [number]
 format: long
 notes: "batch harvest ytsearch"

@@ -2,6 +2,7 @@
 id: 2026-09-15-introducing-elevenlabs-conversational-ai-2-0
 collected_at: 2026-09-15T09:16:39-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=TlclS4wLWgY
 creator_handle: "@ElevenLabs"
 title: "Introducing ElevenLabs Conversational AI 2.0"
@@ -15,7 +16,7 @@ likes: 6994
 comments: 207
 saves: null
 post_date: "2025-05-30"
-niche_tags: [elevenlabs, voice, tooling]
+niche_tags: [elevenlabs, voice, tooling, ai]
 pattern_tags: [tool_reveal]
 format: long
 notes: "batch harvest ytsearch"

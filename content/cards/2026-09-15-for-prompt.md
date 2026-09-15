@@ -2,6 +2,7 @@
 id: 2026-09-15-for-prompt
 collected_at: 2026-09-15T00:39:37-07:00
 platform: instagram
+category: ai
 url: https://www.instagram.com/reel/DSjfzasEq7P/
 creator_handle: "@charulkasana"
 title: "For prompt ⬇️ "
@@ -15,7 +16,7 @@ likes: 8057
 comments: 15185
 saves: null
 post_date: "2025-12-22"
-niche_tags: [gemini, prompts]
+niche_tags: [gemini, prompts, ai]
 pattern_tags: [demo_first]
 format: short
 notes: "IG Reels Apify harvest gemini prompts"

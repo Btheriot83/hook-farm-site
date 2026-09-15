@@ -2,6 +2,7 @@
 id: 2026-09-15-some-of-my-early-experiments-with-runwayml-gen-1
 collected_at: 2026-09-15T00:37:09-07:00
 platform: x
+category: ai
 url: https://x.com/karenxcheng/status/1627721862565482496
 creator_handle: "@karenxcheng"
 title: "Some of my early experiments with @runwayml GEN-1"
@@ -15,7 +16,7 @@ likes: 7105
 comments: 116
 saves: 1474
 post_date: "2023-02-20"
-niche_tags: [video]
+niche_tags: [video, ai]
 pattern_tags: [number, tool_reveal]
 format: short
 notes: "HN/fxtwitter harvest; rts=1219"

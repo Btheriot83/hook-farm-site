@@ -2,6 +2,7 @@
 id: 2026-09-15-from-zero-to-your-first-ai-agent-in-25-minutes-n
 collected_at: 2026-09-15T00:36:55-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=EH5jx5qPabU
 creator_handle: "@Futurepedia"
 title: "From Zero to Your First AI Agent in 25 Minutes (No Coding)"
@@ -15,7 +16,7 @@ likes: 103161
 comments: 2200
 saves: null
 post_date: "2025-05-21"
-niche_tags: [agents, how-to]
+niche_tags: [agents, how-to, ai]
 pattern_tags: [number, before_after]
 format: long
 notes: "batch harvest ytsearch"

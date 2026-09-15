@@ -2,6 +2,7 @@
 id: 2026-09-15-chatgpt-for-teachers-7-time-saving-hacks-you-nee
 collected_at: 2026-09-15T00:30:04-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=cLUMay1wDgM
 creator_handle: "@TeachYourClassOff"
 title: "ChatGPT for Teachers: 7 Time-Saving Hacks You Need to Know"
@@ -15,7 +16,7 @@ likes: 713
 comments: 85
 saves: null
 post_date: "2025-02-15"
-niche_tags: [chatgpt, productivity]
+niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

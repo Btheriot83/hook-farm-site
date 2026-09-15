@@ -2,6 +2,7 @@
 id: 2026-09-15-cursor-just-unleashed-grokbot-everything-you-nee
 collected_at: 2026-09-15T00:35:50-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=8Yf9IoXkROM
 creator_handle: "@RileyBrown"
 title: "Cursor Just Unleashed GrokBot (Everything You NEED to Know)"
@@ -15,7 +16,7 @@ likes: 2136
 comments: 244
 saves: null
 post_date: "2026-08-11"
-niche_tags: [cursor, agents]
+niche_tags: [cursor, agents, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

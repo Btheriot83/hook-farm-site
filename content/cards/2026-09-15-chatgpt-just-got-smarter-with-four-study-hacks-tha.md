@@ -2,6 +2,7 @@
 id: 2026-09-15-chatgpt-just-got-smarter-with-four-study-hacks-tha
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@daniel.cross.marketing/video/7672445104522661142
 creator_handle: "@daniel.cross.marketing"
 title: "ChatGPT just got smarter with four study hacks that turn any topic into summaries, blueprints, flashcards, and mind maps. Perfect for mastering info fast."
@@ -15,7 +16,7 @@ likes: 3891
 comments: 33
 saves: 4472
 post_date: "2026-08-10"
-niche_tags: [chatgpt]
+niche_tags: [chatgpt, ai]
 pattern_tags: [authority]
 format: short
 notes: "TikTok harvest; shares=2550; followers=3227"

@@ -2,6 +2,7 @@
 id: 2026-09-15-openai-s-nightmare-deepseek-r1-on-a-raspberry-pi
 collected_at: 2026-09-15T09:22:08-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=o1sN1lB76EA
 creator_handle: "@JeffGeerling"
 title: "OpenAI's nightmare: Deepseek R1 on a Raspberry Pi"
@@ -15,7 +16,7 @@ likes: 61308
 comments: 3300
 saves: null
 post_date: "2025-01-28"
-niche_tags: [deepseek, how-to]
+niche_tags: [deepseek, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

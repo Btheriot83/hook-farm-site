@@ -2,6 +2,7 @@
 id: 2026-09-15-getting-started-with-claude-ai
 collected_at: 2026-09-15T00:32:21-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=0vZ_UVLhSQQ
 creator_handle: "@Anthropic"
 title: "Getting started with Claude.ai"
@@ -15,7 +16,7 @@ likes: 8254
 comments: 151
 saves: null
 post_date: "2025-12-02"
-niche_tags: [claude, how-to]
+niche_tags: [claude, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

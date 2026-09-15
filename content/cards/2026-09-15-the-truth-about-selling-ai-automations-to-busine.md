@@ -2,6 +2,7 @@
 id: 2026-09-15-the-truth-about-selling-ai-automations-to-busine
 collected_at: 2026-09-15T00:39:48-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=XUYvDbAv1IA
 creator_handle: "@ZubairTrabzada|AIWorkshop"
 title: "The TRUTH About Selling AI Automations to Businesses"
@@ -15,7 +16,7 @@ likes: 10984
 comments: 1200
 saves: null
 post_date: "2025-06-18"
-niche_tags: [automation, tooling]
+niche_tags: [automation, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

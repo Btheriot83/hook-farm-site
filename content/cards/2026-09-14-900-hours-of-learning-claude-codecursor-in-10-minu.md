@@ -2,6 +2,7 @@
 id: 2026-09-14-900-hours-of-learning-claude-codecursor-in-10-minu
 collected_at: 2026-09-14T23:25:00-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=iltdFNpl73I
 creator_handle: "@AndrewCodesmith"
 title: "900+ hours of Learning Claude Code/Cursor in 10 minutes"
@@ -15,7 +16,7 @@ likes: 23962
 comments: 267
 saves: null
 post_date: "2026-01-26"
-niche_tags: [claude, cursor, how-to, agents]
+niche_tags: [claude, cursor, how-to, agents, ai]
 pattern_tags: [number, authority, how_to_promise, before_after]
 format: long
 notes: "900+ hours compressed to 10 min"

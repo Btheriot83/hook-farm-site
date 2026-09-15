@@ -2,6 +2,7 @@
 id: 2026-09-15-learn-80-of-perplexity-in-under-10-minutes
 collected_at: 2026-09-15T09:22:24-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=YoWdogtZRw8
 creator_handle: "@JeffSu"
 title: "Learn 80% of Perplexity in under 10 minutes!"
@@ -15,7 +16,7 @@ likes: 36820
 comments: 1200
 saves: null
 post_date: "2024-09-17"
-niche_tags: [perplexity, tooling]
+niche_tags: [perplexity, tooling, ai]
 pattern_tags: [number, how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

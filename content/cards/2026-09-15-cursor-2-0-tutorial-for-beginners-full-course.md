@@ -2,6 +2,7 @@
 id: 2026-09-15-cursor-2-0-tutorial-for-beginners-full-course
 collected_at: 2026-09-15T00:34:41-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=2aldTxnbNt0
 creator_handle: "@RileyBrown"
 title: "Cursor 2.0 Tutorial for Beginners (Full Course)"
@@ -15,7 +16,7 @@ likes: 7954
 comments: 295
 saves: null
 post_date: "2025-11-10"
-niche_tags: [cursor, tooling]
+niche_tags: [cursor, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

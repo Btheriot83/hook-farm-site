@@ -2,6 +2,7 @@
 id: 2026-09-15-getting-started-with-projects-in-claude-ai
 collected_at: 2026-09-15T00:32:30-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=GJ5jTgcbRHA
 creator_handle: "@Anthropic"
 title: "Getting started with projects in Claude.ai"
@@ -15,7 +16,7 @@ likes: 5475
 comments: 100
 saves: null
 post_date: "2025-12-02"
-niche_tags: [claude, how-to]
+niche_tags: [claude, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

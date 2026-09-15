@@ -2,6 +2,7 @@
 id: 2026-09-15-today-we-are-releasing-gen-3-alpha-image-to-video
 collected_at: 2026-09-15T00:37:09-07:00
 platform: x
+category: ai
 url: https://x.com/runwayml/status/1817963062646722880
 creator_handle: "@runwayml"
 title: "Today we are releasing Gen-3 Alpha Image to Video. This update allows you to use any image as the first frame of your video generation, either on its own or wit"
@@ -15,7 +16,7 @@ likes: 2195
 comments: 111
 saves: 875
 post_date: "2024-07-29"
-niche_tags: [prompts, image]
+niche_tags: [prompts, image, ai]
 pattern_tags: [number]
 format: short
 notes: "HN/fxtwitter harvest; rts=375"

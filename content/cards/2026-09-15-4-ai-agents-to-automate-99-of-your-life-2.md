@@ -2,6 +2,7 @@
 id: 2026-09-15-4-ai-agents-to-automate-99-of-your-life-2
 collected_at: 2026-09-15T00:39:03-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@isecreams/video/7670286157430787350
 creator_handle: "@isecreams"
 title: "4 AI Agents To Automate 99% Of Your Life."
@@ -15,7 +16,7 @@ likes: 43100
 comments: 248
 saves: 43998
 post_date: "2026-08-04"
-niche_tags: [agents, automation]
+niche_tags: [agents, automation, ai]
 pattern_tags: [number, how_to_promise]
 format: short
 notes: "clockworks TikTok hashtag harvest; shares=7341"

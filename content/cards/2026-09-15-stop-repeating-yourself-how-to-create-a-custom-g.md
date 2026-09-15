@@ -2,6 +2,7 @@
 id: 2026-09-15-stop-repeating-yourself-how-to-create-a-custom-g
 collected_at: 2026-09-15T00:31:31-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=vFd5EdJaXjA
 creator_handle: "@Simpletivity"
 title: "Stop Repeating Yourself: How to Create a Custom GPT"
@@ -15,7 +16,7 @@ likes: 737
 comments: 32
 saves: null
 post_date: "2025-12-02"
-niche_tags: [chatgpt, tooling]
+niche_tags: [chatgpt, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

@@ -2,6 +2,7 @@
 id: 2026-09-15-cursor-2-0-full-tutorial-for-beginners
 collected_at: 2026-09-15T00:34:49-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=l30Eb76Tk5s
 creator_handle: "@TechWithTim"
 title: "Cursor 2.0 - Full Tutorial for Beginners"
@@ -15,7 +16,7 @@ likes: 5045
 comments: 121
 saves: null
 post_date: "2025-12-05"
-niche_tags: [cursor, tooling]
+niche_tags: [cursor, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

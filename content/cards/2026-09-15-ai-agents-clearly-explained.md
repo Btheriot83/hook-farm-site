@@ -2,6 +2,7 @@
 id: 2026-09-15-ai-agents-clearly-explained
 collected_at: 2026-09-15T00:36:50-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=FwOTs4UxQS4
 creator_handle: "@JeffSu"
 title: "AI Agents, Clearly Explained"
@@ -15,7 +16,7 @@ likes: 113701
 comments: 2900
 saves: null
 post_date: "2025-04-08"
-niche_tags: [agents, how-to]
+niche_tags: [agents, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-use-claude-better-than-99-of-people
 collected_at: 2026-09-15T00:32:26-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=28TGfTZweqw
 creator_handle: "@SandeepSwadia"
 title: "How To Use Claude Better Than 99% Of People"
@@ -15,7 +16,7 @@ likes: 52366
 comments: 1000
 saves: null
 post_date: "2026-05-22"
-niche_tags: [claude, how-to]
+niche_tags: [claude, how-to, ai]
 pattern_tags: [number, how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

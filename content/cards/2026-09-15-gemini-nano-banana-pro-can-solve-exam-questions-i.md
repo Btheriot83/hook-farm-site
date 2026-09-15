@@ -2,6 +2,7 @@
 id: 2026-09-15-gemini-nano-banana-pro-can-solve-exam-questions-i
 collected_at: 2026-09-15T00:37:09-07:00
 platform: x
+category: ai
 url: https://x.com/karpathy/status/1992655330002817095
 creator_handle: "@karpathy"
 title: "Gemini Nano Banana Pro can solve exam questions *in* the exam page image. With doodles, diagrams, all that."
@@ -15,7 +16,7 @@ likes: 8758
 comments: 319
 saves: 3135
 post_date: "2025-11-23"
-niche_tags: [chatgpt, gemini, image]
+niche_tags: [chatgpt, gemini, image, ai]
 pattern_tags: [number]
 format: short
 notes: "HN/fxtwitter harvest; rts=917"

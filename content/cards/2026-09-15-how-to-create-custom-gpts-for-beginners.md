@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-create-custom-gpts-for-beginners
 collected_at: 2026-09-15T00:31:08-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=ABVwhZWg1Uk
 creator_handle: "@TheAIAdvantage"
 title: "How To Create Custom GPTs For Beginners"
@@ -15,7 +16,7 @@ likes: 3859
 comments: 159
 saves: null
 post_date: "2023-11-10"
-niche_tags: [chatgpt, tooling]
+niche_tags: [chatgpt, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

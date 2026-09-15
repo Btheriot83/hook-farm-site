@@ -2,6 +2,7 @@
 id: 2026-09-15-the-xai-api-is-now-live
 collected_at: 2026-09-15T00:37:09-07:00
 platform: x
+category: ai
 url: https://x.com/elonmusk/status/1848398370219364385
 creator_handle: "@elonmusk"
 title: "The @xAI API is now live!"

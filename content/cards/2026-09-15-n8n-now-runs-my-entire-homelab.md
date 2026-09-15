@@ -2,6 +2,7 @@
 id: 2026-09-15-n8n-now-runs-my-entire-homelab
 collected_at: 2026-09-15T00:39:05-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=budTmdQfXYU
 creator_handle: "@NetworkChuck"
 title: "n8n Now Runs My ENTIRE Homelab"
@@ -15,7 +16,7 @@ likes: 31521
 comments: 2300
 saves: null
 post_date: "2025-10-03"
-niche_tags: [automation, agents, tooling]
+niche_tags: [automation, agents, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

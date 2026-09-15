@@ -2,6 +2,7 @@
 id: 2026-09-15-5-claude-ai-side-hustles-you-can-run-while-worki
 collected_at: 2026-09-15T00:43:40-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=B4p9O2P2a3c
 creator_handle: "@ShaneHummus"
 title: "5 Claude AI Side Hustles You Can Run While Working Full-Time"
@@ -15,7 +16,7 @@ likes: 5056
 comments: 88
 saves: null
 post_date: "2026-08-13"
-niche_tags: [money, chatgpt]
+niche_tags: [money, chatgpt, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

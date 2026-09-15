@@ -2,6 +2,7 @@
 id: 2026-09-15-a-technical-dive-inside-our-new-midjourney-scanne
 collected_at: 2026-09-15T00:37:09-07:00
 platform: x
+category: ai
 url: https://x.com/midjourney/status/2067422898407837797
 creator_handle: "@midjourney"
 title: "A technical dive inside our new \"Midjourney Scanner\""
@@ -15,7 +16,7 @@ likes: 28066
 comments: 1189
 saves: 11254
 post_date: "2026-06-18"
-niche_tags: [midjourney]
+niche_tags: [midjourney, ai]
 pattern_tags: [tool_reveal]
 format: short
 notes: "HN/fxtwitter harvest; rts=3181"

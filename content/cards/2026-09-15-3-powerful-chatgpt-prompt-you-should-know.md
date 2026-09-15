@@ -2,6 +2,7 @@
 id: 2026-09-15-3-powerful-chatgpt-prompt-you-should-know
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@glitchin.tech/video/7678005959892946198
 creator_handle: "@glitchin.tech"
 title: "3 Powerful ChatGPT Prompt you should Know..."
@@ -15,7 +16,7 @@ likes: 12572
 comments: 49
 saves: 9555
 post_date: "2026-08-25"
-niche_tags: [chatgpt, prompts]
+niche_tags: [chatgpt, prompts, ai]
 pattern_tags: [number, demo_first]
 format: short
 notes: "TikTok harvest; shares=2155; followers=33727"

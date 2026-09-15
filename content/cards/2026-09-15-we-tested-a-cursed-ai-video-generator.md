@@ -2,6 +2,7 @@
 id: 2026-09-15-we-tested-a-cursed-ai-video-generator
 collected_at: 2026-09-15T09:17:50-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=Q5SpBD-vXF4
 creator_handle: "@TwoScuffed"
 title: "We Tested a Cursed AI Video Generator"
@@ -15,7 +16,7 @@ likes: 17320
 comments: 935
 saves: null
 post_date: "2024-08-30"
-niche_tags: [luma, video]
+niche_tags: [luma, video, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

@@ -2,6 +2,7 @@
 id: 2026-09-15-n8n-full-course-6-hours-build-sell-ai-automation
 collected_at: 2026-09-15T00:38:59-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=2GZ2SNXWK-c
 creator_handle: "@NickSaraev"
 title: "N8N FULL COURSE 6 HOURS (Build & Sell AI Automations + Agents)"
@@ -15,7 +16,7 @@ likes: 45381
 comments: 1000
 saves: null
 post_date: "2025-04-29"
-niche_tags: [automation, agents, tooling]
+niche_tags: [automation, agents, tooling, ai]
 pattern_tags: [number]
 format: long
 notes: "batch harvest ytsearch"

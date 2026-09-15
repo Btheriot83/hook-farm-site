@@ -2,6 +2,7 @@
 id: 2026-09-15-the-wait-is-over
 collected_at: 2026-09-15T00:37:09-07:00
 platform: x
+category: ai
 url: https://x.com/runwayml/status/1640337292542844928
 creator_handle: "@runwayml"
 title: "The wait is over."
@@ -15,7 +16,7 @@ likes: 1602
 comments: 37
 saves: 389
 post_date: "2023-03-27"
-niche_tags: [video]
+niche_tags: [video, ai]
 pattern_tags: [number]
 format: short
 notes: "HN/fxtwitter harvest; rts=324"

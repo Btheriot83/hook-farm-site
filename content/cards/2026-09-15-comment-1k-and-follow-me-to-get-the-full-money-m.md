@@ -2,6 +2,7 @@
 id: 2026-09-15-comment-1k-and-follow-me-to-get-the-full-money-m
 collected_at: 2026-09-15T00:39:03-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@sabrina_ramonov/video/7629773900364270861
 creator_handle: "@sabrina_ramonov"
 title: "Comment \"1K\" and follow me to get the full money-making prompts."
@@ -15,7 +16,7 @@ likes: 11300
 comments: 615
 saves: 13680
 post_date: "2026-04-17"
-niche_tags: [chatgpt, claude, prompts, money]
+niche_tags: [chatgpt, claude, prompts, money, ai]
 pattern_tags: [number, how_to_promise, curiosity_gap, authority]
 format: short
 notes: "clockworks TikTok hashtag harvest; shares=2690"

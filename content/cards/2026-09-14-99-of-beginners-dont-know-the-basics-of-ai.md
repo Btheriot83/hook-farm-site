@@ -2,6 +2,7 @@
 id: 2026-09-14-99-of-beginners-dont-know-the-basics-of-ai
 collected_at: 2026-09-14T23:25:00-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=nVyD6THcvDQ
 creator_handle: "@JeffSu"
 title: "99% of Beginners Don't Know the Basics of AI"
@@ -15,7 +16,7 @@ likes: 70875
 comments: 2500
 saves: null
 post_date: "2024-09-03"
-niche_tags: [how-to, chatgpt, tooling]
+niche_tags: [how-to, chatgpt, tooling, ai]
 pattern_tags: [number, negative, curiosity_gap, authority]
 format: long
 notes: "99% of beginners don't know"

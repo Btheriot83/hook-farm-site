@@ -2,6 +2,7 @@
 id: 2026-09-15-five-things-you-need-to-do-when-you-start-using
 collected_at: 2026-09-15T00:39:03-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@taki.gpt/video/7627875864797056273
 creator_handle: "@taki.gpt"
 title: "🚀 Five things you need to do when you start using Claude. Doing these three things will make you a top 1% Claude immediately. Comment “Claude” for my full Claud"
@@ -15,7 +16,7 @@ likes: 38300
 comments: 11100
 saves: 39650
 post_date: "2026-04-12"
-niche_tags: [chatgpt, claude]
+niche_tags: [chatgpt, claude, ai]
 pattern_tags: [number, secret, how_to_promise, authority]
 format: short
 notes: "clockworks TikTok hashtag harvest; shares=6773"

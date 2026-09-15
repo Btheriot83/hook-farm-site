@@ -2,6 +2,7 @@
 id: 2026-09-15-the-only-14-ways-to-make-money-with-ai-in-2026
 collected_at: 2026-09-15T00:42:08-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=K8Ros5RhJW4
 creator_handle: "@DanMartell"
 title: "The Only 14 Ways to Make Money with AI in 2026"
@@ -15,7 +16,7 @@ likes: 37496
 comments: 1000
 saves: null
 post_date: "2026-04-30"
-niche_tags: [money, how-to]
+niche_tags: [money, how-to, ai]
 pattern_tags: [number]
 format: long
 notes: "batch harvest ytsearch"

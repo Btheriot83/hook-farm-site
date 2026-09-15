@@ -2,6 +2,7 @@
 id: 2026-09-15-gpt-6-astra-chatgpt-work-changes-everything
 collected_at: 2026-09-15T00:32:02-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=sQwp9GrkGi4
 creator_handle: "@PaulJLipsky"
 title: "GPT-6 Astra + ChatGPT Work Changes Everything"
@@ -15,7 +16,7 @@ likes: 900
 comments: 113
 saves: null
 post_date: "2026-09-14"
-niche_tags: [chatgpt, money]
+niche_tags: [chatgpt, money, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

@@ -2,6 +2,7 @@
 id: 2026-09-15-comfyui-course-learn-comfyui-from-scratch-full-5
 collected_at: 2026-09-15T09:16:46-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=HkoRkNLWQzY
 creator_handle: "@pixaroma"
 title: "ComfyUI Course - Learn ComfyUI From Scratch | Full 5 Hour Course (Ep01)"
@@ -15,7 +16,7 @@ likes: 18301
 comments: 2500
 saves: null
 post_date: "2026-01-15"
-niche_tags: [comfyui, image, how-to]
+niche_tags: [comfyui, image, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

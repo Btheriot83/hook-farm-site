@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-create-amazing-full-animated-stories-usin
 collected_at: 2026-09-15T09:17:39-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=oBKBHaGkQk8
 creator_handle: "@AtomicGains"
 title: "How to Create Amazing Full Animated Stories Using ChatGPT & Kling 2.1 (Step by Step Tutorial)"
@@ -15,7 +16,7 @@ likes: 7158
 comments: 351
 saves: null
 post_date: "2025-05-31"
-niche_tags: [kling, video]
+niche_tags: [kling, video, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

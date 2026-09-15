@@ -2,6 +2,7 @@
 id: 2026-09-15-you-re-not-behind-yet-how-to-build-your-first-ai
 collected_at: 2026-09-15T00:30:36-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=Bm84BAtOfQw
 creator_handle: "@DanMartell"
 title: "You\u2019re Not Behind (Yet): How to Build Your First AI Agent (Full Guide)"
@@ -15,7 +16,7 @@ likes: 14736
 comments: 438
 saves: null
 post_date: "2026-07-15"
-niche_tags: [chatgpt, agents]
+niche_tags: [chatgpt, agents, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

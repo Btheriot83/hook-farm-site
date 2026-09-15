@@ -2,6 +2,7 @@
 id: 2026-09-15-perplexity-ai-hackerman
 collected_at: 2026-09-15T00:37:09-07:00
 platform: x
+category: ai
 url: https://x.com/jmilldotdev/status/1600624362394091523
 creator_handle: "@jmilldotdev"
 title: "@perplexity_ai hackerman"

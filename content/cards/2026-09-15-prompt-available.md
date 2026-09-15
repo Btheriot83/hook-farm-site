@@ -2,6 +2,7 @@
 id: 2026-09-15-prompt-available
 collected_at: 2026-09-15T00:39:37-07:00
 platform: instagram
+category: ai
 url: https://www.instagram.com/reel/DZNXaaChh_f/
 creator_handle: "@mravoiderr"
 title: "Prompt Available 🌧️👇"
@@ -15,7 +16,7 @@ likes: 3066
 comments: 2172
 saves: null
 post_date: "2026-06-05"
-niche_tags: [gemini, prompts]
+niche_tags: [gemini, prompts, ai]
 pattern_tags: [demo_first]
 format: short
 notes: "IG Reels Apify harvest gemini prompts"

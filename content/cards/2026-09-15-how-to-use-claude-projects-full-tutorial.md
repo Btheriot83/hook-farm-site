@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-use-claude-projects-full-tutorial
 collected_at: 2026-09-15T00:34:01-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=w7_yWjYyxjE
 creator_handle: "@KevinStratvert"
 title: "How to Use Claude Projects (Full Tutorial)"
@@ -15,7 +16,7 @@ likes: 3602
 comments: 134
 saves: null
 post_date: "2026-05-14"
-niche_tags: [claude, tooling]
+niche_tags: [claude, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

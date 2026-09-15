@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-build-an-ai-agent-with-claude-code-claude
 collected_at: 2026-09-15T00:37:40-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=bcM9dP_uXJU
 creator_handle: "@AIMaster"
 title: "How to Build an AI Agent with Claude Code (Claude AI Agent Tutorial)"
@@ -15,7 +16,7 @@ likes: 3583
 comments: 120
 saves: null
 post_date: "2026-06-30"
-niche_tags: [agents, how-to]
+niche_tags: [agents, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

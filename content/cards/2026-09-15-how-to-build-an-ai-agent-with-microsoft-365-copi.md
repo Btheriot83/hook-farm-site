@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-build-an-ai-agent-with-microsoft-365-copi
 collected_at: 2026-09-15T00:37:35-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=Iz3ul6hSeTs
 creator_handle: "@Teacher'sTech"
 title: "How to Build an AI Agent with Microsoft 365 Copilot (No Code Step-by-Step Guide)"
@@ -15,7 +16,7 @@ likes: 5405
 comments: 77
 saves: null
 post_date: "2025-10-13"
-niche_tags: [agents, how-to]
+niche_tags: [agents, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

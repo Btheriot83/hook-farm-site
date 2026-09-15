@@ -2,6 +2,7 @@
 id: 2026-09-15-12-amazing-things-chatgpt-can-do-that-most-peopl
 collected_at: 2026-09-15T00:29:52-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=I2h9ozrNvyY
 creator_handle: "@SkillLeapAI"
 title: "12 Amazing Things ChatGPT Can Do That Most People Don't Know"
@@ -15,7 +16,7 @@ likes: 1580
 comments: 40
 saves: null
 post_date: "2025-12-26"
-niche_tags: [chatgpt, productivity]
+niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [negative]
 format: long
 notes: "batch harvest ytsearch"

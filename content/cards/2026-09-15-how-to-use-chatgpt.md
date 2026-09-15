@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-use-chatgpt
 collected_at: 2026-09-15T00:26:46-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=PDw3Uk9dN9k
 creator_handle: "@KevinStratvert"
 title: "How to Use ChatGPT"
@@ -15,7 +16,7 @@ likes: 12872
 comments: 372
 saves: null
 post_date: "2025-02-10"
-niche_tags: [chatgpt, how-to, prompts]
+niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

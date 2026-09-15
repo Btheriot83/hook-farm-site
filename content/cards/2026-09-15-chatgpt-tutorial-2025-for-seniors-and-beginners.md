@@ -2,6 +2,7 @@
 id: 2026-09-15-chatgpt-tutorial-2025-for-seniors-and-beginners
 collected_at: 2026-09-15T00:27:03-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=zJL9K3xscRo
 creator_handle: "@SmartTechForAnyAge"
 title: "ChatGPT Tutorial 2025 for Seniors and Beginners Learning AI"
@@ -15,7 +16,7 @@ likes: 11834
 comments: 307
 saves: null
 post_date: "2025-08-24"
-niche_tags: [chatgpt, how-to, prompts]
+niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

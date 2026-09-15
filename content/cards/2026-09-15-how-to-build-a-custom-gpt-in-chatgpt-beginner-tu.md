@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-build-a-custom-gpt-in-chatgpt-beginner-tu
 collected_at: 2026-09-15T00:31:35-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=p6Z2d3T-fLM
 creator_handle: "@AndersJensen"
 title: "How to Build a Custom GPT in ChatGPT [Beginner Tutorial]"
@@ -15,7 +16,7 @@ likes: 241
 comments: 21
 saves: null
 post_date: "2025-07-12"
-niche_tags: [chatgpt, tooling]
+niche_tags: [chatgpt, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

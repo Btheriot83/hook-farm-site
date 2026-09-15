@@ -2,6 +2,7 @@
 id: 2026-09-15-midjourney-8-2-is-out-and-it-still-cooks-i-ve-be
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@metamotion.ai/video/7666935169382698262
 creator_handle: "@metamotion.ai"
 title: "MidJourney 8.2 is out. And it still cooks. I’ve been an MJ fanboy since Version 2 and with every version the team has brought something unique. 8.2 still has th"
@@ -15,7 +16,7 @@ likes: 95
 comments: 7
 saves: 29
 post_date: "2026-07-26"
-niche_tags: [midjourney, video]
+niche_tags: [midjourney, video, ai]
 pattern_tags: [number, list]
 format: short
 notes: "TikTok harvest; shares=12; followers=3283"

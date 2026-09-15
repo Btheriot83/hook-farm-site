@@ -2,6 +2,7 @@
 id: 2026-09-15-if-you-ask-chatgpt-5-questions-you-ll-never-work
 collected_at: 2026-09-15T00:43:45-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=ooiNXXXqNlE
 creator_handle: "@ENERGI"
 title: "If You Ask ChatGPT 5 Questions, You'll NEVER Work a JOB Again!"
@@ -15,7 +16,7 @@ likes: 11014
 comments: 487
 saves: null
 post_date: "2026-04-15"
-niche_tags: [money, chatgpt]
+niche_tags: [money, chatgpt, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

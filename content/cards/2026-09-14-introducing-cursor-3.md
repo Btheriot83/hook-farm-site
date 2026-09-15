@@ -2,6 +2,7 @@
 id: 2026-09-14-introducing-cursor-3
 collected_at: 2026-09-14T23:25:00-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=UxbULt_hCdA
 creator_handle: "@cursor_ai"
 title: "Introducing Cursor 3"
@@ -15,7 +16,7 @@ likes: 2272
 comments: 229
 saves: null
 post_date: "2026-04-02"
-niche_tags: [cursor, agents, tooling]
+niche_tags: [cursor, agents, tooling, ai]
 pattern_tags: [tool_reveal, authority, demo_first]
 format: long
 notes: "Official Cursor 3 launch; 3.1M in ~90s"

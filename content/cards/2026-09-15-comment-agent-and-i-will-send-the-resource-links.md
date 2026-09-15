@@ -2,6 +2,7 @@
 id: 2026-09-15-comment-agent-and-i-will-send-the-resource-links
 collected_at: 2026-09-15T00:39:03-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@eggintech/video/7623937297729260814
 creator_handle: "@eggintech"
 title: "comment ‘agent’ and i will send the resource links to you! they are also up at the link in my bio! #aiagent #agenticai #learnai #softwareengineer #coding "
@@ -15,7 +16,7 @@ likes: 6398
 comments: 912
 saves: 8091
 post_date: "2026-04-01"
-niche_tags: [agents]
+niche_tags: [agents, ai]
 pattern_tags: [curiosity_gap, how_to_promise]
 format: short
 notes: "clockworks TikTok hashtag harvest; shares=818"

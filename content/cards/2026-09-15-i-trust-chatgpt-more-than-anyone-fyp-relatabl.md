@@ -2,6 +2,7 @@
 id: 2026-09-15-i-trust-chatgpt-more-than-anyone-fyp-relatabl
 collected_at: 2026-09-15T00:39:03-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@aniqakhan65/video/7685403721546616082
 creator_handle: "@aniqakhan65"
 title: "I trust ChatGPT more than anyone 😭  #fyp #relatable #chatgpt "
@@ -15,7 +16,7 @@ likes: 10800
 comments: 76
 saves: 422
 post_date: "2026-09-14"
-niche_tags: [chatgpt]
+niche_tags: [chatgpt, ai]
 pattern_tags: [curiosity_gap, how_to_promise]
 format: short
 notes: "clockworks TikTok hashtag harvest; shares=2092"

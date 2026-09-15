@@ -2,6 +2,7 @@
 id: 2026-09-15-how-i-d-make-money-with-ai-in-2026-if-i-had-to-s
 collected_at: 2026-09-15T00:43:09-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=Q46OLxFshAQ
 creator_handle: "@NateHerk|AIAutomation"
 title: "How I'd Make Money with AI in 2026 (if I had to Start Over)"
@@ -15,7 +16,7 @@ likes: 8559
 comments: 620
 saves: null
 post_date: "2025-10-03"
-niche_tags: [money, how-to]
+niche_tags: [money, how-to, ai]
 pattern_tags: [how_to_promise, authority]
 format: long
 notes: "batch harvest ytsearch"

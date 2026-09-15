@@ -2,6 +2,7 @@
 id: 2026-09-15-what-are-ai-agents-really-about
 collected_at: 2026-09-15T00:37:59-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=eHEHE2fpnWQ
 creator_handle: "@ByteByteGo"
 title: "What Are AI Agents Really About?"
@@ -15,7 +16,7 @@ likes: 5606
 comments: 89
 saves: null
 post_date: "2025-03-19"
-niche_tags: [agents, tooling]
+niche_tags: [agents, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

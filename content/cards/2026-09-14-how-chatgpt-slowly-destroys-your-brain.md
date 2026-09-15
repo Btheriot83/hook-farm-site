@@ -2,6 +2,7 @@
 id: 2026-09-14-how-chatgpt-slowly-destroys-your-brain
 collected_at: 2026-09-14T23:25:00-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=6sJ50Ybp44I
 creator_handle: "@JustinSung"
 title: "How ChatGPT Slowly Destroys Your Brain"
@@ -15,7 +16,7 @@ likes: 48290
 comments: 4300
 saves: null
 post_date: "2025-08-03"
-niche_tags: [chatgpt, how-to]
+niche_tags: [chatgpt, how-to, ai]
 pattern_tags: [negative, curiosity_gap, authority]
 format: long
 notes: "Fear/contrarian: ChatGPT destroys your brain"

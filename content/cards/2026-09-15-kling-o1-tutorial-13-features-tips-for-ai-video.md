@@ -2,6 +2,7 @@
 id: 2026-09-15-kling-o1-tutorial-13-features-tips-for-ai-video
 collected_at: 2026-09-15T09:17:24-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=Em6pM_MPNmc
 creator_handle: "@FILMCRUX"
 title: "Kling O1 Tutorial: 13 Features & Tips for AI Video"
@@ -15,7 +16,7 @@ likes: 2699
 comments: null
 saves: null
 post_date: "2026-01-05"
-niche_tags: [kling, video]
+niche_tags: [kling, video, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

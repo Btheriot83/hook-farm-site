@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-use-ai-sound-effects-elevenlabs-sfx-v2-wa
 collected_at: 2026-09-15T09:16:28-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=iyHypKlscV0
 creator_handle: "@ElevenLabs"
 title: "How to Use AI Sound Effects \u2013 ElevenLabs SFX v2 Walkthrough"
@@ -15,7 +16,7 @@ likes: 781
 comments: 27
 saves: null
 post_date: "2025-09-05"
-niche_tags: [elevenlabs, voice, tooling]
+niche_tags: [elevenlabs, voice, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

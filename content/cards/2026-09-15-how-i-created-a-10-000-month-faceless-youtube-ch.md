@@ -2,6 +2,7 @@
 id: 2026-09-15-how-i-created-a-10-000-month-faceless-youtube-ch
 collected_at: 2026-09-15T00:43:59-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=LEJGFnjIWmQ
 creator_handle: "@AllAboutMoney"
 title: "How I Created a $10,000/month Faceless YouTube Channel Using Free AI Tools"
@@ -15,7 +16,7 @@ likes: 94452
 comments: 2600
 saves: null
 post_date: "2024-10-02"
-niche_tags: [money, how-to]
+niche_tags: [money, how-to, ai]
 pattern_tags: [authority, how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

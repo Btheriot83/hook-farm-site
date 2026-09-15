@@ -2,6 +2,7 @@
 id: 2026-09-15-we-launched-2-cool-updates-today
 collected_at: 2026-09-15T00:30:37-07:00
 platform: x
+category: ai
 url: https://x.com/victornunez/status/2099659150972117006
 creator_handle: "@victornunez"
 title: "we launched 2 cool updates today"
@@ -15,7 +16,7 @@ likes: 1239
 comments: 65
 saves: 131
 post_date: "2026-09-15"
-niche_tags: [chatgpt]
+niche_tags: [chatgpt, ai]
 pattern_tags: [number, authority, before_after, list]
 format: short
 notes: "X harvest via Apify; rts=45"

@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-build-a-dev-team-with-4-ai-agents-in-claude
 collected_at: 2026-09-15T00:39:03-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@ray_fu/video/7652107775484513566
 creator_handle: "@ray_fu"
 title: "How to build a dev team with 4 AI Agents in Claude #ai #tech "
@@ -15,7 +16,7 @@ likes: 33300
 comments: 2082
 saves: 28058
 post_date: "2026-06-16"
-niche_tags: [claude, agents]
+niche_tags: [claude, agents, ai]
 pattern_tags: [number, how_to_promise]
 format: short
 notes: "clockworks TikTok hashtag harvest; shares=3040"

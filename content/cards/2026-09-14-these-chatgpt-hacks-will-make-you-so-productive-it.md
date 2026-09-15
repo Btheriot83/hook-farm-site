@@ -2,6 +2,7 @@
 id: 2026-09-14-these-chatgpt-hacks-will-make-you-so-productive-it
 collected_at: 2026-09-14T23:25:00-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=Mxy6MVbpNhg
 creator_handle: "@DanMartell"
 title: "These ChatGPT Hacks Will Make You SO Productive It Feels Illegal"
@@ -15,7 +16,7 @@ likes: 52317
 comments: 1300
 saves: null
 post_date: "2025-12-19"
-niche_tags: [chatgpt, productivity, how-to]
+niche_tags: [chatgpt, productivity, how-to, ai]
 pattern_tags: [negative, secret, list]
 format: long
 notes: "Feels illegal productivity frame"

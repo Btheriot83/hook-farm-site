@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-build-sell-ai-automations-ultimate-beginn
 collected_at: 2026-09-15T00:39:39-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=5TxSqvPbnWw
 creator_handle: "@LiamOttley"
 title: "How to Build & Sell AI Automations: Ultimate Beginner\u2019s Guide"
@@ -15,7 +16,7 @@ likes: 33658
 comments: 2000
 saves: null
 post_date: "2025-06-30"
-niche_tags: [automation, tooling]
+niche_tags: [automation, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

@@ -2,6 +2,7 @@
 id: 2026-09-14-i-made-60-youtube-shorts-in-60-mins-with-just-2-ai
 collected_at: 2026-09-14T23:25:00-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=bi1eFecrOYM
 creator_handle: "@InVideo"
 title: "I made 60 YouTube shorts in 60 mins with just 2 AI tools"
@@ -15,7 +16,7 @@ likes: 54952
 comments: 1200
 saves: null
 post_date: "2023-07-30"
-niche_tags: [tooling, how-to, automation]
+niche_tags: [tooling, how-to, automation, ai]
 pattern_tags: [number, tool_reveal, how_to_promise]
 format: long
 notes: "60 shorts / 60 mins / 2 tools"

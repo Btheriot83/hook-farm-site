@@ -2,6 +2,7 @@
 id: 2026-09-15-are-you-ready-to-have-your-job-replaced-by-ai
 collected_at: 2026-09-15T00:41:29-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=MisvqfF0p40
 creator_handle: "@HowMoneyWorks"
 title: "Are You Ready To Have Your Job Replaced by AI?"
@@ -15,7 +16,7 @@ likes: 14111
 comments: 2500
 saves: null
 post_date: "2025-04-30"
-niche_tags: [money, replaced_job]
+niche_tags: [money, replaced_job, ai]
 pattern_tags: [replaced_job]
 format: long
 notes: "batch harvest ytsearch"

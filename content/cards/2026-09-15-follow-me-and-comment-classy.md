@@ -2,6 +2,7 @@
 id: 2026-09-15-follow-me-and-comment-classy
 collected_at: 2026-09-15T00:39:37-07:00
 platform: instagram
+category: ai
 url: https://www.instagram.com/reel/DVXbxyuCH-b/
 creator_handle: "@pratik_raut05"
 title: "Follow me and comment \"Classy\""
@@ -15,7 +16,7 @@ likes: null
 comments: 2785
 saves: null
 post_date: "2026-03-02"
-niche_tags: [gemini, prompts]
+niche_tags: [gemini, prompts, ai]
 pattern_tags: [demo_first]
 format: short
 notes: "IG Reels Apify harvest gemini prompts"

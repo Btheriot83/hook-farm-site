@@ -2,6 +2,7 @@
 id: 2026-09-14-n8n-will-change-your-life-as-a-developer
 collected_at: 2026-09-14T23:25:00-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=bS9R6aCVEzw
 creator_handle: "@Fireship"
 title: "n8n will change your life as a developer..."
@@ -15,7 +16,7 @@ likes: 56695
 comments: 2100
 saves: null
 post_date: "2025-09-29"
-niche_tags: [automation, tooling]
+niche_tags: [automation, tooling, ai]
 pattern_tags: [curiosity_gap, authority, tool_reveal]
 format: long
 notes: "Fireship life-change claim for n8n"

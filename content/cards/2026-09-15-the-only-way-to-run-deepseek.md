@@ -2,6 +2,7 @@
 id: 2026-09-15-the-only-way-to-run-deepseek
 collected_at: 2026-09-15T09:22:12-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=7TR-FLWNVHY
 creator_handle: "@NetworkChuck"
 title: "the ONLY way to run Deepseek..."
@@ -15,7 +16,7 @@ likes: 41692
 comments: 2800
 saves: null
 post_date: "2025-01-31"
-niche_tags: [deepseek, how-to]
+niche_tags: [deepseek, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

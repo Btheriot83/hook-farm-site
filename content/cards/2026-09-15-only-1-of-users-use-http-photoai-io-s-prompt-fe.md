@@ -2,6 +2,7 @@
 id: 2026-09-15-only-1-of-users-use-http-photoai-io-s-prompt-fe
 collected_at: 2026-09-15T00:37:09-07:00
 platform: x
+category: ai
 url: https://x.com/levelsio/status/1634457854957723648
 creator_handle: "@levelsio"
 title: "Only 1% of users use http://photoai.io's prompt feature which confirms to me again the future isn't people writing prompts, it's interfaces that generate prompt"
@@ -15,7 +16,7 @@ likes: 1178
 comments: 60
 saves: 407
 post_date: "2023-03-11"
-niche_tags: [prompts]
+niche_tags: [prompts, ai]
 pattern_tags: [number, tool_reveal]
 format: short
 notes: "HN/fxtwitter harvest; rts=65"

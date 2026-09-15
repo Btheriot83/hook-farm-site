@@ -2,6 +2,7 @@
 id: 2026-09-15-full-claude-course-for-beginners-in-2026-become
 collected_at: 2026-09-15T00:33:08-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=Fys4oHlXQmQ
 creator_handle: "@AIMaster"
 title: "FULL Claude Course for Beginners in 2026! (Become a PRO!)"
@@ -15,7 +16,7 @@ likes: 5937
 comments: 110
 saves: null
 post_date: "2026-07-13"
-niche_tags: [claude, how-to]
+niche_tags: [claude, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

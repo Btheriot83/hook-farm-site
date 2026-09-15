@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-use-cursor-ai-full-tutorial-for-beginners
 collected_at: 2026-09-15T00:35:11-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=cE84Q5IRR6U
 creator_handle: "@DrAlexYoung"
 title: "How To Use Cursor AI (Full Tutorial For Beginners 2025)"
@@ -15,7 +16,7 @@ likes: 2379
 comments: 61
 saves: null
 post_date: "2025-04-27"
-niche_tags: [cursor, tooling]
+niche_tags: [cursor, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

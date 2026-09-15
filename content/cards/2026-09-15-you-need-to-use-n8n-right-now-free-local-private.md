@@ -2,6 +2,7 @@
 id: 2026-09-15-you-need-to-use-n8n-right-now-free-local-private
 collected_at: 2026-09-15T00:38:48-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=ONgECvZNI3o
 creator_handle: "@NetworkChuck"
 title: "You NEED to Use n8n RIGHT NOW!! (Free, Local, Private)"
@@ -15,7 +16,7 @@ likes: 96569
 comments: 2600
 saves: null
 post_date: "2025-07-16"
-niche_tags: [automation, agents, tooling]
+niche_tags: [automation, agents, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

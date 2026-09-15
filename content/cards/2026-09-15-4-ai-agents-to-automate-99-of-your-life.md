@@ -2,6 +2,7 @@
 id: 2026-09-15-4-ai-agents-to-automate-99-of-your-life
 collected_at: 2026-09-15T00:30:18-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=TL8V41Ea6oM
 creator_handle: "@SandeepSwadia"
 title: "4 AI Agents To Automate 99% Of Your Life"
@@ -15,7 +16,7 @@ likes: 27378
 comments: 551
 saves: null
 post_date: "2026-07-30"
-niche_tags: [chatgpt, agents]
+niche_tags: [chatgpt, agents, ai]
 pattern_tags: [number]
 format: long
 notes: "batch harvest ytsearch"

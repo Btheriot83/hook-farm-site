@@ -2,6 +2,7 @@
 id: 2026-09-15-11-real-jobs-the-new-chatgpt-work-can-do-for-you
 collected_at: 2026-09-15T00:32:11-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=MrJI7MG_4kg
 creator_handle: "@AIFounders"
 title: "11 Real Jobs The New ChatGPT Work Can Do For You"
@@ -15,7 +16,7 @@ likes: 1007
 comments: 20
 saves: null
 post_date: "2026-08-26"
-niche_tags: [chatgpt, money]
+niche_tags: [chatgpt, money, ai]
 pattern_tags: [tool_reveal]
 format: long
 notes: "batch harvest ytsearch"

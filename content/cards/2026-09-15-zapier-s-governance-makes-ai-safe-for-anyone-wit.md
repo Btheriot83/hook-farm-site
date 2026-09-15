@@ -2,6 +2,7 @@
 id: 2026-09-15-zapier-s-governance-makes-ai-safe-for-anyone-wit
 collected_at: 2026-09-15T00:40:28-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=6ylM7rMzw-0
 creator_handle: "@Zapier"
 title: "Zapier's governance makes AI safe for anyone with hands. Or paws."
@@ -15,7 +16,7 @@ likes: null
 comments: null
 saves: null
 post_date: "2026-04-21"
-niche_tags: [automation, tooling]
+niche_tags: [automation, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: short
 notes: "batch harvest ytsearch"

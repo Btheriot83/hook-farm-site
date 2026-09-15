@@ -2,6 +2,7 @@
 id: 2026-09-15-cursor-just-released-grok-bot-an-insanely-easy-a
 collected_at: 2026-09-15T00:35:21-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=QTcZPI-g7is
 creator_handle: "@PaulJLipsky"
 title: "Cursor Just Released Grok Bot (An Insanely Easy AI Agent)"
@@ -15,7 +16,7 @@ likes: 1447
 comments: 258
 saves: null
 post_date: "2026-08-11"
-niche_tags: [cursor, agents]
+niche_tags: [cursor, agents, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-use-new-chatgpt-work-in-12-minutes
 collected_at: 2026-09-15T00:31:58-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=MpVX4fMXv0A
 creator_handle: "@TheAIAdvantage"
 title: "How to Use New ChatGPT Work in 12 Minutes"
@@ -15,7 +16,7 @@ likes: 1723
 comments: 92
 saves: null
 post_date: "2026-07-18"
-niche_tags: [chatgpt, money]
+niche_tags: [chatgpt, money, ai]
 pattern_tags: [number, how_to_promise, tool_reveal]
 format: long
 notes: "batch harvest ytsearch"

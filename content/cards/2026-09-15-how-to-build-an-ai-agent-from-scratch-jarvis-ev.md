@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-build-an-ai-agent-from-scratch-jarvis-ev
 collected_at: 2026-09-15T00:39:03-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@caydeai/video/7668537526302362894
 creator_handle: "@caydeai"
 title: "how to build an AI agent from scratch (jarvis). every step of the way. want the written version? comment “BLUEPRINT” "
@@ -15,7 +16,7 @@ likes: 1903
 comments: 212
 saves: 1869
 post_date: "2026-07-31"
-niche_tags: [claude, agents]
+niche_tags: [claude, agents, ai]
 pattern_tags: [how_to_promise, curiosity_gap]
 format: short
 notes: "clockworks TikTok hashtag harvest; shares=305"

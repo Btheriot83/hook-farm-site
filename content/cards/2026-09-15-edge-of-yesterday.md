@@ -2,6 +2,7 @@
 id: 2026-09-15-edge-of-yesterday
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@other_realm/video/7683379711417879822
 creator_handle: "@other_realm"
 title: "Edge of yesterday • • •"
@@ -15,7 +16,7 @@ likes: 293
 comments: 5
 saves: 48
 post_date: "2026-09-09"
-niche_tags: [midjourney]
+niche_tags: [midjourney, ai]
 pattern_tags: [curiosity_gap]
 format: short
 notes: "TikTok harvest; shares=20; followers=9504"

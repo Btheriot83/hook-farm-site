@@ -2,6 +2,7 @@
 id: 2026-09-15-introducing-grok-bot
 collected_at: 2026-09-15T09:22:36-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=F1_0Lkp16Rc
 creator_handle: "@Grok"
 title: "Introducing Grok Bot"
@@ -15,7 +16,7 @@ likes: 5295
 comments: 431
 saves: null
 post_date: "2026-08-11"
-niche_tags: [grok, how-to]
+niche_tags: [grok, how-to, ai]
 pattern_tags: [tool_reveal]
 format: long
 notes: "batch harvest ytsearch"

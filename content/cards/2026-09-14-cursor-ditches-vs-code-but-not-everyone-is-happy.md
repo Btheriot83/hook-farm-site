@@ -2,6 +2,7 @@
 id: 2026-09-14-cursor-ditches-vs-code-but-not-everyone-is-happy
 collected_at: 2026-09-14T23:25:00-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=JSuS-zXMVwE
 creator_handle: "@Fireship"
 title: "Cursor ditches VS Code, but not everyone is happy..."
@@ -15,7 +16,7 @@ likes: 24980
 comments: 1100
 saves: null
 post_date: "2026-04-06"
-niche_tags: [cursor, tooling]
+niche_tags: [cursor, tooling, ai]
 pattern_tags: [curiosity_gap, negative, authority]
 format: long
 notes: "Controversy hook: ditches VS Code"

@@ -2,6 +2,7 @@
 id: 2026-09-15-chatgpt-astra-tries-booking-a-train-on-irctc
 collected_at: 2026-09-15T00:30:37-07:00
 platform: x
+category: ai
 url: https://x.com/IndianTechGuide/status/2099736414216974599
 creator_handle: "@IndianTechGuide"
 title: "🚨 ChatGPT Astra tries booking a train on IRCTC."
@@ -15,7 +16,7 @@ likes: 1562
 comments: 46
 saves: 505
 post_date: "2026-09-15"
-niche_tags: [chatgpt]
+niche_tags: [chatgpt, ai]
 pattern_tags: [curiosity_gap]
 format: short
 notes: "X harvest via Apify; rts=95"

@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-use-chatgpt-plugins-full-tutorial
 collected_at: 2026-09-15T00:29:28-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=HsLFoeOF6aw
 creator_handle: "@KevinStratvert"
 title: "How to Use ChatGPT Plugins (Full Tutorial)"
@@ -15,7 +16,7 @@ likes: 347
 comments: 10
 saves: null
 post_date: "2026-09-01"
-niche_tags: [chatgpt, how-to, prompts]
+niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

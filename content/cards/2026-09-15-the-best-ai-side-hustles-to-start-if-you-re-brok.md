@@ -2,6 +2,7 @@
 id: 2026-09-15-the-best-ai-side-hustles-to-start-if-you-re-brok
 collected_at: 2026-09-15T00:43:49-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=8NvhbfZNTrc
 creator_handle: "@WholesaleTed"
 title: "The Best AI Side Hustles To Start If You're BROKE"
@@ -15,7 +16,7 @@ likes: 6660
 comments: 306
 saves: null
 post_date: "2026-08-20"
-niche_tags: [money, chatgpt]
+niche_tags: [money, chatgpt, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

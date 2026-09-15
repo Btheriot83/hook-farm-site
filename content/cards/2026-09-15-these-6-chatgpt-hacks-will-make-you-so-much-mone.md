@@ -2,6 +2,7 @@
 id: 2026-09-15-these-6-chatgpt-hacks-will-make-you-so-much-mone
 collected_at: 2026-09-15T00:27:40-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=bkM-lYgAxh0
 creator_handle: "@DanMartell"
 title: "These 6 ChatGPT Hacks Will Make You So Much Money It Feels Illegal"
@@ -15,7 +16,7 @@ likes: 21823
 comments: 502
 saves: null
 post_date: "2026-01-23"
-niche_tags: [chatgpt, productivity]
+niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [negative]
 format: long
 notes: "batch harvest ytsearch"

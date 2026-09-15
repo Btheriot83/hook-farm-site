@@ -2,6 +2,7 @@
 id: 2026-09-15-how-i-made-a-faceless-youtube-channel-using-free
 collected_at: 2026-09-15T00:44:07-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=cqc0xni25n0
 creator_handle: "@MonsGuide"
 title: "How I Made A Faceless YouTube Channel Using FREE AI Tools Only (IMPRESSIVE RESULTS)"
@@ -15,7 +16,7 @@ likes: 67608
 comments: 2000
 saves: null
 post_date: "2023-04-11"
-niche_tags: [money, how-to]
+niche_tags: [money, how-to, ai]
 pattern_tags: [authority, how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

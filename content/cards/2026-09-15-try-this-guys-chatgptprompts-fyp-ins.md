@@ -2,6 +2,7 @@
 id: 2026-09-15-try-this-guys-chatgptprompts-fyp-ins
 collected_at: 2026-09-15T00:30:37-07:00
 platform: instagram
+category: ai
 url: https://www.instagram.com/reel/DdHPCHZIQEw/
 creator_handle: "@_mr_x441"
 title: "TRY THIS GUYS ...........#chatgptprompts #fyp #instamood #trending #reels"
@@ -15,7 +16,7 @@ likes: 11120
 comments: 0
 saves: null
 post_date: "2026-09-10"
-niche_tags: [chatgpt, prompts]
+niche_tags: [chatgpt, prompts, ai]
 pattern_tags: [demo_first]
 format: short
 notes: "IG Reels harvest; share_count=14708"

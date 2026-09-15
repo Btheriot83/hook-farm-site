@@ -2,6 +2,7 @@
 id: 2026-09-15-ai-was-supposed-to-take-your-job-why-hasn-t-it
 collected_at: 2026-09-15T00:41:08-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=zRv5kW5mAxM
 creator_handle: "@Maxinomics"
 title: "AI Was Supposed To Take Your Job. Why Hasn't It?"
@@ -15,7 +16,7 @@ likes: 30794
 comments: 3500
 saves: null
 post_date: "2026-07-01"
-niche_tags: [money, replaced_job]
+niche_tags: [money, replaced_job, ai]
 pattern_tags: [replaced_job]
 format: long
 notes: "batch harvest ytsearch"

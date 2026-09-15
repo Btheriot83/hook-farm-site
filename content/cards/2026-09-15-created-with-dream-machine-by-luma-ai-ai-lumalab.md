@@ -2,6 +2,7 @@
 id: 2026-09-15-created-with-dream-machine-by-luma-ai-ai-lumalab
 collected_at: 2026-09-15T00:39:03-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@tiffanileejoseph/video/7617944116755696927
 creator_handle: "@tiffanileejoseph"
 title: "Created with Dream Machine by Luma AI #ai #lumalabs #midjourney"
@@ -15,7 +16,7 @@ likes: 68
 comments: 3
 saves: 20
 post_date: "2026-03-16"
-niche_tags: [midjourney]
+niche_tags: [midjourney, ai]
 pattern_tags: [curiosity_gap, how_to_promise]
 format: short
 notes: "clockworks TikTok hashtag harvest; shares=2"

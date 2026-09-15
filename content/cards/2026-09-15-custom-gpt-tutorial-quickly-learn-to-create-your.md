@@ -2,6 +2,7 @@
 id: 2026-09-15-custom-gpt-tutorial-quickly-learn-to-create-your
 collected_at: 2026-09-15T00:31:12-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=Tp_TX4UWZf4
 creator_handle: "@LawtonLearns"
 title: "Custom GPT Tutorial - Quickly learn to Create your own GPT with this Step-by-Step Guide for ChatGPT"
@@ -15,7 +16,7 @@ likes: 1866
 comments: 223
 saves: null
 post_date: "2025-03-31"
-niche_tags: [chatgpt, tooling]
+niche_tags: [chatgpt, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

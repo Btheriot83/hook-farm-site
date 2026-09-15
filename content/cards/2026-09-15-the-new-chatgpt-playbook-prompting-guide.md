@@ -2,6 +2,7 @@
 id: 2026-09-15-the-new-chatgpt-playbook-prompting-guide
 collected_at: 2026-09-15T00:29:19-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=MDy_b9F7oUc
 creator_handle: "@MattWolfe"
 title: "The New ChatGPT Playbook & Prompting Guide"
@@ -15,7 +16,7 @@ likes: 2494
 comments: 203
 saves: null
 post_date: "2026-07-15"
-niche_tags: [chatgpt, how-to, prompts]
+niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [how_to_promise, tool_reveal]
 format: long
 notes: "batch harvest ytsearch"

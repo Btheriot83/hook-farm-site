@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-use-comfyui-for-beginners
 collected_at: 2026-09-15T09:16:57-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=23VkGD-4uwk
 creator_handle: "@SebastianKamph"
 title: "How to use ComfyUI for beginners."
@@ -15,7 +16,7 @@ likes: 14171
 comments: 497
 saves: null
 post_date: "2025-04-19"
-niche_tags: [comfyui, image, how-to]
+niche_tags: [comfyui, image, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

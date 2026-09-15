@@ -2,6 +2,7 @@
 id: 2026-09-15-try-this-aesthetic-prompt
 collected_at: 2026-09-15T00:39:37-07:00
 platform: instagram
+category: ai
 url: https://www.instagram.com/reel/DamRIvFvr9b/
 creator_handle: "@ai_._editz"
 title: "Try This Aesthetic Prompt 💗"
@@ -15,7 +16,7 @@ likes: 700
 comments: 197
 saves: null
 post_date: "2026-07-10"
-niche_tags: [gemini, prompts]
+niche_tags: [gemini, prompts, ai]
 pattern_tags: [demo_first]
 format: short
 notes: "IG Reels Apify harvest gemini prompts"

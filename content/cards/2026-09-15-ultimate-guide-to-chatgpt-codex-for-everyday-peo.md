@@ -2,6 +2,7 @@
 id: 2026-09-15-ultimate-guide-to-chatgpt-codex-for-everyday-peo
 collected_at: 2026-09-15T00:29:05-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=BU3llOqYy8k
 creator_handle: "@SkillLeapAI"
 title: "Ultimate Guide To ChatGPT Codex for Everyday People"
@@ -15,7 +16,7 @@ likes: 1251
 comments: 48
 saves: null
 post_date: "2026-06-22"
-niche_tags: [chatgpt, how-to, prompts]
+niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

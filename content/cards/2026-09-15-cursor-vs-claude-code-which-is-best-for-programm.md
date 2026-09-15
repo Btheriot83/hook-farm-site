@@ -2,6 +2,7 @@
 id: 2026-09-15-cursor-vs-claude-code-which-is-best-for-programm
 collected_at: 2026-09-15T00:33:55-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=KW35wHNU7pY
 creator_handle: "@LexClips"
 title: "Cursor vs Claude Code: Which is best for programming? | Lex Fridman Podcast"
@@ -15,7 +16,7 @@ likes: 719
 comments: 54
 saves: null
 post_date: "2026-02-01"
-niche_tags: [claude, cursor, tooling]
+niche_tags: [claude, cursor, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

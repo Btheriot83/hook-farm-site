@@ -2,6 +2,7 @@
 id: 2026-09-15-have-an-idea-but-need-help-getting-started-use-te
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@chatgpt/video/7685630500236578078
 creator_handle: "@chatgpt"
 title: "Have an idea but need help getting started? Use templates for popular image formats like posters or merch, then add your message, design elements, or style to m"
@@ -15,7 +16,7 @@ likes: 114
 comments: 17
 saves: 6
 post_date: "2026-09-15"
-niche_tags: [image]
+niche_tags: [image, ai]
 pattern_tags: [curiosity_gap]
 format: short
 notes: "TikTok harvest; shares=0; followers=3767298"

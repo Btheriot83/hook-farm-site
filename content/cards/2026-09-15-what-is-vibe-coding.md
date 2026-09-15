@@ -2,6 +2,7 @@
 id: 2026-09-15-what-is-vibe-coding
 collected_at: 2026-09-15T00:36:05-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=tYhgWRJeYzs
 creator_handle: "@Google"
 title: "What is vibe coding?"
@@ -15,7 +16,7 @@ likes: 2290
 comments: 172
 saves: null
 post_date: "2026-04-02"
-niche_tags: [cursor, coding]
+niche_tags: [cursor, coding, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

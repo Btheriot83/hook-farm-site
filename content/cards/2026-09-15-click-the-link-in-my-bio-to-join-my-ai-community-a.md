@@ -2,6 +2,7 @@
 id: 2026-09-15-click-the-link-in-my-bio-to-join-my-ai-community-a
 collected_at: 2026-09-15T00:39:03-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@taki.gpt/video/7676294305526369553
 creator_handle: "@taki.gpt"
 title: "Click the link in my bio to join my AI Community and build all 5 of these valuable AI projects and much more!"
@@ -15,7 +16,7 @@ likes: 67800
 comments: 3508
 saves: 68428
 post_date: "2026-08-21"
-niche_tags: [claude, agents, money, automation]
+niche_tags: [claude, agents, money, automation, ai]
 pattern_tags: [number, how_to_promise, list]
 format: short
 notes: "clockworks TikTok hashtag harvest; shares=9720"

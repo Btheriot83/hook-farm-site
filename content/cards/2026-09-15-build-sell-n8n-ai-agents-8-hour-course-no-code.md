@@ -2,6 +2,7 @@
 id: 2026-09-15-build-sell-n8n-ai-agents-8-hour-course-no-code
 collected_at: 2026-09-15T00:38:54-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=Ey18PDiaAYI
 creator_handle: "@NateHerk|AIAutomation"
 title: "Build & Sell n8n AI Agents (8+ Hour Course, No Code)"
@@ -15,7 +16,7 @@ likes: 59888
 comments: 1700
 saves: null
 post_date: "2025-05-23"
-niche_tags: [automation, agents, tooling]
+niche_tags: [automation, agents, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

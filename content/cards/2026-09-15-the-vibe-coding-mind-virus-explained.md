@@ -2,6 +2,7 @@
 id: 2026-09-15-the-vibe-coding-mind-virus-explained
 collected_at: 2026-09-15T00:36:09-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=Tw18-4U7mts
 creator_handle: "@Fireship"
 title: "The \"vibe coding\" mind virus explained\u2026"
@@ -15,7 +16,7 @@ likes: 67005
 comments: 3500
 saves: null
 post_date: "2025-03-26"
-niche_tags: [cursor, coding]
+niche_tags: [cursor, coding, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

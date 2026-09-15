@@ -2,6 +2,7 @@
 id: 2026-09-15-n8n-quick-start-tutorial-build-your-first-ai-age
 collected_at: 2026-09-15T00:39:32-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=GuaKeDS6UKU
 creator_handle: "@n8n"
 title: "n8n Quick Start Tutorial: Build Your First AI Agent [2026]"
@@ -15,7 +16,7 @@ likes: 4308
 comments: 121
 saves: null
 post_date: "2026-02-13"
-niche_tags: [automation, agents, tooling]
+niche_tags: [automation, agents, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

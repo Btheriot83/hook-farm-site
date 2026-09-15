@@ -2,6 +2,7 @@
 id: 2026-09-15-comment-edit-and-i-ll-send-you-the-full-setup-gu
 collected_at: 2026-09-15T00:39:03-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@maverickgpt/video/7685382533684546847
 creator_handle: "@maverickgpt"
 title: "Comment \"Edit\" and I'll send you the full setup guide 👇"
@@ -15,7 +16,7 @@ likes: 283
 comments: 68
 saves: 260
 post_date: "2026-09-14"
-niche_tags: [chatgpt, video]
+niche_tags: [chatgpt, video, ai]
 pattern_tags: [number, how_to_promise]
 format: short
 notes: "clockworks TikTok hashtag harvest; shares=69"

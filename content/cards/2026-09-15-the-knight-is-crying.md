@@ -2,6 +2,7 @@
 id: 2026-09-15-the-knight-is-crying
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@lordfantasy.1/video/7684399872220433684
 creator_handle: "@lordfantasy.1"
 title: "The knight is crying…"
@@ -15,7 +16,7 @@ likes: 9949
 comments: 72
 saves: 1196
 post_date: "2026-09-11"
-niche_tags: [midjourney]
+niche_tags: [midjourney, ai]
 pattern_tags: [curiosity_gap]
 format: short
 notes: "TikTok harvest; shares=832; followers=2225"

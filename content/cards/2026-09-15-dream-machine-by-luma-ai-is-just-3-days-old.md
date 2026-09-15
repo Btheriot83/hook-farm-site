@@ -2,6 +2,7 @@
 id: 2026-09-15-dream-machine-by-luma-ai-is-just-3-days-old
 collected_at: 2026-09-15T00:37:09-07:00
 platform: x
+category: ai
 url: https://x.com/hey_madni/status/1801900554488291414
 creator_handle: "@hey_madni"
 title: "Dream Machine by Luma AI is just 3 days old."

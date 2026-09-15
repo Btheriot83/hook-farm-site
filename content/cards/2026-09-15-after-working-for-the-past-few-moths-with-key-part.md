@@ -2,6 +2,7 @@
 id: 2026-09-15-after-working-for-the-past-few-moths-with-key-part
 collected_at: 2026-09-15T00:37:09-07:00
 platform: x
+category: ai
 url: https://x.com/AnthropicAI/status/1635679544521920512
 creator_handle: "@AnthropicAI"
 title: "After working for the past few moths with key partners like @NotionHQ, @Quora, and @DuckDuckGo, we’ve been able to carefully test out our systems in the wild. W"
@@ -15,7 +16,7 @@ likes: 1545
 comments: 31
 saves: 389
 post_date: "2023-03-14"
-niche_tags: [claude]
+niche_tags: [claude, ai]
 pattern_tags: [curiosity_gap]
 format: short
 notes: "HN/fxtwitter harvest; rts=227"

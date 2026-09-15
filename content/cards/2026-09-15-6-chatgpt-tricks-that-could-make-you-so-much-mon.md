@@ -2,6 +2,7 @@
 id: 2026-09-15-6-chatgpt-tricks-that-could-make-you-so-much-mon
 collected_at: 2026-09-15T00:29:34-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=GLwG2uDXHyA
 creator_handle: "@EdwinaMcKennon"
 title: "6 ChatGPT Tricks That Could Make You So Much Money It Feels Illegal"
@@ -15,7 +16,7 @@ likes: 10647
 comments: 398
 saves: null
 post_date: "2026-02-24"
-niche_tags: [chatgpt, productivity]
+niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [negative]
 format: long
 notes: "batch harvest ytsearch"

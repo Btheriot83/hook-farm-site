@@ -2,6 +2,7 @@
 id: 2026-09-15-stop-wasting-credits-become-a-kling-ai-master-in
 collected_at: 2026-09-15T09:17:29-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=EWBsU0fSgPs
 creator_handle: "@Roboverse"
 title: "STOP Wasting Credits & Become a Kling AI Master in 8 Minutes"
@@ -15,7 +16,7 @@ likes: null
 comments: 10
 saves: null
 post_date: "2025-04-12"
-niche_tags: [kling, video]
+niche_tags: [kling, video, ai]
 pattern_tags: [number]
 format: long
 notes: "batch harvest ytsearch"

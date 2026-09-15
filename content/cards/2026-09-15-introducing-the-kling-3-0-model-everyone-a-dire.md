@@ -2,6 +2,7 @@
 id: 2026-09-15-introducing-the-kling-3-0-model-everyone-a-dire
 collected_at: 2026-09-15T00:37:09-07:00
 platform: x
+category: ai
 url: https://x.com/Kling_ai/status/2019064918960668819
 creator_handle: "@Kling_ai"
 title: "🚀 Introducing the Kling 3.0 Model: Everyone a Director. It’s Time. "
@@ -15,7 +16,7 @@ likes: 4796
 comments: 697
 saves: 1523
 post_date: "2026-02-04"
-niche_tags: [image, video]
+niche_tags: [image, video, ai]
 pattern_tags: [number, tool_reveal, curiosity_gap]
 format: short
 notes: "HN/fxtwitter harvest; rts=786"

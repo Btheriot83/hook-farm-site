@@ -9,6 +9,7 @@ One card per winning piece. Filename: `cards/YYYY-MM-DD-<slug>.md` (or `.json`).
 | `id` | string | Same as filename slug without date, or full `YYYY-MM-DD-slug` |
 | `collected_at` | ISO-8601 | When Hook Farm saved the card (America/Phoenix) |
 | `platform` | enum | `youtube` \| `tiktok` \| `instagram` \| `facebook` \| `x` |
+| `category` | enum | Primary corpus lane: `ai` \| `true_crime` \| `diesel` \| `rideshare` |
 | `url` | string | Canonical public URL (de-dupe key) |
 | `creator_handle` | string | e.g. `@channel` or channel name |
 | `title` | string | Video title or caption headline |
@@ -35,6 +36,7 @@ One card per winning piece. Filename: `cards/YYYY-MM-DD-<slug>.md` (or `.json`).
 id: 2026-09-14-example-slug
 collected_at: 2026-09-14T23:30:00-07:00
 platform: youtube
+category: ai
 url: https://...
 creator_handle: "@Creator"
 title: "..."
@@ -48,7 +50,8 @@ likes: 45000
 comments: 2100
 saves: null
 post_date: "2026-08-01"
-niche_tags: [chatgpt, how-to]
+niche_tags: [chatgpt, how-to, ai]
+# true_crime cards use niche_tags like: true_crime, murder, missing, courtroom, faceless, narration
 pattern_tags: [curiosity_gap, number]
 format: short
 notes: ""
@@ -64,4 +67,6 @@ notes: ""
 - Collect only. Never like, comment, follow, post, or DM.
 - Public content only.
 - Prefer high views relative to account size / clear viral markers.
-- Focus seed niche: AI-related; pattern_tags stay niche-agnostic for transfer.
+- Seed lanes: `ai`, `true_crime`, `diesel` (mobile diesel / semi truck / heavy-duty repair), `rideshare` (Uber / Lyft / gig driving) (separate via `category`). pattern_tags stay niche-agnostic for transfer.
+- Prefer **faceless** true-crime packaging (narration / B-roll / text-on-screen). Face-on refs (e.g. Ray William Johnson) only as sparse style benchmarks, tagged `faceless: false` in notes.
+- Stay out of Edward Clipperhands / Love & Crime master editing — packaging examples only.

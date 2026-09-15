@@ -2,6 +2,7 @@
 id: 2026-09-14-yes-ai-will-take-your-job-but-what-happens-next-is
 collected_at: 2026-09-14T23:25:00-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=R6mTUK_yPKw
 creator_handle: "@SpeciesAGI"
 title: "Yes, AI Will Take Your Job. But What Happens NEXT Is Worse"
@@ -15,7 +16,7 @@ likes: 33482
 comments: 9900
 saves: null
 post_date: "2025-11-22"
-niche_tags: [money, agents]
+niche_tags: [money, agents, ai]
 pattern_tags: [replaced_job, negative, curiosity_gap, authority]
 format: long
 notes: "Job loss + worse next twist"

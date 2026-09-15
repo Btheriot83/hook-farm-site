@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-build-a-multi-agent-ai-system
 collected_at: 2026-09-15T00:38:08-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=gUrENDkPw_k
 creator_handle: "@IBMTechnology"
 title: "How to Build a Multi Agent AI System"
@@ -15,7 +16,7 @@ likes: 4043
 comments: 109
 saves: null
 post_date: "2024-08-15"
-niche_tags: [agents, tooling]
+niche_tags: [agents, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

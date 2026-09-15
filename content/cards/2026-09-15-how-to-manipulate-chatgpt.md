@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-manipulate-chatgpt
 collected_at: 2026-09-15T00:27:27-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=cZxkvVozBM4
 creator_handle: "@Knotora"
 title: "How to manipulate CHATGPT!"
@@ -15,7 +16,7 @@ likes: 29240
 comments: 1100
 saves: null
 post_date: "2025-10-02"
-niche_tags: [chatgpt, productivity]
+niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

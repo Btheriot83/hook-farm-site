@@ -2,6 +2,7 @@
 id: 2026-09-15-building-ai-agents-that-actually-work-full-cours
 collected_at: 2026-09-15T00:30:27-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=eA9Zf2-qYYM
 creator_handle: "@GregIsenberg"
 title: "Building AI Agents that actually work (Full Course)"
@@ -15,7 +16,7 @@ likes: 16073
 comments: 462
 saves: null
 post_date: "2026-03-17"
-niche_tags: [chatgpt, agents]
+niche_tags: [chatgpt, agents, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

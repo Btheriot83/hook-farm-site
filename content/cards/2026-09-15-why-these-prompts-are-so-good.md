@@ -2,6 +2,7 @@
 id: 2026-09-15-why-these-prompts-are-so-good
 collected_at: 2026-09-15T00:30:37-07:00
 platform: instagram
+category: ai
 url: https://www.instagram.com/reel/DcNv3xQvGjE/
 creator_handle: "@technicalskyco"
 title: "Why These Prompts are So Good😱"
@@ -15,7 +16,7 @@ likes: 455166
 comments: 1580
 saves: null
 post_date: "2026-08-19"
-niche_tags: [chatgpt, prompts]
+niche_tags: [chatgpt, prompts, ai]
 pattern_tags: [demo_first]
 format: short
 notes: "IG Reels harvest; share_count=732336"

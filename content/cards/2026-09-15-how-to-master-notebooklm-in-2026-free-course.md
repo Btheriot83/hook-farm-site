@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-master-notebooklm-in-2026-free-course
 collected_at: 2026-09-15T09:22:01-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=b2fGNHPlUGA
 creator_handle: "@PaulJLipsky"
 title: "How To Master NotebookLM in 2026 (Free Course)"
@@ -15,7 +16,7 @@ likes: 15536
 comments: 723
 saves: null
 post_date: "2026-01-04"
-niche_tags: [notebooklm, tooling, how-to]
+niche_tags: [notebooklm, tooling, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

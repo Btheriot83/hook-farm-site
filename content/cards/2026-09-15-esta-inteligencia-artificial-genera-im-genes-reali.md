@@ -2,6 +2,7 @@
 id: 2026-09-15-esta-inteligencia-artificial-genera-im-genes-reali
 collected_at: 2026-09-15T00:39:03-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@javirec_/video/7570694814501457174
 creator_handle: "@javirec_"
 title: "Esta inteligencia artificial genera imágenes realistas gratis y sin límites, mucho mejor que Nano banana "
@@ -15,7 +16,7 @@ likes: 9725
 comments: 2208
 saves: 3105
 post_date: "2025-11-09"
-niche_tags: [midjourney]
+niche_tags: [midjourney, ai]
 pattern_tags: [list]
 format: short
 notes: "clockworks TikTok hashtag harvest; shares=302"

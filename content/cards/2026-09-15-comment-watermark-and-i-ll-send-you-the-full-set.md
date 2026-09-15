@@ -2,6 +2,7 @@
 id: 2026-09-15-comment-watermark-and-i-ll-send-you-the-full-set
 collected_at: 2026-09-15T00:39:03-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@maverickgpt/video/7684943812145237278
 creator_handle: "@maverickgpt"
 title: "Comment \"Watermark\" and I'll send you the full setup guide 👇"
@@ -15,7 +16,7 @@ likes: 286
 comments: 43
 saves: 222
 post_date: "2026-09-13"
-niche_tags: [claude, tooling]
+niche_tags: [claude, tooling, ai]
 pattern_tags: [number, secret, how_to_promise]
 format: short
 notes: "clockworks TikTok hashtag harvest; shares=52"

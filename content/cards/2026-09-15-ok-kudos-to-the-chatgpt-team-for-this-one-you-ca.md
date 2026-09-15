@@ -2,6 +2,7 @@
 id: 2026-09-15-ok-kudos-to-the-chatgpt-team-for-this-one-you-ca
 collected_at: 2026-09-15T00:35:50-07:00
 platform: x
+category: ai
 url: https://x.com/francedot/status/2098249540268888546
 creator_handle: "@francedot"
 title: "ok kudos to the ChatGPT team for this one - you can now play snake while waiting for chatGPT to generate your image 🐍"
@@ -15,7 +16,7 @@ likes: 16
 comments: 0
 saves: 1
 post_date: "2026-09-11"
-niche_tags: [chatgpt, image]
+niche_tags: [chatgpt, image, ai]
 pattern_tags: [curiosity_gap, authority]
 format: short
 notes: "HN-linked viral X post via fxtwitter; rts=1"

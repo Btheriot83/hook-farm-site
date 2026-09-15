@@ -2,6 +2,7 @@
 id: 2026-09-15-private-uncensored-local-llms-in-5-minutes-deeps
 collected_at: 2026-09-15T09:22:18-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=A2CqSfd5I4I
 creator_handle: "@DavidBombal"
 title: "Private & Uncensored Local LLMs in 5 minutes (DeepSeek and Dolphin)"
@@ -15,7 +16,7 @@ likes: 20366
 comments: 816
 saves: null
 post_date: "2025-02-05"
-niche_tags: [deepseek, how-to]
+niche_tags: [deepseek, how-to, ai]
 pattern_tags: [number]
 format: long
 notes: "batch harvest ytsearch"

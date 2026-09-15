@@ -2,6 +2,7 @@
 id: 2026-09-15-chatgpt-for-beginners-2026-edition
 collected_at: 2026-09-15T00:26:55-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=hOe0maWOhp8
 creator_handle: "@AIMastermind"
 title: "ChatGPT for Beginners - 2026 Edition"
@@ -15,7 +16,7 @@ likes: 20503
 comments: 763
 saves: null
 post_date: "2025-01-01"
-niche_tags: [chatgpt, how-to, prompts]
+niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

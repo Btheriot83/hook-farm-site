@@ -2,6 +2,7 @@
 id: 2026-09-15-cursor-3-0-full-course-for-beginners
 collected_at: 2026-09-15T00:33:45-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=Tv8mLrLtyxo
 creator_handle: "@TechWithTim"
 title: "Cursor 3.0 - Full Course for Beginners"
@@ -15,7 +16,7 @@ likes: 1969
 comments: 80
 saves: null
 post_date: "2026-07-29"
-niche_tags: [claude, cursor, tooling]
+niche_tags: [claude, cursor, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

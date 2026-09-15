@@ -2,6 +2,7 @@
 id: 2026-09-15-every-chatgpt-feature-in-37-minutes
 collected_at: 2026-09-15T00:28:48-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=jS8g9cnfvTs
 creator_handle: "@TinaHuang"
 title: "Every ChatGPT Feature In 37 Minutes"
@@ -15,7 +16,7 @@ likes: 3653
 comments: 157
 saves: null
 post_date: "2025-09-24"
-niche_tags: [chatgpt, how-to, prompts]
+niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [number]
 format: long
 notes: "batch harvest ytsearch"

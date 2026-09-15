@@ -2,6 +2,7 @@
 id: 2026-09-14-learn-97-of-claude-in-under-16-minutes
 collected_at: 2026-09-14T23:25:00-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=wZeOwqmSw84
 creator_handle: "@DanMartell"
 title: "Learn 97% of Claude in Under 16 Minutes"
@@ -15,7 +16,7 @@ likes: 65133
 comments: 1100
 saves: null
 post_date: "2026-05-21"
-niche_tags: [claude, how-to]
+niche_tags: [claude, how-to, ai]
 pattern_tags: [number, how_to_promise, authority]
 format: long
 notes: "Learn 97% in under 16 min"

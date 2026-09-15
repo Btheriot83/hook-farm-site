@@ -2,6 +2,7 @@
 id: 2026-09-15-automate-everything-with-zapier-ai-agents-step-b
 collected_at: 2026-09-15T00:40:37-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=avQMU1yJkyY
 creator_handle: "@KevinStratvert"
 title: "Automate Everything with Zapier AI Agents (Step-by-Step Beginner Guide)"
@@ -15,7 +16,7 @@ likes: 1707
 comments: 58
 saves: null
 post_date: "2025-08-25"
-niche_tags: [automation, tooling]
+niche_tags: [automation, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

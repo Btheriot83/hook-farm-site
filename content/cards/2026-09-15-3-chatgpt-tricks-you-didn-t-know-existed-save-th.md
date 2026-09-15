@@ -2,6 +2,7 @@
 id: 2026-09-15-3-chatgpt-tricks-you-didn-t-know-existed-save-th
 collected_at: 2026-09-15T00:30:37-07:00
 platform: instagram
+category: ai
 url: https://www.instagram.com/reel/Dbs2bPNq0xi/
 creator_handle: "@tezz.ai"
 title: "3 ChatGPT tricks you didn’t know existed 🤯 Save this before you forget!"
@@ -15,7 +16,7 @@ likes: 3270
 comments: 203
 saves: null
 post_date: "2026-08-06"
-niche_tags: [chatgpt, prompts]
+niche_tags: [chatgpt, prompts, ai]
 pattern_tags: [number, before_after, demo_first]
 format: short
 notes: "IG Reels harvest; share_count=3713"

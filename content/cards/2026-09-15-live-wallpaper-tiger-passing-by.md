@@ -2,6 +2,7 @@
 id: 2026-09-15-live-wallpaper-tiger-passing-by
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@wanderingpixels/video/7685400543082089750
 creator_handle: "@wanderingpixels"
 title: "Live Wallpaper | Tiger Passing By"
@@ -15,7 +16,7 @@ likes: 23200
 comments: 265
 saves: 3578
 post_date: "2026-09-14"
-niche_tags: [midjourney]
+niche_tags: [midjourney, ai]
 pattern_tags: [curiosity_gap]
 format: short
 notes: "TikTok harvest; shares=9323; followers=1981305"

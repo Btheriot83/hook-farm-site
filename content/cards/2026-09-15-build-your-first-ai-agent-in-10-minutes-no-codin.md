@@ -2,6 +2,7 @@
 id: 2026-09-15-build-your-first-ai-agent-in-10-minutes-no-codin
 collected_at: 2026-09-15T00:30:49-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=7ReHiROdPbE
 creator_handle: "@TheTechGirl"
 title: "Build Your First AI Agent in 10 Minutes \u2014 No Coding"
@@ -15,7 +16,7 @@ likes: 2028
 comments: 87
 saves: null
 post_date: "2026-09-05"
-niche_tags: [chatgpt, agents]
+niche_tags: [chatgpt, agents, ai]
 pattern_tags: [number]
 format: long
 notes: "batch harvest ytsearch"

@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-automate-chatgpt-like-a-pro
 collected_at: 2026-09-15T00:40:58-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=AvFXFgtmyI8
 creator_handle: "@Zapier"
 title: "How to Automate ChatGPT Like a Pro"
@@ -15,7 +16,7 @@ likes: 467
 comments: 26
 saves: null
 post_date: "2024-10-13"
-niche_tags: [automation, tooling]
+niche_tags: [automation, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

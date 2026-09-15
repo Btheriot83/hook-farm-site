@@ -2,6 +2,7 @@
 id: 2026-09-15-don-t-learn-ai-agents-without-learning-these-fun
 collected_at: 2026-09-15T00:37:08-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=ZaPbP9DwBOE
 creator_handle: "@KodeKloud"
 title: "Don't learn AI Agents without Learning these Fundamentals"
@@ -15,7 +16,7 @@ likes: 23849
 comments: 634
 saves: null
 post_date: "2025-10-21"
-niche_tags: [agents, how-to]
+niche_tags: [agents, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

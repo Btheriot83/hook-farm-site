@@ -2,6 +2,7 @@
 id: 2026-09-15-the-multi-agent-architecture-that-actually-ships
 collected_at: 2026-09-15T00:38:04-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=ow1we5PzK-o
 creator_handle: "@AIEngineer"
 title: "The Multi-Agent Architecture That Actually Ships \u2014 Luke Alvoeiro, Factory"
@@ -15,7 +16,7 @@ likes: 4934
 comments: 168
 saves: null
 post_date: "2026-05-06"
-niche_tags: [agents, tooling]
+niche_tags: [agents, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

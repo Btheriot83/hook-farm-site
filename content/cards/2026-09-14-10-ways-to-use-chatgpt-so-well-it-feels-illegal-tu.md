@@ -2,6 +2,7 @@
 id: 2026-09-14-10-ways-to-use-chatgpt-so-well-it-feels-illegal-tu
 collected_at: 2026-09-14T23:25:00-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=Jg09XvHGHiQ
 creator_handle: "@CharlieChang"
 title: "10 Ways to Use ChatGPT So Well It Feels Illegal (Tutorial)"
@@ -15,7 +16,7 @@ likes: 36914
 comments: 555
 saves: null
 post_date: "2025-09-04"
-niche_tags: [chatgpt, how-to]
+niche_tags: [chatgpt, how-to, ai]
 pattern_tags: [number, negative, list, how_to_promise]
 format: long
 notes: "10 ways + feels illegal"

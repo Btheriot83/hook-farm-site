@@ -2,6 +2,7 @@
 id: 2026-09-15-who-said-a-knight-cant-play-an-arcade-machine
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@lordfantasy.1/video/7685032696774495508
 creator_handle: "@lordfantasy.1"
 title: "Who said a knight cant play an arcade machine???"
@@ -15,7 +16,7 @@ likes: 355
 comments: 44
 saves: 56
 post_date: "2026-09-13"
-niche_tags: [midjourney]
+niche_tags: [midjourney, ai]
 pattern_tags: [curiosity_gap]
 format: short
 notes: "TikTok harvest; shares=51; followers=2225"

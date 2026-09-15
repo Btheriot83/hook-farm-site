@@ -2,6 +2,7 @@
 id: 2026-09-15-earn-money-with-this-google-maps-chatgpt-side-hu
 collected_at: 2026-09-15T00:43:19-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=Z7trH_SF2WE
 creator_handle: "@JourneyWithTheHintons"
 title: "Earn Money With This Google Maps & ChatGPT Side Hustle!"
@@ -15,7 +16,7 @@ likes: 64644
 comments: 2500
 saves: null
 post_date: "2023-06-22"
-niche_tags: [money, chatgpt]
+niche_tags: [money, chatgpt, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

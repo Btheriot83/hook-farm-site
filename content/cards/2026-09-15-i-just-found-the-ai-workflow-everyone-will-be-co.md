@@ -2,6 +2,7 @@
 id: 2026-09-15-i-just-found-the-ai-workflow-everyone-will-be-co
 collected_at: 2026-09-15T00:34:14-07:00
 platform: x
+category: ai
 url: https://x.com/aaassa120/status/2099585833787371714
 creator_handle: "@aaassa120"
 title: "🚨 I JUST FOUND THE AI WORKFLOW EVERYONE WILL BE COPYING IN SIX MONTHS"

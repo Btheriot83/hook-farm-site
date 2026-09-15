@@ -2,6 +2,7 @@
 id: 2026-09-15-i-lost-my-freelance-writing-job-to-ai
 collected_at: 2026-09-15T00:41:16-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=0L9Eucq6sps
 creator_handle: "@AlexWei"
 title: "I Lost My Freelance Writing Job To AI."
@@ -15,7 +16,7 @@ likes: 65699
 comments: 6900
 saves: null
 post_date: "2025-01-01"
-niche_tags: [money, replaced_job]
+niche_tags: [money, replaced_job, ai]
 pattern_tags: [curiosity_gap, authority]
 format: long
 notes: "batch harvest ytsearch"

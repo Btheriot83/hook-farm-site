@@ -2,6 +2,7 @@
 id: 2026-09-15-8-insane-chatgpt-work-use-cases-automate-anythin
 collected_at: 2026-09-15T00:29:38-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=fuYbUWjxig4
 creator_handle: "@9x"
 title: "8 Insane ChatGPT Work Use Cases! (automate anything)"
@@ -15,7 +16,7 @@ likes: 3016
 comments: 95
 saves: null
 post_date: "2026-08-06"
-niche_tags: [chatgpt, productivity]
+niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

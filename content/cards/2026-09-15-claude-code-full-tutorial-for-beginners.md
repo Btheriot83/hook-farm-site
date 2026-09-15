@@ -2,6 +2,7 @@
 id: 2026-09-15-claude-code-full-tutorial-for-beginners
 collected_at: 2026-09-15T00:33:14-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=ntDIxaeo3Wg
 creator_handle: "@TechWithTim"
 title: "Claude Code - Full Tutorial for Beginners"
@@ -15,7 +16,7 @@ likes: 27633
 comments: 720
 saves: null
 post_date: "2026-02-27"
-niche_tags: [claude, cursor, tooling]
+niche_tags: [claude, cursor, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

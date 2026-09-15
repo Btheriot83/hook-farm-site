@@ -2,6 +2,7 @@
 id: 2026-09-15-chatgpt-for-business-updates
 collected_at: 2026-09-15T00:31:54-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=9lSRViLugE0
 creator_handle: "@OpenAI"
 title: "ChatGPT for Business Updates"
@@ -15,7 +16,7 @@ likes: 3634
 comments: 301
 saves: null
 post_date: "2025-06-04"
-niche_tags: [chatgpt, money]
+niche_tags: [chatgpt, money, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

@@ -2,6 +2,7 @@
 id: 2026-09-15-master-80-of-n8n-in-36-minutes
 collected_at: 2026-09-15T00:39:15-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=e3OV3LnrS7o
 creator_handle: "@Futurepedia"
 title: "Master 80% of n8n in 36 Minutes"
@@ -15,7 +16,7 @@ likes: 15830
 comments: 555
 saves: null
 post_date: "2025-08-31"
-niche_tags: [automation, agents, tooling]
+niche_tags: [automation, agents, tooling, ai]
 pattern_tags: [number]
 format: long
 notes: "batch harvest ytsearch"

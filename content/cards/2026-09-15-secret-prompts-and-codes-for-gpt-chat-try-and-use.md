@@ -2,6 +2,7 @@
 id: 2026-09-15-secret-prompts-and-codes-for-gpt-chat-try-and-use
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@technoskil/video/7678608203181034784
 creator_handle: "@technoskil"
 title: "Secret Prompts and Codes for GPT Chat - try and use"
@@ -15,7 +16,7 @@ likes: 26639
 comments: 188
 saves: 20206
 post_date: "2026-08-27"
-niche_tags: [chatgpt, prompts]
+niche_tags: [chatgpt, prompts, ai]
 pattern_tags: [secret, demo_first]
 format: short
 notes: "TikTok harvest; shares=5907; followers=1065570"

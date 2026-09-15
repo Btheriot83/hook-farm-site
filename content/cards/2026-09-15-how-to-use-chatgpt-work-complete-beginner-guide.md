@@ -2,6 +2,7 @@
 id: 2026-09-15-how-to-use-chatgpt-work-complete-beginner-guide
 collected_at: 2026-09-15T00:29:23-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=6eO2zwni1TU
 creator_handle: "@Teacher'sTech"
 title: "How to Use ChatGPT Work - Complete Beginner Guide"
@@ -15,7 +16,7 @@ likes: 768
 comments: 37
 saves: null
 post_date: "2026-07-15"
-niche_tags: [chatgpt, how-to, prompts]
+niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

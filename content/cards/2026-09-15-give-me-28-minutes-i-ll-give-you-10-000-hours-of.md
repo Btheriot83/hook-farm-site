@@ -2,6 +2,7 @@
 id: 2026-09-15-give-me-28-minutes-i-ll-give-you-10-000-hours-of
 collected_at: 2026-09-15T00:28:44-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=w-lkP9XcZfg
 creator_handle: "@ImanGadzhi"
 title: "Give Me 28 Minutes, I\u2019ll Give You 10,000 Hours of ChatGPT Knowledge"
@@ -15,7 +16,7 @@ likes: 12291
 comments: 1000
 saves: null
 post_date: "2026-08-18"
-niche_tags: [chatgpt, how-to, prompts]
+niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [number, authority]
 format: long
 notes: "batch harvest ytsearch"

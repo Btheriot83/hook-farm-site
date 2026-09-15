@@ -2,6 +2,7 @@
 id: 2026-09-15-11-make-com-automations-you-need-to-start-using
 collected_at: 2026-09-15T00:40:03-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=dIH1F1WlE84
 creator_handle: "@JonoCatliff"
 title: "11 Make.com Automations You NEED To Start Using Every Day (steal these)"
@@ -15,7 +16,7 @@ likes: 5725
 comments: 246
 saves: null
 post_date: "2024-08-30"
-niche_tags: [automation, tooling]
+niche_tags: [automation, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
 notes: "batch harvest ytsearch"

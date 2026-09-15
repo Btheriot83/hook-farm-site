@@ -2,6 +2,7 @@
 id: 2026-09-15-chatgpt-work-completely-changes-how-you-use-chat
 collected_at: 2026-09-15T00:28:01-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=tqKGaqaQkNk
 creator_handle: "@Futurepedia"
 title: "ChatGPT Work Completely Changes How You Use ChatGPT (full guide)"
@@ -15,7 +16,7 @@ likes: 2743
 comments: 121
 saves: null
 post_date: "2026-07-11"
-niche_tags: [chatgpt, productivity]
+niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"

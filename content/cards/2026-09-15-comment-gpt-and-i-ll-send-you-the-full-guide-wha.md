@@ -2,6 +2,7 @@
 id: 2026-09-15-comment-gpt-and-i-ll-send-you-the-full-guide-wha
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@taki.gpt/video/7670365963212147969
 creator_handle: "@taki.gpt"
 title: "Comment \"GPT\" and I'll send you the full guide What happens when you ask ChatGPT to humanize your text so it passes every Al detector? I tried this and the resu"
@@ -15,7 +16,7 @@ likes: 1972
 comments: 440
 saves: 1843
 post_date: "2026-08-06"
-niche_tags: [chatgpt]
+niche_tags: [chatgpt, ai]
 pattern_tags: [number, curiosity_gap]
 format: short
 notes: "TikTok harvest; shares=390; followers=244063"

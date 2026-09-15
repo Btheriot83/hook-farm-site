@@ -2,6 +2,7 @@
 id: 2026-09-15-look-like-my-dad
 collected_at: 2026-09-15T00:30:37-07:00
 platform: tiktok
+category: ai
 url: https://www.tiktok.com/@lakestory/video/7685644319692279061
 creator_handle: "@lakestory"
 title: "‎ازاي اعمل تريند look like my dad كيف نعمله. كيفية عمل صور ترند التشابه العائلي. تعليمات لصور الوجوه المتشابهة عائليًا. شرح صور ترند chatgpt لعمل صورة وجه تشبه "
@@ -15,7 +16,7 @@ likes: 214
 comments: 0
 saves: 64
 post_date: "2026-09-15"
-niche_tags: [chatgpt]
+niche_tags: [chatgpt, ai]
 pattern_tags: [curiosity_gap]
 format: short
 notes: "TikTok harvest; shares=22; followers=38842"

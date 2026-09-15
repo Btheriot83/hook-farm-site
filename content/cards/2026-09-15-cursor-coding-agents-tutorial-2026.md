@@ -2,6 +2,7 @@
 id: 2026-09-15-cursor-coding-agents-tutorial-2026
 collected_at: 2026-09-15T00:35:54-07:00
 platform: youtube
+category: ai
 url: https://www.youtube.com/watch?v=kF2WQgk1LtY
 creator_handle: "@leerob"
 title: "Cursor: coding agents tutorial (2026)"
@@ -15,7 +16,7 @@ likes: 1633
 comments: 59
 saves: null
 post_date: "2026-04-15"
-niche_tags: [cursor, agents]
+niche_tags: [cursor, agents, ai]
 pattern_tags: [how_to_promise]
 format: long
 notes: "batch harvest ytsearch"
