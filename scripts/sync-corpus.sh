@@ -104,12 +104,11 @@ restore_file "transcripts/.gitkeep"
 
 cards_after=$(find "$DEST/cards" -maxdepth 1 \( -name '*.md' -o -name '*.json' \) ! -name '*.disabled' 2>/dev/null | wc -l | tr -d ' ')
 
-mkdir -p "$ROOT/public"
-if [[ ! -e "$ROOT/public/thumbs" ]]; then
-  ln -sfn ../content/thumbs "$ROOT/public/thumbs"
-fi
+# Vercel cannot deploy a symlink at public/thumbs → content/thumbs
+mkdir -p "$ROOT/public/thumbs"
+sync_tree "$DEST/thumbs" "$ROOT/public/thumbs"
 
-changed="$(git status --porcelain -- content/ || true)"
+changed="$(git status --porcelain -- content/ public/thumbs || true)"
 if [[ -z "$changed" ]]; then
   echo "sync: no content changes"
   echo "cards: ${cards_before} → ${cards_after}"
@@ -118,7 +117,7 @@ if [[ -z "$changed" ]]; then
   exit 0
 fi
 
-git add content/
+git add content/ public/thumbs/
 stamp="$(date -u +%Y-%m-%dT%H%MZ)"
 git commit -m "content: sync Hook Farm harvest ${stamp}"
 git push origin main
