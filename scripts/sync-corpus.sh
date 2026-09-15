@@ -18,25 +18,27 @@ cards_before=$(find "$DEST/cards" -maxdepth 1 \( -name '*.md' -o -name '*.json' 
 
 mkdir -p "$DEST/cards" "$DEST/thumbs" "$DEST/transcripts"
 
-# Preserve site-local sentinels across wipe/replace
 preserve_dir="$(mktemp -d)"
 trap 'rm -rf "$preserve_dir"' EXIT
-for f in .gitkeep _example.md.disabled; do
-  if [[ -e "$DEST/cards/$f" ]]; then
-    cp -a "$DEST/cards/$f" "$preserve_dir/$f"
+
+# Preserve site-local sentinels (cards + empty-tree gitkeeps)
+preserve_file() {
+  local rel="$1"
+  if [[ -e "$DEST/$rel" ]]; then
+    mkdir -p "$preserve_dir/$(dirname "$rel")"
+    cp -a "$DEST/$rel" "$preserve_dir/$rel"
   fi
-done
+}
+preserve_file "cards/.gitkeep"
+preserve_file "cards/_example.md.disabled"
+preserve_file "thumbs/.gitkeep"
+preserve_file "transcripts/.gitkeep"
 
 # INDEX + SCHEMA
-if [[ -f "$SRC/INDEX.md" ]]; then
-  cp -a "$SRC/INDEX.md" "$DEST/INDEX.md"
-fi
-if [[ -f "$SRC/SCHEMA.md" ]]; then
-  cp -a "$SRC/SCHEMA.md" "$DEST/SCHEMA.md"
-fi
+[[ -f "$SRC/INDEX.md" ]] && cp -a "$SRC/INDEX.md" "$DEST/INDEX.md"
+[[ -f "$SRC/SCHEMA.md" ]] && cp -a "$SRC/SCHEMA.md" "$DEST/SCHEMA.md"
 
 sync_cards() {
-  # Wipe live cards (keep going even if empty), then copy live source cards only.
   find "$DEST/cards" -maxdepth 1 \( -name '*.md' -o -name '*.json' \) ! -name '*.disabled' -delete 2>/dev/null || true
   if [[ -d "$SRC/cards" ]]; then
     find "$SRC/cards" -maxdepth 1 \( -name '*.md' -o -name '*.json' \) ! -name '*.disabled' -print0 \
@@ -50,12 +52,17 @@ sync_tree() {
   local from="$1" to="$2"
   mkdir -p "$to"
   if command -v rsync >/dev/null 2>&1; then
-    rsync -a --delete "$from/" "$to/"
+    rsync -a --delete --exclude='.gitkeep' "$from/" "$to/"
   else
-    # cp fallback: clear dest files, then copy
-    find "$to" -mindepth 1 -maxdepth 1 -exec rm -rf {} +
+    find "$to" -mindepth 1 -maxdepth 1 ! -name '.gitkeep' -exec rm -rf {} +
     if [[ -d "$from" ]] && [[ -n "$(ls -A "$from" 2>/dev/null || true)" ]]; then
-      cp -a "$from"/. "$to"/
+      # copy contents; do not clobber a preserved .gitkeep if source lacks one
+      for item in "$from"/* "$from"/.[!.]* "$from"/..?*; do
+        [[ -e "$item" ]] || continue
+        base="$(basename "$item")"
+        [[ "$base" == "." || "$base" == ".." ]] && continue
+        cp -a "$item" "$to/"
+      done
     fi
   fi
 }
@@ -72,13 +79,17 @@ else
   sync_cards
 fi
 
-# Restore preserved sentinels
-for f in .gitkeep _example.md.disabled; do
-  if [[ -e "$preserve_dir/$f" ]]; then
-    cp -a "$preserve_dir/$f" "$DEST/cards/$f"
+restore_file() {
+  local rel="$1"
+  if [[ -e "$preserve_dir/$rel" ]]; then
+    mkdir -p "$DEST/$(dirname "$rel")"
+    cp -a "$preserve_dir/$rel" "$DEST/$rel"
   fi
-done
-# Drop any non-example disabled files that should not sit in dest
+}
+restore_file "cards/.gitkeep"
+restore_file "cards/_example.md.disabled"
+
+# Drop non-example disabled files that should not sit in dest
 find "$DEST/cards" -maxdepth 1 -name '*.disabled' ! -name '_example.md.disabled' -delete 2>/dev/null || true
 
 if [[ -d "$SRC/thumbs" ]]; then
@@ -88,9 +99,11 @@ if [[ -d "$SRC/transcripts" ]]; then
   sync_tree "$SRC/transcripts" "$DEST/transcripts"
 fi
 
+restore_file "thumbs/.gitkeep"
+restore_file "transcripts/.gitkeep"
+
 cards_after=$(find "$DEST/cards" -maxdepth 1 \( -name '*.md' -o -name '*.json' \) ! -name '*.disabled' 2>/dev/null | wc -l | tr -d ' ')
 
-# Ensure public/thumbs points at content/thumbs for static serve
 mkdir -p "$ROOT/public"
 if [[ ! -e "$ROOT/public/thumbs" ]]; then
   ln -sfn ../content/thumbs "$ROOT/public/thumbs"
