@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-how-to-make-edit-images-with-chatgpt-for-beginne
-collected_at: 2026-09-15T00:26:59-07:00
+collected_at: "2026-09-15T00:26:59-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=JKQCWSVqNYc
-creator_handle: "@TheAIAdvantage"
-title: "How to Make & Edit Images with ChatGPT for Beginners"
+language: en
+url: "https://www.youtube.com/watch?v=JKQCWSVqNYc"
+creator_handle: @TheAIAdvantage
+title: How to Make & Edit Images with ChatGPT for Beginners
 hook_onscreen: ""
-hook_spoken: "open ey now has an image generator that open ey now has an image generator that you can access through the free account you can access through the free account you can access throu"
+hook_spoken: open ey now has an image generator that open ey now has an image generator that you can access through the free account you can access through the free account you can access throu
 thumbnail_path: thumbs/2026-09-15-how-to-make-edit-images-with-chatgpt-for-beginne.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/JKQCWSVqNYc/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-how-to-make-edit-images-with-chatgpt-for-beginne.txt
@@ -15,12 +16,13 @@ views: 471133
 likes: 5580
 comments: 279
 saves: null
-post_date: "2025-03-26"
+post_date: 2025-03-26
 niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-cursor-3-0-is-officially-the-new-king-my-ai-codi
-collected_at: 2026-09-15T00:35:17-07:00
+collected_at: "2026-09-15T00:35:17-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=la_tAgBKqO0
-creator_handle: "@SonnySangha"
-title: "Cursor 3.0 is officially the new King (My AI coding setup revealed)"
+language: en
+url: "https://www.youtube.com/watch?v=la_tAgBKqO0"
+creator_handle: @SonnySangha
+title: Cursor 3.0 is officially the new King (My AI coding setup revealed)
 hook_onscreen: ""
-hook_spoken: "So, Cursor just did something"
+hook_spoken: So, Cursor just did something
 thumbnail_path: thumbs/2026-09-15-cursor-3-0-is-officially-the-new-king-my-ai-codi.jpg
 thumbnail_url: "https://i.ytimg.com/vi/la_tAgBKqO0/hq720.jpg"
 transcript_path: transcripts/2026-09-15-cursor-3-0-is-officially-the-new-king-my-ai-codi.txt
@@ -15,12 +16,13 @@ views: 117767
 likes: 774
 comments: 55
 saves: null
-post_date: "2026-05-13"
+post_date: 2026-05-13
 niche_tags: [cursor, agents, ai]
 pattern_tags: [tool_reveal]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

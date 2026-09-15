@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-how-to-use-chatgpt-5-5-better-than-99-of-people
-collected_at: 2026-09-15T00:29:55-07:00
+collected_at: "2026-09-15T00:29:55-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=lQQu5_uE5uU
-creator_handle: "@ParkerPrompts"
-title: "How to Use ChatGPT 5.5 Better Than 99% of People"
+language: en
+url: "https://www.youtube.com/watch?v=lQQu5_uE5uU"
+creator_handle: @ParkerPrompts
+title: How to Use ChatGPT 5.5 Better Than 99% of People
 hook_onscreen: ""
 hook_spoken: "If you're using GPT 5"
 thumbnail_path: thumbs/2026-09-15-how-to-use-chatgpt-5-5-better-than-99-of-people.jpg
@@ -15,12 +16,13 @@ views: 58585
 likes: null
 comments: 13
 saves: null
-post_date: "2026-05-21"
+post_date: 2026-05-21
 niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [number, how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

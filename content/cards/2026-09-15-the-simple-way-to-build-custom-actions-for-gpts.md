@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-the-simple-way-to-build-custom-actions-for-gpts
-collected_at: 2026-09-15T00:31:18-07:00
+collected_at: "2026-09-15T00:31:18-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=vxDNxUTG9tE
-creator_handle: "@LiamOttley"
-title: "The Simple Way to Build Custom Actions for GPTs Without Coding (OpenAI Custom GPTs)"
+language: en
+url: "https://www.youtube.com/watch?v=vxDNxUTG9tE"
+creator_handle: @LiamOttley
+title: The Simple Way to Build Custom Actions for GPTs Without Coding (OpenAI Custom GPTs)
 hook_onscreen: ""
 hook_spoken: "In this video, I'll be giving you a In this video, I'll be giving you a super quick tutorial on how you can super quick tutorial on how you can super quick tutorial on how you can"
 thumbnail_path: thumbs/2026-09-15-the-simple-way-to-build-custom-actions-for-gpts.jpg
@@ -15,12 +16,13 @@ views: 88098
 likes: 1775
 comments: 51
 saves: null
-post_date: "2024-03-19"
+post_date: 2024-03-19
 niche_tags: [chatgpt, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

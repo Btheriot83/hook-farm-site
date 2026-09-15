@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-what-are-gpts-and-how-to-build-your-own-custom-g
-collected_at: 2026-09-15T00:31:22-07:00
+collected_at: "2026-09-15T00:31:22-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=ayUAPHYeCCM
-creator_handle: "@Howfinity"
-title: "What Are GPTs and How to Build your Own Custom GPT"
+language: en
+url: "https://www.youtube.com/watch?v=ayUAPHYeCCM"
+creator_handle: @Howfinity
+title: What Are GPTs and How to Build your Own Custom GPT
 hook_onscreen: ""
-hook_spoken: "chat GPT has just introduced gpts which chat GPT has just introduced gpts which is a big leap in the world of AI and is a big leap in the world of AI and is a big leap in the world"
+hook_spoken: chat GPT has just introduced gpts which chat GPT has just introduced gpts which is a big leap in the world of AI and is a big leap in the world of AI and is a big leap in the world
 thumbnail_path: thumbs/2026-09-15-what-are-gpts-and-how-to-build-your-own-custom-g.jpg
 thumbnail_url: "https://i.ytimg.com/vi/ayUAPHYeCCM/hq720.jpg"
 transcript_path: transcripts/2026-09-15-what-are-gpts-and-how-to-build-your-own-custom-g.txt
@@ -15,12 +16,13 @@ views: 52631
 likes: 887
 comments: 44
 saves: null
-post_date: "2023-11-11"
+post_date: 2023-11-11
 niche_tags: [chatgpt, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

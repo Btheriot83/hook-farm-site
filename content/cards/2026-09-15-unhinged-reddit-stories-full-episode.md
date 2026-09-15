@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-unhinged-reddit-stories-full-episode
-collected_at: 2026-09-15T09:44:50-07:00
+collected_at: "2026-09-15T09:44:50-07:00"
 platform: youtube
 category: true_crime
-url: https://www.youtube.com/watch?v=MCAPRAEG9wk
-creator_handle: "@TwoHotTakes"
-title: "Unhinged -- Reddit Stories -- FULL EPISODE"
+language: en
+url: "https://www.youtube.com/watch?v=MCAPRAEG9wk"
+creator_handle: @TwoHotTakes
+title: Unhinged -- Reddit Stories -- FULL EPISODE
 hook_onscreen: ""
-hook_spoken: "Hi   guys,    welcome    back    to    another    episode Hi guys, welcome back to another episode Hi guys, welcome back to another episode of   Two    Hot    Takes"
+hook_spoken: Hi   guys,    welcome    back    to    another    episode Hi guys, welcome back to another episode Hi guys, welcome back to another episode of   Two    Hot    Takes
 thumbnail_path: thumbs/2026-09-15-unhinged-reddit-stories-full-episode.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/MCAPRAEG9wk/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-unhinged-reddit-stories-full-episode.txt
@@ -15,12 +16,13 @@ views: 2565495
 likes: 28549
 comments: 2700
 saves: null
-post_date: "2021-08-24"
+post_date: 2021-08-24
 niche_tags: [true_crime, faceless, reddit]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "faceless-pref harvest"
+notes: faceless-pref harvest
 ---
+
 
 ## Transcript (~30s)
 

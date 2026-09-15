@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-5-proven-ways-to-make-money-with-ai-no-experienc
-collected_at: 2026-09-15T00:42:03-07:00
+collected_at: "2026-09-15T00:42:03-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=DZoeGR_tatA
-creator_handle: "@ImanGadzhi"
-title: "5 Proven Ways To Make Money With AI (No Experience)"
+language: en
+url: "https://www.youtube.com/watch?v=DZoeGR_tatA"
+creator_handle: @ImanGadzhi
+title: 5 Proven Ways To Make Money With AI (No Experience)
 hook_onscreen: ""
-hook_spoken: "AI, this is it"
+hook_spoken: AI, this is it
 thumbnail_path: thumbs/2026-09-15-5-proven-ways-to-make-money-with-ai-no-experienc.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/DZoeGR_tatA/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-5-proven-ways-to-make-money-with-ai-no-experienc.txt
@@ -15,12 +16,13 @@ views: 1308685
 likes: 48171
 comments: 4200
 saves: null
-post_date: "2026-07-09"
+post_date: 2026-07-09
 niche_tags: [money, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

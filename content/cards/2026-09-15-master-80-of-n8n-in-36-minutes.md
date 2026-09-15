@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-master-80-of-n8n-in-36-minutes
-collected_at: 2026-09-15T00:39:15-07:00
+collected_at: "2026-09-15T00:39:15-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=e3OV3LnrS7o
-creator_handle: "@Futurepedia"
-title: "Master 80% of n8n in 36 Minutes"
+language: en
+url: "https://www.youtube.com/watch?v=e3OV3LnrS7o"
+creator_handle: @Futurepedia
+title: Master 80% of n8n in 36 Minutes
 hook_onscreen: ""
 hook_spoken: "Naden looks complicated at first, but Naden looks complicated at first, but it's much easier than you think"
 thumbnail_path: thumbs/2026-09-15-master-80-of-n8n-in-36-minutes.jpg
@@ -15,12 +16,13 @@ views: 743982
 likes: 15830
 comments: 555
 saves: null
-post_date: "2025-08-31"
+post_date: 2025-08-31
 niche_tags: [automation, agents, tooling, ai]
 pattern_tags: [number]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

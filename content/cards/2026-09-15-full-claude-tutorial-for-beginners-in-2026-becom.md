@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-full-claude-tutorial-for-beginners-in-2026-becom
-collected_at: 2026-09-15T00:32:38-07:00
+collected_at: "2026-09-15T00:32:38-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=rRrBbyv3ChM
-creator_handle: "@AIFoundations"
-title: "FULL Claude Tutorial for Beginners in 2026! (Become a PRO!)"
+language: en
+url: "https://www.youtube.com/watch?v=rRrBbyv3ChM"
+creator_handle: @AIFoundations
+title: FULL Claude Tutorial for Beginners in 2026! (Become a PRO!)
 hook_onscreen: ""
 hook_spoken: "In this video, I'm going to walk you In this video, I'm going to walk you through every single feature in Claude through every single feature in Claude through every single feature"
 thumbnail_path: thumbs/2026-09-15-full-claude-tutorial-for-beginners-in-2026-becom.jpg
@@ -15,12 +16,13 @@ views: 1283154
 likes: 32107
 comments: 666
 saves: null
-post_date: "2026-03-09"
+post_date: 2026-03-09
 niche_tags: [claude, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

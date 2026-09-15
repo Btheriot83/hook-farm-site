@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-i-blew-up-a-youtube-channel-in-7-days-with-ai
-collected_at: 2026-09-15T00:44:03-07:00
+collected_at: "2026-09-15T00:44:03-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=1r0eyM7suUg
-creator_handle: "@JackCraig"
-title: "I BLEW UP a YouTube Channel in 7 Days with AI"
+language: en
+url: "https://www.youtube.com/watch?v=1r0eyM7suUg"
+creator_handle: @JackCraig
+title: I BLEW UP a YouTube Channel in 7 Days with AI
 hook_onscreen: ""
-hook_spoken: "This is my AI YouTube channel that went This is my AI YouTube channel that went viral in just seven days and I want you viral in just seven days and I want you viral in just seven"
+hook_spoken: This is my AI YouTube channel that went This is my AI YouTube channel that went viral in just seven days and I want you viral in just seven days and I want you viral in just seven
 thumbnail_path: thumbs/2026-09-15-i-blew-up-a-youtube-channel-in-7-days-with-ai.jpg
 thumbnail_url: "https://i.ytimg.com/vi/1r0eyM7suUg/hq720.jpg"
 transcript_path: transcripts/2026-09-15-i-blew-up-a-youtube-channel-in-7-days-with-ai.txt
@@ -15,12 +16,13 @@ views: 2316467
 likes: 77732
 comments: 3300
 saves: null
-post_date: "2025-11-21"
+post_date: 2025-11-21
 niche_tags: [money, how-to, ai]
 pattern_tags: [curiosity_gap, authority]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

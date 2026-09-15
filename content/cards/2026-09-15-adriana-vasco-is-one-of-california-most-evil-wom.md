@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-adriana-vasco-is-one-of-california-most-evil-wom
-collected_at: 2026-09-15T09:48:56-07:00
+collected_at: "2026-09-15T09:48:56-07:00"
 platform: tiktok
 category: true_crime
-url: https://www.tiktok.com/@womencrimes/video/7669813043651529997
-creator_handle: "@womencrimes"
+language: en
+url: "https://www.tiktok.com/@womencrimes/video/7669813043651529997"
+creator_handle: @womencrimes
 title: "Adriana Vasco is one of California most evil women #womencrimes #true..."
 hook_onscreen: "Adriana Vasco is one of California most evil women #womencrimes #true..."
 hook_spoken: "Adriana Vasco is one of California most evil women #womencrimes #truecrime "
@@ -15,12 +16,13 @@ views: 17200
 likes: 382
 comments: 1
 saves: null
-post_date: "2026-08-03"
+post_date: 2026-08-03
 niche_tags: [true_crime, murder, faceless]
 pattern_tags: [negative]
 format: short
-notes: "faceless packaging harvest (narration/B-roll/text-on-screen); collect-only"
+notes: faceless packaging harvest (narration/B-roll/text-on-screen); collect-only
 ---
+
 
 ## Transcript (~30s)
 

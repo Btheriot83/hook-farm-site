@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-how-to-use-comfyui-for-beginners
-collected_at: 2026-09-15T09:16:57-07:00
+collected_at: "2026-09-15T09:16:57-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=23VkGD-4uwk
-creator_handle: "@SebastianKamph"
-title: "How to use ComfyUI for beginners."
+language: en
+url: "https://www.youtube.com/watch?v=23VkGD-4uwk"
+creator_handle: @SebastianKamph
+title: How to use ComfyUI for beginners.
 hook_onscreen: ""
-hook_spoken: "Hello you beautiful people"
+hook_spoken: Hello you beautiful people
 thumbnail_path: thumbs/2026-09-15-how-to-use-comfyui-for-beginners.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/23VkGD-4uwk/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-how-to-use-comfyui-for-beginners.txt
@@ -15,12 +16,13 @@ views: 694601
 likes: 14171
 comments: 497
 saves: null
-post_date: "2025-04-19"
+post_date: 2025-04-19
 niche_tags: [comfyui, image, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

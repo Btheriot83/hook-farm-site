@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-how-to-build-an-ai-agent-with-claude-code-claude
-collected_at: 2026-09-15T00:37:40-07:00
+collected_at: "2026-09-15T00:37:40-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=bcM9dP_uXJU
-creator_handle: "@AIMaster"
-title: "How to Build an AI Agent with Claude Code (Claude AI Agent Tutorial)"
+language: en
+url: "https://www.youtube.com/watch?v=bcM9dP_uXJU"
+creator_handle: @AIMaster
+title: How to Build an AI Agent with Claude Code (Claude AI Agent Tutorial)
 hook_onscreen: ""
-hook_spoken: "Most people are still using Claude like Most people are still using Claude like a fancy search engine"
+hook_spoken: Most people are still using Claude like Most people are still using Claude like a fancy search engine
 thumbnail_path: thumbs/2026-09-15-how-to-build-an-ai-agent-with-claude-code-claude.jpg
 thumbnail_url: "https://i.ytimg.com/vi/bcM9dP_uXJU/hq720.jpg"
 transcript_path: transcripts/2026-09-15-how-to-build-an-ai-agent-with-claude-code-claude.txt
@@ -15,12 +16,13 @@ views: 389327
 likes: 3583
 comments: 120
 saves: null
-post_date: "2026-06-30"
+post_date: 2026-06-30
 niche_tags: [agents, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

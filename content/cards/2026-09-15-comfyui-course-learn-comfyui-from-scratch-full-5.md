@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-comfyui-course-learn-comfyui-from-scratch-full-5
-collected_at: 2026-09-15T09:16:46-07:00
+collected_at: "2026-09-15T09:16:46-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=HkoRkNLWQzY
-creator_handle: "@pixaroma"
-title: "ComfyUI Course - Learn ComfyUI From Scratch | Full 5 Hour Course (Ep01)"
+language: en
+url: "https://www.youtube.com/watch?v=HkoRkNLWQzY"
+creator_handle: @pixaroma
+title: ComfyUI Course - Learn ComfyUI From Scratch | Full 5 Hour Course (Ep01)
 hook_onscreen: ""
-hook_spoken: "Learning Comfy UI is like opening a Learning Comfy UI is like opening a technical book at the last page"
+hook_spoken: Learning Comfy UI is like opening a Learning Comfy UI is like opening a technical book at the last page
 thumbnail_path: thumbs/2026-09-15-comfyui-course-learn-comfyui-from-scratch-full-5.jpg
 thumbnail_url: "https://i.ytimg.com/vi/HkoRkNLWQzY/maxresdefault.jpg"
 transcript_path: transcripts/2026-09-15-comfyui-course-learn-comfyui-from-scratch-full-5.txt
@@ -15,12 +16,13 @@ views: 769100
 likes: 18301
 comments: 2500
 saves: null
-post_date: "2026-01-15"
+post_date: 2026-01-15
 niche_tags: [comfyui, image, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

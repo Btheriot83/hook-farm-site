@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-how-to-make-vibe-coding-not-suck
-collected_at: 2026-09-15T00:36:28-07:00
+collected_at: "2026-09-15T00:36:28-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=PLKrSVuT-Dg
-creator_handle: "@Fireship"
-title: "How to make vibe coding not suck\u2026"
+language: en
+url: "https://www.youtube.com/watch?v=PLKrSVuT-Dg"
+creator_handle: @Fireship
+title: How to make vibe coding not suck\u2026
 hook_onscreen: ""
-hook_spoken: "Last week, I was looking for some Last week, I was looking for some software to solve a very specific software to solve a very specific software to solve a very specific problem"
+hook_spoken: Last week, I was looking for some Last week, I was looking for some software to solve a very specific software to solve a very specific software to solve a very specific problem
 thumbnail_path: thumbs/2026-09-15-how-to-make-vibe-coding-not-suck.jpg
 thumbnail_url: "https://i.ytimg.com/vi/PLKrSVuT-Dg/hq720.jpg"
 transcript_path: transcripts/2026-09-15-how-to-make-vibe-coding-not-suck.txt
@@ -15,12 +16,13 @@ views: 914769
 likes: 30039
 comments: 1200
 saves: null
-post_date: "2025-10-14"
+post_date: 2025-10-14
 niche_tags: [cursor, coding, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

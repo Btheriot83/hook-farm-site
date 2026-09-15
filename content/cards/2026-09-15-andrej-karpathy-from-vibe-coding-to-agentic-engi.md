@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-andrej-karpathy-from-vibe-coding-to-agentic-engi
-collected_at: 2026-09-15T00:36:15-07:00
+collected_at: "2026-09-15T00:36:15-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=96jN2OCOfLs
-creator_handle: "@SequoiaCapital"
+language: en
+url: "https://www.youtube.com/watch?v=96jN2OCOfLs"
+creator_handle: @SequoiaCapital
 title: "Andrej Karpathy: From Vibe Coding to Agentic Engineering w/ Stephanie Zhan"
 hook_onscreen: ""
 hook_spoken: "We're so excited for our very first We're so excited for our very first special guest"
@@ -15,12 +16,13 @@ views: 1548378
 likes: 30420
 comments: 1000
 saves: null
-post_date: "2026-04-29"
+post_date: 2026-04-29
 niche_tags: [cursor, coding, ai]
 pattern_tags: [before_after]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-i-found-a-secret-ai-music-generator-100-free-and
-collected_at: 2026-09-15T09:16:15-07:00
+collected_at: "2026-09-15T09:16:15-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=k_TPO1v4tLQ
-creator_handle: "@AIAutomationLabs"
-title: "I Found a Secret AI MUSIC Generator - 100% FREE and Unlimited (With Commercial usage rights)"
+language: en
+url: "https://www.youtube.com/watch?v=k_TPO1v4tLQ"
+creator_handle: @AIAutomationLabs
+title: I Found a Secret AI MUSIC Generator - 100% FREE and Unlimited (With Commercial usage rights)
 hook_onscreen: ""
-hook_spoken: "You guys have been asking me for a free You guys have been asking me for a free AI music generator"
+hook_spoken: You guys have been asking me for a free You guys have been asking me for a free AI music generator
 thumbnail_path: thumbs/2026-09-15-i-found-a-secret-ai-music-generator-100-free-and.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/k_TPO1v4tLQ/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-i-found-a-secret-ai-music-generator-100-free-and.txt
@@ -15,12 +16,13 @@ views: 629634
 likes: 10411
 comments: 1300
 saves: null
-post_date: "2025-07-29"
+post_date: 2025-07-29
 niche_tags: [udio, music, ai]
 pattern_tags: [number, negative, secret, authority]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

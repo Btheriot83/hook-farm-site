@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-laziest-ways-to-make-money-with-ai-for-beginners
-collected_at: 2026-09-15T00:41:54-07:00
+collected_at: "2026-09-15T00:41:54-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=ytAW1_g2IfI
-creator_handle: "@MarkTilbury"
-title: "Laziest Ways to Make Money with AI (For Beginners)"
+language: en
+url: "https://www.youtube.com/watch?v=ytAW1_g2IfI"
+creator_handle: @MarkTilbury
+title: Laziest Ways to Make Money with AI (For Beginners)
 hook_onscreen: ""
 hook_spoken: "What's the laziest way for beginners to What's the laziest way for beginners to make money online using AI? That is one make money online using AI? That is one make money online us"
 thumbnail_path: thumbs/2026-09-15-laziest-ways-to-make-money-with-ai-for-beginners.jpg
@@ -15,12 +16,13 @@ views: 2132495
 likes: 75288
 comments: 1800
 saves: null
-post_date: "2026-07-25"
+post_date: 2026-07-25
 niche_tags: [money, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

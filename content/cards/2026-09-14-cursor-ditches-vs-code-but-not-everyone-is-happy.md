@@ -1,26 +1,28 @@
 ---
 id: 2026-09-14-cursor-ditches-vs-code-but-not-everyone-is-happy
-collected_at: 2026-09-14T23:25:00-07:00
+collected_at: "2026-09-14T23:25:00-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=JSuS-zXMVwE
-creator_handle: "@Fireship"
-title: "Cursor ditches VS Code, but not everyone is happy..."
+language: en
+url: "https://www.youtube.com/watch?v=JSuS-zXMVwE"
+creator_handle: @Fireship
+title: Cursor ditches VS Code, but not everyone is happy...
 hook_onscreen: ""
 hook_spoken: "It's 2 years ago, Cursor 1.0 was released as a VS Code fork that helped you auto complete your code with AI like an airline co-pilot."
 thumbnail_path: thumbs/2026-09-14-cursor-ditches-vs-code-but-not-everyone-is-happy.jpg
-thumbnail_url: https://i.ytimg.com/vi_webp/JSuS-zXMVwE/maxresdefault.webp
+thumbnail_url: "https://i.ytimg.com/vi_webp/JSuS-zXMVwE/maxresdefault.webp"
 transcript_path: transcripts/2026-09-14-cursor-ditches-vs-code-but-not-everyone-is-happy.txt
 views: 910278
 likes: 24980
 comments: 1100
 saves: null
-post_date: "2026-04-06"
+post_date: 2026-04-06
 niche_tags: [cursor, tooling, ai]
 pattern_tags: [curiosity_gap, negative, authority]
 format: long
 notes: "Controversy hook: ditches VS Code"
 ---
+
 
 ## Transcript (~30s)
 

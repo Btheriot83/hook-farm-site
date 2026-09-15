@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-these-6-chatgpt-hacks-will-make-you-so-much-mone
-collected_at: 2026-09-15T00:27:40-07:00
+collected_at: "2026-09-15T00:27:40-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=bkM-lYgAxh0
-creator_handle: "@DanMartell"
-title: "These 6 ChatGPT Hacks Will Make You So Much Money It Feels Illegal"
+language: en
+url: "https://www.youtube.com/watch?v=bkM-lYgAxh0"
+creator_handle: @DanMartell
+title: These 6 ChatGPT Hacks Will Make You So Much Money It Feels Illegal
 hook_onscreen: ""
 hook_spoken: "Chat GPT just changed business forever Chat GPT just changed business forever and now it's easier than ever to get and now it's easier than ever to get and now it's easier than eve"
 thumbnail_path: thumbs/2026-09-15-these-6-chatgpt-hacks-will-make-you-so-much-mone.jpg
@@ -15,12 +16,13 @@ views: 622701
 likes: 21823
 comments: 502
 saves: null
-post_date: "2026-01-23"
+post_date: 2026-01-23
 niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [negative]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

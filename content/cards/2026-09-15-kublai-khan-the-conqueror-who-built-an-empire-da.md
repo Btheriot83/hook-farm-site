@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-kublai-khan-the-conqueror-who-built-an-empire-da
-collected_at: 2026-09-15T09:47:27-07:00
+collected_at: "2026-09-15T09:47:27-07:00"
 platform: tiktok
 category: true_crime
-url: https://www.tiktok.com/@hell.of.a.history/video/7615641211809959198
-creator_handle: "@hell.of.a.history"
+language: en
+url: "https://www.tiktok.com/@hell.of.a.history/video/7615641211809959198"
+creator_handle: @hell.of.a.history
 title: "Kublai Khan: The Conqueror Who Built an Empire: Dark History True His..."
 hook_onscreen: "Kublai Khan: The Conqueror Who Built an Empire: Dark History True His..."
 hook_spoken: "Kublai Khan: The Conqueror Who Built an Empire: Dark History True Historical Stories Villains of History Heroes from the Past Insane Real History Unsung Heroes Twisted Historical F"
@@ -15,12 +16,13 @@ views: 5327
 likes: 57
 comments: 1
 saves: null
-post_date: "2026-03-10"
+post_date: 2026-03-10
 niche_tags: [true_crime, faceless, narration, history]
 pattern_tags: [curiosity_gap, secret, authority]
 format: short
-notes: "faceless packaging harvest (narration/B-roll/text-on-screen); collect-only"
+notes: faceless packaging harvest (narration/B-roll/text-on-screen); collect-only
 ---
+
 
 ## Transcript (~30s)
 

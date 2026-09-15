@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-you-need-to-use-n8n-right-now-free-local-private
-collected_at: 2026-09-15T00:38:48-07:00
+collected_at: "2026-09-15T00:38:48-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=ONgECvZNI3o
-creator_handle: "@NetworkChuck"
-title: "You NEED to Use n8n RIGHT NOW!! (Free, Local, Private)"
+language: en
+url: "https://www.youtube.com/watch?v=ONgECvZNI3o"
+creator_handle: @NetworkChuck
+title: You NEED to Use n8n RIGHT NOW!! (Free, Local, Private)
 hook_onscreen: ""
-hook_spoken: "You need to use N right now"
+hook_spoken: You need to use N right now
 thumbnail_path: thumbs/2026-09-15-you-need-to-use-n8n-right-now-free-local-private.jpg
 thumbnail_url: "https://i.ytimg.com/vi/ONgECvZNI3o/hq720.jpg"
 transcript_path: transcripts/2026-09-15-you-need-to-use-n8n-right-now-free-local-private.txt
@@ -15,12 +16,13 @@ views: 2602496
 likes: 96569
 comments: 2600
 saves: null
-post_date: "2025-07-16"
+post_date: 2025-07-16
 niche_tags: [automation, agents, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

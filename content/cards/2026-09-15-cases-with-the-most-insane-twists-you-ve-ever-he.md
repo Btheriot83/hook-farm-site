@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-cases-with-the-most-insane-twists-you-ve-ever-he
-collected_at: 2026-09-15T09:44:01-07:00
+collected_at: "2026-09-15T09:44:01-07:00"
 platform: youtube
 category: true_crime
-url: https://www.youtube.com/watch?v=UNi0dvB-4L0
-creator_handle: "@EXPLOREWITHUS"
+language: en
+url: "https://www.youtube.com/watch?v=UNi0dvB-4L0"
+creator_handle: @EXPLOREWITHUS
 title: "Cases With The Most INSANE Twists You've Ever Heard"
 hook_onscreen: ""
-hook_spoken: "what   is    up    ewoo    crew what is up ewoo crew what is up ewoo crew today   we    are    taking    a    look    at    cases    with today we are taking a look at cases with t"
+hook_spoken: what   is    up    ewoo    crew what is up ewoo crew what is up ewoo crew today   we    are    taking    a    look    at    cases    with today we are taking a look at cases with t
 thumbnail_path: thumbs/2026-09-15-cases-with-the-most-insane-twists-you-ve-ever-he.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/UNi0dvB-4L0/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-cases-with-the-most-insane-twists-you-ve-ever-he.txt
@@ -15,12 +16,13 @@ views: 8272787
 likes: 99749
 comments: 3600
 saves: null
-post_date: "2021-02-15"
+post_date: 2021-02-15
 niche_tags: [true_crime, faceless, reddit]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "faceless-pref harvest"
+notes: faceless-pref harvest
 ---
+
 
 ## Transcript (~30s)
 

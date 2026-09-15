@@ -1,0 +1,29 @@
+---
+id: 2026-09-15-mobile-mechanic-van-tour-120-000-a-year-revenue
+collected_at: "2026-09-15T09:50:31-07:00"
+platform: youtube
+category: diesel
+language: en
+url: "https://www.youtube.com/watch?v=JxPNWkXPqcI"
+creator_handle: @TyTheCarGuy
+title: Mobile Mechanic Van Tour - $120,000 a Year Revenue
+hook_onscreen: ""
+hook_spoken: "what's   going    on    guys    I'm    ty    of    the    car what's going on guys I'm ty of the car what's going on guys I'm ty of the car guy   and    this    is    the    vour"
+thumbnail_path: thumbs/2026-09-15-mobile-mechanic-van-tour-120-000-a-year-revenue.jpg
+thumbnail_url: "https://i.ytimg.com/vi/JxPNWkXPqcI/maxresdefault.jpg"
+transcript_path: transcripts/2026-09-15-mobile-mechanic-van-tour-120-000-a-year-revenue.txt
+views: 320984
+likes: 7136
+comments: 487
+saves: null
+post_date: 2024-05-19
+niche_tags: [diesel, mechanic]
+pattern_tags: [number]
+format: long
+notes: diesel packaging harvest; AZMDR/Uber-of-diesel training seed
+---
+
+
+## Transcript (~30s)
+
+what's   going    on    guys    I'm    ty    of    the    car what's going on guys I'm ty of the car what's going on guys I'm ty of the car guy   and    this    is    the    vour    you've    all    been guy and this is the vour you've all been guy and this is the vour you've all been waiting   for    so    here    we    have    a    2011    Ford waiting for so here we have a 2011 Ford waiting for so here we have a 2011 Ford Econoline Econoline Econoline 150   right    here    is    my    packout 150 right here is my packout 150 right here is my packout stack   here's    where    I    keep    all    my stack here's where I keep all my stack here's where I keep all my extensions   ratchets    manual    ratchets    that extensions ratchets manual ratchets that extensions ratchets manual ratchets that you   guys    never    seen    me    use    mag    tray you guys never seen me use mag tray you guys never seen me use mag tray packout   mag packout mag packout mag tray   deep    well    38    packout    sockets    and tray deep well 38 packout sockets and tray deep well 38 packout sockets and the   reason    I    love    these    sockets    is    cuz the reason I love these sockets is cuz the reason I love these sockets is cuz they   snap    into    place they snap into place they snap into place and   uh    when    I    take    them    with    me    I    don't and uh when I take them with me I don't and uh when I take them with me I don't have   to    grab    them    one    by    one    I    could have to grab them one by one I could have to grab them one by one I could just   uncp    the    pack    out    and    just    take    it

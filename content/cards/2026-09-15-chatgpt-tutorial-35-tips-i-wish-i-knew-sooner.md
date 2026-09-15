@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-chatgpt-tutorial-35-tips-i-wish-i-knew-sooner
-collected_at: 2026-09-15T00:27:08-07:00
+collected_at: "2026-09-15T00:27:08-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=WTF5qphyy8w
-creator_handle: "@MattWolfe"
+language: en
+url: "https://www.youtube.com/watch?v=WTF5qphyy8w"
+creator_handle: @MattWolfe
 title: "ChatGPT Tutorial: 35 Tips I Wish I Knew Sooner"
 hook_onscreen: ""
 hook_spoken: "Welcome to the wild world of AI, where Welcome to the wild world of AI, where if you blink, you'll miss a dozen if you blink, you'll miss a dozen if you blink, you'll miss a dozen"
@@ -15,12 +16,13 @@ views: 353144
 likes: 10384
 comments: 297
 saves: null
-post_date: "2025-09-10"
+post_date: 2025-09-10
 niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [number, how_to_promise, tool_reveal, authority]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

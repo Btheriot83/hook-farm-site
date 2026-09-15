@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-what-are-ai-agents-really-about
-collected_at: 2026-09-15T00:37:59-07:00
+collected_at: "2026-09-15T00:37:59-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=eHEHE2fpnWQ
-creator_handle: "@ByteByteGo"
-title: "What Are AI Agents Really About?"
+language: en
+url: "https://www.youtube.com/watch?v=eHEHE2fpnWQ"
+creator_handle: @ByteByteGo
+title: What Are AI Agents Really About?
 hook_onscreen: ""
 hook_spoken: "today we're exploring AI agents A today we're exploring AI agents A transformative approach to Building transformative approach to Building transformative approach to Building Syst"
 thumbnail_path: thumbs/2026-09-15-what-are-ai-agents-really-about.jpg
@@ -15,12 +16,13 @@ views: 280573
 likes: 5606
 comments: 89
 saves: null
-post_date: "2025-03-19"
+post_date: 2025-03-19
 niche_tags: [agents, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

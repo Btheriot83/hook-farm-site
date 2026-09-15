@@ -1,26 +1,28 @@
 ---
 id: 2026-09-14-theres-a-new-kind-of-coding-i-call-vibe-coding-whe
-collected_at: 2026-09-14T23:45:00-07:00
+collected_at: "2026-09-14T23:45:00-07:00"
 platform: x
 category: ai
-url: https://x.com/karpathy/status/1886192184808149383
-creator_handle: "@karpathy"
-title: "There's a new kind of coding I call \"vibe coding\", where you fully give in to the vibes, embrace exponentials, and forge"
+language: en
+url: "https://x.com/karpathy/status/1886192184808149383"
+creator_handle: @karpathy
+title: "There's a new kind of coding I call \\\"vibe coding\\\", where you fully give in to the vibes, embrace exponentials, and forge"
 hook_onscreen: ""
-hook_spoken: "There's a new kind of coding I call \"vibe coding\", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists. It's possible because the LLMs (e.g. Cursor Compose"
+hook_spoken: "There's a new kind of coding I call \\\"vibe coding\\\", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists. It's possible because the LLMs (e.g. Cursor Compose"
 thumbnail_path: thumbs/2026-09-14-theres-a-new-kind-of-coding-i-call-vibe-coding-whe.jpg
-thumbnail_url: https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_200x200.jpg
+thumbnail_url: "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_200x200.jpg"
 transcript_path: transcripts/2026-09-14-theres-a-new-kind-of-coding-i-call-vibe-coding-whe.txt
 views: 7354444
 likes: 34157
 comments: 1472
 saves: 17845
-post_date: "2025-02-02"
+post_date: 2025-02-02
 niche_tags: [cursor, tooling, how-to, ai]
 pattern_tags: [curiosity_gap, authority, tool_reveal]
 format: text
 notes: "Karpathy coined 'vibe coding' naming Cursor Composer; landmark packaging"
 ---
+
 
 ## Transcript (~30s)
 

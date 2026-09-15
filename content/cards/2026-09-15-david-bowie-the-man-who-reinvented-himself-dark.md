@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-david-bowie-the-man-who-reinvented-himself-dark
-collected_at: 2026-09-15T09:47:43-07:00
+collected_at: "2026-09-15T09:47:43-07:00"
 platform: tiktok
 category: true_crime
-url: https://www.tiktok.com/@hell.of.a.history/video/7617616397002083614
-creator_handle: "@hell.of.a.history"
+language: en
+url: "https://www.tiktok.com/@hell.of.a.history/video/7617616397002083614"
+creator_handle: @hell.of.a.history
 title: "David Bowie: The Man Who Reinvented Himself: Dark History True Histor..."
 hook_onscreen: "David Bowie: The Man Who Reinvented Himself: Dark History True Histor..."
 hook_spoken: "David Bowie: The Man Who Reinvented Himself: Dark History True Historical Stories Villains of History Heroes from the Past Insane Real History Unsung Heroes Twisted Historical Fact"
@@ -15,12 +16,13 @@ views: 2442
 likes: 36
 comments: 0
 saves: null
-post_date: "2026-03-15"
+post_date: 2026-03-15
 niche_tags: [true_crime, faceless, narration, history]
 pattern_tags: [curiosity_gap, secret]
 format: short
-notes: "faceless packaging harvest (narration/B-roll/text-on-screen); collect-only"
+notes: faceless packaging harvest (narration/B-roll/text-on-screen); collect-only
 ---
+
 
 ## Transcript (~30s)
 

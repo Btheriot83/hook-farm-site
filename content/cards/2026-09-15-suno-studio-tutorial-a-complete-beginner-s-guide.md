@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-suno-studio-tutorial-a-complete-beginner-s-guide
-collected_at: 2026-09-15T09:15:45-07:00
+collected_at: "2026-09-15T09:15:45-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=qR4BefPvSiI
-creator_handle: "@SunoMusic"
+language: en
+url: "https://www.youtube.com/watch?v=qR4BefPvSiI"
+creator_handle: @SunoMusic
 title: "Suno Studio Tutorial: A Complete Beginner's Guide (2026)"
 hook_onscreen: ""
 hook_spoken: "My hope is that it interprets this vocal My hope is that it interprets this vocal melody that I've sung as a trumpet"
@@ -15,12 +16,13 @@ views: 579773
 likes: 12656
 comments: 1800
 saves: null
-post_date: "2025-09-25"
+post_date: 2025-09-25
 niche_tags: [suno, music, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

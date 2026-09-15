@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-openai-swarm-langgraph-autogen-crewai-which-ai-a
-collected_at: 2026-09-15T00:38:42-07:00
+collected_at: "2026-09-15T00:38:42-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=2F-z9s4wgwk
-creator_handle: "@GettingStartedwithJeff"
+language: en
+url: "https://www.youtube.com/watch?v=2F-z9s4wgwk"
+creator_handle: @GettingStartedwithJeff
 title: "OpenAI Swarm, LangGraph, AutoGen, & CrewAI: Which AI Agent Framework Wins?"
 hook_onscreen: ""
 hook_spoken: "this is the year of AI agents you've this is the year of AI agents you've probably heard this one a lot lately and probably heard this one a lot lately and probably heard this one"
@@ -15,12 +16,13 @@ views: 27359
 likes: 534
 comments: 24
 saves: null
-post_date: "2024-10-17"
+post_date: 2024-10-17
 niche_tags: [agents, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

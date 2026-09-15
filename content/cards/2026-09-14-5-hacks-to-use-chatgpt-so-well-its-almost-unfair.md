@@ -1,26 +1,28 @@
 ---
 id: 2026-09-14-5-hacks-to-use-chatgpt-so-well-its-almost-unfair
-collected_at: 2026-09-14T23:25:00-07:00
+collected_at: "2026-09-14T23:25:00-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=loujaeBy8p0
-creator_handle: "@SandeepSwadia"
-title: "5 Hacks To Use ChatGPT So Well It’s Almost Unfair"
+language: en
+url: "https://www.youtube.com/watch?v=loujaeBy8p0"
+creator_handle: @SandeepSwadia
+title: 5 Hacks To Use ChatGPT So Well It’s Almost Unfair
 hook_onscreen: ""
-hook_spoken: "Most people treat Chat GPT like a new intern, but I use it to try five strategies."
+hook_spoken: Most people treat Chat GPT like a new intern, but I use it to try five strategies.
 thumbnail_path: thumbs/2026-09-14-5-hacks-to-use-chatgpt-so-well-its-almost-unfair.jpg
-thumbnail_url: https://i.ytimg.com/vi_webp/loujaeBy8p0/maxresdefault.webp
+thumbnail_url: "https://i.ytimg.com/vi_webp/loujaeBy8p0/maxresdefault.webp"
 transcript_path: transcripts/2026-09-14-5-hacks-to-use-chatgpt-so-well-its-almost-unfair.txt
 views: 2470382
 likes: 71338
 comments: 1300
 saves: null
-post_date: "2026-02-18"
+post_date: 2026-02-18
 niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [number, negative, how_to_promise, secret]
 format: long
-notes: "Almost unfair / hacks framing; 2.47M views"
+notes: Almost unfair / hacks framing; 2.47M views
 ---
+
 
 ## Transcript (~30s)
 

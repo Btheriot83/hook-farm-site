@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-which-agentic-ai-framework-to-pick-langgraph-vs
-collected_at: 2026-09-15T00:38:38-07:00
+collected_at: "2026-09-15T00:38:38-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=8lsJ7zLa2Pk
-creator_handle: "@W.W.AIAdventures"
-title: "Which Agentic AI Framework to Pick? LangGraph vs. CrewAI vs. AutoGen"
+language: en
+url: "https://www.youtube.com/watch?v=8lsJ7zLa2Pk"
+creator_handle: @W.W.AIAdventures
+title: Which Agentic AI Framework to Pick? LangGraph vs. CrewAI vs. AutoGen
 hook_onscreen: ""
 hook_spoken: "hi guys I've been getting frustrated hi guys I've been getting frustrated recently about the number of different recently about the number of different recently about the number of"
 thumbnail_path: thumbs/2026-09-15-which-agentic-ai-framework-to-pick-langgraph-vs.jpg
@@ -15,12 +16,13 @@ views: 55597
 likes: 1486
 comments: 124
 saves: null
-post_date: "2025-01-10"
+post_date: 2025-01-10
 niche_tags: [agents, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

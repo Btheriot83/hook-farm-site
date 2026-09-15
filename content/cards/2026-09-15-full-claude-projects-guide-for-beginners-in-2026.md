@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-full-claude-projects-guide-for-beginners-in-2026
-collected_at: 2026-09-15T00:34:22-07:00
+collected_at: "2026-09-15T00:34:22-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=fOnKo_Hole8
-creator_handle: "@AIFoundations"
-title: "FULL Claude Projects Guide For Beginners in 2026! (Become a PRO)"
+language: en
+url: "https://www.youtube.com/watch?v=fOnKo_Hole8"
+creator_handle: @AIFoundations
+title: FULL Claude Projects Guide For Beginners in 2026! (Become a PRO)
 hook_onscreen: ""
 hook_spoken: "In this video, I'm going to teach you In this video, I'm going to teach you everything you need to know about Claude everything you need to know about Claude everything you need to"
 thumbnail_path: thumbs/2026-09-15-full-claude-projects-guide-for-beginners-in-2026.jpg
@@ -15,12 +16,13 @@ views: 90642
 likes: 2042
 comments: 72
 saves: null
-post_date: "2026-04-09"
+post_date: 2026-04-09
 niche_tags: [claude, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

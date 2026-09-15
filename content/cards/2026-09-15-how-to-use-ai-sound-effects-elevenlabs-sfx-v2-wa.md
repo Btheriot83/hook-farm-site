@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-how-to-use-ai-sound-effects-elevenlabs-sfx-v2-wa
-collected_at: 2026-09-15T09:16:28-07:00
+collected_at: "2026-09-15T09:16:28-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=iyHypKlscV0
-creator_handle: "@ElevenLabs"
-title: "How to Use AI Sound Effects \u2013 ElevenLabs SFX v2 Walkthrough"
+language: en
+url: "https://www.youtube.com/watch?v=iyHypKlscV0"
+creator_handle: @ElevenLabs
+title: How to Use AI Sound Effects \u2013 ElevenLabs SFX v2 Walkthrough
 hook_onscreen: ""
-hook_spoken: "AI sound effects in 11 Labs just got a AI sound effects in 11 Labs just got a major upgrade"
+hook_spoken: AI sound effects in 11 Labs just got a AI sound effects in 11 Labs just got a major upgrade
 thumbnail_path: thumbs/2026-09-15-how-to-use-ai-sound-effects-elevenlabs-sfx-v2-wa.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/iyHypKlscV0/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-how-to-use-ai-sound-effects-elevenlabs-sfx-v2-wa.txt
@@ -15,12 +16,13 @@ views: 14125487
 likes: 781
 comments: 27
 saves: null
-post_date: "2025-09-05"
+post_date: 2025-09-05
 niche_tags: [elevenlabs, voice, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

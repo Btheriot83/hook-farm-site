@@ -1,26 +1,28 @@
 ---
 id: 2026-09-14-youre-not-behind-yet-how-to-learn-ai-in-29-minutes
-collected_at: 2026-09-14T23:25:00-07:00
+collected_at: "2026-09-14T23:25:00-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=9c7zh2MkslY
-creator_handle: "@Futurepedia"
+language: en
+url: "https://www.youtube.com/watch?v=9c7zh2MkslY"
+creator_handle: @Futurepedia
 title: "You’re Not Behind (Yet): How to Learn AI in 29 Minutes"
 hook_onscreen: ""
-hook_spoken: "AI is becoming more powerful and more deeply woven into everything we do."
+hook_spoken: AI is becoming more powerful and more deeply woven into everything we do.
 thumbnail_path: thumbs/2026-09-14-youre-not-behind-yet-how-to-learn-ai-in-29-minutes.jpg
-thumbnail_url: https://i.ytimg.com/vi/9c7zh2MkslY/maxresdefault.jpg
+thumbnail_url: "https://i.ytimg.com/vi/9c7zh2MkslY/maxresdefault.jpg"
 transcript_path: transcripts/2026-09-14-youre-not-behind-yet-how-to-learn-ai-in-29-minutes.txt
 views: 1063745
 likes: 26162
 comments: 1000
 saves: null
-post_date: "2025-07-31"
+post_date: 2025-07-31
 niche_tags: [how-to, tooling, ai]
 pattern_tags: [negative, how_to_promise, curiosity_gap]
 format: long
 notes: "You're Not Behind (Yet) reassurance + urgency"
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-getting-started-with-projects-in-claude-ai
-collected_at: 2026-09-15T00:32:30-07:00
+collected_at: "2026-09-15T00:32:30-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=GJ5jTgcbRHA
-creator_handle: "@Anthropic"
-title: "Getting started with projects in Claude.ai"
+language: en
+url: "https://www.youtube.com/watch?v=GJ5jTgcbRHA"
+creator_handle: @Anthropic
+title: Getting started with projects in Claude.ai
 hook_onscreen: ""
-hook_spoken: "What are projects and how do they What are projects and how do they improve working with Claude? improve working with Claude? improve working with Claude? With projects, Claude use"
+hook_spoken: What are projects and how do they What are projects and how do they improve working with Claude? improve working with Claude? improve working with Claude? With projects, Claude use
 thumbnail_path: thumbs/2026-09-15-getting-started-with-projects-in-claude-ai.jpg
 thumbnail_url: "https://i.ytimg.com/vi/GJ5jTgcbRHA/hq720.jpg"
 transcript_path: transcripts/2026-09-15-getting-started-with-projects-in-claude-ai.txt
@@ -15,12 +16,13 @@ views: 1420184
 likes: 5475
 comments: 100
 saves: null
-post_date: "2025-12-02"
+post_date: 2025-12-02
 niche_tags: [claude, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

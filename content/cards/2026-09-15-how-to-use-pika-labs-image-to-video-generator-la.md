@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-how-to-use-pika-labs-image-to-video-generator-la
-collected_at: 2026-09-15T09:18:13-07:00
+collected_at: "2026-09-15T09:18:13-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=MZh2RhG4tkM
-creator_handle: "@DavidK.Dundas"
-title: "How to use Pika Labs - Image to Video Generator  (Latest Features 2024)"
+language: en
+url: "https://www.youtube.com/watch?v=MZh2RhG4tkM"
+creator_handle: @DavidK.Dundas
+title: How to use Pika Labs - Image to Video Generator  (Latest Features 2024)
 hook_onscreen: ""
 hook_spoken: "this is the image here that we're going this is the image here that we're going to be turning into a video we want him to be turning into a video we want him to be turning into a v"
 thumbnail_path: thumbs/2026-09-15-how-to-use-pika-labs-image-to-video-generator-la.jpg
@@ -15,12 +16,13 @@ views: 97538
 likes: 917
 comments: 79
 saves: null
-post_date: "2024-04-27"
+post_date: 2024-04-27
 niche_tags: [pika, video, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

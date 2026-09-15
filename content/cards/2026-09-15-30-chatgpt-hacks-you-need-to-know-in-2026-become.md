@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-30-chatgpt-hacks-you-need-to-know-in-2026-become
-collected_at: 2026-09-15T00:26:50-07:00
+collected_at: "2026-09-15T00:26:50-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=zWEV2aE4RMg
-creator_handle: "@AIMaster"
-title: "30 ChatGPT Hacks You Need to Know in 2026 (Become a PRO!)"
+language: en
+url: "https://www.youtube.com/watch?v=zWEV2aE4RMg"
+creator_handle: @AIMaster
+title: 30 ChatGPT Hacks You Need to Know in 2026 (Become a PRO!)
 hook_onscreen: ""
 hook_spoken: "in this video I'm going to share with in this video I'm going to share with you 30 tips to make your experience with you 30 tips to make your experience with you 30 tips to make yo"
 thumbnail_path: thumbs/2026-09-15-30-chatgpt-hacks-you-need-to-know-in-2026-become.jpg
@@ -15,12 +16,13 @@ views: 771508
 likes: 15638
 comments: 478
 saves: null
-post_date: "2024-12-10"
+post_date: 2024-12-10
 niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

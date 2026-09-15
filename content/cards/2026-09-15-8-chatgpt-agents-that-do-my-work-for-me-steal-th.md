@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-8-chatgpt-agents-that-do-my-work-for-me-steal-th
-collected_at: 2026-09-15T00:32:07-07:00
+collected_at: "2026-09-15T00:32:07-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=ubzhh4kMCLo
-creator_handle: "@RileyBrown"
-title: "8 ChatGPT Agents That Do My Work for Me (Steal These)"
+language: en
+url: "https://www.youtube.com/watch?v=ubzhh4kMCLo"
+creator_handle: @RileyBrown
+title: 8 ChatGPT Agents That Do My Work for Me (Steal These)
 hook_onscreen: ""
 hook_spoken: "Today, we're going to turn Chat GBT from Today, we're going to turn Chat GBT from something we prompt into an agent that something we prompt into an agent that something we prompt"
 thumbnail_path: thumbs/2026-09-15-8-chatgpt-agents-that-do-my-work-for-me-steal-th.jpg
@@ -15,12 +16,13 @@ views: 79198
 likes: 890
 comments: 70
 saves: null
-post_date: "2026-09-04"
+post_date: 2026-09-04
 niche_tags: [chatgpt, money, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

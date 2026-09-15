@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-how-to-use-midjourney-for-beginners-in-2026
-collected_at: 2026-09-15T09:17:13-07:00
+collected_at: "2026-09-15T09:17:13-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=xoZG5WQbgMw
-creator_handle: "@TheAIAdvantage"
-title: "How to Use Midjourney for Beginners in 2026"
+language: en
+url: "https://www.youtube.com/watch?v=xoZG5WQbgMw"
+creator_handle: @TheAIAdvantage
+title: How to Use Midjourney for Beginners in 2026
 hook_onscreen: ""
-hook_spoken: "Let me show you how to make insanely Let me show you how to make insanely beautiful images like this and turn them beautiful images like this and turn them beautiful images like th"
+hook_spoken: Let me show you how to make insanely Let me show you how to make insanely beautiful images like this and turn them beautiful images like this and turn them beautiful images like th
 thumbnail_path: thumbs/2026-09-15-how-to-use-midjourney-for-beginners-in-2026.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/xoZG5WQbgMw/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-how-to-use-midjourney-for-beginners-in-2026.txt
@@ -15,12 +16,13 @@ views: 199832
 likes: 2747
 comments: 72
 saves: null
-post_date: "2025-10-14"
+post_date: 2025-10-14
 niche_tags: [image, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

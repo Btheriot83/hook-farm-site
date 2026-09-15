@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-the-best-ai-side-hustles-to-start-if-you-re-brok
-collected_at: 2026-09-15T00:43:49-07:00
+collected_at: "2026-09-15T00:43:49-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=8NvhbfZNTrc
-creator_handle: "@WholesaleTed"
+language: en
+url: "https://www.youtube.com/watch?v=8NvhbfZNTrc"
+creator_handle: @WholesaleTed
 title: "The Best AI Side Hustles To Start If You're BROKE"
 hook_onscreen: ""
-hook_spoken: "Can I show you seven AI side hustles Can I show you seven AI side hustles that are paying people more than their that are paying people more than their that are paying people more"
+hook_spoken: Can I show you seven AI side hustles Can I show you seven AI side hustles that are paying people more than their that are paying people more than their that are paying people more
 thumbnail_path: thumbs/2026-09-15-the-best-ai-side-hustles-to-start-if-you-re-brok.jpg
 thumbnail_url: "https://i.ytimg.com/vi/8NvhbfZNTrc/hq720.jpg"
 transcript_path: transcripts/2026-09-15-the-best-ai-side-hustles-to-start-if-you-re-brok.txt
@@ -15,12 +16,13 @@ views: 152719
 likes: 6660
 comments: 306
 saves: null
-post_date: "2026-08-20"
+post_date: 2026-08-20
 niche_tags: [money, chatgpt, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

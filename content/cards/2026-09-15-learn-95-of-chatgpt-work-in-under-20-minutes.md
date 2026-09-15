@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-learn-95-of-chatgpt-work-in-under-20-minutes
-collected_at: 2026-09-15T00:27:21-07:00
+collected_at: "2026-09-15T00:27:21-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=KmcTu2EigTs
-creator_handle: "@JeffSu"
-title: "Learn 95% of ChatGPT Work in Under 20 Minutes"
+language: en
+url: "https://www.youtube.com/watch?v=KmcTu2EigTs"
+creator_handle: @JeffSu
+title: Learn 95% of ChatGPT Work in Under 20 Minutes
 hook_onscreen: ""
 hook_spoken: "You're in the right place if you use You're in the right place if you use ChatGPT every day, know that ChatGPT ChatGPT every day, know that ChatGPT ChatGPT every day, know that Cha"
 thumbnail_path: thumbs/2026-09-15-learn-95-of-chatgpt-work-in-under-20-minutes.jpg
@@ -15,12 +16,13 @@ views: 223903
 likes: 3071
 comments: 257
 saves: null
-post_date: "2026-08-25"
+post_date: 2026-08-25
 niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [number, how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

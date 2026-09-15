@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-the-only-way-to-run-deepseek
-collected_at: 2026-09-15T09:22:12-07:00
+collected_at: "2026-09-15T09:22:12-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=7TR-FLWNVHY
-creator_handle: "@NetworkChuck"
-title: "the ONLY way to run Deepseek..."
+language: en
+url: "https://www.youtube.com/watch?v=7TR-FLWNVHY"
+creator_handle: @NetworkChuck
+title: the ONLY way to run Deepseek...
 hook_onscreen: ""
-hook_spoken: "is it actually safe to run AI models is it actually safe to run AI models like deep seek R1 locally on your like deep seek R1 locally on your like deep seek R1 locally on your comp"
+hook_spoken: is it actually safe to run AI models is it actually safe to run AI models like deep seek R1 locally on your like deep seek R1 locally on your like deep seek R1 locally on your comp
 thumbnail_path: thumbs/2026-09-15-the-only-way-to-run-deepseek.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/7TR-FLWNVHY/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-the-only-way-to-run-deepseek.txt
@@ -15,12 +16,13 @@ views: 1238167
 likes: 41692
 comments: 2800
 saves: null
-post_date: "2025-01-31"
+post_date: 2025-01-31
 niche_tags: [deepseek, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

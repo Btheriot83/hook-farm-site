@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-cursor-just-unleashed-grokbot-everything-you-nee
-collected_at: 2026-09-15T00:35:50-07:00
+collected_at: "2026-09-15T00:35:50-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=8Yf9IoXkROM
-creator_handle: "@RileyBrown"
-title: "Cursor Just Unleashed GrokBot (Everything You NEED to Know)"
+language: en
+url: "https://www.youtube.com/watch?v=8Yf9IoXkROM"
+creator_handle: @RileyBrown
+title: Cursor Just Unleashed GrokBot (Everything You NEED to Know)
 hook_onscreen: ""
-hook_spoken: "We have some breaking news in the world We have some breaking news in the world of AI agents"
+hook_spoken: We have some breaking news in the world We have some breaking news in the world of AI agents
 thumbnail_path: thumbs/2026-09-15-cursor-just-unleashed-grokbot-everything-you-nee.jpg
 thumbnail_url: "https://i.ytimg.com/vi/8Yf9IoXkROM/hq720.jpg"
 transcript_path: transcripts/2026-09-15-cursor-just-unleashed-grokbot-everything-you-nee.txt
@@ -15,12 +16,13 @@ views: 99437
 likes: 2136
 comments: 244
 saves: null
-post_date: "2026-08-11"
+post_date: 2026-08-11
 niche_tags: [cursor, agents, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

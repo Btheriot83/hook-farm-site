@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-custom-gpts-vs-chatgpt-projects-what-should-you
-collected_at: 2026-09-15T00:31:26-07:00
+collected_at: "2026-09-15T00:31:26-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=5CQKQub5mOQ
-creator_handle: "@RyanDoser"
+language: en
+url: "https://www.youtube.com/watch?v=5CQKQub5mOQ"
+creator_handle: @RyanDoser
 title: "Custom GPTs vs ChatGPT Projects: What Should You Use?"
 hook_onscreen: ""
-hook_spoken: "Are you confused about the differences Are you confused about the differences between custom GPTs and chat GPT between custom GPTs and chat GPT between custom GPTs and chat GPT pro"
+hook_spoken: Are you confused about the differences Are you confused about the differences between custom GPTs and chat GPT between custom GPTs and chat GPT between custom GPTs and chat GPT pro
 thumbnail_path: thumbs/2026-09-15-custom-gpts-vs-chatgpt-projects-what-should-you.jpg
 thumbnail_url: "https://i.ytimg.com/vi/5CQKQub5mOQ/hq720.jpg"
 transcript_path: transcripts/2026-09-15-custom-gpts-vs-chatgpt-projects-what-should-you.txt
@@ -15,12 +16,13 @@ views: 39313
 likes: 730
 comments: 86
 saves: null
-post_date: "2025-03-25"
+post_date: 2025-03-25
 niche_tags: [chatgpt, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

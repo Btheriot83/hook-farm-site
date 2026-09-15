@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-chatgpt-went-rogue-exactly-as-predicted
-collected_at: 2026-09-15T00:27:44-07:00
+collected_at: "2026-09-15T00:27:44-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=NXxWZu5nZK4
-creator_handle: "@Siliconversations"
-title: "ChatGPT Went Rogue (Exactly As Predicted)"
+language: en
+url: "https://www.youtube.com/watch?v=NXxWZu5nZK4"
+creator_handle: @Siliconversations
+title: ChatGPT Went Rogue (Exactly As Predicted)
 hook_onscreen: ""
-hook_spoken: "On July 16th, the AI research platform On July 16th, the AI research platform Hugging Face announced that they had Hugging Face announced that they had Hugging Face announced that"
+hook_spoken: On July 16th, the AI research platform On July 16th, the AI research platform Hugging Face announced that they had Hugging Face announced that they had Hugging Face announced that
 thumbnail_path: thumbs/2026-09-15-chatgpt-went-rogue-exactly-as-predicted.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/NXxWZu5nZK4/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-chatgpt-went-rogue-exactly-as-predicted.txt
@@ -15,12 +16,13 @@ views: 363047
 likes: 25537
 comments: 2400
 saves: null
-post_date: "2026-08-01"
+post_date: 2026-08-01
 niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-claude-code-s-agent-teams-are-insane-multiple-ai
-collected_at: 2026-09-15T00:38:16-07:00
+collected_at: "2026-09-15T00:38:16-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=-1K_ZWDKpU0
-creator_handle: "@ColeMedin"
+language: en
+url: "https://www.youtube.com/watch?v=-1K_ZWDKpU0"
+creator_handle: @ColeMedin
 title: "Claude Code's Agent Teams Are Insane - Multiple AI Agents Coding Together in Real Time"
 hook_onscreen: ""
-hook_spoken: "Take a look at this"
+hook_spoken: Take a look at this
 thumbnail_path: thumbs/2026-09-15-claude-code-s-agent-teams-are-insane-multiple-ai.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/-1K_ZWDKpU0/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-claude-code-s-agent-teams-are-insane-multiple-ai.txt
@@ -15,12 +16,13 @@ views: 161334
 likes: 2698
 comments: 202
 saves: null
-post_date: "2026-02-09"
+post_date: 2026-02-09
 niche_tags: [agents, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-chatgpt-for-beginners-2026-edition
-collected_at: 2026-09-15T00:26:55-07:00
+collected_at: "2026-09-15T00:26:55-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=hOe0maWOhp8
-creator_handle: "@AIMastermind"
-title: "ChatGPT for Beginners - 2026 Edition"
+language: en
+url: "https://www.youtube.com/watch?v=hOe0maWOhp8"
+creator_handle: @AIMastermind
+title: ChatGPT for Beginners - 2026 Edition
 hook_onscreen: ""
 hook_spoken: "now I know how intimidating a new now I know how intimidating a new technology can be for somebody who's technology can be for somebody who's technology can be for somebody who's t"
 thumbnail_path: thumbs/2026-09-15-chatgpt-for-beginners-2026-edition.jpg
@@ -15,12 +16,13 @@ views: 557625
 likes: 20503
 comments: 763
 saves: null
-post_date: "2025-01-01"
+post_date: 2025-01-01
 niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

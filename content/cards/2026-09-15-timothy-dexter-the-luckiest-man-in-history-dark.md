@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-timothy-dexter-the-luckiest-man-in-history-dark
-collected_at: 2026-09-15T09:47:46-07:00
+collected_at: "2026-09-15T09:47:46-07:00"
 platform: tiktok
 category: true_crime
-url: https://www.tiktok.com/@hell.of.a.history/video/7620308857553734942
-creator_handle: "@hell.of.a.history"
+language: en
+url: "https://www.tiktok.com/@hell.of.a.history/video/7620308857553734942"
+creator_handle: @hell.of.a.history
 title: "Timothy Dexter: The Luckiest Man in History: Dark History True Histor..."
 hook_onscreen: "Timothy Dexter: The Luckiest Man in History: Dark History True Histor..."
 hook_spoken: "Timothy Dexter: The Luckiest Man in History: Dark History True Historical Stories Villains of History Heroes from the Past Insane Real History Unsung Heroes Twisted Historical Fact"
@@ -15,12 +16,13 @@ views: 2310
 likes: 113
 comments: 5
 saves: null
-post_date: "2026-03-23"
+post_date: 2026-03-23
 niche_tags: [true_crime, faceless, narration, history]
 pattern_tags: [curiosity_gap, secret]
 format: short
-notes: "faceless packaging harvest (narration/B-roll/text-on-screen); collect-only"
+notes: faceless packaging harvest (narration/B-roll/text-on-screen); collect-only
 ---
+
 
 ## Transcript (~30s)
 

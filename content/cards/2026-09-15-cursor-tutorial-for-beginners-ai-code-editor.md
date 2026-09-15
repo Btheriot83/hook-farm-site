@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-cursor-tutorial-for-beginners-ai-code-editor
-collected_at: 2026-09-15T00:34:32-07:00
+collected_at: "2026-09-15T00:34:32-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=ocMOZpuAMw4
-creator_handle: "@TechWithTim"
-title: "Cursor Tutorial for Beginners (AI Code Editor)"
+language: en
+url: "https://www.youtube.com/watch?v=ocMOZpuAMw4"
+creator_handle: @TechWithTim
+title: Cursor Tutorial for Beginners (AI Code Editor)
 hook_onscreen: ""
 hook_spoken: "today we're checking out cursor AI an AI today we're checking out cursor AI an AI powered code editor that promises to powered code editor that promises to powered code editor that"
 thumbnail_path: thumbs/2026-09-15-cursor-tutorial-for-beginners-ai-code-editor.jpg
@@ -15,12 +16,13 @@ views: 1127626
 likes: 15393
 comments: 413
 saves: null
-post_date: "2024-10-17"
+post_date: 2024-10-17
 niche_tags: [cursor, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-learn-80-of-perplexity-in-under-10-minutes
-collected_at: 2026-09-15T09:22:24-07:00
+collected_at: "2026-09-15T09:22:24-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=YoWdogtZRw8
-creator_handle: "@JeffSu"
-title: "Learn 80% of Perplexity in under 10 minutes!"
+language: en
+url: "https://www.youtube.com/watch?v=YoWdogtZRw8"
+creator_handle: @JeffSu
+title: Learn 80% of Perplexity in under 10 minutes!
 hook_onscreen: ""
 hook_spoken: "here's a non-nonsense guide to using here's a non-nonsense guide to using perplexity first up while many of you perplexity first up while many of you perplexity first up while many"
 thumbnail_path: thumbs/2026-09-15-learn-80-of-perplexity-in-under-10-minutes.jpg
@@ -15,12 +16,13 @@ views: 1866721
 likes: 36820
 comments: 1200
 saves: null
-post_date: "2024-09-17"
+post_date: 2024-09-17
 niche_tags: [perplexity, tooling, ai]
 pattern_tags: [number, how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

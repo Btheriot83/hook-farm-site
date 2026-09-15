@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-build-your-first-ai-agent-in-10-minutes-no-codin
-collected_at: 2026-09-15T00:30:49-07:00
+collected_at: "2026-09-15T00:30:49-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=7ReHiROdPbE
-creator_handle: "@TheTechGirl"
-title: "Build Your First AI Agent in 10 Minutes \u2014 No Coding"
+language: en
+url: "https://www.youtube.com/watch?v=7ReHiROdPbE"
+creator_handle: @TheTechGirl
+title: Build Your First AI Agent in 10 Minutes \u2014 No Coding
 hook_onscreen: ""
-hook_spoken: "AI agents are everywhere right now, but AI agents are everywhere right now, but I think we have made them sound way more I think we have made them sound way more I think we have ma"
+hook_spoken: AI agents are everywhere right now, but AI agents are everywhere right now, but I think we have made them sound way more I think we have made them sound way more I think we have ma
 thumbnail_path: thumbs/2026-09-15-build-your-first-ai-agent-in-10-minutes-no-codin.jpg
 thumbnail_url: "https://i.ytimg.com/vi/7ReHiROdPbE/maxresdefault.jpg"
 transcript_path: transcripts/2026-09-15-build-your-first-ai-agent-in-10-minutes-no-codin.txt
@@ -15,12 +16,13 @@ views: 194027
 likes: 2028
 comments: 87
 saves: null
-post_date: "2026-09-05"
+post_date: 2026-09-05
 niche_tags: [chatgpt, agents, ai]
 pattern_tags: [number]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

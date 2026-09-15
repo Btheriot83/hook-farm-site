@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-custom-gpt-tutorial-quickly-learn-to-create-your
-collected_at: 2026-09-15T00:31:12-07:00
+collected_at: "2026-09-15T00:31:12-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=Tp_TX4UWZf4
-creator_handle: "@LawtonLearns"
-title: "Custom GPT Tutorial - Quickly learn to Create your own GPT with this Step-by-Step Guide for ChatGPT"
+language: en
+url: "https://www.youtube.com/watch?v=Tp_TX4UWZf4"
+creator_handle: @LawtonLearns
+title: Custom GPT Tutorial - Quickly learn to Create your own GPT with this Step-by-Step Guide for ChatGPT
 hook_onscreen: ""
 hook_spoken: "anytime I know I'm going to use a prompt anytime I know I'm going to use a prompt more than twice I create a custom GPT more than twice I create a custom GPT more than twice I crea"
 thumbnail_path: thumbs/2026-09-15-custom-gpt-tutorial-quickly-learn-to-create-your.jpg
@@ -15,12 +16,13 @@ views: 103269
 likes: 1866
 comments: 223
 saves: null
-post_date: "2025-03-31"
+post_date: 2025-03-31
 niche_tags: [chatgpt, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

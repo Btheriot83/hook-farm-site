@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-laziest-way-to-make-money-with-ai-starting-from
-collected_at: 2026-09-15T00:41:58-07:00
+collected_at: "2026-09-15T00:41:58-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=uz_3dSU8rQo
-creator_handle: "@DanMartell"
-title: "Laziest Way to Make Money with AI (Starting From Zero)"
+language: en
+url: "https://www.youtube.com/watch?v=uz_3dSU8rQo"
+creator_handle: @DanMartell
+title: Laziest Way to Make Money with AI (Starting From Zero)
 hook_onscreen: ""
 hook_spoken: "What's the laziest way to make money What's the laziest way to make money with AI in 2025 as a beginner? As with AI in 2025 as a beginner? As with AI in 2025 as a beginner? As some"
 thumbnail_path: thumbs/2026-09-15-laziest-way-to-make-money-with-ai-starting-from.jpg
@@ -15,12 +16,13 @@ views: 1498361
 likes: 38371
 comments: 1300
 saves: null
-post_date: "2025-06-17"
+post_date: 2025-06-17
 niche_tags: [money, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

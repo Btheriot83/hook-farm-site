@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-ultimate-claude-code-guide-how-to-use-claude-cod
-collected_at: 2026-09-15T00:33:50-07:00
+collected_at: "2026-09-15T00:33:50-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=RywmhLTFeFk
-creator_handle: "@AIMaster"
+language: en
+url: "https://www.youtube.com/watch?v=RywmhLTFeFk"
+creator_handle: @AIMaster
 title: "Ultimate Claude Code Guide: How to Use Claude Code for Beginners in 2026"
 hook_onscreen: ""
 hook_spoken: "In this video, we're going to build four In this video, we're going to build four real projects together, and you won't real projects together, and you won't real projects together"
@@ -15,12 +16,13 @@ views: 89659
 likes: 809
 comments: 40
 saves: null
-post_date: "2026-06-03"
+post_date: 2026-06-03
 niche_tags: [claude, cursor, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

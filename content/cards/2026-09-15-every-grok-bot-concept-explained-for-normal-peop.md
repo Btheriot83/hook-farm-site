@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-every-grok-bot-concept-explained-for-normal-peop
-collected_at: 2026-09-15T09:22:40-07:00
+collected_at: "2026-09-15T09:22:40-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=NyfYxpXiw_0
-creator_handle: "@NateHerk|AIAutomation"
-title: "Every Grok Bot Concept Explained for Normal People"
+language: en
+url: "https://www.youtube.com/watch?v=NyfYxpXiw_0"
+creator_handle: @NateHerk|AIAutomation
+title: Every Grok Bot Concept Explained for Normal People
 hook_onscreen: ""
 hook_spoken: "I'm about to break down every single I'm about to break down every single GrokBot concept that you have to GrokBot concept that you have to GrokBot concept that you have to underst"
 thumbnail_path: thumbs/2026-09-15-every-grok-bot-concept-explained-for-normal-peop.jpg
@@ -15,12 +16,13 @@ views: 232176
 likes: 3104
 comments: 156
 saves: null
-post_date: "2026-09-01"
+post_date: 2026-09-01
 niche_tags: [grok, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-21-hacks-99-chatgpt-users-don-t-know
-collected_at: 2026-09-15T00:27:12-07:00
+collected_at: "2026-09-15T00:27:12-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=R1VJet09Mug
-creator_handle: "@Futurepedia"
+language: en
+url: "https://www.youtube.com/watch?v=R1VJet09Mug"
+creator_handle: @Futurepedia
 title: "21 Hacks 99% ChatGPT Users Don't Know"
 hook_onscreen: ""
-hook_spoken: "Most people are using Chat GBPT like a Most people are using Chat GBPT like a slightly smarter Google"
+hook_spoken: Most people are using Chat GBPT like a Most people are using Chat GBPT like a slightly smarter Google
 thumbnail_path: thumbs/2026-09-15-21-hacks-99-chatgpt-users-don-t-know.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/R1VJet09Mug/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-21-hacks-99-chatgpt-users-don-t-know.txt
@@ -15,12 +16,13 @@ views: 324414
 likes: 7768
 comments: 156
 saves: null
-post_date: "2025-11-19"
+post_date: 2025-11-19
 niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [number, negative]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

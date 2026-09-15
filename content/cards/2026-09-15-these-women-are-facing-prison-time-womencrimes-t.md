@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-these-women-are-facing-prison-time-womencrimes-t
-collected_at: 2026-09-15T09:48:59-07:00
+collected_at: "2026-09-15T09:48:59-07:00"
 platform: tiktok
 category: true_crime
-url: https://www.tiktok.com/@womencrimes/video/7667307917363760398
-creator_handle: "@womencrimes"
+language: en
+url: "https://www.tiktok.com/@womencrimes/video/7667307917363760398"
+creator_handle: @womencrimes
 title: "These women are facing prison time #womencrimes #truecrime #nevada #l..."
 hook_onscreen: "These women are facing prison time #womencrimes #truecrime #nevada #l..."
 hook_spoken: "These women are facing prison time #womencrimes #truecrime #nevada #lasveagas "
@@ -15,12 +16,13 @@ views: 15500
 likes: 315
 comments: 9
 saves: null
-post_date: "2026-07-27"
+post_date: 2026-07-27
 niche_tags: [true_crime, murder, faceless]
 pattern_tags: [negative]
 format: short
-notes: "faceless packaging harvest (narration/B-roll/text-on-screen); collect-only"
+notes: faceless packaging harvest (narration/B-roll/text-on-screen); collect-only
 ---
+
 
 ## Transcript (~30s)
 

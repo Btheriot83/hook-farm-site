@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-unlock-chatgpt-god-mode-in-20-minutes-2026-easy
-collected_at: 2026-09-15T00:27:48-07:00
+collected_at: "2026-09-15T00:27:48-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=pBdjGd-inmE
-creator_handle: "@AIMaster"
-title: "Unlock ChatGPT God\u2011Mode in 20 Minutes (2026 Easy Prompt Guide)"
+language: en
+url: "https://www.youtube.com/watch?v=pBdjGd-inmE"
+creator_handle: @AIMaster
+title: Unlock ChatGPT God\u2011Mode in 20 Minutes (2026 Easy Prompt Guide)
 hook_onscreen: ""
 hook_spoken: "Let's be real"
 thumbnail_path: thumbs/2026-09-15-unlock-chatgpt-god-mode-in-20-minutes-2026-easy.jpg
@@ -15,12 +16,13 @@ views: 301219
 likes: 5423
 comments: 237
 saves: null
-post_date: "2025-07-28"
+post_date: 2025-07-28
 niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [number, how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

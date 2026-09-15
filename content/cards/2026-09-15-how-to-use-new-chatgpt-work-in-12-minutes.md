@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-how-to-use-new-chatgpt-work-in-12-minutes
-collected_at: 2026-09-15T00:31:58-07:00
+collected_at: "2026-09-15T00:31:58-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=MpVX4fMXv0A
-creator_handle: "@TheAIAdvantage"
-title: "How to Use New ChatGPT Work in 12 Minutes"
+language: en
+url: "https://www.youtube.com/watch?v=MpVX4fMXv0A"
+creator_handle: @TheAIAdvantage
+title: How to Use New ChatGPT Work in 12 Minutes
 hook_onscreen: ""
-hook_spoken: "So, if you heard people talking about So, if you heard people talking about the new chat GPT or chat GPT work, well, the new chat GPT or chat GPT work, well, the new chat GPT or ch"
+hook_spoken: So, if you heard people talking about So, if you heard people talking about the new chat GPT or chat GPT work, well, the new chat GPT or chat GPT work, well, the new chat GPT or ch
 thumbnail_path: thumbs/2026-09-15-how-to-use-new-chatgpt-work-in-12-minutes.jpg
 thumbnail_url: "https://i.ytimg.com/vi/MpVX4fMXv0A/hq720.jpg"
 transcript_path: transcripts/2026-09-15-how-to-use-new-chatgpt-work-in-12-minutes.txt
@@ -15,12 +16,13 @@ views: 85577
 likes: 1723
 comments: 92
 saves: null
-post_date: "2026-07-18"
+post_date: 2026-07-18
 niche_tags: [chatgpt, money, ai]
 pattern_tags: [number, how_to_promise, tool_reveal]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

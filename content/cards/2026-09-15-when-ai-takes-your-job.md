@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-when-ai-takes-your-job
-collected_at: 2026-09-15T00:41:37-07:00
+collected_at: "2026-09-15T00:41:37-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=OFlRcY1t3gY
-creator_handle: "@ShakTV"
-title: "When AI Takes Your Job"
+language: en
+url: "https://www.youtube.com/watch?v=OFlRcY1t3gY"
+creator_handle: @ShakTV
+title: When AI Takes Your Job
 hook_onscreen: ""
-hook_spoken: "Mate, how about those fuel prices, huh? Mate, how about those fuel prices, huh? &gt;&gt; Oh, bro, tell me about it"
+hook_spoken: Mate, how about those fuel prices, huh? Mate, how about those fuel prices, huh? &gt;&gt; Oh, bro, tell me about it
 thumbnail_path: thumbs/2026-09-15-when-ai-takes-your-job.jpg
 thumbnail_url: "https://i.ytimg.com/vi/OFlRcY1t3gY/maxresdefault.jpg"
 transcript_path: transcripts/2026-09-15-when-ai-takes-your-job.txt
@@ -15,12 +16,13 @@ views: 214488
 likes: 7014
 comments: 640
 saves: null
-post_date: "2026-03-16"
+post_date: 2026-03-16
 niche_tags: [money, replaced_job, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

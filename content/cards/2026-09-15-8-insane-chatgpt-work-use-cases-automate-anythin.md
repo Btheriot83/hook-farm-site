@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-8-insane-chatgpt-work-use-cases-automate-anythin
-collected_at: 2026-09-15T00:29:38-07:00
+collected_at: "2026-09-15T00:29:38-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=fuYbUWjxig4
-creator_handle: "@9x"
-title: "8 Insane ChatGPT Work Use Cases! (automate anything)"
+language: en
+url: "https://www.youtube.com/watch?v=fuYbUWjxig4"
+creator_handle: @9x
+title: 8 Insane ChatGPT Work Use Cases! (automate anything)
 hook_onscreen: ""
 hook_spoken: "In this video, I'm going to walk you In this video, I'm going to walk you through eight of the best use cases for through eight of the best use cases for through eight of the best"
 thumbnail_path: thumbs/2026-09-15-8-insane-chatgpt-work-use-cases-automate-anythin.jpg
@@ -15,12 +16,13 @@ views: 189779
 likes: 3016
 comments: 95
 saves: null
-post_date: "2026-08-06"
+post_date: 2026-08-06
 niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-generative-ai-vs-ai-agents-vs-agentic-ai
-collected_at: 2026-09-15T00:37:50-07:00
+collected_at: "2026-09-15T00:37:50-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=O2gerCxEXvc
-creator_handle: "@codebasics"
-title: "Generative AI vs AI agents vs Agentic AI"
+language: en
+url: "https://www.youtube.com/watch?v=O2gerCxEXvc"
+creator_handle: @codebasics
+title: Generative AI vs AI agents vs Agentic AI
 hook_onscreen: ""
-hook_spoken: "My goal today is to explain the My goal today is to explain the difference between these three terms in difference between these three terms in difference between these three terms"
+hook_spoken: My goal today is to explain the My goal today is to explain the difference between these three terms in difference between these three terms in difference between these three terms
 thumbnail_path: thumbs/2026-09-15-generative-ai-vs-ai-agents-vs-agentic-ai.jpg
 thumbnail_url: "https://i.ytimg.com/vi/O2gerCxEXvc/hq720.jpg?v=6863b63c"
 transcript_path: transcripts/2026-09-15-generative-ai-vs-ai-agents-vs-agentic-ai.txt
@@ -15,12 +16,13 @@ views: 674102
 likes: 12425
 comments: 231
 saves: null
-post_date: "2025-06-30"
+post_date: 2025-06-30
 niche_tags: [agents, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

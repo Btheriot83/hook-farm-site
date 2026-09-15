@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-how-to-use-chatgpt
-collected_at: 2026-09-15T00:26:46-07:00
+collected_at: "2026-09-15T00:26:46-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=PDw3Uk9dN9k
-creator_handle: "@KevinStratvert"
-title: "How to Use ChatGPT"
+language: en
+url: "https://www.youtube.com/watch?v=PDw3Uk9dN9k"
+creator_handle: @KevinStratvert
+title: How to Use ChatGPT
 hook_onscreen: ""
-hook_spoken: "Hi everyone, Kevin here"
+hook_spoken: Hi everyone, Kevin here
 thumbnail_path: thumbs/2026-09-15-how-to-use-chatgpt.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/PDw3Uk9dN9k/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-how-to-use-chatgpt.txt
@@ -15,12 +16,13 @@ views: 977823
 likes: 12872
 comments: 372
 saves: null
-post_date: "2025-02-10"
+post_date: 2025-02-10
 niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

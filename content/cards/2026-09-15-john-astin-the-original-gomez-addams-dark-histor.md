@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-john-astin-the-original-gomez-addams-dark-histor
-collected_at: 2026-09-15T09:47:38-07:00
+collected_at: "2026-09-15T09:47:38-07:00"
 platform: tiktok
 category: true_crime
-url: https://www.tiktok.com/@hell.of.a.history/video/7616074738753867038
-creator_handle: "@hell.of.a.history"
+language: en
+url: "https://www.tiktok.com/@hell.of.a.history/video/7616074738753867038"
+creator_handle: @hell.of.a.history
 title: "John Astin: The Original Gomez Addams: Dark History True Historical S..."
 hook_onscreen: "John Astin: The Original Gomez Addams: Dark History True Historical S..."
 hook_spoken: "John Astin: The Original Gomez Addams: Dark History True Historical Stories Villains of History Heroes from the Past Insane Real History Unsung Heroes Twisted Historical Facts Dist"
@@ -15,12 +16,13 @@ views: 2631
 likes: 68
 comments: 7
 saves: null
-post_date: "2026-03-11"
+post_date: 2026-03-11
 niche_tags: [true_crime, faceless, narration, history]
 pattern_tags: [curiosity_gap, secret]
 format: short
-notes: "faceless packaging harvest (narration/B-roll/text-on-screen); collect-only"
+notes: faceless packaging harvest (narration/B-roll/text-on-screen); collect-only
 ---
+
 
 ## Transcript (~30s)
 

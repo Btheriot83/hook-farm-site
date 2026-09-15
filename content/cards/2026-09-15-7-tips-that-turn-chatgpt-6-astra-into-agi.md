@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-7-tips-that-turn-chatgpt-6-astra-into-agi
-collected_at: 2026-09-15T00:28:57-07:00
+collected_at: "2026-09-15T00:28:57-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=ppN_erpEuZ0
-creator_handle: "@AlexFinn"
-title: "7 tips that turn ChatGPT 6 Astra into AGI"
+language: en
+url: "https://www.youtube.com/watch?v=ppN_erpEuZ0"
+creator_handle: @AlexFinn
+title: 7 tips that turn ChatGPT 6 Astra into AGI
 hook_onscreen: ""
-hook_spoken: "AGI is here"
+hook_spoken: AGI is here
 thumbnail_path: thumbs/2026-09-15-7-tips-that-turn-chatgpt-6-astra-into-agi.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/ppN_erpEuZ0/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-7-tips-that-turn-chatgpt-6-astra-into-agi.txt
@@ -15,12 +16,13 @@ views: 146077
 likes: 2490
 comments: 238
 saves: null
-post_date: "2026-09-07"
+post_date: 2026-09-07
 niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [number]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

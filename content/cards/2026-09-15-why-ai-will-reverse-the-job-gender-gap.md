@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-why-ai-will-reverse-the-job-gender-gap
-collected_at: 2026-09-15T00:41:46-07:00
+collected_at: "2026-09-15T00:41:46-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=nH0YRWD3tM0
-creator_handle: "@GEN"
-title: "Why AI Will Reverse the Job Gender Gap"
+language: en
+url: "https://www.youtube.com/watch?v=nH0YRWD3tM0"
+creator_handle: @GEN
+title: Why AI Will Reverse the Job Gender Gap
 hook_onscreen: ""
 hook_spoken: "You're now talking about a blood bath You're now talking about a blood bath for white collar workers because of AI"
 thumbnail_path: thumbs/2026-09-15-why-ai-will-reverse-the-job-gender-gap.jpg
@@ -15,12 +16,13 @@ views: 180550
 likes: 6710
 comments: 1300
 saves: null
-post_date: "2025-09-10"
+post_date: 2025-09-10
 niche_tags: [money, replaced_job, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

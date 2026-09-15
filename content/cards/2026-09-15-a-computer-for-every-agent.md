@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-a-computer-for-every-agent
-collected_at: 2026-09-15T00:35:34-07:00
+collected_at: "2026-09-15T00:35:34-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=6Nru5OQq9O4
-creator_handle: "@Cursor"
-title: "A computer for every agent"
+language: en
+url: "https://www.youtube.com/watch?v=6Nru5OQq9O4"
+creator_handle: @Cursor
+title: A computer for every agent
 hook_onscreen: ""
 hook_spoken: "If your co-worker asks you to review a If your co-worker asks you to review a PR, and then you find out they didn't PR, and then you find out they didn't PR, and then you find out"
 thumbnail_path: thumbs/2026-09-15-a-computer-for-every-agent.jpg
@@ -15,12 +16,13 @@ views: 101547
 likes: 769
 comments: 52
 saves: null
-post_date: "2026-02-24"
+post_date: 2026-02-24
 niche_tags: [cursor, agents, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

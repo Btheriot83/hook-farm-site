@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-scary-stories-w-kallmekris-reading-reddit-storie
-collected_at: 2026-09-15T09:44:24-07:00
+collected_at: "2026-09-15T09:44:24-07:00"
 platform: youtube
 category: true_crime
-url: https://www.youtube.com/watch?v=MitvSDHU2-k
-creator_handle: "@SmoshPit"
-title: "Scary Stories w/ Kallmekris | Reading Reddit Stories"
+language: en
+url: "https://www.youtube.com/watch?v=MitvSDHU2-k"
+creator_handle: @SmoshPit
+title: Scary Stories w/ Kallmekris | Reading Reddit Stories
 hook_onscreen: ""
-hook_spoken: "welcome   back    to    Reddit    stories    uh    where welcome back to Reddit stories uh where welcome back to Reddit stories uh where we   read    Reddit    stories    and    we"
+hook_spoken: welcome   back    to    Reddit    stories    uh    where welcome back to Reddit stories uh where welcome back to Reddit stories uh where we   read    Reddit    stories    and    we
 thumbnail_path: thumbs/2026-09-15-scary-stories-w-kallmekris-reading-reddit-storie.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/MitvSDHU2-k/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-scary-stories-w-kallmekris-reading-reddit-storie.txt
@@ -15,12 +16,13 @@ views: 4322646
 likes: 133274
 comments: 7400
 saves: null
-post_date: "2023-10-28"
+post_date: 2023-10-28
 niche_tags: [true_crime, faceless, reddit]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "faceless-pref harvest"
+notes: faceless-pref harvest
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-i-lost-my-job-to-ai-now-what
-collected_at: 2026-09-15T00:41:42-07:00
+collected_at: "2026-09-15T00:41:42-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=GvKy1jXIBVs
-creator_handle: "@UnplannedandUnprepared"
-title: "I lost my job to AI... now what?"
+language: en
+url: "https://www.youtube.com/watch?v=GvKy1jXIBVs"
+creator_handle: @UnplannedandUnprepared
+title: I lost my job to AI... now what?
 hook_onscreen: ""
 hook_spoken: "So, I wasn't even planning on making a So, I wasn't even planning on making a video"
 thumbnail_path: thumbs/2026-09-15-i-lost-my-job-to-ai-now-what.jpg
@@ -15,12 +16,13 @@ views: 205014
 likes: 2883
 comments: 1200
 saves: null
-post_date: "2026-08-23"
+post_date: 2026-08-23
 niche_tags: [money, replaced_job, ai]
 pattern_tags: [replaced_job, authority]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

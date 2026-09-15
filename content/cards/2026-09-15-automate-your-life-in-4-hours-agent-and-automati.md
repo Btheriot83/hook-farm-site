@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-automate-your-life-in-4-hours-agent-and-automati
-collected_at: 2026-09-15T00:40:33-07:00
+collected_at: "2026-09-15T00:40:33-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=-leIp449qXA
-creator_handle: "@freeCodeCamp.org"
-title: "Automate Your Life in 4 hours \u2013 Agent and Automation Zapier Course"
+language: en
+url: "https://www.youtube.com/watch?v=-leIp449qXA"
+creator_handle: @freeCodeCamp.org
+title: Automate Your Life in 4 hours \u2013 Agent and Automation Zapier Course
 hook_onscreen: ""
-hook_spoken: "Welcome to a comprehensive guide on Welcome to a comprehensive guide on transforming your productivity through transforming your productivity through transforming your productivity"
+hook_spoken: Welcome to a comprehensive guide on Welcome to a comprehensive guide on transforming your productivity through transforming your productivity through transforming your productivity
 thumbnail_path: thumbs/2026-09-15-automate-your-life-in-4-hours-agent-and-automati.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/-leIp449qXA/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-automate-your-life-in-4-hours-agent-and-automati.txt
@@ -15,12 +16,13 @@ views: 87446
 likes: 2424
 comments: 67
 saves: null
-post_date: "2026-04-21"
+post_date: 2026-04-21
 niche_tags: [automation, tooling, ai]
 pattern_tags: [number]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

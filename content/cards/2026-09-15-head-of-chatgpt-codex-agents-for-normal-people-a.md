@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-head-of-chatgpt-codex-agents-for-normal-people-a
-collected_at: 2026-09-15T00:30:58-07:00
+collected_at: "2026-09-15T00:30:58-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=DPe_srf0GlI
-creator_handle: "@SiliconValleyGirl"
+language: en
+url: "https://www.youtube.com/watch?v=DPe_srf0GlI"
+creator_handle: @SiliconValleyGirl
 title: "Head of ChatGPT & Codex: agents for normal people are HERE"
 hook_onscreen: ""
-hook_spoken: "There is going to be dramatic change"
+hook_spoken: There is going to be dramatic change
 thumbnail_path: thumbs/2026-09-15-head-of-chatgpt-codex-agents-for-normal-people-a.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/DPe_srf0GlI/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-head-of-chatgpt-codex-agents-for-normal-people-a.txt
@@ -15,12 +16,13 @@ views: 147227
 likes: 3582
 comments: 148
 saves: null
-post_date: "2026-05-22"
+post_date: 2026-05-22
 niche_tags: [chatgpt, agents, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

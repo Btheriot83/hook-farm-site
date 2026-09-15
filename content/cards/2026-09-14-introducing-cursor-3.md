@@ -1,26 +1,28 @@
 ---
 id: 2026-09-14-introducing-cursor-3
-collected_at: 2026-09-14T23:25:00-07:00
+collected_at: "2026-09-14T23:25:00-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=UxbULt_hCdA
-creator_handle: "@cursor_ai"
-title: "Introducing Cursor 3"
+language: en
+url: "https://www.youtube.com/watch?v=UxbULt_hCdA"
+creator_handle: @cursor_ai
+title: Introducing Cursor 3
 hook_onscreen: ""
 hook_spoken: "Coding is changing and it's changing for the better."
 thumbnail_path: thumbs/2026-09-14-introducing-cursor-3.jpg
-thumbnail_url: https://i.ytimg.com/vi_webp/UxbULt_hCdA/maxresdefault.webp
+thumbnail_url: "https://i.ytimg.com/vi_webp/UxbULt_hCdA/maxresdefault.webp"
 transcript_path: transcripts/2026-09-14-introducing-cursor-3.txt
 views: 3111936
 likes: 2272
 comments: 229
 saves: null
-post_date: "2026-04-02"
+post_date: 2026-04-02
 niche_tags: [cursor, agents, tooling, ai]
 pattern_tags: [tool_reveal, authority, demo_first]
 format: long
-notes: "Official Cursor 3 launch; 3.1M in ~90s"
+notes: Official Cursor 3 launch; 3.1M in ~90s
 ---
+
 
 ## Transcript (~30s)
 

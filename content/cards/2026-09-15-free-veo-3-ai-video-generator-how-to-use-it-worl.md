@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-free-veo-3-ai-video-generator-how-to-use-it-worl
-collected_at: 2026-09-15T09:18:35-07:00
+collected_at: "2026-09-15T09:18:35-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=UC_Cw9xqIuE
-creator_handle: "@HowToIn5Minutes"
+language: en
+url: "https://www.youtube.com/watch?v=UC_Cw9xqIuE"
+creator_handle: @HowToIn5Minutes
 title: "FREE Veo 3 AI Video Generator : How to Use It WORLDWIDE"
 hook_onscreen: ""
-hook_spoken: "Live from the city of Troy"
+hook_spoken: Live from the city of Troy
 thumbnail_path: thumbs/2026-09-15-free-veo-3-ai-video-generator-how-to-use-it-worl.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/UC_Cw9xqIuE/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-free-veo-3-ai-video-generator-how-to-use-it-worl.txt
@@ -15,12 +16,13 @@ views: 740841
 likes: 8900
 comments: 859
 saves: null
-post_date: "2025-06-02"
+post_date: 2025-06-02
 niche_tags: [veo, video, gemini, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

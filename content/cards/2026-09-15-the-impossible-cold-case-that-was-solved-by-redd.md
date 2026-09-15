@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-the-impossible-cold-case-that-was-solved-by-redd
-collected_at: 2026-09-15T09:44:33-07:00
+collected_at: "2026-09-15T09:44:33-07:00"
 platform: youtube
 category: true_crime
-url: https://www.youtube.com/watch?v=piycfL5aBcs
-creator_handle: "@Kallmekris"
-title: "The IMPOSSIBLE Cold Case That Was Solved By Redditors"
+language: en
+url: "https://www.youtube.com/watch?v=piycfL5aBcs"
+creator_handle: @Kallmekris
+title: The IMPOSSIBLE Cold Case That Was Solved By Redditors
 hook_onscreen: ""
-hook_spoken: "Christina   Skates    thought    she    was    killing Christina Skates thought she was killing Christina Skates thought she was killing time"
+hook_spoken: Christina   Skates    thought    she    was    killing Christina Skates thought she was killing Christina Skates thought she was killing time
 thumbnail_path: thumbs/2026-09-15-the-impossible-cold-case-that-was-solved-by-redd.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/piycfL5aBcs/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-the-impossible-cold-case-that-was-solved-by-redd.txt
@@ -15,12 +16,13 @@ views: 3398849
 likes: 113638
 comments: 4800
 saves: null
-post_date: "2025-07-09"
+post_date: 2025-07-09
 niche_tags: [true_crime, faceless, reddit]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "faceless-pref harvest"
+notes: faceless-pref harvest
 ---
+
 
 ## Transcript (~30s)
 

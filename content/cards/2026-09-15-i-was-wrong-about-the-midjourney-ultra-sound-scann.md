@@ -1,26 +1,28 @@
 ---
 id: 2026-09-15-i-was-wrong-about-the-midjourney-ultra-sound-scann
-collected_at: 2026-09-15T00:35:50-07:00
+collected_at: "2026-09-15T00:35:50-07:00"
 platform: x
 category: ai
-url: https://x.com/MattZirwas/status/2068365802491834541
-creator_handle: "@MattZirwas"
-title: "I was wrong about the Midjourney ultra-sound scanner."
+language: en
+url: "https://x.com/MattZirwas/status/2068365802491834541"
+creator_handle: @MattZirwas
+title: I was wrong about the Midjourney ultra-sound scanner.
 hook_onscreen: ""
-hook_spoken: "I was wrong about the Midjourney ultra-sound scanner."
-thumbnail_path: 
-thumbnail_url: 
+hook_spoken: I was wrong about the Midjourney ultra-sound scanner.
+thumbnail_path: null
+thumbnail_url: null
 transcript_path: transcripts/2026-09-15-i-was-wrong-about-the-midjourney-ultra-sound-scann.txt
 views: 1000650
 likes: 3404
 comments: 208
 saves: 868
-post_date: "2026-06-20"
+post_date: 2026-06-20
 niche_tags: [midjourney, ai]
 pattern_tags: [number, how_to_promise, curiosity_gap]
 format: text
-notes: "HN-linked viral X post via fxtwitter; rts=188"
+notes: HN-linked viral X post via fxtwitter; rts=188
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-how-i-d-learn-claude-from-scratch-in-2026
-collected_at: 2026-09-15T00:34:05-07:00
+collected_at: "2026-09-15T00:34:05-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=9sp5PCKbvuc
-creator_handle: "@BradBonanno|AIAutomation"
+language: en
+url: "https://www.youtube.com/watch?v=9sp5PCKbvuc"
+creator_handle: @BradBonanno|AIAutomation
 title: "How I'd Learn Claude From Scratch in 2026"
 hook_onscreen: ""
-hook_spoken: "I had to start learning Claude from I had to start learning Claude from scratch today, this is exactly how I do scratch today, this is exactly how I do scratch today, this is exact"
+hook_spoken: I had to start learning Claude from I had to start learning Claude from scratch today, this is exactly how I do scratch today, this is exactly how I do scratch today, this is exact
 thumbnail_path: thumbs/2026-09-15-how-i-d-learn-claude-from-scratch-in-2026.jpg
 thumbnail_url: "https://i.ytimg.com/vi/9sp5PCKbvuc/maxresdefault.jpg"
 transcript_path: transcripts/2026-09-15-how-i-d-learn-claude-from-scratch-in-2026.txt
@@ -15,12 +16,13 @@ views: 176202
 likes: 3706
 comments: 109
 saves: null
-post_date: "2026-05-07"
+post_date: 2026-05-07
 niche_tags: [claude, tooling, ai]
 pattern_tags: [how_to_promise, authority]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

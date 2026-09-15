@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-i-do-not-feel-safe-reading-reddit-stories
-collected_at: 2026-09-15T09:44:18-07:00
+collected_at: "2026-09-15T09:44:18-07:00"
 platform: youtube
 category: true_crime
-url: https://www.youtube.com/watch?v=MPFmw2ExOmg
-creator_handle: "@SmoshPit"
-title: "I Do NOT Feel Safe | Reading Reddit Stories"
+language: en
+url: "https://www.youtube.com/watch?v=MPFmw2ExOmg"
+creator_handle: @SmoshPit
+title: I Do NOT Feel Safe | Reading Reddit Stories
 hook_onscreen: ""
 hook_spoken: "hello   and    welcome    to    smos    reads    Reddit hello and welcome to smos reads Reddit hello and welcome to smos reads Reddit stories   I'm    Shane    and    today    we"
 thumbnail_path: thumbs/2026-09-15-i-do-not-feel-safe-reading-reddit-stories.jpg
@@ -15,12 +16,13 @@ views: 5020217
 likes: 155535
 comments: 6700
 saves: null
-post_date: "2025-03-29"
+post_date: 2025-03-29
 niche_tags: [true_crime, faceless, reddit]
 pattern_tags: [authority]
 format: long
-notes: "faceless-pref harvest"
+notes: faceless-pref harvest
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-my-new-ai-coding-workflow-to-build-apps-fast-goo
-collected_at: 2026-09-15T00:33:23-07:00
+collected_at: "2026-09-15T00:33:23-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=wsIb_EdhcY8
-creator_handle: "@YourAverageTechBro"
-title: "My New AI Coding Workflow To Build Apps Fast (Goodbye Cursor, Hello Claude Code)"
+language: en
+url: "https://www.youtube.com/watch?v=wsIb_EdhcY8"
+creator_handle: @YourAverageTechBro
+title: My New AI Coding Workflow To Build Apps Fast (Goodbye Cursor, Hello Claude Code)
 hook_onscreen: ""
 hook_spoken: "I stopped using cursor as my dedicated I stopped using cursor as my dedicated AI coding agent and instead I've moved AI coding agent and instead I've moved AI coding agent and inst"
 thumbnail_path: thumbs/2026-09-15-my-new-ai-coding-workflow-to-build-apps-fast-goo.jpg
@@ -15,12 +16,13 @@ views: 226094
 likes: 3083
 comments: 389
 saves: null
-post_date: "2025-07-10"
+post_date: 2025-07-10
 niche_tags: [claude, cursor, tooling, ai]
 pattern_tags: [tool_reveal]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

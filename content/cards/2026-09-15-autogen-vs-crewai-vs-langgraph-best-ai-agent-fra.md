@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-autogen-vs-crewai-vs-langgraph-best-ai-agent-fra
-collected_at: 2026-09-15T00:38:33-07:00
+collected_at: "2026-09-15T00:38:33-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=8HqeY5v0ohM
-creator_handle: "@DigibaseMedia"
-title: "AutoGen vs CrewAI vs LangGraph \u2013 Best AI Agent Framework In 2025!"
+language: en
+url: "https://www.youtube.com/watch?v=8HqeY5v0ohM"
+creator_handle: @DigibaseMedia
+title: AutoGen vs CrewAI vs LangGraph \u2013 Best AI Agent Framework In 2025!
 hook_onscreen: ""
-hook_spoken: "Autogen, Crew AI, and Langraph when it Autogen, Crew AI, and Langraph when it loads"
+hook_spoken: Autogen, Crew AI, and Langraph when it Autogen, Crew AI, and Langraph when it loads
 thumbnail_path: thumbs/2026-09-15-autogen-vs-crewai-vs-langgraph-best-ai-agent-fra.jpg
 thumbnail_url: "https://i.ytimg.com/vi/8HqeY5v0ohM/hq720.jpg"
 transcript_path: transcripts/2026-09-15-autogen-vs-crewai-vs-langgraph-best-ai-agent-fra.txt
@@ -15,12 +16,13 @@ views: 84635
 likes: 598
 comments: 33
 saves: null
-post_date: "2025-07-15"
+post_date: 2025-07-15
 niche_tags: [agents, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

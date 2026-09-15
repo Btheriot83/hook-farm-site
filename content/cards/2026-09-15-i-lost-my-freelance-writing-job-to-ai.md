@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-i-lost-my-freelance-writing-job-to-ai
-collected_at: 2026-09-15T00:41:16-07:00
+collected_at: "2026-09-15T00:41:16-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=0L9Eucq6sps
-creator_handle: "@AlexWei"
-title: "I Lost My Freelance Writing Job To AI."
+language: en
+url: "https://www.youtube.com/watch?v=0L9Eucq6sps"
+creator_handle: @AlexWei
+title: I Lost My Freelance Writing Job To AI.
 hook_onscreen: ""
 hook_spoken: "I have something I wanted to talk about I have something I wanted to talk about um I wasn't sure if I should but [&nbsp;__&nbsp;] it um I wasn't sure if I should but [&nbsp;__&nbsp"
 thumbnail_path: thumbs/2026-09-15-i-lost-my-freelance-writing-job-to-ai.jpg
@@ -15,12 +16,13 @@ views: 782778
 likes: 65699
 comments: 6900
 saves: null
-post_date: "2025-01-01"
+post_date: 2025-01-01
 niche_tags: [money, replaced_job, ai]
 pattern_tags: [curiosity_gap, authority]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

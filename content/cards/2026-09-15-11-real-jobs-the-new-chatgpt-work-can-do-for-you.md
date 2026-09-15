@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-11-real-jobs-the-new-chatgpt-work-can-do-for-you
-collected_at: 2026-09-15T00:32:11-07:00
+collected_at: "2026-09-15T00:32:11-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=MrJI7MG_4kg
-creator_handle: "@AIFounders"
-title: "11 Real Jobs The New ChatGPT Work Can Do For You"
+language: en
+url: "https://www.youtube.com/watch?v=MrJI7MG_4kg"
+creator_handle: @AIFounders
+title: 11 Real Jobs The New ChatGPT Work Can Do For You
 hook_onscreen: ""
-hook_spoken: "Everyone keeps telling you that Chat GPT Everyone keeps telling you that Chat GPT got better with Chat GPT work, but got better with Chat GPT work, but got better with Chat GPT wor"
+hook_spoken: Everyone keeps telling you that Chat GPT Everyone keeps telling you that Chat GPT got better with Chat GPT work, but got better with Chat GPT work, but got better with Chat GPT wor
 thumbnail_path: thumbs/2026-09-15-11-real-jobs-the-new-chatgpt-work-can-do-for-you.jpg
 thumbnail_url: "https://i.ytimg.com/vi/MrJI7MG_4kg/hq720.jpg"
 transcript_path: transcripts/2026-09-15-11-real-jobs-the-new-chatgpt-work-can-do-for-you.txt
@@ -15,12 +16,13 @@ views: 54894
 likes: 1007
 comments: 20
 saves: null
-post_date: "2026-08-26"
+post_date: 2026-08-26
 niche_tags: [chatgpt, money, ai]
 pattern_tags: [tool_reveal]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

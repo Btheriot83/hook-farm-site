@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-easiest-chatgpt-side-hustle-to-make-money-online
-collected_at: 2026-09-15T00:43:53-07:00
+collected_at: "2026-09-15T00:43:53-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=XVGXfFCUPYI
-creator_handle: "@RealMoneyStrategies"
-title: "Easiest ChatGPT Side Hustle to Make Money Online in 2025"
+language: en
+url: "https://www.youtube.com/watch?v=XVGXfFCUPYI"
+creator_handle: @RealMoneyStrategies
+title: Easiest ChatGPT Side Hustle to Make Money Online in 2025
 hook_onscreen: ""
 hook_spoken: "so I've just discovered what I think is so I've just discovered what I think is the easiest side hustle that anybody can the easiest side hustle that anybody can the easiest side h"
 thumbnail_path: thumbs/2026-09-15-easiest-chatgpt-side-hustle-to-make-money-online.jpg
@@ -15,12 +16,13 @@ views: 151978
 likes: 6046
 comments: 208
 saves: null
-post_date: "2023-11-24"
+post_date: 2023-11-24
 niche_tags: [money, chatgpt, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

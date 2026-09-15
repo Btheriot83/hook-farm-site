@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-introducing-grok-bot
-collected_at: 2026-09-15T09:22:36-07:00
+collected_at: "2026-09-15T09:22:36-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=F1_0Lkp16Rc
-creator_handle: "@Grok"
-title: "Introducing Grok Bot"
+language: en
+url: "https://www.youtube.com/watch?v=F1_0Lkp16Rc"
+creator_handle: @Grok
+title: Introducing Grok Bot
 hook_onscreen: ""
-hook_spoken: "Can you send NDAs to all of our campus Can you send NDAs to all of our campus leads? leads? leads? &gt;&gt; How many employees do I have starting on &gt;&gt; How many employees do"
+hook_spoken: Can you send NDAs to all of our campus Can you send NDAs to all of our campus leads? leads? leads? &gt;&gt; How many employees do I have starting on &gt;&gt; How many employees do
 thumbnail_path: thumbs/2026-09-15-introducing-grok-bot.jpg
 thumbnail_url: "https://i.ytimg.com/vi/F1_0Lkp16Rc/maxresdefault.jpg"
 transcript_path: transcripts/2026-09-15-introducing-grok-bot.txt
@@ -15,12 +16,13 @@ views: 10537739
 likes: 5295
 comments: 431
 saves: null
-post_date: "2026-08-11"
+post_date: 2026-08-11
 niche_tags: [grok, how-to, ai]
 pattern_tags: [tool_reveal]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-chatgpt-tutorial-how-to-use-chat-gpt-for-beginne
-collected_at: 2026-09-15T00:26:38-07:00
+collected_at: "2026-09-15T00:26:38-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=Gaf_jCnA6mc
-creator_handle: "@CharlieChang"
+language: en
+url: "https://www.youtube.com/watch?v=Gaf_jCnA6mc"
+creator_handle: @CharlieChang
 title: "ChatGPT Tutorial: How to Use Chat GPT For Beginners"
 hook_onscreen: ""
-hook_spoken: "hey everyone so this is going to be a hey everyone so this is going to be a completely free course on how you can completely free course on how you can completely free course on ho"
+hook_spoken: hey everyone so this is going to be a hey everyone so this is going to be a completely free course on how you can completely free course on how you can completely free course on ho
 thumbnail_path: thumbs/2026-09-15-chatgpt-tutorial-how-to-use-chat-gpt-for-beginne.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/Gaf_jCnA6mc/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-chatgpt-tutorial-how-to-use-chat-gpt-for-beginne.txt
@@ -15,12 +16,13 @@ views: 4889911
 likes: 87535
 comments: 1900
 saves: null
-post_date: "2023-04-04"
+post_date: 2023-04-04
 niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

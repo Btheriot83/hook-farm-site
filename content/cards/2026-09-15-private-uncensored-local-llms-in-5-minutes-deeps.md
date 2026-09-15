@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-private-uncensored-local-llms-in-5-minutes-deeps
-collected_at: 2026-09-15T09:22:18-07:00
+collected_at: "2026-09-15T09:22:18-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=A2CqSfd5I4I
-creator_handle: "@DavidBombal"
-title: "Private & Uncensored Local LLMs in 5 minutes (DeepSeek and Dolphin)"
+language: en
+url: "https://www.youtube.com/watch?v=A2CqSfd5I4I"
+creator_handle: @DavidBombal
+title: Private & Uncensored Local LLMs in 5 minutes (DeepSeek and Dolphin)
 hook_onscreen: ""
 hook_spoken: "in this video I'm going to show you how in this video I'm going to show you how to download and install a local private to download and install a local private to download and inst"
 thumbnail_path: thumbs/2026-09-15-private-uncensored-local-llms-in-5-minutes-deeps.jpg
@@ -15,12 +16,13 @@ views: 735751
 likes: 20366
 comments: 816
 saves: null
-post_date: "2025-02-05"
+post_date: 2025-02-05
 niche_tags: [deepseek, how-to, ai]
 pattern_tags: [number]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

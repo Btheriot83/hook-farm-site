@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-marilyn-vos-savant-the-woman-with-the-highest-re
-collected_at: 2026-09-15T09:47:40-07:00
+collected_at: "2026-09-15T09:47:40-07:00"
 platform: tiktok
 category: true_crime
-url: https://www.tiktok.com/@hell.of.a.history/video/7615778055268601119
-creator_handle: "@hell.of.a.history"
+language: en
+url: "https://www.tiktok.com/@hell.of.a.history/video/7615778055268601119"
+creator_handle: @hell.of.a.history
 title: "Marilyn vos Savant: The Woman With the Highest Recorded IQ: Dark Hist..."
 hook_onscreen: "Marilyn vos Savant: The Woman With the Highest Recorded IQ: Dark Hist..."
 hook_spoken: "Marilyn vos Savant: The Woman With the Highest Recorded IQ: Dark History True Historical Stories Villains of History Heroes from the Past Insane Real History Unsung Heroes Twisted"
@@ -15,12 +16,13 @@ views: 2460
 likes: 31
 comments: 1
 saves: null
-post_date: "2026-03-10"
+post_date: 2026-03-10
 niche_tags: [true_crime, faceless, narration, history]
 pattern_tags: [curiosity_gap, secret]
 format: short
-notes: "faceless packaging harvest (narration/B-roll/text-on-screen); collect-only"
+notes: faceless packaging harvest (narration/B-roll/text-on-screen); collect-only
 ---
+
 
 ## Transcript (~30s)
 

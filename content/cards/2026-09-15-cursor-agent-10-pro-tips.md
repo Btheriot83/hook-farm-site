@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-cursor-agent-10-pro-tips
-collected_at: 2026-09-15T00:34:28-07:00
+collected_at: "2026-09-15T00:34:28-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=WVeYLlKOWc0
-creator_handle: "@Cursor"
+language: en
+url: "https://www.youtube.com/watch?v=WVeYLlKOWc0"
+creator_handle: @Cursor
 title: "Cursor Agent: 10 Pro Tips!"
 hook_onscreen: ""
 hook_spoken: "Let's cover 10 pro tips for working with Let's cover 10 pro tips for working with the cursor agent"
@@ -15,12 +16,13 @@ views: 61258525
 likes: 10242
 comments: 258
 saves: null
-post_date: "2025-10-11"
+post_date: 2025-10-11
 niche_tags: [cursor, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

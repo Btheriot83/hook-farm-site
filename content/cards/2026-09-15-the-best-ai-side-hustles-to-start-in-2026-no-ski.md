@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-the-best-ai-side-hustles-to-start-in-2026-no-ski
-collected_at: 2026-09-15T00:43:36-07:00
+collected_at: "2026-09-15T00:43:36-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=q1g65sjQI-4
-creator_handle: "@ImanGadzhi"
-title: "The Best AI Side Hustles To Start In 2026 (No Skills)"
+language: en
+url: "https://www.youtube.com/watch?v=q1g65sjQI-4"
+creator_handle: @ImanGadzhi
+title: The Best AI Side Hustles To Start In 2026 (No Skills)
 hook_onscreen: ""
-hook_spoken: "Most people waste their entire life on Most people waste their entire life on side hustles that sound smart but yet side hustles that sound smart but yet side hustles that sound sm"
+hook_spoken: Most people waste their entire life on Most people waste their entire life on side hustles that sound smart but yet side hustles that sound smart but yet side hustles that sound sm
 thumbnail_path: thumbs/2026-09-15-the-best-ai-side-hustles-to-start-in-2026-no-ski.jpg
 thumbnail_url: "https://i.ytimg.com/vi/q1g65sjQI-4/hq720.jpg"
 transcript_path: transcripts/2026-09-15-the-best-ai-side-hustles-to-start-in-2026-no-ski.txt
@@ -15,12 +16,13 @@ views: 273331
 likes: 9317
 comments: 1500
 saves: null
-post_date: "2026-07-30"
+post_date: 2026-07-30
 niche_tags: [money, chatgpt, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

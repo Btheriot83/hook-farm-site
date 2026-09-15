@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-how-to-use-cursor-ai-for-beginners
-collected_at: 2026-09-15T00:34:36-07:00
+collected_at: "2026-09-15T00:34:36-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=Rgz6mX93C4Y
-creator_handle: "@corbin"
-title: "How To Use Cursor AI For Beginners"
+language: en
+url: "https://www.youtube.com/watch?v=Rgz6mX93C4Y"
+creator_handle: @corbin
+title: How To Use Cursor AI For Beginners
 hook_onscreen: ""
 hook_spoken: "that's it submit and proceed I'm going that's it submit and proceed I'm going to show you everything you need to know to show you everything you need to know to show you everything"
 thumbnail_path: thumbs/2026-09-15-how-to-use-cursor-ai-for-beginners.jpg
@@ -15,12 +16,13 @@ views: 668081
 likes: 6898
 comments: 325
 saves: null
-post_date: "2024-08-27"
+post_date: 2024-08-27
 niche_tags: [cursor, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

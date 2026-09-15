@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-6-ways-to-make-money-with-the-new-gpt-agent-it-b
-collected_at: 2026-09-15T00:30:32-07:00
+collected_at: "2026-09-15T00:30:32-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=I24XPX0HS5c
-creator_handle: "@ChrisKoerneronTheKoernerOfficePodcast"
-title: "6 Ways to Make Money With the New GPT Agent (It Blew My Mind)"
+language: en
+url: "https://www.youtube.com/watch?v=I24XPX0HS5c"
+creator_handle: @ChrisKoerneronTheKoernerOfficePodcast
+title: 6 Ways to Make Money With the New GPT Agent (It Blew My Mind)
 hook_onscreen: ""
-hook_spoken: "This is absolutely incredible"
+hook_spoken: This is absolutely incredible
 thumbnail_path: thumbs/2026-09-15-6-ways-to-make-money-with-the-new-gpt-agent-it-b.jpg
 thumbnail_url: "https://i.ytimg.com/vi/I24XPX0HS5c/maxresdefault.jpg"
 transcript_path: transcripts/2026-09-15-6-ways-to-make-money-with-the-new-gpt-agent-it-b.txt
@@ -15,12 +16,13 @@ views: 592990
 likes: 18526
 comments: 756
 saves: null
-post_date: "2025-07-20"
+post_date: 2025-07-20
 niche_tags: [chatgpt, agents, ai]
 pattern_tags: [number, tool_reveal]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

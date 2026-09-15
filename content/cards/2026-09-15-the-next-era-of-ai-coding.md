@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-the-next-era-of-ai-coding
-collected_at: 2026-09-15T00:35:26-07:00
+collected_at: "2026-09-15T00:35:26-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=8h9j2rskP14
-creator_handle: "@Cursor"
-title: "The next era of AI coding"
+language: en
+url: "https://www.youtube.com/watch?v=8h9j2rskP14"
+creator_handle: @Cursor
+title: The next era of AI coding
 hook_onscreen: ""
 hook_spoken: "It's so good to see everyone"
 thumbnail_path: thumbs/2026-09-15-the-next-era-of-ai-coding.jpg
@@ -15,12 +16,13 @@ views: 107472
 likes: 3049
 comments: null
 saves: null
-post_date: "2026-05-12"
+post_date: 2026-05-12
 niche_tags: [cursor, agents, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-cursor-coding-agents-tutorial-2026
-collected_at: 2026-09-15T00:35:54-07:00
+collected_at: "2026-09-15T00:35:54-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=kF2WQgk1LtY
-creator_handle: "@leerob"
+language: en
+url: "https://www.youtube.com/watch?v=kF2WQgk1LtY"
+creator_handle: @leerob
 title: "Cursor: coding agents tutorial (2026)"
 hook_onscreen: ""
-hook_spoken: "Developers are now writing a lot of code Developers are now writing a lot of code with agents"
+hook_spoken: Developers are now writing a lot of code Developers are now writing a lot of code with agents
 thumbnail_path: thumbs/2026-09-15-cursor-coding-agents-tutorial-2026.jpg
 thumbnail_url: "https://i.ytimg.com/vi/kF2WQgk1LtY/hq720.jpg"
 transcript_path: transcripts/2026-09-15-cursor-coding-agents-tutorial-2026.txt
@@ -15,12 +16,13 @@ views: 91099
 likes: 1633
 comments: 59
 saves: null
-post_date: "2026-04-15"
+post_date: 2026-04-15
 niche_tags: [cursor, agents, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

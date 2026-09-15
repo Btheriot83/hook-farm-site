@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-5-genius-ways-to-make-money-with-chatgpt
-collected_at: 2026-09-15T00:43:28-07:00
+collected_at: "2026-09-15T00:43:28-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=lqvZxkBXAXw
-creator_handle: "@GillianPerkins"
-title: "5 GENIUS Ways to Make Money with ChatGPT"
+language: en
+url: "https://www.youtube.com/watch?v=lqvZxkBXAXw"
+creator_handle: @GillianPerkins
+title: 5 GENIUS Ways to Make Money with ChatGPT
 hook_onscreen: ""
 hook_spoken: "foreign T is the world's smartest robot and it T is the world's smartest robot and it is changing the game when it comes to is changing the game when it comes to is changing the ga"
 thumbnail_path: thumbs/2026-09-15-5-genius-ways-to-make-money-with-chatgpt.jpg
@@ -15,12 +16,13 @@ views: 614855
 likes: 10118
 comments: 461
 saves: null
-post_date: "2023-03-21"
+post_date: 2023-03-21
 niche_tags: [money, chatgpt, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

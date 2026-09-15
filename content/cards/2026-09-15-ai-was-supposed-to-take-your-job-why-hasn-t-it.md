@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-ai-was-supposed-to-take-your-job-why-hasn-t-it
-collected_at: 2026-09-15T00:41:08-07:00
+collected_at: "2026-09-15T00:41:08-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=zRv5kW5mAxM
-creator_handle: "@Maxinomics"
+language: en
+url: "https://www.youtube.com/watch?v=zRv5kW5mAxM"
+creator_handle: @Maxinomics
 title: "AI Was Supposed To Take Your Job. Why Hasn't It?"
 hook_onscreen: ""
-hook_spoken: "On a sweltering June day in front of a On a sweltering June day in front of a velvet curtain in Barclays Bank in North velvet curtain in Barclays Bank in North velvet curtain in Ba"
+hook_spoken: On a sweltering June day in front of a On a sweltering June day in front of a velvet curtain in Barclays Bank in North velvet curtain in Barclays Bank in North velvet curtain in Ba
 thumbnail_path: thumbs/2026-09-15-ai-was-supposed-to-take-your-job-why-hasn-t-it.jpg
 thumbnail_url: "https://i.ytimg.com/vi/zRv5kW5mAxM/hq720.jpg"
 transcript_path: transcripts/2026-09-15-ai-was-supposed-to-take-your-job-why-hasn-t-it.txt
@@ -15,12 +16,13 @@ views: 912375
 likes: 30794
 comments: 3500
 saves: null
-post_date: "2026-07-01"
+post_date: 2026-07-01
 niche_tags: [money, replaced_job, ai]
 pattern_tags: [replaced_job]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

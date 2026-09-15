@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-how-to-create-custom-gpts-for-beginners
-collected_at: 2026-09-15T00:31:08-07:00
+collected_at: "2026-09-15T00:31:08-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=ABVwhZWg1Uk
-creator_handle: "@TheAIAdvantage"
-title: "How To Create Custom GPTs For Beginners"
+language: en
+url: "https://www.youtube.com/watch?v=ABVwhZWg1Uk"
+creator_handle: @TheAIAdvantage
+title: How To Create Custom GPTs For Beginners
 hook_onscreen: ""
 hook_spoken: "gpts are now available to all chat GPT gpts are now available to all chat GPT plus users and they're what I've been plus users and they're what I've been plus users and they're wha"
 thumbnail_path: thumbs/2026-09-15-how-to-create-custom-gpts-for-beginners.jpg
@@ -15,12 +16,13 @@ views: 270588
 likes: 3859
 comments: 159
 saves: null
-post_date: "2023-11-10"
+post_date: 2023-11-10
 niche_tags: [chatgpt, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

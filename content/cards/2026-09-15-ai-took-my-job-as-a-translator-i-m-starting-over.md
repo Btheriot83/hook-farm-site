@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-ai-took-my-job-as-a-translator-i-m-starting-over
-collected_at: 2026-09-15T00:41:33-07:00
+collected_at: "2026-09-15T00:41:33-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=OovTIngZtCY
-creator_handle: "@MidlifeCrisisDiaries"
+language: en
+url: "https://www.youtube.com/watch?v=OovTIngZtCY"
+creator_handle: @MidlifeCrisisDiaries
 title: "AI took my job as a translator. I'm starting over at 39"
 hook_onscreen: ""
-hook_spoken: "I have a degree from Cambridge I have a degree from Cambridge University"
+hook_spoken: I have a degree from Cambridge I have a degree from Cambridge University
 thumbnail_path: thumbs/2026-09-15-ai-took-my-job-as-a-translator-i-m-starting-over.jpg
 thumbnail_url: "https://i.ytimg.com/vi/OovTIngZtCY/hq720.jpg"
 transcript_path: transcripts/2026-09-15-ai-took-my-job-as-a-translator-i-m-starting-over.txt
@@ -15,12 +16,13 @@ views: 300034
 likes: 17996
 comments: 4500
 saves: null
-post_date: "2026-02-27"
+post_date: 2026-02-27
 niche_tags: [money, replaced_job, ai]
 pattern_tags: [curiosity_gap, authority]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

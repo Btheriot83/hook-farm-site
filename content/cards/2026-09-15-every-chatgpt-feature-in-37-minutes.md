@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-every-chatgpt-feature-in-37-minutes
-collected_at: 2026-09-15T00:28:48-07:00
+collected_at: "2026-09-15T00:28:48-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=jS8g9cnfvTs
-creator_handle: "@TinaHuang"
-title: "Every ChatGPT Feature In 37 Minutes"
+language: en
+url: "https://www.youtube.com/watch?v=jS8g9cnfvTs"
+creator_handle: @TinaHuang
+title: Every ChatGPT Feature In 37 Minutes
 hook_onscreen: ""
-hook_spoken: "ChachiBT is my all-time mostused AI ChachiBT is my all-time mostused AI product, hands down"
+hook_spoken: ChachiBT is my all-time mostused AI ChachiBT is my all-time mostused AI product, hands down
 thumbnail_path: thumbs/2026-09-15-every-chatgpt-feature-in-37-minutes.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/jS8g9cnfvTs/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-every-chatgpt-feature-in-37-minutes.txt
@@ -15,12 +16,13 @@ views: 206182
 likes: 3653
 comments: 157
 saves: null
-post_date: "2025-09-24"
+post_date: 2025-09-24
 niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [number]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

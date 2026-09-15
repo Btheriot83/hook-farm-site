@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-the-easiest-way-to-make-money-with-ai-copy-this
-collected_at: 2026-09-15T00:42:17-07:00
+collected_at: "2026-09-15T00:42:17-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=HKWLH1Zh79A
-creator_handle: "@TheDiaryOfACEOClips"
-title: "The EASIEST Way To Make Money With AI (Copy This)"
+language: en
+url: "https://www.youtube.com/watch?v=HKWLH1Zh79A"
+creator_handle: @TheDiaryOfACEOClips
+title: The EASIEST Way To Make Money With AI (Copy This)
 hook_onscreen: ""
-hook_spoken: "So, in a world of AI, are there any So, in a world of AI, are there any particular opportunities that you think particular opportunities that you think particular opportunities tha"
+hook_spoken: So, in a world of AI, are there any So, in a world of AI, are there any particular opportunities that you think particular opportunities that you think particular opportunities tha
 thumbnail_path: thumbs/2026-09-15-the-easiest-way-to-make-money-with-ai-copy-this.jpg
 thumbnail_url: "https://i.ytimg.com/vi/HKWLH1Zh79A/hq720.jpg"
 transcript_path: transcripts/2026-09-15-the-easiest-way-to-make-money-with-ai-copy-this.txt
@@ -15,12 +16,13 @@ views: 1054904
 likes: 7885
 comments: 439
 saves: null
-post_date: "2026-09-03"
+post_date: 2026-09-03
 niche_tags: [money, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

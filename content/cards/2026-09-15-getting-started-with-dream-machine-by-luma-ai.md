@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-getting-started-with-dream-machine-by-luma-ai
-collected_at: 2026-09-15T09:17:55-07:00
+collected_at: "2026-09-15T09:17:55-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=CenxCa29Yh8
-creator_handle: "@Luma"
-title: "Getting Started With Dream Machine by Luma AI"
+language: en
+url: "https://www.youtube.com/watch?v=CenxCa29Yh8"
+creator_handle: @Luma
+title: Getting Started With Dream Machine by Luma AI
 hook_onscreen: ""
-hook_spoken: "Welcome to Getting Started with Dream Welcome to Getting Started with Dream Machine, a step-by-step overview to Machine, a step-by-step overview to Machine, a step-by-step overview"
+hook_spoken: Welcome to Getting Started with Dream Welcome to Getting Started with Dream Machine, a step-by-step overview to Machine, a step-by-step overview to Machine, a step-by-step overview
 thumbnail_path: thumbs/2026-09-15-getting-started-with-dream-machine-by-luma-ai.jpg
 thumbnail_url: "https://i.ytimg.com/vi/CenxCa29Yh8/maxresdefault.jpg"
 transcript_path: transcripts/2026-09-15-getting-started-with-dream-machine-by-luma-ai.txt
@@ -15,12 +16,13 @@ views: 335510
 likes: 5152
 comments: 96
 saves: null
-post_date: "2025-06-14"
+post_date: 2025-06-14
 niche_tags: [luma, video, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

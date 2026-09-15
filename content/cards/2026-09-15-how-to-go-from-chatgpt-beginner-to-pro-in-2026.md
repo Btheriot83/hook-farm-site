@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-how-to-go-from-chatgpt-beginner-to-pro-in-2026
-collected_at: 2026-09-15T00:27:52-07:00
+collected_at: "2026-09-15T00:27:52-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=DEYJCRkAZ2Q
-creator_handle: "@DanMartell"
-title: "How to Go From ChatGPT Beginner to Pro in 2026"
+language: en
+url: "https://www.youtube.com/watch?v=DEYJCRkAZ2Q"
+creator_handle: @DanMartell
+title: How to Go From ChatGPT Beginner to Pro in 2026
 hook_onscreen: ""
 hook_spoken: "I've been programming since I was 17, I've been programming since I was 17, and even I feel the pressure to keep up and even I feel the pressure to keep up and even I feel the pres"
 thumbnail_path: thumbs/2026-09-15-how-to-go-from-chatgpt-beginner-to-pro-in-2026.jpg
@@ -15,12 +16,13 @@ views: 282452
 likes: 9542
 comments: 616
 saves: null
-post_date: "2025-07-22"
+post_date: 2025-07-22
 niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [before_after, how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,26 +1,28 @@
 ---
 id: 2026-09-14-n8n-will-change-your-life-as-a-developer
-collected_at: 2026-09-14T23:25:00-07:00
+collected_at: "2026-09-14T23:25:00-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=bS9R6aCVEzw
-creator_handle: "@Fireship"
-title: "n8n will change your life as a developer..."
+language: en
+url: "https://www.youtube.com/watch?v=bS9R6aCVEzw"
+creator_handle: @Fireship
+title: n8n will change your life as a developer...
 hook_onscreen: ""
-hook_spoken: "Benjamin Franklin once said, \"Losts time is never found again.\" As programmers, we have the unique ability to prevent lost time through the power of automation."
+hook_spoken: "Benjamin Franklin once said, \\\"Losts time is never found again.\\\" As programmers, we have the unique ability to prevent lost time through the power of automation."
 thumbnail_path: thumbs/2026-09-14-n8n-will-change-your-life-as-a-developer.jpg
-thumbnail_url: https://i.ytimg.com/vi_webp/bS9R6aCVEzw/maxresdefault.webp
+thumbnail_url: "https://i.ytimg.com/vi_webp/bS9R6aCVEzw/maxresdefault.webp"
 transcript_path: transcripts/2026-09-14-n8n-will-change-your-life-as-a-developer.txt
 views: 1224986
 likes: 56695
 comments: 2100
 saves: null
-post_date: "2025-09-29"
+post_date: 2025-09-29
 niche_tags: [automation, tooling, ai]
 pattern_tags: [curiosity_gap, authority, tool_reveal]
 format: long
-notes: "Fireship life-change claim for n8n"
+notes: Fireship life-change claim for n8n
 ---
+
 
 ## Transcript (~30s)
 

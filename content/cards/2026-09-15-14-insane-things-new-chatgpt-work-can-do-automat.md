@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-14-insane-things-new-chatgpt-work-can-do-automat
-collected_at: 2026-09-15T00:30:53-07:00
+collected_at: "2026-09-15T00:30:53-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=zWL6XGP3Em8
-creator_handle: "@RileyBrown"
-title: "14 Insane Things NEW ChatGPT Work Can Do (Automate Anything)"
+language: en
+url: "https://www.youtube.com/watch?v=zWL6XGP3Em8"
+creator_handle: @RileyBrown
+title: 14 Insane Things NEW ChatGPT Work Can Do (Automate Anything)
 hook_onscreen: ""
 hook_spoken: "You're in the right place if you use You're in the right place if you use ChatgBT, Claude, Claude Co-work, or ChatgBT, Claude, Claude Co-work, or ChatgBT, Claude, Claude Co-work, o"
 thumbnail_path: thumbs/2026-09-15-14-insane-things-new-chatgpt-work-can-do-automat.jpg
@@ -15,12 +16,13 @@ views: 185723
 likes: 3572
 comments: 139
 saves: null
-post_date: "2026-08-09"
+post_date: 2026-08-09
 niche_tags: [chatgpt, agents, ai]
 pattern_tags: [tool_reveal]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

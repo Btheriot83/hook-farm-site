@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-i-ll-never-use-n8n-the-same
-collected_at: 2026-09-15T00:39:23-07:00
+collected_at: "2026-09-15T00:39:23-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=s96JeuuwLzc
-creator_handle: "@NetworkChuck"
+language: en
+url: "https://www.youtube.com/watch?v=s96JeuuwLzc"
+creator_handle: @NetworkChuck
 title: "I'll never use n8n the same......"
 hook_onscreen: ""
-hook_spoken: "How I use n8n has changed forever"
+hook_spoken: How I use n8n has changed forever
 thumbnail_path: thumbs/2026-09-15-i-ll-never-use-n8n-the-same.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/s96JeuuwLzc/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-i-ll-never-use-n8n-the-same.txt
@@ -15,12 +16,13 @@ views: 649330
 likes: 18167
 comments: 1500
 saves: null
-post_date: "2025-12-10"
+post_date: 2025-12-10
 niche_tags: [automation, agents, tooling, ai]
 pattern_tags: [curiosity_gap, authority]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

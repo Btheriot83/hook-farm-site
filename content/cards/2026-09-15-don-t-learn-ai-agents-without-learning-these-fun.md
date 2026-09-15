@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-don-t-learn-ai-agents-without-learning-these-fun
-collected_at: 2026-09-15T00:37:08-07:00
+collected_at: "2026-09-15T00:37:08-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=ZaPbP9DwBOE
-creator_handle: "@KodeKloud"
+language: en
+url: "https://www.youtube.com/watch?v=ZaPbP9DwBOE"
+creator_handle: @KodeKloud
 title: "Don't learn AI Agents without Learning these Fundamentals"
 hook_onscreen: ""
-hook_spoken: "A lot has been going on with AI over the A lot has been going on with AI over the past few years"
+hook_spoken: A lot has been going on with AI over the A lot has been going on with AI over the past few years
 thumbnail_path: thumbs/2026-09-15-don-t-learn-ai-agents-without-learning-these-fun.jpg
 thumbnail_url: "https://i.ytimg.com/vi/ZaPbP9DwBOE/hq720.jpg"
 transcript_path: transcripts/2026-09-15-don-t-learn-ai-agents-without-learning-these-fun.txt
@@ -15,12 +16,13 @@ views: 1184259
 likes: 23849
 comments: 634
 saves: null
-post_date: "2025-10-21"
+post_date: 2025-10-21
 niche_tags: [agents, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

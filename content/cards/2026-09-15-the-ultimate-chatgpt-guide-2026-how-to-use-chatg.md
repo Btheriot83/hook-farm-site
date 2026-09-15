@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-the-ultimate-chatgpt-guide-2026-how-to-use-chatg
-collected_at: 2026-09-15T00:30:00-07:00
+collected_at: "2026-09-15T00:30:00-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=McOK2URVyNg
-creator_handle: "@AIMaster"
+language: en
+url: "https://www.youtube.com/watch?v=McOK2URVyNg"
+creator_handle: @AIMaster
 title: "The ULTIMATE ChatGPT Guide 2026: How to Use ChatGPT 5.5 For Beginners"
 hook_onscreen: ""
-hook_spoken: "Chat GPT 5"
+hook_spoken: Chat GPT 5
 thumbnail_path: thumbs/2026-09-15-the-ultimate-chatgpt-guide-2026-how-to-use-chatg.jpg
 thumbnail_url: "https://i.ytimg.com/vi/McOK2URVyNg/maxresdefault.jpg"
 transcript_path: transcripts/2026-09-15-the-ultimate-chatgpt-guide-2026-how-to-use-chatg.txt
@@ -15,12 +16,13 @@ views: 40874
 likes: 505
 comments: 19
 saves: null
-post_date: "2026-05-20"
+post_date: 2026-05-20
 niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

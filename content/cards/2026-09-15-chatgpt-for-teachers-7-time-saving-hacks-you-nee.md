@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-chatgpt-for-teachers-7-time-saving-hacks-you-nee
-collected_at: 2026-09-15T00:30:04-07:00
+collected_at: "2026-09-15T00:30:04-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=cLUMay1wDgM
-creator_handle: "@TeachYourClassOff"
+language: en
+url: "https://www.youtube.com/watch?v=cLUMay1wDgM"
+creator_handle: @TeachYourClassOff
 title: "ChatGPT for Teachers: 7 Time-Saving Hacks You Need to Know"
 hook_onscreen: ""
 hook_spoken: "time is our number one resource that we time is our number one resource that we have as human beings because of that I'm have as human beings because of that I'm have as human bein"
@@ -15,12 +16,13 @@ views: 28316
 likes: 713
 comments: 85
 saves: null
-post_date: "2025-02-15"
+post_date: 2025-02-15
 niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

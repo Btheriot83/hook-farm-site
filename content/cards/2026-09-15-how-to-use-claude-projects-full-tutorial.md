@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-how-to-use-claude-projects-full-tutorial
-collected_at: 2026-09-15T00:34:01-07:00
+collected_at: "2026-09-15T00:34:01-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=w7_yWjYyxjE
-creator_handle: "@KevinStratvert"
-title: "How to Use Claude Projects (Full Tutorial)"
+language: en
+url: "https://www.youtube.com/watch?v=w7_yWjYyxjE"
+creator_handle: @KevinStratvert
+title: How to Use Claude Projects (Full Tutorial)
 hook_onscreen: ""
-hook_spoken: "In this video, I will show you how to In this video, I will show you how to use Claude Projects step-by-step"
+hook_spoken: In this video, I will show you how to In this video, I will show you how to use Claude Projects step-by-step
 thumbnail_path: thumbs/2026-09-15-how-to-use-claude-projects-full-tutorial.jpg
 thumbnail_url: "https://i.ytimg.com/vi/w7_yWjYyxjE/hq720.jpg"
 transcript_path: transcripts/2026-09-15-how-to-use-claude-projects-full-tutorial.txt
@@ -15,12 +16,13 @@ views: 293660
 likes: 3602
 comments: 134
 saves: null
-post_date: "2026-05-14"
+post_date: 2026-05-14
 niche_tags: [claude, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

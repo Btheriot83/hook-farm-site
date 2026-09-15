@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-how-to-use-comfyui-step-by-step-tutorial
-collected_at: 2026-09-15T09:17:02-07:00
+collected_at: "2026-09-15T09:17:02-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=hl7kwMwkLJU
-creator_handle: "@KevinStratvert"
-title: "How to Use ComfyUI (Step-by-Step Tutorial)"
+language: en
+url: "https://www.youtube.com/watch?v=hl7kwMwkLJU"
+creator_handle: @KevinStratvert
+title: How to Use ComfyUI (Step-by-Step Tutorial)
 hook_onscreen: ""
-hook_spoken: "In this video, I will show you how to In this video, I will show you how to use ComfyUI step by step"
+hook_spoken: In this video, I will show you how to In this video, I will show you how to use ComfyUI step by step
 thumbnail_path: thumbs/2026-09-15-how-to-use-comfyui-step-by-step-tutorial.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/hl7kwMwkLJU/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-how-to-use-comfyui-step-by-step-tutorial.txt
@@ -15,12 +16,13 @@ views: 227287
 likes: 3681
 comments: 143
 saves: null
-post_date: "2026-06-12"
+post_date: 2026-06-12
 niche_tags: [comfyui, image, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

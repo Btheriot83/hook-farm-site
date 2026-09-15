@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-local-ai-agents-in-26-minutes
-collected_at: 2026-09-15T00:37:22-07:00
+collected_at: "2026-09-15T00:37:22-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=M-NTwkM3VwM
-creator_handle: "@TinaHuang"
-title: "Local AI Agents In 26 Minutes"
+language: en
+url: "https://www.youtube.com/watch?v=M-NTwkM3VwM"
+creator_handle: @TinaHuang
+title: Local AI Agents In 26 Minutes
 hook_onscreen: ""
-hook_spoken: "I learned all about local AI agents for I learned all about local AI agents for you"
+hook_spoken: I learned all about local AI agents for I learned all about local AI agents for you
 thumbnail_path: thumbs/2026-09-15-local-ai-agents-in-26-minutes.jpg
 thumbnail_url: "https://i.ytimg.com/vi/M-NTwkM3VwM/hq720.jpg"
 transcript_path: transcripts/2026-09-15-local-ai-agents-in-26-minutes.txt
@@ -15,12 +16,13 @@ views: 553685
 likes: 16781
 comments: 512
 saves: null
-post_date: "2026-04-15"
+post_date: 2026-04-15
 niche_tags: [agents, how-to, ai]
 pattern_tags: [number]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

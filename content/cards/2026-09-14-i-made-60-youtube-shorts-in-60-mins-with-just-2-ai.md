@@ -1,26 +1,28 @@
 ---
 id: 2026-09-14-i-made-60-youtube-shorts-in-60-mins-with-just-2-ai
-collected_at: 2026-09-14T23:25:00-07:00
+collected_at: "2026-09-14T23:25:00-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=bi1eFecrOYM
-creator_handle: "@InVideo"
-title: "I made 60 YouTube shorts in 60 mins with just 2 AI tools"
+language: en
+url: "https://www.youtube.com/watch?v=bi1eFecrOYM"
+creator_handle: @InVideo
+title: I made 60 YouTube shorts in 60 mins with just 2 AI tools
 hook_onscreen: ""
-hook_spoken: "this faceless YouTube channel gets over 7 million views a month and is monetized and is likely making thousands of dollars just by creating…"
+hook_spoken: this faceless YouTube channel gets over 7 million views a month and is monetized and is likely making thousands of dollars just by creating…
 thumbnail_path: thumbs/2026-09-14-i-made-60-youtube-shorts-in-60-mins-with-just-2-ai.jpg
-thumbnail_url: https://i.ytimg.com/vi/bi1eFecrOYM/maxresdefault.jpg
+thumbnail_url: "https://i.ytimg.com/vi/bi1eFecrOYM/maxresdefault.jpg"
 transcript_path: transcripts/2026-09-14-i-made-60-youtube-shorts-in-60-mins-with-just-2-ai.txt
 views: 2216290
 likes: 54952
 comments: 1200
 saves: null
-post_date: "2023-07-30"
+post_date: 2023-07-30
 niche_tags: [tooling, how-to, automation, ai]
 pattern_tags: [number, tool_reveal, how_to_promise]
 format: long
-notes: "60 shorts / 60 mins / 2 tools"
+notes: 60 shorts / 60 mins / 2 tools
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-the-story-of-charlotte-lindstr-m-drug-lords-s01
-collected_at: 2026-09-15T09:47:05-07:00
+collected_at: "2026-09-15T09:47:05-07:00"
 platform: youtube
 category: true_crime
-url: https://www.youtube.com/watch?v=u6-mBp0dRms
-creator_handle: "@BanijayCrime-CrimeDocumentary"
-title: "The Story of Charlotte Lindstr\u00f6m - Drug Lords - S01 E10 - Crime Documentary"
+language: en
+url: "https://www.youtube.com/watch?v=u6-mBp0dRms"
+creator_handle: @BanijayCrime-CrimeDocumentary
+title: The Story of Charlotte Lindstr\u00f6m - Drug Lords - S01 E10 - Crime Documentary
 hook_onscreen: ""
 hook_spoken: "this   is    a    love    story    but    don't    expect    a this is a love story but don't expect a this is a love story but don't expect a happily   ever    after happily ever"
 thumbnail_path: thumbs/2026-09-15-the-story-of-charlotte-lindstr-m-drug-lords-s01.jpg
@@ -15,12 +16,13 @@ views: 14158883
 likes: 52392
 comments: 8500
 saves: null
-post_date: "2018-06-29"
+post_date: 2018-06-29
 niche_tags: [true_crime, faceless, history]
 pattern_tags: [number, negative]
 format: long
-notes: "faceless-pref harvest"
+notes: faceless-pref harvest
 ---
+
 
 ## Transcript (~30s)
 

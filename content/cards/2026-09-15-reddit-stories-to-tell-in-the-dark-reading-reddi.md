@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-reddit-stories-to-tell-in-the-dark-reading-reddi
-collected_at: 2026-09-15T09:44:29-07:00
+collected_at: "2026-09-15T09:44:29-07:00"
 platform: youtube
 category: true_crime
-url: https://www.youtube.com/watch?v=ukvRe3-b9MU
-creator_handle: "@SmoshPit"
-title: "Reddit Stories To Tell In The Dark | Reading Reddit Stories"
+language: en
+url: "https://www.youtube.com/watch?v=ukvRe3-b9MU"
+creator_handle: @SmoshPit
+title: Reddit Stories To Tell In The Dark | Reading Reddit Stories
 hook_onscreen: ""
 hook_spoken: "hello   welcome    to    Reddit    stories    I'm hello welcome to Reddit stories I'm hello welcome to Reddit stories I'm Shane   and    today's    episode    is    all    about Sh"
 thumbnail_path: thumbs/2026-09-15-reddit-stories-to-tell-in-the-dark-reading-reddi.jpg
@@ -15,12 +16,13 @@ views: 3813375
 likes: 119046
 comments: 4500
 saves: null
-post_date: "2024-10-12"
+post_date: 2024-10-12
 niche_tags: [true_crime, faceless, reddit]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "faceless-pref harvest"
+notes: faceless-pref harvest
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-cursor-ai-agents-work-like-10-developers-cursor
-collected_at: 2026-09-15T00:34:54-07:00
+collected_at: "2026-09-15T00:34:54-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=8QN23ZThdRY
-creator_handle: "@GregIsenberg"
-title: "Cursor AI Agents Work Like 10 Developers (Cursor VP Live Demo)"
+language: en
+url: "https://www.youtube.com/watch?v=8QN23ZThdRY"
+creator_handle: @GregIsenberg
+title: Cursor AI Agents Work Like 10 Developers (Cursor VP Live Demo)
 hook_onscreen: ""
 hook_spoken: "There's a way to use Cursor where you There's a way to use Cursor where you have AI agents working for you"
 thumbnail_path: thumbs/2026-09-15-cursor-ai-agents-work-like-10-developers-cursor.jpg
@@ -15,12 +16,13 @@ views: 212973
 likes: 3733
 comments: 146
 saves: null
-post_date: "2025-09-02"
+post_date: 2025-09-02
 niche_tags: [cursor, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

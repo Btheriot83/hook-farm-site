@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-build-an-ai-agent-from-scratch-in-python-tutoria
-collected_at: 2026-09-15T00:37:13-07:00
+collected_at: "2026-09-15T00:37:13-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=bTMPwUgLZf0
-creator_handle: "@TechWithTim"
-title: "Build an AI Agent From Scratch in Python - Tutorial for Beginners"
+language: en
+url: "https://www.youtube.com/watch?v=bTMPwUgLZf0"
+creator_handle: @TechWithTim
+title: Build an AI Agent From Scratch in Python - Tutorial for Beginners
 hook_onscreen: ""
 hook_spoken: "in this video you'll learn how to build in this video you'll learn how to build an AI agent from scratch in Python in an AI agent from scratch in Python in an AI agent from scratch"
 thumbnail_path: thumbs/2026-09-15-build-an-ai-agent-from-scratch-in-python-tutoria.jpg
@@ -15,12 +16,13 @@ views: 869435
 likes: 17537
 comments: 548
 saves: null
-post_date: "2025-03-14"
+post_date: 2025-03-14
 niche_tags: [agents, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

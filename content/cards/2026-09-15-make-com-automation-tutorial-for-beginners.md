@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-make-com-automation-tutorial-for-beginners
-collected_at: 2026-09-15T00:39:44-07:00
+collected_at: "2026-09-15T00:39:44-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=JSA2oezQWOU
-creator_handle: "@KevinStratvert"
-title: "Make.com Automation Tutorial for Beginners"
+language: en
+url: "https://www.youtube.com/watch?v=JSA2oezQWOU"
+creator_handle: @KevinStratvert
+title: Make.com Automation Tutorial for Beginners
 hook_onscreen: ""
-hook_spoken: "Hi everyone, Kevin here"
+hook_spoken: Hi everyone, Kevin here
 thumbnail_path: thumbs/2026-09-15-make-com-automation-tutorial-for-beginners.jpg
 thumbnail_url: "https://i.ytimg.com/vi/JSA2oezQWOU/hq720.jpg"
 transcript_path: transcripts/2026-09-15-make-com-automation-tutorial-for-beginners.txt
@@ -15,12 +16,13 @@ views: 965029
 likes: 18936
 comments: 588
 saves: null
-post_date: "2024-05-28"
+post_date: 2024-05-28
 niche_tags: [automation, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

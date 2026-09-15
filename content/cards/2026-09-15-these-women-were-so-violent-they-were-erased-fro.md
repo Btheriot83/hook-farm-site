@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-these-women-were-so-violent-they-were-erased-fro
-collected_at: 2026-09-15T09:47:47-07:00
+collected_at: "2026-09-15T09:47:47-07:00"
 platform: youtube
 category: true_crime
-url: https://www.youtube.com/watch?v=oWH2W-ArnRg
-creator_handle: "@BaileySarian"
-title: "These Women Were So Violent, They Were Erased From History Books"
+language: en
+url: "https://www.youtube.com/watch?v=oWH2W-ArnRg"
+creator_handle: @BaileySarian
+title: These Women Were So Violent, They Were Erased From History Books
 hook_onscreen: ""
 hook_spoken: "[Applause] [Applause] [Music] So,   let's    start    off    with    a    total    icon So, let's start off with a total icon So, let's start off with a total icon from   the    Wi"
 thumbnail_path: thumbs/2026-09-15-these-women-were-so-violent-they-were-erased-fro.jpg
@@ -15,12 +16,13 @@ views: 2187669
 likes: 24997
 comments: 842
 saves: null
-post_date: "2025-06-05"
+post_date: 2025-06-05
 niche_tags: [true_crime, faceless, history]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "faceless-pref harvest"
+notes: faceless-pref harvest
 ---
+
 
 ## Transcript (~30s)
 

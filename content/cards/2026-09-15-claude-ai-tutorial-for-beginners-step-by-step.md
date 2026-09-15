@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-claude-ai-tutorial-for-beginners-step-by-step
-collected_at: 2026-09-15T00:32:47-07:00
+collected_at: "2026-09-15T00:32:47-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=r2vYObllqJU
-creator_handle: "@KevinStratvert"
-title: "Claude AI Tutorial for Beginners (Step-by-Step)"
+language: en
+url: "https://www.youtube.com/watch?v=r2vYObllqJU"
+creator_handle: @KevinStratvert
+title: Claude AI Tutorial for Beginners (Step-by-Step)
 hook_onscreen: ""
 hook_spoken: "In this video, I'll show you exactly how In this video, I'll show you exactly how to use Claude AI step by step"
 thumbnail_path: thumbs/2026-09-15-claude-ai-tutorial-for-beginners-step-by-step.jpg
@@ -15,12 +16,13 @@ views: 1066048
 likes: 14271
 comments: 249
 saves: null
-post_date: "2026-04-30"
+post_date: 2026-04-30
 niche_tags: [claude, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

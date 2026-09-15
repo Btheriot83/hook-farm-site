@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-how-to-build-a-multi-agent-ai-system
-collected_at: 2026-09-15T00:38:08-07:00
+collected_at: "2026-09-15T00:38:08-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=gUrENDkPw_k
-creator_handle: "@IBMTechnology"
-title: "How to Build a Multi Agent AI System"
+language: en
+url: "https://www.youtube.com/watch?v=gUrENDkPw_k"
+creator_handle: @IBMTechnology
+title: How to Build a Multi Agent AI System
 hook_onscreen: ""
-hook_spoken: "this is how to build a multi-agent system&nbsp; with watsonx"
+hook_spoken: this is how to build a multi-agent system&nbsp; with watsonx
 thumbnail_path: thumbs/2026-09-15-how-to-build-a-multi-agent-ai-system.jpg
 thumbnail_url: "https://i.ytimg.com/vi/gUrENDkPw_k/hq720.jpg"
 transcript_path: transcripts/2026-09-15-how-to-build-a-multi-agent-ai-system.txt
@@ -15,12 +16,13 @@ views: 215184
 likes: 4043
 comments: 109
 saves: null
-post_date: "2024-08-15"
+post_date: 2024-08-15
 niche_tags: [agents, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

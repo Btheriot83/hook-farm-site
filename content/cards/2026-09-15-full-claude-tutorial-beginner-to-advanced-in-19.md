@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-full-claude-tutorial-beginner-to-advanced-in-19
-collected_at: 2026-09-15T00:32:57-07:00
+collected_at: "2026-09-15T00:32:57-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=WSPChlfxJyA
-creator_handle: "@Futurepedia"
+language: en
+url: "https://www.youtube.com/watch?v=WSPChlfxJyA"
+creator_handle: @Futurepedia
 title: "Full Claude Tutorial: Beginner to Advanced in 19 Minutes"
 hook_onscreen: ""
-hook_spoken: "Claude has been my most used tool for Claude has been my most used tool for the past year"
+hook_spoken: Claude has been my most used tool for Claude has been my most used tool for the past year
 thumbnail_path: thumbs/2026-09-15-full-claude-tutorial-beginner-to-advanced-in-19.jpg
 thumbnail_url: "https://i.ytimg.com/vi/WSPChlfxJyA/hqdefault.jpg"
 transcript_path: transcripts/2026-09-15-full-claude-tutorial-beginner-to-advanced-in-19.txt
@@ -15,12 +16,13 @@ views: 893269
 likes: 14163
 comments: 218
 saves: null
-post_date: "2026-04-08"
+post_date: 2026-04-08
 niche_tags: [claude, how-to, ai]
 pattern_tags: [number, how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

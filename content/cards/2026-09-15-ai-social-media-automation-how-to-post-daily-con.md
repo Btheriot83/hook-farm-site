@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-ai-social-media-automation-how-to-post-daily-con
-collected_at: 2026-09-15T00:40:11-07:00
+collected_at: "2026-09-15T00:40:11-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=4ZI_fL4cw_c
-creator_handle: "@Solopreneur"
+language: en
+url: "https://www.youtube.com/watch?v=4ZI_fL4cw_c"
+creator_handle: @Solopreneur
 title: "AI Social Media Automation: How to Post Daily Content 100% on Autopilot!"
 hook_onscreen: ""
-hook_spoken: "imagine growing all your social media imagine growing all your social media accounts without lifting a finger accounts without lifting a finger accounts without lifting a finger po"
+hook_spoken: imagine growing all your social media imagine growing all your social media accounts without lifting a finger accounts without lifting a finger accounts without lifting a finger po
 thumbnail_path: thumbs/2026-09-15-ai-social-media-automation-how-to-post-daily-con.jpg
 thumbnail_url: "https://i.ytimg.com/vi/4ZI_fL4cw_c/hq720.jpg"
 transcript_path: transcripts/2026-09-15-ai-social-media-automation-how-to-post-daily-con.txt
@@ -15,12 +16,13 @@ views: 190976
 likes: 6345
 comments: 623
 saves: null
-post_date: "2024-11-05"
+post_date: 2024-11-05
 niche_tags: [automation, tooling, ai]
 pattern_tags: [number, how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

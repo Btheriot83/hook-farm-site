@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-introducing-studio-3-0-the-best-ai-audio-models
-collected_at: 2026-09-15T09:16:23-07:00
+collected_at: "2026-09-15T09:16:23-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=ZZSROGCVg9M
-creator_handle: "@ElevenLabs"
-title: "Introducing Studio 3.0 \u2014 The Best AI Audio Models in One Editor"
+language: en
+url: "https://www.youtube.com/watch?v=ZZSROGCVg9M"
+creator_handle: @ElevenLabs
+title: Introducing Studio 3.0 \u2014 The Best AI Audio Models in One Editor
 hook_onscreen: ""
-hook_spoken: "11 Labs proudly introduces Studio 3"
+hook_spoken: 11 Labs proudly introduces Studio 3
 thumbnail_path: thumbs/2026-09-15-introducing-studio-3-0-the-best-ai-audio-models.jpg
 thumbnail_url: "https://i.ytimg.com/vi/ZZSROGCVg9M/hqdefault.jpg"
 transcript_path: transcripts/2026-09-15-introducing-studio-3-0-the-best-ai-audio-models.txt
@@ -15,12 +16,13 @@ views: 65530899
 likes: 644
 comments: 55
 saves: null
-post_date: "2025-09-17"
+post_date: 2025-09-17
 niche_tags: [elevenlabs, voice, tooling, ai]
 pattern_tags: [tool_reveal]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-ai-videos-in-2025-are-getting-crazy-google-veo-3
-collected_at: 2026-09-15T09:18:23-07:00
+collected_at: "2026-09-15T09:18:23-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=c7R94ykz0po
-creator_handle: "@GrowWithKaz"
-title: "AI Videos in 2025 Are Getting Crazy! Google Veo 3 TUTORIAL!"
+language: en
+url: "https://www.youtube.com/watch?v=c7R94ykz0po"
+creator_handle: @GrowWithKaz
+title: AI Videos in 2025 Are Getting Crazy! Google Veo 3 TUTORIAL!
 hook_onscreen: ""
-hook_spoken: "AI just completely changed the content AI just completely changed the content creation game"
+hook_spoken: AI just completely changed the content AI just completely changed the content creation game
 thumbnail_path: thumbs/2026-09-15-ai-videos-in-2025-are-getting-crazy-google-veo-3.jpg
 thumbnail_url: "https://i.ytimg.com/vi/c7R94ykz0po/maxresdefault.jpg"
 transcript_path: transcripts/2026-09-15-ai-videos-in-2025-are-getting-crazy-google-veo-3.txt
@@ -15,12 +16,13 @@ views: 836675
 likes: 10029
 comments: 923
 saves: null
-post_date: "2025-05-26"
+post_date: 2025-05-26
 niche_tags: [veo, video, gemini, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

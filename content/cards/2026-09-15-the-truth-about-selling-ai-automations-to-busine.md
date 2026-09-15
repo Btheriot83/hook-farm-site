@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-the-truth-about-selling-ai-automations-to-busine
-collected_at: 2026-09-15T00:39:48-07:00
+collected_at: "2026-09-15T00:39:48-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=XUYvDbAv1IA
-creator_handle: "@ZubairTrabzada|AIWorkshop"
-title: "The TRUTH About Selling AI Automations to Businesses"
+language: en
+url: "https://www.youtube.com/watch?v=XUYvDbAv1IA"
+creator_handle: @ZubairTrabzada|AIWorkshop
+title: The TRUTH About Selling AI Automations to Businesses
 hook_onscreen: ""
 hook_spoken: "I'm so sick and tired of watching videos I'm so sick and tired of watching videos on YouTube of people, especially these on YouTube of people, especially these on YouTube of people"
 thumbnail_path: thumbs/2026-09-15-the-truth-about-selling-ai-automations-to-busine.jpg
@@ -15,12 +16,13 @@ views: 410784
 likes: 10984
 comments: 1200
 saves: null
-post_date: "2025-06-18"
+post_date: 2025-06-18
 niche_tags: [automation, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-how-to-use-cursor-ai-full-tutorial-for-beginners
-collected_at: 2026-09-15T00:35:11-07:00
+collected_at: "2026-09-15T00:35:11-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=cE84Q5IRR6U
-creator_handle: "@DrAlexYoung"
-title: "How To Use Cursor AI (Full Tutorial For Beginners 2025)"
+language: en
+url: "https://www.youtube.com/watch?v=cE84Q5IRR6U"
+creator_handle: @DrAlexYoung
+title: How To Use Cursor AI (Full Tutorial For Beginners 2025)
 hook_onscreen: ""
 hook_spoken: "Hey guys, in this video I'm going to be Hey guys, in this video I'm going to be running through how I get set up with running through how I get set up with running through how I ge"
 thumbnail_path: thumbs/2026-09-15-how-to-use-cursor-ai-full-tutorial-for-beginners.jpg
@@ -15,12 +16,13 @@ views: 153433
 likes: 2379
 comments: 61
 saves: null
-post_date: "2025-04-27"
+post_date: 2025-04-27
 niche_tags: [cursor, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

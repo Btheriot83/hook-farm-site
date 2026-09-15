@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-chatgpt-for-beginners-master-prompting-in-minute
-collected_at: 2026-09-15T00:28:53-07:00
+collected_at: "2026-09-15T00:28:53-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=8yqcDL4TmzM
-creator_handle: "@AnsonAlexander"
+language: en
+url: "https://www.youtube.com/watch?v=8yqcDL4TmzM"
+creator_handle: @AnsonAlexander
 title: "ChatGPT for Beginners: Master Prompting in Minutes"
 hook_onscreen: ""
 hook_spoken: "If you're ready to use AI to streamline tasks in your life, ChatGPT is the best place to start"
@@ -15,12 +16,13 @@ views: 176160
 likes: 5200
 comments: 113
 saves: null
-post_date: "2024-02-14"
+post_date: 2024-02-14
 niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

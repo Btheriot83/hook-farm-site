@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-stop-wasting-credits-become-a-kling-ai-master-in
-collected_at: 2026-09-15T09:17:29-07:00
+collected_at: "2026-09-15T09:17:29-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=EWBsU0fSgPs
-creator_handle: "@Roboverse"
-title: "STOP Wasting Credits & Become a Kling AI Master in 8 Minutes"
+language: en
+url: "https://www.youtube.com/watch?v=EWBsU0fSgPs"
+creator_handle: @Roboverse
+title: STOP Wasting Credits & Become a Kling AI Master in 8 Minutes
 hook_onscreen: ""
-hook_spoken: "Cling AI is the most powerful AI video Cling AI is the most powerful AI video generator right now, but most people generator right now, but most people generator right now, but mos"
+hook_spoken: Cling AI is the most powerful AI video Cling AI is the most powerful AI video generator right now, but most people generator right now, but most people generator right now, but mos
 thumbnail_path: thumbs/2026-09-15-stop-wasting-credits-become-a-kling-ai-master-in.jpg
 thumbnail_url: "https://i.ytimg.com/vi/EWBsU0fSgPs/maxresdefault.jpg"
 transcript_path: transcripts/2026-09-15-stop-wasting-credits-become-a-kling-ai-master-in.txt
@@ -15,12 +16,13 @@ views: 302571
 likes: null
 comments: 10
 saves: null
-post_date: "2025-04-12"
+post_date: 2025-04-12
 niche_tags: [kling, video, ai]
 pattern_tags: [number]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

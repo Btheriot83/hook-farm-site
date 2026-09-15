@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-laziest-way-to-make-money-with-ai-zero-code
-collected_at: 2026-09-15T00:42:52-07:00
+collected_at: "2026-09-15T00:42:52-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=biAYfwX4bkY
-creator_handle: "@DanMartell"
-title: "Laziest Way to Make Money With AI (Zero Code)"
+language: en
+url: "https://www.youtube.com/watch?v=biAYfwX4bkY"
+creator_handle: @DanMartell
+title: Laziest Way to Make Money With AI (Zero Code)
 hook_onscreen: ""
-hook_spoken: "Chat GPT is the kiddie pool of AI"
+hook_spoken: Chat GPT is the kiddie pool of AI
 thumbnail_path: thumbs/2026-09-15-laziest-way-to-make-money-with-ai-zero-code.jpg
 thumbnail_url: "https://i.ytimg.com/vi/biAYfwX4bkY/maxresdefault.jpg"
 transcript_path: transcripts/2026-09-15-laziest-way-to-make-money-with-ai-zero-code.txt
@@ -15,12 +16,13 @@ views: 462227
 likes: 16687
 comments: 495
 saves: null
-post_date: "2026-03-19"
+post_date: 2026-03-19
 niche_tags: [money, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

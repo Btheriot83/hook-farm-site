@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-ai-agents-explained-what-is-an-ai-agent-and-how
-collected_at: 2026-09-15T00:30:45-07:00
+collected_at: "2026-09-15T00:30:45-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=ZvDkJsKE80k
-creator_handle: "@TechWithTim"
-title: "AI Agents Explained - What Is an AI Agent and how to build one? (Real Examples, Not Hype)"
+language: en
+url: "https://www.youtube.com/watch?v=ZvDkJsKE80k"
+creator_handle: @TechWithTim
+title: AI Agents Explained - What Is an AI Agent and how to build one? (Real Examples, Not Hype)
 hook_onscreen: ""
 hook_spoken: "Everybody's talking about AI agents, but Everybody's talking about AI agents, but almost nobody explains what it is and almost nobody explains what it is and almost nobody explains"
 thumbnail_path: thumbs/2026-09-15-ai-agents-explained-what-is-an-ai-agent-and-how.jpg
@@ -15,12 +16,13 @@ views: 233647
 likes: 4666
 comments: 124
 saves: null
-post_date: "2026-07-16"
+post_date: 2026-07-16
 niche_tags: [chatgpt, agents, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

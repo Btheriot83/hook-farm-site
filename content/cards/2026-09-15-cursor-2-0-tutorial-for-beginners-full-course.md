@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-cursor-2-0-tutorial-for-beginners-full-course
-collected_at: 2026-09-15T00:34:41-07:00
+collected_at: "2026-09-15T00:34:41-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=2aldTxnbNt0
-creator_handle: "@RileyBrown"
-title: "Cursor 2.0 Tutorial for Beginners (Full Course)"
+language: en
+url: "https://www.youtube.com/watch?v=2aldTxnbNt0"
+creator_handle: @RileyBrown
+title: Cursor 2.0 Tutorial for Beginners (Full Course)
 hook_onscreen: ""
-hook_spoken: "Welcome to the complete cursor guide Welcome to the complete cursor guide with Kihan Zang"
+hook_spoken: Welcome to the complete cursor guide Welcome to the complete cursor guide with Kihan Zang
 thumbnail_path: thumbs/2026-09-15-cursor-2-0-tutorial-for-beginners-full-course.jpg
 thumbnail_url: "https://i.ytimg.com/vi/2aldTxnbNt0/maxresdefault.jpg"
 transcript_path: transcripts/2026-09-15-cursor-2-0-tutorial-for-beginners-full-course.txt
@@ -15,12 +16,13 @@ views: 377207
 likes: 7954
 comments: 295
 saves: null
-post_date: "2025-11-10"
+post_date: 2025-11-10
 niche_tags: [cursor, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

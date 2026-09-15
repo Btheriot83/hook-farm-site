@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-cursor-just-released-grok-bot-an-insanely-easy-a
-collected_at: 2026-09-15T00:35:21-07:00
+collected_at: "2026-09-15T00:35:21-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=QTcZPI-g7is
-creator_handle: "@PaulJLipsky"
-title: "Cursor Just Released Grok Bot (An Insanely Easy AI Agent)"
+language: en
+url: "https://www.youtube.com/watch?v=QTcZPI-g7is"
+creator_handle: @PaulJLipsky
+title: Cursor Just Released Grok Bot (An Insanely Easy AI Agent)
 hook_onscreen: ""
-hook_spoken: "So, Cursor just came out with something So, Cursor just came out with something new"
+hook_spoken: So, Cursor just came out with something So, Cursor just came out with something new
 thumbnail_path: thumbs/2026-09-15-cursor-just-released-grok-bot-an-insanely-easy-a.jpg
 thumbnail_url: "https://i.ytimg.com/vi/QTcZPI-g7is/hq720.jpg"
 transcript_path: transcripts/2026-09-15-cursor-just-released-grok-bot-an-insanely-easy-a.txt
@@ -15,12 +16,13 @@ views: 114105
 likes: 1447
 comments: 258
 saves: null
-post_date: "2026-08-11"
+post_date: 2026-08-11
 niche_tags: [cursor, agents, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

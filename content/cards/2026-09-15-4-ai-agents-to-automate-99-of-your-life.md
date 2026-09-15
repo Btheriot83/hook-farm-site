@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-4-ai-agents-to-automate-99-of-your-life
-collected_at: 2026-09-15T00:30:18-07:00
+collected_at: "2026-09-15T00:30:18-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=TL8V41Ea6oM
-creator_handle: "@SandeepSwadia"
-title: "4 AI Agents To Automate 99% Of Your Life"
+language: en
+url: "https://www.youtube.com/watch?v=TL8V41Ea6oM"
+creator_handle: @SandeepSwadia
+title: 4 AI Agents To Automate 99% Of Your Life
 hook_onscreen: ""
-hook_spoken: "four AI agents you can build today that four AI agents you can build today that will save you hours of work every week"
+hook_spoken: four AI agents you can build today that four AI agents you can build today that will save you hours of work every week
 thumbnail_path: thumbs/2026-09-15-4-ai-agents-to-automate-99-of-your-life.jpg
 thumbnail_url: "https://i.ytimg.com/vi/TL8V41Ea6oM/maxresdefault.jpg"
 transcript_path: transcripts/2026-09-15-4-ai-agents-to-automate-99-of-your-life.txt
@@ -15,12 +16,13 @@ views: 1389145
 likes: 27378
 comments: 551
 saves: null
-post_date: "2026-07-30"
+post_date: 2026-07-30
 niche_tags: [chatgpt, agents, ai]
 pattern_tags: [number]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

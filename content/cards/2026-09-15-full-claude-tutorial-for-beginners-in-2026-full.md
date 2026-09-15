@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-full-claude-tutorial-for-beginners-in-2026-full
-collected_at: 2026-09-15T00:32:52-07:00
+collected_at: "2026-09-15T00:32:52-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=Xg55nTrbYYY
-creator_handle: "@ProductiveDude"
-title: "FULL Claude Tutorial For Beginners in 2026! (FULL COURSE)"
+language: en
+url: "https://www.youtube.com/watch?v=Xg55nTrbYYY"
+creator_handle: @ProductiveDude
+title: FULL Claude Tutorial For Beginners in 2026! (FULL COURSE)
 hook_onscreen: ""
-hook_spoken: "Hello and welcome to the ultimate Claude Hello and welcome to the ultimate Claude tutorial for 2026"
+hook_spoken: Hello and welcome to the ultimate Claude Hello and welcome to the ultimate Claude tutorial for 2026
 thumbnail_path: thumbs/2026-09-15-full-claude-tutorial-for-beginners-in-2026-full.jpg
 thumbnail_url: "https://i.ytimg.com/vi/Xg55nTrbYYY/hq720.jpg"
 transcript_path: transcripts/2026-09-15-full-claude-tutorial-for-beginners-in-2026-full.txt
@@ -15,12 +16,13 @@ views: 969411
 likes: 20993
 comments: 492
 saves: null
-post_date: "2026-04-13"
+post_date: 2026-04-13
 niche_tags: [claude, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

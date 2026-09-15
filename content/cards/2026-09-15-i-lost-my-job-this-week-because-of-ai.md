@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-i-lost-my-job-this-week-because-of-ai
-collected_at: 2026-09-15T00:41:12-07:00
+collected_at: "2026-09-15T00:41:12-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=U2vq9LUbDGs
-creator_handle: "@Nadestraight"
-title: "I Lost My Job This Week Because of AI"
+language: en
+url: "https://www.youtube.com/watch?v=U2vq9LUbDGs"
+creator_handle: @Nadestraight
+title: I Lost My Job This Week Because of AI
 hook_onscreen: ""
 hook_spoken: "hello I don't know if anyone does live hello I don't know if anyone does live commentaries anymore where they talk commentaries anymore where they talk commentaries anymore where t"
 thumbnail_path: thumbs/2026-09-15-i-lost-my-job-this-week-because-of-ai.jpg
@@ -15,12 +16,13 @@ views: 874606
 likes: 66476
 comments: 16000
 saves: null
-post_date: "2024-05-03"
+post_date: 2024-05-03
 niche_tags: [money, replaced_job, ai]
 pattern_tags: [replaced_job, authority]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

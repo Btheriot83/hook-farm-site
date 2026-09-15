@@ -1,26 +1,28 @@
 ---
 id: 2026-09-14-23-ways-to-use-chatgpt-so-well-it-feels-like-cheat
-collected_at: 2026-09-14T23:25:00-07:00
+collected_at: "2026-09-14T23:25:00-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=7zPQV1BSH_k
-creator_handle: "@DanMartell"
-title: "23 Ways to Use ChatGPT So Well it Feels Like Cheating"
+language: en
+url: "https://www.youtube.com/watch?v=7zPQV1BSH_k"
+creator_handle: @DanMartell
+title: 23 Ways to Use ChatGPT So Well it Feels Like Cheating
 hook_onscreen: ""
 hook_spoken: "These are 23 ways to use AI that you've probably never heard of because most people are only using a fraction of AI's full potential."
 thumbnail_path: thumbs/2026-09-14-23-ways-to-use-chatgpt-so-well-it-feels-like-cheat.jpg
-thumbnail_url: https://i.ytimg.com/vi_webp/7zPQV1BSH_k/maxresdefault.webp
+thumbnail_url: "https://i.ytimg.com/vi_webp/7zPQV1BSH_k/maxresdefault.webp"
 transcript_path: transcripts/2026-09-14-23-ways-to-use-chatgpt-so-well-it-feels-like-cheat.txt
 views: 994938
 likes: 30347
 comments: 1200
 saves: null
-post_date: "2025-10-17"
+post_date: 2025-10-17
 niche_tags: [chatgpt, how-to, ai]
 pattern_tags: [number, negative, list]
 format: long
-notes: "Feels like cheating listicle"
+notes: Feels like cheating listicle
 ---
+
 
 ## Transcript (~30s)
 

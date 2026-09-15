@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-explaining-prompting-techniques-in-12-minutes-st
-collected_at: 2026-09-15T09:17:08-07:00
+collected_at: "2026-09-15T09:17:08-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=dlUpSEbbCho
-creator_handle: "@BitesizedGenius"
-title: "Explaining Prompting Techniques In 12 Minutes \u2013 Stable Diffusion Tutorial (Automatic1111)"
+language: en
+url: "https://www.youtube.com/watch?v=dlUpSEbbCho"
+creator_handle: @BitesizedGenius
+title: Explaining Prompting Techniques In 12 Minutes \u2013 Stable Diffusion Tutorial (Automatic1111)
 hook_onscreen: ""
 hook_spoken: "hey everyone I'm b-size genius prompting hey everyone I'm b-size genius prompting instable diffusion can be a mystery and instable diffusion can be a mystery and instable diffusion"
 thumbnail_path: thumbs/2026-09-15-explaining-prompting-techniques-in-12-minutes-st.jpg
@@ -15,12 +16,13 @@ views: 302893
 likes: 8862
 comments: 161
 saves: null
-post_date: "2023-06-22"
+post_date: 2023-06-22
 niche_tags: [image, tooling, ai]
 pattern_tags: [number, how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

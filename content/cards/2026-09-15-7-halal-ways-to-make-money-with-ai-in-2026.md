@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-7-halal-ways-to-make-money-with-ai-in-2026
-collected_at: 2026-09-15T00:43:03-07:00
+collected_at: "2026-09-15T00:43:03-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=dEdDoulU_fU
-creator_handle: "@ThomJ.Défilet–HalalBusiness"
-title: "7 Halal Ways to Make Money with AI in 2026"
+language: en
+url: "https://www.youtube.com/watch?v=dEdDoulU_fU"
+creator_handle: @ThomJ.Défilet–HalalBusiness
+title: 7 Halal Ways to Make Money with AI in 2026
 hook_onscreen: ""
 hook_spoken: "As-salamu'alaykum"
 thumbnail_path: thumbs/2026-09-15-7-halal-ways-to-make-money-with-ai-in-2026.jpg
@@ -15,12 +16,13 @@ views: 349146
 likes: 14504
 comments: 486
 saves: null
-post_date: "2026-05-19"
+post_date: 2026-05-19
 niche_tags: [money, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

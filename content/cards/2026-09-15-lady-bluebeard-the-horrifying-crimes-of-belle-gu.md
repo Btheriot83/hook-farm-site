@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-lady-bluebeard-the-horrifying-crimes-of-belle-gu
-collected_at: 2026-09-15T09:46:42-07:00
+collected_at: "2026-09-15T09:46:42-07:00"
 platform: youtube
 category: true_crime
-url: https://www.youtube.com/watch
-creator_handle: "@SerialKillersDocumentaries"
+language: en
+url: "https://www.youtube.com/watch"
+creator_handle: @SerialKillersDocumentaries
 title: "Lady Bluebeard: The Horrifying Crimes of Belle Gunness"
 hook_onscreen: "Lady Bluebeard: The Horrifying Crimes of Belle Gunness"
 hook_spoken: "Get ready to delve into the dark and twisted story of Belle Gunness, one of history's most notorious serial killers"
@@ -15,12 +16,13 @@ views: 364610
 likes: 14917
 comments: 257
 saves: null
-post_date: "2023-02-15"
+post_date: 2023-02-15
 niche_tags: [true_crime, faceless, murder, narration]
 pattern_tags: [number, curiosity_gap, authority, negative, how_to_promise]
 format: short
-notes: "faceless packaging harvest (narration/B-roll/text-on-screen); collect-only"
+notes: faceless packaging harvest (narration/B-roll/text-on-screen); collect-only
 ---
+
 
 ## Transcript (~30s)
 

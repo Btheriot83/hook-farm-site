@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-paula-cooper-was-one-of-the-most-evil-teens-in-i
-collected_at: 2026-09-15T09:48:47-07:00
+collected_at: "2026-09-15T09:48:47-07:00"
 platform: tiktok
 category: true_crime
-url: https://www.tiktok.com/@womencrimes/video/7655779281775201549
-creator_handle: "@womencrimes"
+language: en
+url: "https://www.tiktok.com/@womencrimes/video/7655779281775201549"
+creator_handle: @womencrimes
 title: "Paula Cooper was one of the most evil teens in Indiana history #women..."
 hook_onscreen: "Paula Cooper was one of the most evil teens in Indiana history #women..."
 hook_spoken: "Paula Cooper was one of the most evil teens in Indiana history #womencrimes #truecrime "
@@ -15,12 +16,13 @@ views: 100400
 likes: 1859
 comments: 25
 saves: null
-post_date: "2026-06-28"
+post_date: 2026-06-28
 niche_tags: [true_crime, murder, faceless]
 pattern_tags: [negative]
 format: short
-notes: "faceless packaging harvest (narration/B-roll/text-on-screen); collect-only"
+notes: faceless packaging harvest (narration/B-roll/text-on-screen); collect-only
 ---
+
 
 ## Transcript (~30s)
 

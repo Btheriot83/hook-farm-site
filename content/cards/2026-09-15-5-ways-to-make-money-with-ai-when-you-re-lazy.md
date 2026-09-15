@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-5-ways-to-make-money-with-ai-when-you-re-lazy
-collected_at: 2026-09-15T00:42:58-07:00
+collected_at: "2026-09-15T00:42:58-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=Xl57Pki6ChE
-creator_handle: "@SabrinaRamonov🍄"
+language: en
+url: "https://www.youtube.com/watch?v=Xl57Pki6ChE"
+creator_handle: @SabrinaRamonov🍄
 title: "5 ways to make money with AI when you're lazy"
 hook_onscreen: ""
 hook_spoken: "I'm going to share with you five ways to I'm going to share with you five ways to make money in 2026 using AI even if make money in 2026 using AI even if make money in 2026 using A"
@@ -15,12 +16,13 @@ views: 403848
 likes: 15729
 comments: 614
 saves: null
-post_date: "2026-05-02"
+post_date: 2026-05-02
 niche_tags: [money, how-to, ai]
 pattern_tags: [number]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

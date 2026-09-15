@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-how-to-use-chatgpt-by-openai-for-beginners
-collected_at: 2026-09-15T00:26:34-07:00
+collected_at: "2026-09-15T00:26:34-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=AXn2XVLf7d0
-creator_handle: "@TheAIAdvantage"
-title: "How To Use ChatGPT by OpenAI For Beginners"
+language: en
+url: "https://www.youtube.com/watch?v=AXn2XVLf7d0"
+creator_handle: @TheAIAdvantage
+title: How To Use ChatGPT by OpenAI For Beginners
 hook_onscreen: ""
-hook_spoken: "Write me a 2000 thousand-word essay on&nbsp; Artificial Intelligence"
+hook_spoken: Write me a 2000 thousand-word essay on&nbsp; Artificial Intelligence
 thumbnail_path: thumbs/2026-09-15-how-to-use-chatgpt-by-openai-for-beginners.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/AXn2XVLf7d0/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-how-to-use-chatgpt-by-openai-for-beginners.txt
@@ -15,12 +16,13 @@ views: 5425686
 likes: 52665
 comments: 1800
 saves: null
-post_date: "2022-12-08"
+post_date: 2022-12-08
 niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

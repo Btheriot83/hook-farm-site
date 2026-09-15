@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-introducing-plan-mode
-collected_at: 2026-09-15T00:35:30-07:00
+collected_at: "2026-09-15T00:35:30-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=WInPBmCK3l4
-creator_handle: "@Cursor"
-title: "Introducing Plan Mode"
+language: en
+url: "https://www.youtube.com/watch?v=WInPBmCK3l4"
+creator_handle: @Cursor
+title: Introducing Plan Mode
 hook_onscreen: ""
-hook_spoken: "Plan mode is now in cursor"
+hook_spoken: Plan mode is now in cursor
 thumbnail_path: thumbs/2026-09-15-introducing-plan-mode.jpg
 thumbnail_url: "https://i.ytimg.com/vi/WInPBmCK3l4/hq720.jpg"
 transcript_path: transcripts/2026-09-15-introducing-plan-mode.txt
@@ -15,12 +16,13 @@ views: 104103
 likes: 2266
 comments: 123
 saves: null
-post_date: "2025-10-07"
+post_date: 2025-10-07
 niche_tags: [cursor, agents, ai]
 pattern_tags: [tool_reveal]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

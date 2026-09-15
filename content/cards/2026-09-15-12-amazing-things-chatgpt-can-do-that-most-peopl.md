@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-12-amazing-things-chatgpt-can-do-that-most-peopl
-collected_at: 2026-09-15T00:29:52-07:00
+collected_at: "2026-09-15T00:29:52-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=I2h9ozrNvyY
-creator_handle: "@SkillLeapAI"
+language: en
+url: "https://www.youtube.com/watch?v=I2h9ozrNvyY"
+creator_handle: @SkillLeapAI
 title: "12 Amazing Things ChatGPT Can Do That Most People Don't Know"
 hook_onscreen: ""
-hook_spoken: "Chat GPT has so many hidden tricks that Chat GPT has so many hidden tricks that almost nobody uses"
+hook_spoken: Chat GPT has so many hidden tricks that Chat GPT has so many hidden tricks that almost nobody uses
 thumbnail_path: thumbs/2026-09-15-12-amazing-things-chatgpt-can-do-that-most-peopl.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/I2h9ozrNvyY/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-12-amazing-things-chatgpt-can-do-that-most-peopl.txt
@@ -15,12 +16,13 @@ views: 71246
 likes: 1580
 comments: 40
 saves: null
-post_date: "2025-12-26"
+post_date: 2025-12-26
 niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [negative]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

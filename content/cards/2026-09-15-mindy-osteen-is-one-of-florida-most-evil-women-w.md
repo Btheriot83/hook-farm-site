@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-mindy-osteen-is-one-of-florida-most-evil-women-w
-collected_at: 2026-09-15T09:48:49-07:00
+collected_at: "2026-09-15T09:48:49-07:00"
 platform: tiktok
 category: true_crime
-url: https://www.tiktok.com/@womencrimes/video/7664268519504104717
-creator_handle: "@womencrimes"
+language: en
+url: "https://www.tiktok.com/@womencrimes/video/7664268519504104717"
+creator_handle: @womencrimes
 title: "Mindy Osteen is one of Florida most evil women #womencrimes #truecrime"
 hook_onscreen: "Mindy Osteen is one of Florida most evil women #womencrimes #truecrime"
 hook_spoken: "Mindy Osteen is one of Florida most evil women #womencrimes #truecrime "
@@ -15,12 +16,13 @@ views: 29000
 likes: 713
 comments: 8
 saves: null
-post_date: "2026-07-19"
+post_date: 2026-07-19
 niche_tags: [true_crime, murder, faceless]
 pattern_tags: [negative]
 format: short
-notes: "faceless packaging harvest (narration/B-roll/text-on-screen); collect-only"
+notes: faceless packaging harvest (narration/B-roll/text-on-screen); collect-only
 ---
+
 
 ## Transcript (~30s)
 

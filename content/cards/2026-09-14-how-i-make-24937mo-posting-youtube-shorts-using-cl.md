@@ -1,26 +1,28 @@
 ---
 id: 2026-09-14-how-i-make-24937mo-posting-youtube-shorts-using-cl
-collected_at: 2026-09-14T23:25:00-07:00
+collected_at: "2026-09-14T23:25:00-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=V_t51u1tBJc
-creator_handle: "@KellanHenneberry"
-title: "How I Make $24,937/mo Posting YouTube Shorts (Using Claude AI)"
+language: en
+url: "https://www.youtube.com/watch?v=V_t51u1tBJc"
+creator_handle: @KellanHenneberry
+title: How I Make $24,937/mo Posting YouTube Shorts (Using Claude AI)
 hook_onscreen: ""
 hook_spoken: "I'm going to show you how I make $20,000 a month posting faceless YouTube shorts using Claude AI to do 90% of the work for me."
 thumbnail_path: thumbs/2026-09-14-how-i-make-24937mo-posting-youtube-shorts-using-cl.jpg
-thumbnail_url: https://i.ytimg.com/vi_webp/V_t51u1tBJc/maxresdefault.webp
+thumbnail_url: "https://i.ytimg.com/vi_webp/V_t51u1tBJc/maxresdefault.webp"
 transcript_path: transcripts/2026-09-14-how-i-make-24937mo-posting-youtube-shorts-using-cl.txt
 views: 1084601
 likes: 40713
 comments: 1900
 saves: null
-post_date: "2026-06-28"
+post_date: 2026-06-28
 niche_tags: [claude, money, how-to, ai]
 pattern_tags: [number, replaced_job, how_to_promise, authority]
 format: long
-notes: "Exact $24,937/mo money hook + Claude"
+notes: Exact $24,937/mo money hook + Claude
 ---
+
 
 ## Transcript (~30s)
 

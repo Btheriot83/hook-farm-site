@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-how-i-created-a-10-000-month-faceless-youtube-ch
-collected_at: 2026-09-15T00:43:59-07:00
+collected_at: "2026-09-15T00:43:59-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=LEJGFnjIWmQ
-creator_handle: "@AllAboutMoney"
-title: "How I Created a $10,000/month Faceless YouTube Channel Using Free AI Tools"
+language: en
+url: "https://www.youtube.com/watch?v=LEJGFnjIWmQ"
+creator_handle: @AllAboutMoney
+title: How I Created a $10,000/month Faceless YouTube Channel Using Free AI Tools
 hook_onscreen: ""
-hook_spoken: "in the last couple of months you in the last couple of months you probably heard about YouTube automation probably heard about YouTube automation probably heard about YouTube autom"
+hook_spoken: in the last couple of months you in the last couple of months you probably heard about YouTube automation probably heard about YouTube automation probably heard about YouTube autom
 thumbnail_path: thumbs/2026-09-15-how-i-created-a-10-000-month-faceless-youtube-ch.jpg
 thumbnail_url: "https://i.ytimg.com/vi/LEJGFnjIWmQ/hq720.jpg"
 transcript_path: transcripts/2026-09-15-how-i-created-a-10-000-month-faceless-youtube-ch.txt
@@ -15,12 +16,13 @@ views: 2480245
 likes: 94452
 comments: 2600
 saves: null
-post_date: "2024-10-02"
+post_date: 2024-10-02
 niche_tags: [money, how-to, ai]
 pattern_tags: [authority, how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-some-of-the-most-sinister-crimes-from-the-past-e
-collected_at: 2026-09-15T09:47:52-07:00
+collected_at: "2026-09-15T09:47:52-07:00"
 platform: youtube
 category: true_crime
-url: https://www.youtube.com/watch?v=igVAUZt4EhU
-creator_handle: "@Well,INever"
-title: "Some of the Most SINISTER Crimes from the Past - Episode Compilation | True Crime | Well, I Never"
+language: en
+url: "https://www.youtube.com/watch?v=igVAUZt4EhU"
+creator_handle: @Well,INever
+title: Some of the Most SINISTER Crimes from the Past - Episode Compilation | True Crime | Well, I Never
 hook_onscreen: ""
 hook_spoken: "If   you've    clicked    on    this    video,    chances If you've clicked on this video, chances If you've clicked on this video, chances are   you're    a    lover    of    true"
 thumbnail_path: thumbs/2026-09-15-some-of-the-most-sinister-crimes-from-the-past-e.jpg
@@ -15,12 +16,13 @@ views: 2033911
 likes: 37045
 comments: 1100
 saves: null
-post_date: "2022-06-21"
+post_date: 2022-06-21
 niche_tags: [true_crime, faceless, history]
 pattern_tags: [curiosity_gap, authority, negative]
 format: long
-notes: "faceless-pref harvest"
+notes: faceless-pref harvest
 ---
+
 
 ## Transcript (~30s)
 

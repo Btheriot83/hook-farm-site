@@ -1,0 +1,73 @@
+---
+id: 2026-09-15-a-true-crime-show-solved-this-man-s-murder
+collected_at: 2026-09-15T09:59:48-07:00
+platform: youtube
+category: true_crime
+url: https://www.youtube.com/watch?v=QAjPHwqXLrk
+creator_handle: "@MrBallen"
+title: "A true crime show solved this man\u2019s murder"
+hook_onscreen: "A true crime show solved this man\u2019s murder"
+hook_spoken: "My/Mochi: https://mymochi"
+thumbnail_path: thumbs/2026-09-15-a-true-crime-show-solved-this-man-s-murder.jpg
+thumbnail_url: "https://i.ytimg.com/vi_webp/QAjPHwqXLrk/maxresdefault.webp"
+transcript_path: transcripts/2026-09-15-a-true-crime-show-solved-this-man-s-murder.txt
+views: 2659509
+likes: 73885
+comments: 3100
+saves: null
+post_date: "2026-03-30"
+niche_tags: [true_crime, rwj_style, faceless]
+pattern_tags: [number, curiosity_gap, secret, before_after, authority]
+format: short
+notes: "ytsearch supplement; faceless packaging harvest (narration/B-roll/text-on-screen); collect-only"
+---
+
+## Transcript (~30s)
+
+My/Mochi: https://mymochi.com
+
+
+Time Stamps:
+#1 -- "As Seen On TV" -- 1:12 -- When a man vanishes after a quick afternoon date in southern France, detectives uncover a trail of secrets no one saw coming
+
+
+📺 Want watch more True Crime videos of mine? 👉 https://www.youtube.com/watch?v=CTwhTjFgSKk&list=PLgRgJrlop--PlKEihwNO55pE9QQlT_6Mz
+
+🎧 If you want to listen to episodes of the MrBallen Podcast one week early and ad free you can subscribe to SiriusXM Podcasts Plus on Apple Podcasts or visit https://SiriusXM.com/podcastsplus to listen with Spotify or another app of your choice
+
+
+Follow me on Instagram, Twitter and the rest of social media 👉 "@MrBallen"
+
+NEW MrBallen merchandise 👉 https://shopmrballen.com
+
+Our 2nd YouTube channel 👉                                                                                  @mrballenshorts                                                                                                                                                          
+
+Our Podcast channel 👉                                                                                           @OfficialMrBallenPodcast                                                                                                                                                            
+
+
+Please post story suggestions on our subreddit 👉 r/mrballen (https://www.reddit.com/r/mrballen/)
+
+Check out these other channels and videos!
+@kallmekris:
+BTK Killer Was Absolutely Terrifying... - https://www.youtube.com/watch?v=V976cbZlGRw&pp=0gcJCRUKAYcqIYzv
+@TheWhyFiles:
+The First Earth Battalion: America's Strangest Military Experiment - https://www.youtube.com/watch?v=zP3pOszdr5U
+@ExploreWithUs:
+7-Year-Old Girl Reveals Mom's Horrifying Secret - https://www.youtube.com/watch?v=vXlt7HT74SE
+@ScaryInteresting 
+They Sealed the Pit With Men STILL INSIDE - https://www.youtube.com/watch?v=QigKXSwk5cU
+
+
+Please offer the Like Button a really nice and expensive steak dinner, but make sure you first significantly dull their steak knife. Also please subscribe/turn on all notifications so you don't miss any of our weekly stories! 
+
+
+For educational, documentary and entertainment purposes only. Based on actual events.
+
+A quick note about our stories: They’re all based on true events, but we sometimes use pseudonyms to protect the people involved, and some details are fictionalized for dramatic purposes.
+
+
+Credits:
+
+Host & Executive Producer:  MrBallen
+Head of Writing:  Evan Allen
+Head of Production:  Zak L

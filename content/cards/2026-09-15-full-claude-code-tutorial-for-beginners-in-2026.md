@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-full-claude-code-tutorial-for-beginners-in-2026
-collected_at: 2026-09-15T00:33:18-07:00
+collected_at: "2026-09-15T00:33:18-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=qYqIhX9hTQk
-creator_handle: "@TechWithTim"
-title: "FULL Claude Code Tutorial for Beginners in 2026! (Step-By-Step)"
+language: en
+url: "https://www.youtube.com/watch?v=qYqIhX9hTQk"
+creator_handle: @TechWithTim
+title: FULL Claude Code Tutorial for Beginners in 2026! (Step-By-Step)
 hook_onscreen: ""
 hook_spoken: "In this video, I'll show you how to make In this video, I'll show you how to make your Claude code 10 times better in just your Claude code 10 times better in just your Claude code"
 thumbnail_path: thumbs/2026-09-15-full-claude-code-tutorial-for-beginners-in-2026.jpg
@@ -15,12 +16,13 @@ views: 400224
 likes: 5418
 comments: 236
 saves: null
-post_date: "2026-03-29"
+post_date: 2026-03-29
 niche_tags: [claude, cursor, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

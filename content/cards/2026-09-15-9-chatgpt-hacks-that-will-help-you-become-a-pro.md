@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-9-chatgpt-hacks-that-will-help-you-become-a-pro
-collected_at: 2026-09-15T00:27:32-07:00
+collected_at: "2026-09-15T00:27:32-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=u1NMxMqoqtY
-creator_handle: "@PhillipIm"
-title: "9 ChatGPT Hacks That Will Help You Become a PRO! (BONUS Apple Hack)"
+language: en
+url: "https://www.youtube.com/watch?v=u1NMxMqoqtY"
+creator_handle: @PhillipIm
+title: 9 ChatGPT Hacks That Will Help You Become a PRO! (BONUS Apple Hack)
 hook_onscreen: ""
 hook_spoken: "Most people use chat GPT like it's a Most people use chat GPT like it's a fancier, smarter Google just to get fancier, smarter Google just to get fancier, smarter Google just to ge"
 thumbnail_path: thumbs/2026-09-15-9-chatgpt-hacks-that-will-help-you-become-a-pro.jpg
@@ -15,12 +16,13 @@ views: 1876023
 likes: 36569
 comments: 1400
 saves: null
-post_date: "2025-06-20"
+post_date: 2025-06-20
 niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

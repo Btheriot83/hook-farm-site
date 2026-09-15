@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-a-haunting-in-indiana-the-true-story-of-jennifer
-collected_at: 2026-09-15T09:47:27-07:00
+collected_at: "2026-09-15T09:47:27-07:00"
 platform: youtube
 category: true_crime
-url: https://www.youtube.com/watch?v=nDjswZ2Yrpg
-creator_handle: "@TheGhostFiles"
+language: en
+url: "https://www.youtube.com/watch?v=nDjswZ2Yrpg"
+creator_handle: @TheGhostFiles
 title: "A Haunting In Indiana: The True Story of Jennifer Patterson (Full Documentary)"
 hook_onscreen: ""
 hook_spoken: "it   wasn't    long    after    24-year-old it wasn't long after 24-year-old it wasn't long after 24-year-old Jennifer   Patterson    moved    into    her    dream Jennifer Patters"
@@ -15,12 +16,13 @@ views: 4683994
 likes: 65614
 comments: 7200
 saves: null
-post_date: "2025-03-02"
+post_date: 2025-03-02
 niche_tags: [true_crime, faceless, history]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "faceless-pref harvest"
+notes: faceless-pref harvest
 ---
+
 
 ## Transcript (~30s)
 

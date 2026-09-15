@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-5-tips-to-make-you-a-pro-at-cursor
-collected_at: 2026-09-15T00:35:07-07:00
+collected_at: "2026-09-15T00:35:07-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=YtTWNzOtkxU
-creator_handle: "@Supabase"
-title: "5 tips to make you a PRO at Cursor"
+language: en
+url: "https://www.youtube.com/watch?v=YtTWNzOtkxU"
+creator_handle: @Supabase
+title: 5 tips to make you a PRO at Cursor
 hook_onscreen: ""
-hook_spoken: "Working as a developer for over a Working as a developer for over a decade, I have built hundreds of decade, I have built hundreds of decade, I have built hundreds of applications"
+hook_spoken: Working as a developer for over a Working as a developer for over a decade, I have built hundreds of decade, I have built hundreds of decade, I have built hundreds of applications
 thumbnail_path: thumbs/2026-09-15-5-tips-to-make-you-a-pro-at-cursor.jpg
 thumbnail_url: "https://i.ytimg.com/vi/YtTWNzOtkxU/hq720.jpg"
 transcript_path: transcripts/2026-09-15-5-tips-to-make-you-a-pro-at-cursor.txt
@@ -15,12 +16,13 @@ views: 158101
 likes: 2664
 comments: 206
 saves: null
-post_date: "2025-06-18"
+post_date: 2025-06-18
 niche_tags: [cursor, tooling, ai]
 pattern_tags: [number]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

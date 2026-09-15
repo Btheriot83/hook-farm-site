@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-use-claude-code-in-cursor-get-the-best-of-both-w
-collected_at: 2026-09-15T00:33:37-07:00
+collected_at: "2026-09-15T00:33:37-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=RJZ5aTDpqKM
-creator_handle: "@KevinKern"
-title: "Use Claude Code in Cursor. Get the best of both worlds"
+language: en
+url: "https://www.youtube.com/watch?v=RJZ5aTDpqKM"
+creator_handle: @KevinKern
+title: Use Claude Code in Cursor. Get the best of both worlds
 hook_onscreen: ""
-hook_spoken: "Hey, welcome to this video"
+hook_spoken: Hey, welcome to this video
 thumbnail_path: thumbs/2026-09-15-use-claude-code-in-cursor-get-the-best-of-both-w.jpg
 thumbnail_url: "https://i.ytimg.com/vi/RJZ5aTDpqKM/hq720.jpg"
 transcript_path: transcripts/2026-09-15-use-claude-code-in-cursor-get-the-best-of-both-w.txt
@@ -15,12 +16,13 @@ views: 151349
 likes: 1546
 comments: 143
 saves: null
-post_date: "2025-05-31"
+post_date: 2025-05-31
 niche_tags: [claude, cursor, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

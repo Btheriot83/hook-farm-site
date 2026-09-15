@@ -1,26 +1,28 @@
 ---
 id: 2026-09-15-4-ai-agents-to-automate-99-of-your-life-2
-collected_at: 2026-09-15T00:39:03-07:00
+collected_at: "2026-09-15T00:39:03-07:00"
 platform: tiktok
 category: ai
-url: https://www.tiktok.com/@isecreams/video/7670286157430787350
-creator_handle: "@isecreams"
-title: "4 AI Agents To Automate 99% Of Your Life."
-hook_onscreen: "4 AI Agents To Automate 99% Of Your Life."
+language: en
+url: "https://www.tiktok.com/@isecreams/video/7670286157430787350"
+creator_handle: @isecreams
+title: 4 AI Agents To Automate 99% Of Your Life.
+hook_onscreen: 4 AI Agents To Automate 99% Of Your Life.
 hook_spoken: ""
 thumbnail_path: thumbs/2026-09-15-4-ai-agents-to-automate-99-of-your-life-2.jpg
-thumbnail_url: https://p16-common-sign.tiktokcdn.com/tos-no1a-p-0037-no/ocynxBPi6YQpaABAz5AoJlxAEBmWyIlPABPiT~tplv-tiktokx-origin.image?dr=14575&x-expires=1789628400&x-signature=dJuSLi5uC8RhfocrlWe9ibTIqKQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2
+thumbnail_url: "https://p16-common-sign.tiktokcdn.com/tos-no1a-p-0037-no/ocynxBPi6YQpaABAz5AoJlxAEBmWyIlPABPiT~tplv-tiktokx-origin.image?dr=14575&x-expires=1789628400&x-signature=dJuSLi5uC8RhfocrlWe9ibTIqKQ%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2"
 transcript_path: transcripts/2026-09-15-4-ai-agents-to-automate-99-of-your-life-2.txt
 views: 551700
 likes: 43100
 comments: 248
 saves: 43998
-post_date: "2026-08-04"
+post_date: 2026-08-04
 niche_tags: [agents, automation, ai]
 pattern_tags: [number, how_to_promise]
 format: short
-notes: "clockworks TikTok hashtag harvest; shares=7341"
+notes: clockworks TikTok hashtag harvest; shares=7341
 ---
+
 
 ## Transcript (~30s)
 

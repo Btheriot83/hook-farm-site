@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-ai-agents-clearly-explained
-collected_at: 2026-09-15T00:36:50-07:00
+collected_at: "2026-09-15T00:36:50-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=FwOTs4UxQS4
-creator_handle: "@JeffSu"
-title: "AI Agents, Clearly Explained"
+language: en
+url: "https://www.youtube.com/watch?v=FwOTs4UxQS4"
+creator_handle: @JeffSu
+title: AI Agents, Clearly Explained
 hook_onscreen: ""
-hook_spoken: "AI"
+hook_spoken: AI
 thumbnail_path: thumbs/2026-09-15-ai-agents-clearly-explained.jpg
 thumbnail_url: "https://i.ytimg.com/vi/FwOTs4UxQS4/maxresdefault.jpg"
 transcript_path: transcripts/2026-09-15-ai-agents-clearly-explained.txt
@@ -15,12 +16,13 @@ views: 4984237
 likes: 113701
 comments: 2900
 saves: null
-post_date: "2025-04-08"
+post_date: 2025-04-08
 niche_tags: [agents, how-to, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

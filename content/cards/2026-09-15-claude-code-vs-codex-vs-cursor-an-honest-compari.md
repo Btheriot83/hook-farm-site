@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-claude-code-vs-codex-vs-cursor-an-honest-compari
-collected_at: 2026-09-15T00:33:32-07:00
+collected_at: "2026-09-15T00:33:32-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=JMYspR42HFM
-creator_handle: "@Theo-t3․gg"
-title: "Claude Code vs Codex vs Cursor (an honest comparison)"
+language: en
+url: "https://www.youtube.com/watch?v=JMYspR42HFM"
+creator_handle: @Theo-t3․gg
+title: Claude Code vs Codex vs Cursor (an honest comparison)
 hook_onscreen: ""
-hook_spoken: "This is not going to be my usual video"
+hook_spoken: This is not going to be my usual video
 thumbnail_path: thumbs/2026-09-15-claude-code-vs-codex-vs-cursor-an-honest-compari.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/JMYspR42HFM/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-claude-code-vs-codex-vs-cursor-an-honest-compari.txt
@@ -15,12 +16,13 @@ views: 168077
 likes: 4259
 comments: 516
 saves: null
-post_date: "2026-05-26"
+post_date: 2026-05-26
 niche_tags: [claude, cursor, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-vibe-coding-fundamentals-in-33-minutes
-collected_at: 2026-09-15T00:36:20-07:00
+collected_at: "2026-09-15T00:36:20-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=iLCDSY2XX7E
-creator_handle: "@TinaHuang"
-title: "Vibe Coding Fundamentals In 33 minutes"
+language: en
+url: "https://www.youtube.com/watch?v=iLCDSY2XX7E"
+creator_handle: @TinaHuang
+title: Vibe Coding Fundamentals In 33 minutes
 hook_onscreen: ""
-hook_spoken: "I learned how to vibe code for you"
+hook_spoken: I learned how to vibe code for you
 thumbnail_path: thumbs/2026-09-15-vibe-coding-fundamentals-in-33-minutes.jpg
 thumbnail_url: "https://i.ytimg.com/vi/iLCDSY2XX7E/maxresdefault.jpg"
 transcript_path: transcripts/2026-09-15-vibe-coding-fundamentals-in-33-minutes.txt
@@ -15,12 +16,13 @@ views: 1016693
 likes: 29953
 comments: 1100
 saves: null
-post_date: "2025-05-19"
+post_date: 2025-05-19
 niche_tags: [cursor, coding, ai]
 pattern_tags: [number]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

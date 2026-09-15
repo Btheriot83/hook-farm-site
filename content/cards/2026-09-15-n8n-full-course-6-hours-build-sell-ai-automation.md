@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-n8n-full-course-6-hours-build-sell-ai-automation
-collected_at: 2026-09-15T00:38:59-07:00
+collected_at: "2026-09-15T00:38:59-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=2GZ2SNXWK-c
-creator_handle: "@NickSaraev"
-title: "N8N FULL COURSE 6 HOURS (Build & Sell AI Automations + Agents)"
+language: en
+url: "https://www.youtube.com/watch?v=2GZ2SNXWK-c"
+creator_handle: @NickSaraev
+title: N8N FULL COURSE 6 HOURS (Build & Sell AI Automations + Agents)
 hook_onscreen: ""
-hook_spoken: "Hey, welcome to the most comprehensive Hey, welcome to the most comprehensive NADN course on how to go from zero, NADN course on how to go from zero, NADN course on how to go from"
+hook_spoken: Hey, welcome to the most comprehensive Hey, welcome to the most comprehensive NADN course on how to go from zero, NADN course on how to go from zero, NADN course on how to go from
 thumbnail_path: thumbs/2026-09-15-n8n-full-course-6-hours-build-sell-ai-automation.jpg
 thumbnail_url: "https://i.ytimg.com/vi/2GZ2SNXWK-c/maxresdefault.jpg"
 transcript_path: transcripts/2026-09-15-n8n-full-course-6-hours-build-sell-ai-automation.txt
@@ -15,12 +16,13 @@ views: 1299412
 likes: 45381
 comments: 1000
 saves: null
-post_date: "2025-04-29"
+post_date: 2025-04-29
 niche_tags: [automation, agents, tooling, ai]
 pattern_tags: [number]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

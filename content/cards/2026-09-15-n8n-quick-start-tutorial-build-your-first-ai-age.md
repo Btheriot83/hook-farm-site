@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-n8n-quick-start-tutorial-build-your-first-ai-age
-collected_at: 2026-09-15T00:39:32-07:00
+collected_at: "2026-09-15T00:39:32-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=GuaKeDS6UKU
-creator_handle: "@n8n"
+language: en
+url: "https://www.youtube.com/watch?v=GuaKeDS6UKU"
+creator_handle: @n8n
 title: "n8n Quick Start Tutorial: Build Your First AI Agent [2026]"
 hook_onscreen: ""
 hook_spoken: "Hey, I'm Max, the original Flowgrammer, Hey, I'm Max, the original Flowgrammer, and in this video, I'm going to teach and in this video, I'm going to teach and in this video, I'm g"
@@ -15,12 +16,13 @@ views: 530299
 likes: 4308
 comments: 121
 saves: null
-post_date: "2026-02-13"
+post_date: 2026-02-13
 niche_tags: [automation, agents, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

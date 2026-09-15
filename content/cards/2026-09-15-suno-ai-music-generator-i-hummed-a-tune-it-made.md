@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-suno-ai-music-generator-i-hummed-a-tune-it-made
-collected_at: 2026-09-15T09:15:59-07:00
+collected_at: "2026-09-15T09:15:59-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=vA63-nDMYGg
-creator_handle: "@KevinStratvert"
-title: "Suno AI Music Generator \u2013 I Hummed a Tune, It Made a Song!"
+language: en
+url: "https://www.youtube.com/watch?v=vA63-nDMYGg"
+creator_handle: @KevinStratvert
+title: Suno AI Music Generator \u2013 I Hummed a Tune, It Made a Song!
 hook_onscreen: ""
 hook_spoken: "In this video, I'll show you how you can In this video, I'll show you how you can hum a tune and AI will turn it into a hum a tune and AI will turn it into a hum a tune and AI will"
 thumbnail_path: thumbs/2026-09-15-suno-ai-music-generator-i-hummed-a-tune-it-made.jpg
@@ -15,12 +16,13 @@ views: 236399
 likes: 3442
 comments: 287
 saves: null
-post_date: "2024-12-07"
+post_date: 2024-12-07
 niche_tags: [suno, music, how-to, ai]
 pattern_tags: [curiosity_gap, authority]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

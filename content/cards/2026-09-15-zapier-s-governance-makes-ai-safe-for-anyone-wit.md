@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-zapier-s-governance-makes-ai-safe-for-anyone-wit
-collected_at: 2026-09-15T00:40:28-07:00
+collected_at: "2026-09-15T00:40:28-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=6ylM7rMzw-0
-creator_handle: "@Zapier"
+language: en
+url: "https://www.youtube.com/watch?v=6ylM7rMzw-0"
+creator_handle: @Zapier
 title: "Zapier's governance makes AI safe for anyone with hands. Or paws."
 hook_onscreen: ""
-hook_spoken: "Wow, every team is automating now"
+hook_spoken: Wow, every team is automating now
 thumbnail_path: thumbs/2026-09-15-zapier-s-governance-makes-ai-safe-for-anyone-wit.jpg
 thumbnail_url: "https://i.ytimg.com/vi/6ylM7rMzw-0/maxresdefault.jpg"
 transcript_path: transcripts/2026-09-15-zapier-s-governance-makes-ai-safe-for-anyone-wit.txt
@@ -15,12 +16,13 @@ views: 156012
 likes: null
 comments: null
 saves: null
-post_date: "2026-04-21"
+post_date: 2026-04-21
 niche_tags: [automation, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: short
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

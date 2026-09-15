@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-the-multi-agent-architecture-that-actually-ships
-collected_at: 2026-09-15T00:38:04-07:00
+collected_at: "2026-09-15T00:38:04-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=ow1we5PzK-o
-creator_handle: "@AIEngineer"
-title: "The Multi-Agent Architecture That Actually Ships \u2014 Luke Alvoeiro, Factory"
+language: en
+url: "https://www.youtube.com/watch?v=ow1we5PzK-o"
+creator_handle: @AIEngineer
+title: The Multi-Agent Architecture That Actually Ships \u2014 Luke Alvoeiro, Factory
 hook_onscreen: ""
-hook_spoken: "[music] &gt;&gt; Hi everyone"
+hook_spoken: [music] &gt;&gt; Hi everyone
 thumbnail_path: thumbs/2026-09-15-the-multi-agent-architecture-that-actually-ships.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/ow1we5PzK-o/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-the-multi-agent-architecture-that-actually-ships.txt
@@ -15,12 +16,13 @@ views: 246838
 likes: 4934
 comments: 168
 saves: null
-post_date: "2026-05-06"
+post_date: 2026-05-06
 niche_tags: [agents, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-9-insane-chatgpt-5-use-cases-guaranteed-to-grow
-collected_at: 2026-09-15T00:31:50-07:00
+collected_at: "2026-09-15T00:31:50-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=JWqhOaXOdpk
-creator_handle: "@WesMcDowell"
-title: "9 INSANE ChatGPT-5 Use Cases Guaranteed to Grow Your Business"
+language: en
+url: "https://www.youtube.com/watch?v=JWqhOaXOdpk"
+creator_handle: @WesMcDowell
+title: 9 INSANE ChatGPT-5 Use Cases Guaranteed to Grow Your Business
 hook_onscreen: ""
 hook_spoken: "Chat GBT5 just rolled out and I gotta Chat GBT5 just rolled out and I gotta say I'm a little obsessed"
 thumbnail_path: thumbs/2026-09-15-9-insane-chatgpt-5-use-cases-guaranteed-to-grow.jpg
@@ -15,12 +16,13 @@ views: 392226
 likes: 9542
 comments: 436
 saves: null
-post_date: "2025-08-11"
+post_date: 2025-08-11
 niche_tags: [chatgpt, money, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

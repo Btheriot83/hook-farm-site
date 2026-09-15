@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-7-game-changing-chatgpt-agents-that-99-of-people
-collected_at: 2026-09-15T00:30:40-07:00
+collected_at: "2026-09-15T00:30:40-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=USRfRv34HmQ
-creator_handle: "@AIMaster"
+language: en
+url: "https://www.youtube.com/watch?v=USRfRv34HmQ"
+creator_handle: @AIMaster
 title: "7 Game-Changing ChatGPT Agents That 99% of People Don't Know About"
 hook_onscreen: ""
 hook_spoken: "Most people are still using Chad GBT Most people are still using Chad GBT like it's 2023, typing in basic like it's 2023, typing in basic like it's 2023, typing in basic questions"
@@ -15,12 +16,13 @@ views: 390248
 likes: 5444
 comments: 702
 saves: null
-post_date: "2025-10-06"
+post_date: 2025-10-06
 niche_tags: [chatgpt, agents, ai]
 pattern_tags: [number, negative]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

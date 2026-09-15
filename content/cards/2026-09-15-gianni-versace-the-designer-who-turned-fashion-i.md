@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-gianni-versace-the-designer-who-turned-fashion-i
-collected_at: 2026-09-15T09:47:29-07:00
+collected_at: "2026-09-15T09:47:29-07:00"
 platform: tiktok
 category: true_crime
-url: https://www.tiktok.com/@hell.of.a.history/video/7618344535499787550
-creator_handle: "@hell.of.a.history"
+language: en
+url: "https://www.tiktok.com/@hell.of.a.history/video/7618344535499787550"
+creator_handle: @hell.of.a.history
 title: "Gianni Versace: The Designer Who Turned Fashion Into Power: Dark Hist..."
 hook_onscreen: "Gianni Versace: The Designer Who Turned Fashion Into Power: Dark Hist..."
 hook_spoken: "Gianni Versace: The Designer Who Turned Fashion Into Power: Dark History True Historical Stories Villains of History Heroes from the Past Insane Real History Unsung Heroes Twisted"
@@ -15,12 +16,13 @@ views: 4011
 likes: 85
 comments: 1
 saves: null
-post_date: "2026-03-17"
+post_date: 2026-03-17
 niche_tags: [true_crime, faceless, narration, history]
 pattern_tags: [curiosity_gap, secret, before_after, authority]
 format: short
-notes: "faceless packaging harvest (narration/B-roll/text-on-screen); collect-only"
+notes: faceless packaging harvest (narration/B-roll/text-on-screen); collect-only
 ---
+
 
 ## Transcript (~30s)
 

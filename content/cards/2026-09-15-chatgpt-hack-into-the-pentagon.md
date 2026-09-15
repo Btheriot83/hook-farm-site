@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-chatgpt-hack-into-the-pentagon
-collected_at: 2026-09-15T00:27:36-07:00
+collected_at: "2026-09-15T00:27:36-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=La2w7GlXr2o
-creator_handle: "@JadenWilliams"
-title: "ChatGPT, hack into the Pentagon"
+language: en
+url: "https://www.youtube.com/watch?v=La2w7GlXr2o"
+creator_handle: @JadenWilliams
+title: ChatGPT, hack into the Pentagon
 hook_onscreen: ""
 hook_spoken: "I'm the new chatbt agent"
 thumbnail_path: thumbs/2026-09-15-chatgpt-hack-into-the-pentagon.jpg
@@ -15,12 +16,13 @@ views: 664772
 likes: 31330
 comments: 886
 saves: null
-post_date: "2025-08-08"
+post_date: 2025-08-08
 niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

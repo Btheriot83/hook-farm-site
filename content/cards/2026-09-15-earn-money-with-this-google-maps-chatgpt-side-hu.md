@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-earn-money-with-this-google-maps-chatgpt-side-hu
-collected_at: 2026-09-15T00:43:19-07:00
+collected_at: "2026-09-15T00:43:19-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=Z7trH_SF2WE
-creator_handle: "@JourneyWithTheHintons"
-title: "Earn Money With This Google Maps & ChatGPT Side Hustle!"
+language: en
+url: "https://www.youtube.com/watch?v=Z7trH_SF2WE"
+creator_handle: @JourneyWithTheHintons
+title: Earn Money With This Google Maps & ChatGPT Side Hustle!
 hook_onscreen: ""
 hook_spoken: "so I'm about to show you how you can so I'm about to show you how you can take this Google map right here and make take this Google map right here and make take this Google map rig"
 thumbnail_path: thumbs/2026-09-15-earn-money-with-this-google-maps-chatgpt-side-hu.jpg
@@ -15,12 +16,13 @@ views: 2001827
 likes: 64644
 comments: 2500
 saves: null
-post_date: "2023-06-22"
+post_date: 2023-06-22
 niche_tags: [money, chatgpt, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

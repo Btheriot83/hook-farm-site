@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-belle-gunness-the-black-widow-of-la-porte-truecr
-collected_at: 2026-09-15T09:46:30-07:00
+collected_at: "2026-09-15T09:46:30-07:00"
 platform: tiktok
 category: true_crime
-url: https://www.tiktok.com/@velvetnightshadet/video/7677353270783839501
-creator_handle: "@velvetnightshadet"
+language: en
+url: "https://www.tiktok.com/@velvetnightshadet/video/7677353270783839501"
+creator_handle: @velvetnightshadet
 title: "Belle Gunness: The Black Widow Of La Porte #truecrime #bellegunness #..."
 hook_onscreen: "Belle Gunness: The Black Widow Of La Porte #truecrime #bellegunness #..."
 hook_spoken: "Belle Gunness: The Black Widow Of La Porte #truecrime #bellegunness #serialkiller"
@@ -15,12 +16,13 @@ views: 665
 likes: 80
 comments: 5
 saves: null
-post_date: "2026-08-23"
+post_date: 2026-08-23
 niche_tags: [true_crime, faceless, murder]
 pattern_tags: [negative]
 format: long
-notes: "faceless packaging harvest (narration/B-roll/text-on-screen); collect-only"
+notes: faceless packaging harvest (narration/B-roll/text-on-screen); collect-only
 ---
+
 
 ## Transcript (~30s)
 

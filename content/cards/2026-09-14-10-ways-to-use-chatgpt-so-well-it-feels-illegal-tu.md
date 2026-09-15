@@ -1,26 +1,28 @@
 ---
 id: 2026-09-14-10-ways-to-use-chatgpt-so-well-it-feels-illegal-tu
-collected_at: 2026-09-14T23:25:00-07:00
+collected_at: "2026-09-14T23:25:00-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=Jg09XvHGHiQ
-creator_handle: "@CharlieChang"
-title: "10 Ways to Use ChatGPT So Well It Feels Illegal (Tutorial)"
+language: en
+url: "https://www.youtube.com/watch?v=Jg09XvHGHiQ"
+creator_handle: @CharlieChang
+title: 10 Ways to Use ChatGPT So Well It Feels Illegal (Tutorial)
 hook_onscreen: ""
 hook_spoken: "In this video, I'm going to teach you how to use chat GPT so well that it feels illegal."
 thumbnail_path: thumbs/2026-09-14-10-ways-to-use-chatgpt-so-well-it-feels-illegal-tu.jpg
-thumbnail_url: https://i.ytimg.com/vi_webp/Jg09XvHGHiQ/maxresdefault.webp
+thumbnail_url: "https://i.ytimg.com/vi_webp/Jg09XvHGHiQ/maxresdefault.webp"
 transcript_path: transcripts/2026-09-14-10-ways-to-use-chatgpt-so-well-it-feels-illegal-tu.txt
 views: 1471134
 likes: 36914
 comments: 555
 saves: null
-post_date: "2025-09-04"
+post_date: 2025-09-04
 niche_tags: [chatgpt, how-to, ai]
 pattern_tags: [number, negative, list, how_to_promise]
 format: long
-notes: "10 ways + feels illegal"
+notes: 10 ways + feels illegal
 ---
+
 
 ## Transcript (~30s)
 

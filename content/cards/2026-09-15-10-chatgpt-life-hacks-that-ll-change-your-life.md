@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-10-chatgpt-life-hacks-that-ll-change-your-life
-collected_at: 2026-09-15T00:26:42-07:00
+collected_at: "2026-09-15T00:26:42-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=-fopYsgFdzc
-creator_handle: "@HaylsWorld"
-title: "10 ChatGPT Life Hacks - THAT\u2019LL CHANGE YOUR LIFE !!"
+language: en
+url: "https://www.youtube.com/watch?v=-fopYsgFdzc"
+creator_handle: @HaylsWorld
+title: 10 ChatGPT Life Hacks - THAT\u2019LL CHANGE YOUR LIFE !!
 hook_onscreen: ""
 hook_spoken: "guys I have been mind blown by chat GPT guys I have been mind blown by chat GPT it is the best AI I've ever used and it is the best AI I've ever used and it is the best AI I've eve"
 thumbnail_path: thumbs/2026-09-15-10-chatgpt-life-hacks-that-ll-change-your-life.jpg
@@ -15,12 +16,13 @@ views: 3141518
 likes: 82383
 comments: 3200
 saves: null
-post_date: "2023-03-31"
+post_date: 2023-03-31
 niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

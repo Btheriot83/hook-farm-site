@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-be-a-10x-vibe-coder-claude-code-cursor-mcp
-collected_at: 2026-09-15T00:33:27-07:00
+collected_at: "2026-09-15T00:33:27-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=li788UL1qyI
-creator_handle: "@GregIsenberg"
-title: "Be a 10x Vibe Coder (Claude Code + Cursor + MCP)"
+language: en
+url: "https://www.youtube.com/watch?v=li788UL1qyI"
+creator_handle: @GregIsenberg
+title: Be a 10x Vibe Coder (Claude Code + Cursor + MCP)
 hook_onscreen: ""
-hook_spoken: "I brought on one of the best vibe coders I brought on one of the best vibe coders on the planet to teach you how to on the planet to teach you how to on the planet to teach you how"
+hook_spoken: I brought on one of the best vibe coders I brought on one of the best vibe coders on the planet to teach you how to on the planet to teach you how to on the planet to teach you how
 thumbnail_path: thumbs/2026-09-15-be-a-10x-vibe-coder-claude-code-cursor-mcp.jpg
 thumbnail_url: "https://i.ytimg.com/vi/li788UL1qyI/hq720.jpg"
 transcript_path: transcripts/2026-09-15-be-a-10x-vibe-coder-claude-code-cursor-mcp.txt
@@ -15,12 +16,13 @@ views: 184806
 likes: 4557
 comments: 161
 saves: null
-post_date: "2025-12-01"
+post_date: 2025-12-01
 niche_tags: [claude, cursor, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

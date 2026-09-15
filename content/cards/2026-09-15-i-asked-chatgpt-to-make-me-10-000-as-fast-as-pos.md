@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-i-asked-chatgpt-to-make-me-10-000-as-fast-as-pos
-collected_at: 2026-09-15T00:43:32-07:00
+collected_at: "2026-09-15T00:43:32-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=qSg0OQwyYoY
-creator_handle: "@JourneyWithTheHintons"
-title: "I Asked ChatGPT to Make Me $10,000 as Fast as Possible"
+language: en
+url: "https://www.youtube.com/watch?v=qSg0OQwyYoY"
+creator_handle: @JourneyWithTheHintons
+title: I Asked ChatGPT to Make Me $10,000 as Fast as Possible
 hook_onscreen: ""
-hook_spoken: "So, listen"
+hook_spoken: So, listen
 thumbnail_path: thumbs/2026-09-15-i-asked-chatgpt-to-make-me-10-000-as-fast-as-pos.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/qSg0OQwyYoY/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-i-asked-chatgpt-to-make-me-10-000-as-fast-as-pos.txt
@@ -15,12 +16,13 @@ views: 300189
 likes: 16453
 comments: 721
 saves: null
-post_date: "2025-10-16"
+post_date: 2025-10-16
 niche_tags: [money, chatgpt, ai]
 pattern_tags: [authority]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

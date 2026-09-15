@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-chatgpt-tutorial-for-beginners-how-to-actually-g
-collected_at: 2026-09-15T00:29:14-07:00
+collected_at: "2026-09-15T00:29:14-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=poM2n8fBcag
-creator_handle: "@KevinStratvert"
+language: en
+url: "https://www.youtube.com/watch?v=poM2n8fBcag"
+creator_handle: @KevinStratvert
 title: "ChatGPT Tutorial for Beginners: How to Actually Get Work Done with AI"
 hook_onscreen: ""
 hook_spoken: "Most people who've tried ChatGPT have Most people who've tried ChatGPT have asked it something simple"
@@ -15,12 +16,13 @@ views: 77127
 likes: 843
 comments: 37
 saves: null
-post_date: "2026-07-01"
+post_date: 2026-07-01
 niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

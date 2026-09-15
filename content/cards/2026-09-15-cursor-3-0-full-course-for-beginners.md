@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-cursor-3-0-full-course-for-beginners
-collected_at: 2026-09-15T00:33:45-07:00
+collected_at: "2026-09-15T00:33:45-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=Tv8mLrLtyxo
-creator_handle: "@TechWithTim"
-title: "Cursor 3.0 - Full Course for Beginners"
+language: en
+url: "https://www.youtube.com/watch?v=Tv8mLrLtyxo"
+creator_handle: @TechWithTim
+title: Cursor 3.0 - Full Course for Beginners
 hook_onscreen: ""
-hook_spoken: "This video will cover everything you This video will cover everything you need to know about cursor, specifically need to know about cursor, specifically need to know about cursor,"
+hook_spoken: This video will cover everything you This video will cover everything you need to know about cursor, specifically need to know about cursor, specifically need to know about cursor,
 thumbnail_path: thumbs/2026-09-15-cursor-3-0-full-course-for-beginners.jpg
 thumbnail_url: "https://i.ytimg.com/vi/Tv8mLrLtyxo/hq720.jpg"
 transcript_path: transcripts/2026-09-15-cursor-3-0-full-course-for-beginners.txt
@@ -15,12 +16,13 @@ views: 99661
 likes: 1969
 comments: 80
 saves: null
-post_date: "2026-07-29"
+post_date: 2026-07-29
 niche_tags: [claude, cursor, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

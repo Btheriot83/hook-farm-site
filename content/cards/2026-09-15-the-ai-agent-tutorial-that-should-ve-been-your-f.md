@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-the-ai-agent-tutorial-that-should-ve-been-your-f
-collected_at: 2026-09-15T00:37:30-07:00
+collected_at: "2026-09-15T00:37:30-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=GchXMRwuWxE
-creator_handle: "@JeffSu"
+language: en
+url: "https://www.youtube.com/watch?v=GchXMRwuWxE"
+creator_handle: @JeffSu
 title: "The AI Agent Tutorial That Should've Been Your First (no code)"
 hook_onscreen: ""
-hook_spoken: "If you can use catchb, you can build an If you can use catchb, you can build an AI agent"
+hook_spoken: If you can use catchb, you can build an If you can use catchb, you can build an AI agent
 thumbnail_path: thumbs/2026-09-15-the-ai-agent-tutorial-that-should-ve-been-your-f.jpg
 thumbnail_url: "https://i.ytimg.com/vi/GchXMRwuWxE/hq720.jpg"
 transcript_path: transcripts/2026-09-15-the-ai-agent-tutorial-that-should-ve-been-your-f.txt
@@ -15,12 +16,13 @@ views: 430910
 likes: 10406
 comments: 561
 saves: null
-post_date: "2025-08-12"
+post_date: 2025-08-12
 niche_tags: [agents, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-gpt-6-astra-chatgpt-work-changes-everything
-collected_at: 2026-09-15T00:32:02-07:00
+collected_at: "2026-09-15T00:32:02-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=sQwp9GrkGi4
-creator_handle: "@PaulJLipsky"
-title: "GPT-6 Astra + ChatGPT Work Changes Everything"
+language: en
+url: "https://www.youtube.com/watch?v=sQwp9GrkGi4"
+creator_handle: @PaulJLipsky
+title: GPT-6 Astra + ChatGPT Work Changes Everything
 hook_onscreen: ""
-hook_spoken: "This is the new GPT6"
+hook_spoken: This is the new GPT6
 thumbnail_path: thumbs/2026-09-15-gpt-6-astra-chatgpt-work-changes-everything.jpg
 thumbnail_url: "https://i.ytimg.com/vi/sQwp9GrkGi4/maxresdefault.jpg"
 transcript_path: transcripts/2026-09-15-gpt-6-astra-chatgpt-work-changes-everything.txt
@@ -15,12 +16,13 @@ views: 79226
 likes: 900
 comments: 113
 saves: null
-post_date: "2026-09-14"
+post_date: 2026-09-14
 niche_tags: [chatgpt, money, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

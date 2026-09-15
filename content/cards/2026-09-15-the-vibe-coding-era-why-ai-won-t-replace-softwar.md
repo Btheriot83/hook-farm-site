@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-the-vibe-coding-era-why-ai-won-t-replace-softwar
-collected_at: 2026-09-15T00:36:32-07:00
+collected_at: "2026-09-15T00:36:32-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=xYU7zaaRjmE
-creator_handle: "@BloombergTelevision"
-title: "The Vibe Coding Era: Why AI Won\u2019t Replace Software Engineers"
+language: en
+url: "https://www.youtube.com/watch?v=xYU7zaaRjmE"
+creator_handle: @BloombergTelevision
+title: "The Vibe Coding Era: Why AI Won\\u2019t Replace Software Engineers"
 hook_onscreen: ""
-hook_spoken: "This is a story about a double-edged This is a story about a double-edged sword"
+hook_spoken: This is a story about a double-edged This is a story about a double-edged sword
 thumbnail_path: thumbs/2026-09-15-the-vibe-coding-era-why-ai-won-t-replace-softwar.jpg
 thumbnail_url: "https://i.ytimg.com/vi/xYU7zaaRjmE/hq720.jpg"
 transcript_path: transcripts/2026-09-15-the-vibe-coding-era-why-ai-won-t-replace-softwar.txt
@@ -15,12 +16,13 @@ views: 522601
 likes: 8023
 comments: 1000
 saves: null
-post_date: "2026-05-02"
+post_date: 2026-05-02
 niche_tags: [cursor, coding, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

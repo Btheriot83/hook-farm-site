@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-the-ultimate-beginner-s-guide-to-vibe-coding
-collected_at: 2026-09-15T00:36:44-07:00
+collected_at: "2026-09-15T00:36:44-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=-VuZmoc-Sq8
-creator_handle: "@MeticsMedia"
-title: "The Ultimate Beginner\u2019s Guide to Vibe Coding"
+language: en
+url: "https://www.youtube.com/watch?v=-VuZmoc-Sq8"
+creator_handle: @MeticsMedia
+title: The Ultimate Beginner\u2019s Guide to Vibe Coding
 hook_onscreen: ""
 hook_spoken: "This is the ultimate beginner's guide to This is the ultimate beginner's guide to vibe coding"
 thumbnail_path: thumbs/2026-09-15-the-ultimate-beginner-s-guide-to-vibe-coding.jpg
@@ -15,12 +16,13 @@ views: 497154
 likes: 17242
 comments: 231
 saves: null
-post_date: "2026-04-27"
+post_date: 2026-04-27
 niche_tags: [cursor, coding, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

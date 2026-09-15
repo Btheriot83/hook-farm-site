@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-how-to-use-perplexity-ai-for-beginners
-collected_at: 2026-09-15T09:22:28-07:00
+collected_at: "2026-09-15T09:22:28-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=qpN-pjev-vM
-creator_handle: "@corbin"
-title: "How To Use Perplexity AI For Beginners"
+language: en
+url: "https://www.youtube.com/watch?v=qpN-pjev-vM"
+creator_handle: @corbin
+title: How To Use Perplexity AI For Beginners
 hook_onscreen: ""
 hook_spoken: "by the end of today's video you're going by the end of today's video you're going to have a complete understanding to how to have a complete understanding to how to have a complete"
 thumbnail_path: thumbs/2026-09-15-how-to-use-perplexity-ai-for-beginners.jpg
@@ -15,12 +16,13 @@ views: 301737
 likes: 4231
 comments: 138
 saves: null
-post_date: "2024-02-14"
+post_date: 2024-02-14
 niche_tags: [perplexity, tooling, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-illinois-most-evil-state-women-ever-womencrimes
-collected_at: 2026-09-15T09:48:55-07:00
+collected_at: "2026-09-15T09:48:55-07:00"
 platform: tiktok
 category: true_crime
-url: https://www.tiktok.com/@womencrimes/video/7676214339082177805
-creator_handle: "@womencrimes"
+language: en
+url: "https://www.tiktok.com/@womencrimes/video/7676214339082177805"
+creator_handle: @womencrimes
 title: "Illinois most evil state women ever #womencrimes #illinois"
 hook_onscreen: "Illinois most evil state women ever #womencrimes #illinois"
 hook_spoken: "Illinois most evil state women ever #womencrimes #illinois "
@@ -15,12 +16,13 @@ views: 17800
 likes: 661
 comments: 14
 saves: null
-post_date: "2026-08-20"
+post_date: 2026-08-20
 niche_tags: [true_crime, murder, faceless]
 pattern_tags: [negative]
 format: short
-notes: "faceless packaging harvest (narration/B-roll/text-on-screen); collect-only"
+notes: faceless packaging harvest (narration/B-roll/text-on-screen); collect-only
 ---
+
 
 ## Transcript (~30s)
 

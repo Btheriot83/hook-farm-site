@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-cursor-3-minute-demo-the-most-popular-ai-code-ed
-collected_at: 2026-09-15T00:34:58-07:00
+collected_at: "2026-09-15T00:34:58-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=LR04bU_yV5k
-creator_handle: "@GregBaugues"
-title: "Cursor 3 minute demo - the most popular AI code editor"
+language: en
+url: "https://www.youtube.com/watch?v=LR04bU_yV5k"
+creator_handle: @GregBaugues
+title: Cursor 3 minute demo - the most popular AI code editor
 hook_onscreen: ""
 hook_spoken: "here's the cursor demo that I show to here's the cursor demo that I show to developers who haven't tried it before I developers who haven't tried it before I developers who haven't"
 thumbnail_path: thumbs/2026-09-15-cursor-3-minute-demo-the-most-popular-ai-code-ed.jpg
@@ -15,12 +16,13 @@ views: 176490
 likes: 1456
 comments: 59
 saves: null
-post_date: "2024-12-20"
+post_date: 2024-12-20
 niche_tags: [cursor, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

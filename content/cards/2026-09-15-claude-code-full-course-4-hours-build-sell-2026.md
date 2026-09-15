@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-claude-code-full-course-4-hours-build-sell-2026
-collected_at: 2026-09-15T00:32:17-07:00
+collected_at: "2026-09-15T00:32:17-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=QoQBzR1NIqI
-creator_handle: "@NickSaraev"
+language: en
+url: "https://www.youtube.com/watch?v=QoQBzR1NIqI"
+creator_handle: @NickSaraev
 title: "CLAUDE CODE FULL COURSE 4 HOURS: Build & Sell (2026)"
 hook_onscreen: ""
-hook_spoken: "Hey, this is the definitive course on Hey, this is the definitive course on Cloud Code for beginners"
+hook_spoken: Hey, this is the definitive course on Hey, this is the definitive course on Cloud Code for beginners
 thumbnail_path: thumbs/2026-09-15-claude-code-full-course-4-hours-build-sell-2026.jpg
 thumbnail_url: "https://i.ytimg.com/vi/QoQBzR1NIqI/hq720.jpg"
 transcript_path: transcripts/2026-09-15-claude-code-full-course-4-hours-build-sell-2026.txt
@@ -15,12 +16,13 @@ views: 2469214
 likes: 65551
 comments: 1900
 saves: null
-post_date: "2026-02-12"
+post_date: 2026-02-12
 niche_tags: [claude, how-to, ai]
 pattern_tags: [number]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

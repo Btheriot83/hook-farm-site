@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-6-chatgpt-tricks-that-could-make-you-so-much-mon
-collected_at: 2026-09-15T00:29:34-07:00
+collected_at: "2026-09-15T00:29:34-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=GLwG2uDXHyA
-creator_handle: "@EdwinaMcKennon"
-title: "6 ChatGPT Tricks That Could Make You So Much Money It Feels Illegal"
+language: en
+url: "https://www.youtube.com/watch?v=GLwG2uDXHyA"
+creator_handle: @EdwinaMcKennon
+title: 6 ChatGPT Tricks That Could Make You So Much Money It Feels Illegal
 hook_onscreen: ""
 hook_spoken: "ChatGPT just changed business forever, ChatGPT just changed business forever, and now it's even easier than ever and now it's even easier than ever and now it's even easier than ev"
 thumbnail_path: thumbs/2026-09-15-6-chatgpt-tricks-that-could-make-you-so-much-mon.jpg
@@ -15,12 +16,13 @@ views: 206583
 likes: 10647
 comments: 398
 saves: null
-post_date: "2026-02-24"
+post_date: 2026-02-24
 niche_tags: [chatgpt, productivity, ai]
 pattern_tags: [negative]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

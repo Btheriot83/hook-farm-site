@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-are-you-ready-to-have-your-job-replaced-by-ai
-collected_at: 2026-09-15T00:41:29-07:00
+collected_at: "2026-09-15T00:41:29-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=MisvqfF0p40
-creator_handle: "@HowMoneyWorks"
-title: "Are You Ready To Have Your Job Replaced by AI?"
+language: en
+url: "https://www.youtube.com/watch?v=MisvqfF0p40"
+creator_handle: @HowMoneyWorks
+title: Are You Ready To Have Your Job Replaced by AI?
 hook_onscreen: ""
-hook_spoken: "Machines doing all the laborious and Machines doing all the laborious and mind-numbing tasks that need to get done mind-numbing tasks that need to get done mind-numbing tasks that"
+hook_spoken: Machines doing all the laborious and Machines doing all the laborious and mind-numbing tasks that need to get done mind-numbing tasks that need to get done mind-numbing tasks that
 thumbnail_path: thumbs/2026-09-15-are-you-ready-to-have-your-job-replaced-by-ai.jpg
 thumbnail_url: "https://i.ytimg.com/vi/MisvqfF0p40/hq720.jpg"
 transcript_path: transcripts/2026-09-15-are-you-ready-to-have-your-job-replaced-by-ai.txt
@@ -15,12 +16,13 @@ views: 497114
 likes: 14111
 comments: 2500
 saves: null
-post_date: "2025-04-30"
+post_date: 2025-04-30
 niche_tags: [money, replaced_job, ai]
 pattern_tags: [replaced_job]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

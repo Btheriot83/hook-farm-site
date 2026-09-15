@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-how-i-made-a-faceless-youtube-channel-using-free
-collected_at: 2026-09-15T00:44:07-07:00
+collected_at: "2026-09-15T00:44:07-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=cqc0xni25n0
-creator_handle: "@MonsGuide"
-title: "How I Made A Faceless YouTube Channel Using FREE AI Tools Only (IMPRESSIVE RESULTS)"
+language: en
+url: "https://www.youtube.com/watch?v=cqc0xni25n0"
+creator_handle: @MonsGuide
+title: How I Made A Faceless YouTube Channel Using FREE AI Tools Only (IMPRESSIVE RESULTS)
 hook_onscreen: ""
-hook_spoken: "in the past 30 days this channel has in the past 30 days this channel has generated anywhere from over 600 to over generated anywhere from over 600 to over generated anywhere from"
+hook_spoken: in the past 30 days this channel has in the past 30 days this channel has generated anywhere from over 600 to over generated anywhere from over 600 to over generated anywhere from
 thumbnail_path: thumbs/2026-09-15-how-i-made-a-faceless-youtube-channel-using-free.jpg
 thumbnail_url: "https://i.ytimg.com/vi/cqc0xni25n0/hq720.jpg"
 transcript_path: transcripts/2026-09-15-how-i-made-a-faceless-youtube-channel-using-free.txt
@@ -15,12 +16,13 @@ views: 1637135
 likes: 67608
 comments: 2000
 saves: null
-post_date: "2023-04-11"
+post_date: 2023-04-11
 niche_tags: [money, how-to, ai]
 pattern_tags: [authority, how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

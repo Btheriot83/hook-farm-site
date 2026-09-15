@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-introducing-elevenlabs-conversational-ai-2-0
-collected_at: 2026-09-15T09:16:39-07:00
+collected_at: "2026-09-15T09:16:39-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=TlclS4wLWgY
-creator_handle: "@ElevenLabs"
-title: "Introducing ElevenLabs Conversational AI 2.0"
+language: en
+url: "https://www.youtube.com/watch?v=TlclS4wLWgY"
+creator_handle: @ElevenLabs
+title: Introducing ElevenLabs Conversational AI 2.0
 hook_onscreen: ""
-hook_spoken: "11 Labs conversational AI is evolving"
+hook_spoken: 11 Labs conversational AI is evolving
 thumbnail_path: thumbs/2026-09-15-introducing-elevenlabs-conversational-ai-2-0.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/TlclS4wLWgY/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-introducing-elevenlabs-conversational-ai-2-0.txt
@@ -15,12 +16,13 @@ views: 5253053
 likes: 6994
 comments: 207
 saves: null
-post_date: "2025-05-30"
+post_date: 2025-05-30
 niche_tags: [elevenlabs, voice, tooling, ai]
 pattern_tags: [tool_reveal]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

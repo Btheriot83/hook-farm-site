@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-ai-agents-full-course-2026-master-agentic-ai-2-h
-collected_at: 2026-09-15T00:30:22-07:00
+collected_at: "2026-09-15T00:30:22-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=EsTrWCV0Ph4
-creator_handle: "@NickSaraev"
+language: en
+url: "https://www.youtube.com/watch?v=EsTrWCV0Ph4"
+creator_handle: @NickSaraev
 title: "AI Agents Full Course 2026: Master Agentic AI (2 Hours)"
 hook_onscreen: ""
-hook_spoken: "Hey, this is the definitive course on AI Hey, this is the definitive course on AI agents"
+hook_spoken: Hey, this is the definitive course on AI Hey, this is the definitive course on AI agents
 thumbnail_path: thumbs/2026-09-15-ai-agents-full-course-2026-master-agentic-ai-2-h.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/EsTrWCV0Ph4/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-ai-agents-full-course-2026-master-agentic-ai-2-h.txt
@@ -15,12 +16,13 @@ views: 753249
 likes: 17457
 comments: 556
 saves: null
-post_date: "2026-03-08"
+post_date: 2026-03-08
 niche_tags: [chatgpt, agents, ai]
 pattern_tags: [number]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

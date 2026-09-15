@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-these-teens-should-have-never-camped-at-lake-bod
-collected_at: 2026-09-15T09:44:14-07:00
+collected_at: "2026-09-15T09:44:14-07:00"
 platform: youtube
 category: true_crime
-url: https://www.youtube.com/watch?v=gi_GF9XOelw
-creator_handle: "@MrBallen"
-title: "These teens should have never camped at Lake Bodom"
+language: en
+url: "https://www.youtube.com/watch?v=gi_GF9XOelw"
+creator_handle: @MrBallen
+title: These teens should have never camped at Lake Bodom
 hook_onscreen: ""
 hook_spoken: "today's   story    is    about    four    Teenage today's story is about four Teenage today's story is about four Teenage friends   who    decide    to    go    camping    in    th"
 thumbnail_path: thumbs/2026-09-15-these-teens-should-have-never-camped-at-lake-bod.jpg
@@ -15,12 +16,13 @@ views: 5570361
 likes: 178703
 comments: 8100
 saves: null
-post_date: "2024-03-17"
+post_date: 2024-03-17
 niche_tags: [true_crime, faceless, reddit]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "faceless-pref harvest"
+notes: faceless-pref harvest
 ---
+
 
 ## Transcript (~30s)
 

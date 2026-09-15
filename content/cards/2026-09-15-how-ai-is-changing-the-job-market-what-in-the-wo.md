@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-how-ai-is-changing-the-job-market-what-in-the-wo
-collected_at: 2026-09-15T00:41:20-07:00
+collected_at: "2026-09-15T00:41:20-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=p_kF_SDB0-c
-creator_handle: "@BBCWorldService"
-title: "How AI is changing the job market - What in the World podcast, BBC World Service"
+language: en
+url: "https://www.youtube.com/watch?v=p_kF_SDB0-c"
+creator_handle: @BBCWorldService
+title: How AI is changing the job market - What in the World podcast, BBC World Service
 hook_onscreen: ""
-hook_spoken: "I have now been looking for a job for a year, with more than 200 applications sent"
+hook_spoken: I have now been looking for a job for a year, with more than 200 applications sent
 thumbnail_path: thumbs/2026-09-15-how-ai-is-changing-the-job-market-what-in-the-wo.jpg
 thumbnail_url: "https://i.ytimg.com/vi/p_kF_SDB0-c/hq720.jpg"
 transcript_path: transcripts/2026-09-15-how-ai-is-changing-the-job-market-what-in-the-wo.txt
@@ -15,12 +16,13 @@ views: 714066
 likes: 9031
 comments: 840
 saves: null
-post_date: "2025-09-16"
+post_date: 2025-09-16
 niche_tags: [money, replaced_job, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

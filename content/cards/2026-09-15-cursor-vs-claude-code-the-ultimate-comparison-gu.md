@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-cursor-vs-claude-code-the-ultimate-comparison-gu
-collected_at: 2026-09-15T00:33:41-07:00
+collected_at: "2026-09-15T00:33:41-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=OSBo9qcpRfw
-creator_handle: "@Codevolution"
-title: "Cursor vs Claude Code | The Ultimate Comparison Guide"
+language: en
+url: "https://www.youtube.com/watch?v=OSBo9qcpRfw"
+creator_handle: @Codevolution
+title: Cursor vs Claude Code | The Ultimate Comparison Guide
 hook_onscreen: ""
-hook_spoken: "You have probably been using cursor for You have probably been using cursor for months and it made you way faster at months and it made you way faster at months and it made you way"
+hook_spoken: You have probably been using cursor for You have probably been using cursor for months and it made you way faster at months and it made you way faster at months and it made you way
 thumbnail_path: thumbs/2026-09-15-cursor-vs-claude-code-the-ultimate-comparison-gu.jpg
 thumbnail_url: "https://i.ytimg.com/vi/OSBo9qcpRfw/hq720.jpg"
 transcript_path: transcripts/2026-09-15-cursor-vs-claude-code-the-ultimate-comparison-gu.txt
@@ -15,12 +16,13 @@ views: 151103
 likes: 2043
 comments: 73
 saves: null
-post_date: "2025-09-04"
+post_date: 2025-09-04
 niche_tags: [claude, cursor, tooling, ai]
 pattern_tags: [how_to_promise, curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-get-started-with-chatgpt-work
-collected_at: 2026-09-15T00:27:17-07:00
+collected_at: "2026-09-15T00:27:17-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=GphgJjaKKhw
-creator_handle: "@OpenAI"
-title: "Get started with ChatGPT Work"
+language: en
+url: "https://www.youtube.com/watch?v=GphgJjaKKhw"
+creator_handle: @OpenAI
+title: Get started with ChatGPT Work
 hook_onscreen: ""
 hook_spoken: "Today we're excited to release a brand new ChatGPT on web, desktop and mobile"
 thumbnail_path: thumbs/2026-09-15-get-started-with-chatgpt-work.jpg
@@ -15,12 +16,13 @@ views: 251101
 likes: 4866
 comments: null
 saves: null
-post_date: "2026-07-09"
+post_date: 2026-07-09
 niche_tags: [chatgpt, how-to, prompts, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

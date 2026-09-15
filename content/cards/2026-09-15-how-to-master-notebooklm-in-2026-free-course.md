@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-how-to-master-notebooklm-in-2026-free-course
-collected_at: 2026-09-15T09:22:01-07:00
+collected_at: "2026-09-15T09:22:01-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=b2fGNHPlUGA
-creator_handle: "@PaulJLipsky"
-title: "How To Master NotebookLM in 2026 (Free Course)"
+language: en
+url: "https://www.youtube.com/watch?v=b2fGNHPlUGA"
+creator_handle: @PaulJLipsky
+title: How To Master NotebookLM in 2026 (Free Course)
 hook_onscreen: ""
-hook_spoken: "So, Notebook LM is without a doubt one So, Notebook LM is without a doubt one of the most powerful free AI tools that of the most powerful free AI tools that of the most powerful f"
+hook_spoken: So, Notebook LM is without a doubt one So, Notebook LM is without a doubt one of the most powerful free AI tools that of the most powerful free AI tools that of the most powerful f
 thumbnail_path: thumbs/2026-09-15-how-to-master-notebooklm-in-2026-free-course.jpg
 thumbnail_url: "https://i.ytimg.com/vi/b2fGNHPlUGA/maxresdefault.jpg"
 transcript_path: transcripts/2026-09-15-how-to-master-notebooklm-in-2026-free-course.txt
@@ -15,12 +16,13 @@ views: 583617
 likes: 15536
 comments: 723
 saves: null
-post_date: "2026-01-04"
+post_date: 2026-01-04
 niche_tags: [notebooklm, tooling, how-to, ai]
 pattern_tags: [how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

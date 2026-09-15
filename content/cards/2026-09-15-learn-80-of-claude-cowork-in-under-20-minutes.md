@@ -1,11 +1,12 @@
 ---
 id: 2026-09-15-learn-80-of-claude-cowork-in-under-20-minutes
-collected_at: 2026-09-15T00:32:34-07:00
+collected_at: "2026-09-15T00:32:34-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=z9rdrNrkvDY
-creator_handle: "@JeffSu"
-title: "Learn 80% of Claude Cowork in Under 20 Minutes"
+language: en
+url: "https://www.youtube.com/watch?v=z9rdrNrkvDY"
+creator_handle: @JeffSu
+title: Learn 80% of Claude Cowork in Under 20 Minutes
 hook_onscreen: ""
 hook_spoken: "You're in the right place if you use You're in the right place if you use Claude Chat everyday, are intimidated by Claude Chat everyday, are intimidated by Claude Chat everyday, ar"
 thumbnail_path: thumbs/2026-09-15-learn-80-of-claude-cowork-in-under-20-minutes.jpg
@@ -15,12 +16,13 @@ views: 1393648
 likes: 25262
 comments: 975
 saves: null
-post_date: "2026-04-07"
+post_date: 2026-04-07
 niche_tags: [claude, how-to, ai]
 pattern_tags: [number, how_to_promise]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

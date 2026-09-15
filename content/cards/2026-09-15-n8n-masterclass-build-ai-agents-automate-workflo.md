@@ -1,10 +1,11 @@
 ---
 id: 2026-09-15-n8n-masterclass-build-ai-agents-automate-workflo
-collected_at: 2026-09-15T00:39:27-07:00
+collected_at: "2026-09-15T00:39:27-07:00"
 platform: youtube
 category: ai
-url: https://www.youtube.com/watch?v=ZHH3sr234zY
-creator_handle: "@NateHerk|AIAutomation"
+language: en
+url: "https://www.youtube.com/watch?v=ZHH3sr234zY"
+creator_handle: @NateHerk|AIAutomation
 title: "n8n Masterclass: Build AI Agents & Automate Workflows (Beginner to Pro)"
 hook_onscreen: ""
 hook_spoken: "all right today we've got a very all right today we've got a very exciting one this is the nadn master exciting one this is the nadn master exciting one this is the nadn master cla"
@@ -15,12 +16,13 @@ views: 541200
 likes: 13840
 comments: 408
 saves: null
-post_date: "2024-10-20"
+post_date: 2024-10-20
 niche_tags: [automation, agents, tooling, ai]
 pattern_tags: [curiosity_gap]
 format: long
-notes: "batch harvest ytsearch"
+notes: batch harvest ytsearch
 ---
+
 
 ## Transcript (~30s)
 

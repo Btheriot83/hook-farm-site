@@ -1,13 +1,14 @@
 ---
 id: 2026-09-15-the-best-friends-who-became-serial-killers-true
-collected_at: 2026-09-15T09:47:32-07:00
+collected_at: "2026-09-15T09:47:32-07:00"
 platform: youtube
 category: true_crime
-url: https://www.youtube.com/watch?v=9eZYdKdBiDc
-creator_handle: "@EXPLOREWITHUS"
-title: "The Best Friends Who Became SERIAL KILLERS | True Crime Documentary"
+language: en
+url: "https://www.youtube.com/watch?v=9eZYdKdBiDc"
+creator_handle: @EXPLOREWITHUS
+title: The Best Friends Who Became SERIAL KILLERS | True Crime Documentary
 hook_onscreen: ""
-hook_spoken: "we   all    hear    warnings    from    a    young    age we all hear warnings from a young age we all hear warnings from a young age about   the    importance    of    trusting"
+hook_spoken: we   all    hear    warnings    from    a    young    age we all hear warnings from a young age we all hear warnings from a young age about   the    importance    of    trusting
 thumbnail_path: thumbs/2026-09-15-the-best-friends-who-became-serial-killers-true.jpg
 thumbnail_url: "https://i.ytimg.com/vi_webp/9eZYdKdBiDc/maxresdefault.webp"
 transcript_path: transcripts/2026-09-15-the-best-friends-who-became-serial-killers-true.txt
@@ -15,12 +16,13 @@ views: 3560299
 likes: 50817
 comments: 3300
 saves: null
-post_date: "2020-12-17"
+post_date: 2020-12-17
 niche_tags: [true_crime, faceless, history]
 pattern_tags: [negative]
 format: long
-notes: "faceless-pref harvest"
+notes: faceless-pref harvest
 ---
+
 
 ## Transcript (~30s)
 
