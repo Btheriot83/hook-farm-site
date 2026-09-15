@@ -1,0 +1,10 @@
+Introducing Claude for Enterprise.
+
+Now your entire organization can collaborate securely with Claude—with no training on chats or files.
+
+Comes with:
+📚 Expanded 500K context window
+🧑‍💻 Native GitHub integration
+🔐 Enterprise-grade security features
+
+http://anthropic.com/news/claude-for-enterprise

@@ -1,0 +1,3 @@
+Across a set of carefully controlled tests, Claude shows subtle biases to Anthropic.
+
+E.g. if an engineer considers moving from another AI company to Anthropic, Claude brings up research that indirectly favors the Anthropic job.

@@ -1,0 +1,10 @@
+Midjourney runs fully on Bun
+Server side routing: Bun
+Runtime: Bun
+Client side bundling: Bun
+Scripts: Bun
+Real-time generation previews: Bun
+
+No framework beside vanilla React and no data management library. This enabled us to scale the site to millions with only ~5 full-timers. Plus some other semi-public tricks I usually only divulge at random parties
+
+Maybe I should re-un-retire from conference talks and explain the stack one day...

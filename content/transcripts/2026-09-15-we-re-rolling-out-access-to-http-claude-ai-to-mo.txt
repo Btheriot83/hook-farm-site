@@ -1,0 +1,3 @@
+We’re rolling out access to http://Claude.ai to more people around the world.
+
+Starting today, users in 95 countries can talk to Claude and get help with their professional or day-to-day tasks. You can find the list of supported countries here: https://www.anthropic.com/claude-ai-locations

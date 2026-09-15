@@ -1,0 +1,1 @@
+SITUATION DETECTED: Anthropic has disclosed to the U.S. Government that Alibaba executed the largest known distillation attack on Claude to date, generating 28.8 million exchanges through nearly 25,000 fraudulent accounts between April and June 2026.

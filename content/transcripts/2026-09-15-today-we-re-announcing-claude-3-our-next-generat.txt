@@ -1,0 +1,3 @@
+Today, we're announcing Claude 3, our next generation of AI models. 
+
+The three state-of-the-art models—Claude 3 Opus, Claude 3 Sonnet, and Claude 3 Haiku—set new industry benchmarks across reasoning, math, coding, multilingual understanding, and vision.

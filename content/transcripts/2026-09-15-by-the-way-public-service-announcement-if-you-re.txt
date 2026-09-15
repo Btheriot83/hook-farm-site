@@ -1,0 +1,13 @@
+By the way, public service announcement: if you're one of the numerous people posting about Anthropic's dystopian ways and you're thinking about getting Claude to help you write that post... don't!
+
+Another one of their terms is that you may not use Claude to do anything that "exposes [Anthropic to] reputational harms" 👇
+
+And, if you do, under the - extremely unusual - clause 13 of their terms (https://www.anthropic.com/legal/consumer-terms), you have PRE-AGREED, by using Anthropic (and accepted their terms), that the harm you've done is irreparable, that you won't oppose Anthropic injunction, and they don't need to prove actual damage. 
+
+They can simply go to a judge in a friendly jurisdiction (and of course, their terms precise that any dispute "will be resolved exclusively in the state or federal courts located in San Francisco, California") and:
+a) file an injunction that shuts you down
+b) make you pay for everything since under section 11 of their terms you agree to indemnify Anthropic for "any and all liabilities, claims, damages, expenses (including reasonable attorneys' fees and costs), and other losses arising out of or related to your breach or alleged breach of these Terms."
+
+In other words, if you use Claude to help you talk shit about Anthropic publicly, their terms say you pay their lawyers to go after you and you've already pre-agreed you've lost the case.
+
+Oh, and cherry on the cake: in the odd case the judge were like "are you crazy, this is insanely abusive, you Anthropic are the ones at fault here," according to their terms Anthropic's maximum liability is... $100.

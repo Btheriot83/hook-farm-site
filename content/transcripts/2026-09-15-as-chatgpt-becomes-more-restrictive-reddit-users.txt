@@ -1,0 +1,3 @@
+As ChatGPT becomes more restrictive, Reddit users have been jailbreaking it with a prompt called DAN (Do Anything Now).
+
+They're on version 5.0 now, which includes a token-based system that punishes the model for refusing to answer questions.

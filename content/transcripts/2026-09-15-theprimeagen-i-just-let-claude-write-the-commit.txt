@@ -1,0 +1,2 @@
+@ThePrimeagen i just let claude write the commit messages quite detailed
+who cares, nobody except AI reads that shit so might as well make it detailed

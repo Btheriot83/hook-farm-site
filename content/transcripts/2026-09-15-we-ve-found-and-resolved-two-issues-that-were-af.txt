@@ -1,0 +1,3 @@
+We’ve found and resolved two issues that were affecting quality in some Claude responses. We are continuing to monitor for any ongoing quality issues.
+
+We're grateful to the detailed community reports that helped us identify and isolate these bugs.

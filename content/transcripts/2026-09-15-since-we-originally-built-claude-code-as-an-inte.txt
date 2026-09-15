@@ -1,0 +1,3 @@
+Since we originally built Claude Code as an internal tool, we've heard a ton of questions about how our teams use it at Anthropic.
+
+Here’s an inside look on how our teams—from product engineering, to growth marketing, to legal—use Claude Code:

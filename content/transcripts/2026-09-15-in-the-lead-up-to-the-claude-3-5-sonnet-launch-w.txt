@@ -1,0 +1,3 @@
+In the lead up to the Claude 3.5 Sonnet launch, we created a Slack channel at Anthropic to share our favorite Claude-generated artifacts.
+
+I scrolled back through and found 7 of my favorite things Claude made:
