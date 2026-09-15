@@ -1,0 +1,28 @@
+---
+id: 2026-09-15-40-tips-for-new-uber-and-lyft-drivers
+collected_at: 2026-09-15T10:15:57-07:00
+platform: youtube
+category: rideshare
+url: https://www.youtube.com/watch?v=BwTasFtS07A
+creator_handle: "@TheRideshareGuy"
+title: "40 TIPS For New Uber And Lyft Drivers"
+hook_onscreen: ""
+hook_spoken: "are   you    thinking    about    becoming    an    Uber are you thinking about becoming an Uber are you thinking about becoming an Uber lift   driver    are    you    just    star"
+thumbnail_path: thumbs/2026-09-15-40-tips-for-new-uber-and-lyft-drivers.jpg
+thumbnail_url: ""
+transcript_path: transcripts/2026-09-15-40-tips-for-new-uber-and-lyft-drivers.txt
+views: 80395
+likes: null
+comments: null
+saves: null
+post_date: null
+niche_tags: [uber, rideshare, how-to]
+pattern_tags: [number, how_to_promise]
+format: long
+language: en
+notes: "rideshare top-up for Uber/Lyft training seed"
+---
+
+## Transcript (~30s)
+
+are   you    thinking    about    becoming    an    Uber are you thinking about becoming an Uber are you thinking about becoming an Uber lift   driver    are    you    just    starting    out    or lift driver are you just starting out or lift driver are you just starting out or have   you    been    driving    for    a    little    while have you been driving for a little while have you been driving for a little while let's   talk    about    40    things    that    you    need let's talk about 40 things that you need let's talk about 40 things that you need to   know    as    a    ride    share [Music] [Music] driver   hey    everyone    my    name    is    Chris    and driver hey everyone my name is Chris and driver hey everyone my name is Chris and welcome   to    the    ride    share    guy    if    you're welcome to the ride share guy if you're welcome to the ride share guy if you're new   to    the    channel    this    channel    is    all new to the channel this channel is all new to the channel this channel is all about   the    gig    economy    whether    it's    ride about the gig economy whether it's ride about the gig economy whether it's ride share   food    delivery    last    mile    delivery share food delivery last mile delivery share food delivery last mile delivery and   more    anything    that    can    help    you    make and more anything that can help you make and more anything that can help you make some   more    money    whether    it's    a    side some more money whether it's a side some more money whether it's a side hustle   full-time    or    in    between    so    make hustle full-time or in between so make hustle full-time or in between so make sure   you    subscribed    and    ring    the    bell sure you subscribed and ring the bell sure you subscribed and ring the bell for   notifications    now    driving    Uber    and for notifications now driving Uber and for notifications now driving Uber and lift   can    be    a    great    way    to    make    extra
