@@ -1,0 +1,3 @@
+Introducing Cursor!! (https://cursor.so)
+
+A brand new IDE build from the ground up with LLMs. Watch us use Cursor to ship new features blazingly fast.

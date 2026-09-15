@@ -1,0 +1,7 @@
+Anthropic's next Claude model is coming—and soon.
+
+It'll be a combo of a traditional LLM + reasoning AI, w/ the ability for devs to adjust how much it reasons on a sliding scale measured in tokens.
+
+OpenAI seemed to follow this combined approach yday too:
+
+https://www.theinformation.com/articles/anthropic-strikes-back

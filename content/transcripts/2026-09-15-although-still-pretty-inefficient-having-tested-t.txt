@@ -1,0 +1,1 @@
+Although still pretty inefficient, having tested the new Opus (currently in stealth in Claude Code for most subs) it's a biiig step up over Opus 5.

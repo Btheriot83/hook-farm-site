@@ -1,0 +1,26 @@
+---
+id: 2026-09-15-how-to-build-sell-ai-automations-ultimate-beginn
+collected_at: 2026-09-15T00:39:39-07:00
+platform: youtube
+url: https://www.youtube.com/watch?v=5TxSqvPbnWw
+creator_handle: "@LiamOttley"
+title: "How to Build & Sell AI Automations: Ultimate Beginner\u2019s Guide"
+hook_onscreen: ""
+hook_spoken: "In a world being transformed by AI, one In a world being transformed by AI, one skill stands above all others"
+thumbnail_path: thumbs/2026-09-15-how-to-build-sell-ai-automations-ultimate-beginn.jpg
+thumbnail_url: "https://i.ytimg.com/vi/5TxSqvPbnWw/hq720.jpg"
+transcript_path: transcripts/2026-09-15-how-to-build-sell-ai-automations-ultimate-beginn.txt
+views: 1101077
+likes: 33658
+comments: 2000
+saves: null
+post_date: "2025-06-30"
+niche_tags: [automation, tooling]
+pattern_tags: [how_to_promise]
+format: long
+notes: "batch harvest ytsearch"
+---
+
+## Transcript (~30s)
+
+In a world being transformed by AI, one In a world being transformed by AI, one skill stands above all others. AI skill stands above all others. AI skill stands above all others. AI automation. Master this and you won't automation. Master this and you won't automation. Master this and you won't just survive the AI revolution, you'll just survive the AI revolution, you'll just survive the AI revolution, you'll thrive in it. I'm living proof of this. thrive in it. I'm living proof of this. thrive in it. I'm living proof of this. Just 2 years ago, I taught myself how to Just 2 years ago, I taught myself how to Just 2 years ago, I taught myself how to build no code AI automations without any build no code AI automations without any build no code AI automations without any prior experience. And since then, I've prior experience. And since then, I've prior experience. And since then, I've built multiple AI businesses, generated built multiple AI businesses, generated built multiple AI businesses, generated millions of dollars in revenue, and millions of dollars in revenue, and millions of dollars in revenue, and grown this channel to over 500,000 grown this channel to over 500,000 grown this channel to over 500,000 subscribers, and built AI systems for subscribers, and built AI systems for subscribers, and built AI systems for some of the biggest brands in the world. some of the biggest brands in the world. some of the biggest brands in the world. It's pretty safe to say that learning It's pretty safe to say that learning It's pretty safe to say that learning how to build AI automations has how to build AI automations has how to build AI automations has completely changed my life. So, in this completely changed my life. So, in this completely changed my life. So, in this full course, I'll teach you everything full course, I'll teach you everything full course, I'll teach you everything that I've learned about building AI that I've learned about building AI that I've learned about building AI automations and making money with them, automations and making money with them, automations and making money with them, even if you don't know how to code. And

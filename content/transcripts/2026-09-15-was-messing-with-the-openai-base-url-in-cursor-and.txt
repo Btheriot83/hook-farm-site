@@ -1,0 +1,6 @@
+was messing with the OpenAI base URL in Cursor and caught this
+
+accounts/anysphere/models/kimi-k2p5-rl-0317-s515-fast
+
+so composer 2 is just Kimi K2.5 with RL
+at least rename the model ID

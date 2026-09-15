@@ -1,0 +1,26 @@
+---
+id: 2026-09-15-n8n-full-course-6-hours-build-sell-ai-automation
+collected_at: 2026-09-15T00:38:59-07:00
+platform: youtube
+url: https://www.youtube.com/watch?v=2GZ2SNXWK-c
+creator_handle: "@NickSaraev"
+title: "N8N FULL COURSE 6 HOURS (Build & Sell AI Automations + Agents)"
+hook_onscreen: ""
+hook_spoken: "Hey, welcome to the most comprehensive Hey, welcome to the most comprehensive NADN course on how to go from zero, NADN course on how to go from zero, NADN course on how to go from"
+thumbnail_path: thumbs/2026-09-15-n8n-full-course-6-hours-build-sell-ai-automation.jpg
+thumbnail_url: "https://i.ytimg.com/vi/2GZ2SNXWK-c/maxresdefault.jpg"
+transcript_path: transcripts/2026-09-15-n8n-full-course-6-hours-build-sell-ai-automation.txt
+views: 1299412
+likes: 45381
+comments: 1000
+saves: null
+post_date: "2025-04-29"
+niche_tags: [automation, agents, tooling]
+pattern_tags: [number]
+format: long
+notes: "batch harvest ytsearch"
+---
+
+## Transcript (~30s)
+
+Hey, welcome to the most comprehensive Hey, welcome to the most comprehensive NADN course on how to go from zero, NADN course on how to go from zero, NADN course on how to go from zero, somebody that's never used this platform somebody that's never used this platform somebody that's never used this platform to hero, a master capable of building to hero, a master capable of building to hero, a master capable of building automations for themselves and or automations for themselves and or automations for themselves and or selling stuff like that to clients. I've selling stuff like that to clients. I've selling stuff like that to clients. I've scaled my own automation agency at over scaled my own automation agency at over scaled my own automation agency at over $72,000 a month using no code tools like $72,000 a month using no code tools like $72,000 a month using no code tools like make and nen. So, the purpose of this make and nen. So, the purpose of this make and nen. So, the purpose of this course and any follow-up courses that I course and any follow-up courses that I course and any follow-up courses that I make are all about how to use these make are all about how to use these make are all about how to use these tools for actual business purposes. how tools for actual business purposes. how tools for actual business purposes. how to drive revenue, how to improve to drive revenue, how to improve to drive revenue, how to improve savings, and more or less purposes that savings, and more or less purposes that savings, and more or less purposes that you would actually be building systems you would actually be building systems you would actually be building systems for in the real world, not just hobby for in the real world, not just hobby for in the real world, not just hobby projects. I've made sure to add projects. I've made sure to add projects. I've made sure to add timestamps for every section down in the timestamps for every section down in the timestamps for every section down in the video. So, if you guys maybe already are

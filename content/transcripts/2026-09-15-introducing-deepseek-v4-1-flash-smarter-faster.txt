@@ -1,0 +1,6 @@
+🚀 Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient.
+
+🔹 Introducing the smallest model in our new architecture family, with native visual understanding.
+🔹 Designed for greater capability, faster inference, higher throughput, and scaling to larger models.
+
+1/6

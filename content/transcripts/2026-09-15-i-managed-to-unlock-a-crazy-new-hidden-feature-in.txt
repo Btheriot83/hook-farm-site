@@ -1,0 +1,7 @@
+I managed to unlock a crazy new hidden feature in Claude Code called Swarms. You're not talking to an AI coder anymore. You're talking to a team lead. The lead doesn't write code - it plans, delegates, and synthesizes. When you approve a plan, it enters a new "delegation mode" and spawns a team of specialists who:
+
+  - Share a task board with dependencies
+  - Work in parallel as teammates
+  - Message each other to coordinate work
+
+Workers do the heavy lifting, coordinate amongst themselves, then report back.

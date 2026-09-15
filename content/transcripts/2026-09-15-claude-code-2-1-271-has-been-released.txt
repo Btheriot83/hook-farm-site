@@ -1,0 +1,3 @@
+Claude Code 2.1.271 has been released.
+
+96 CLI changes

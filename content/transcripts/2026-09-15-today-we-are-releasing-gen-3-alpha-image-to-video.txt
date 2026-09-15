@@ -1,0 +1,5 @@
+Today we are releasing Gen-3 Alpha Image to Video. This update allows you to use any image as the first frame of your video generation, either on its own or with a text prompt for additional guidance.
+
+Image to Video is major update that greatly improves the artistic control and consistency of your generations. See more below.
+
+(1/10)

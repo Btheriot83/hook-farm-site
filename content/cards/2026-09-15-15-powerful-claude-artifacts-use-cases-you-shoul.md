@@ -1,0 +1,26 @@
+---
+id: 2026-09-15-15-powerful-claude-artifacts-use-cases-you-shoul
+collected_at: 2026-09-15T00:34:18-07:00
+platform: youtube
+url: https://www.youtube.com/watch?v=UA2W4xTqQzs
+creator_handle: "@SkillLeapAI"
+title: "15 Powerful Claude Artifacts Use Cases You Should Try"
+hook_onscreen: ""
+hook_spoken: "from all the different AI tools that from all the different AI tools that I've tested for the last 6 months I I've tested for the last 6 months I I've tested for the last 6 months"
+thumbnail_path: thumbs/2026-09-15-15-powerful-claude-artifacts-use-cases-you-shoul.jpg
+thumbnail_url: "https://i.ytimg.com/vi_webp/UA2W4xTqQzs/maxresdefault.webp"
+transcript_path: transcripts/2026-09-15-15-powerful-claude-artifacts-use-cases-you-shoul.txt
+views: 95115
+likes: 1446
+comments: 59
+saves: null
+post_date: "2024-08-27"
+niche_tags: [claude, tooling]
+pattern_tags: [curiosity_gap]
+format: long
+notes: "batch harvest ytsearch"
+---
+
+## Transcript (~30s)
+
+from all the different AI tools that from all the different AI tools that I've tested for the last 6 months I I've tested for the last 6 months I I've tested for the last 6 months I think Claude artifact might be my think Claude artifact might be my think Claude artifact might be my favorite and in this video I want to favorite and in this video I want to favorite and in this video I want to show you exactly how to use it I going show you exactly how to use it I going show you exactly how to use it I going to show you 15 really interesting to show you 15 really interesting to show you 15 really interesting practical examples on how to use it and practical examples on how to use it and practical examples on how to use it and it just became available completely for it just became available completely for it just became available completely for free to everyone starting today I think free to everyone starting today I think free to everyone starting today I think the best way to show you what cloud art the best way to show you what cloud art the best way to show you what cloud art effect is and what it could do is effect is and what it could do is effect is and what it could do is showing you this example first then I'll showing you this example first then I'll showing you this example first then I'll show you actually how to activate it and show you actually how to activate it and show you actually how to activate it and then I'll show you 15 different examples then I'll show you 15 different examples then I'll show you 15 different examples as well that are very practical here is as well that are very practical here is as well that are very practical here is the App Store on my Mac I'm going to the App Store on my Mac I'm going to the App Store on my Mac I'm going to take a screenshot of it just like this take a screenshot of it just like this take a screenshot of it just like this I'm going to go to claw. a and then I'm

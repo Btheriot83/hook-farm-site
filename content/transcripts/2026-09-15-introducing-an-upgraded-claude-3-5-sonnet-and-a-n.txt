@@ -1,0 +1,3 @@
+Introducing an upgraded Claude 3.5 Sonnet, and a new model, Claude 3.5 Haiku. We’re also introducing a new capability in beta: computer use.
+
+Developers can now direct Claude to use computers the way people do—by looking at a screen, moving a cursor, clicking, and typing text.

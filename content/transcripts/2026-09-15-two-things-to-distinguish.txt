@@ -1,0 +1,5 @@
+Two things to distinguish:
+
+Did any human or agent look at user data as part of the Navier Stokes effort? No.
+
+Do we use user feedback and de-identified data to improve ChatGPT and Codex in a holistic way? Yes. And so does every LLM company.

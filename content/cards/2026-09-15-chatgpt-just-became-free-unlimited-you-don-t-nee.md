@@ -1,0 +1,26 @@
+---
+id: 2026-09-15-chatgpt-just-became-free-unlimited-you-don-t-nee
+collected_at: 2026-09-15T00:29:47-07:00
+platform: youtube
+url: https://www.youtube.com/watch?v=qE2qvh961zc
+creator_handle: "@AIMaster"
+title: "ChatGPT Just Became Free & Unlimited \u2014 You Don\u2019t Need a Subscription"
+hook_onscreen: ""
+hook_spoken: "Open AI just made Chat GPT unlimited for Open AI just made Chat GPT unlimited for free"
+thumbnail_path: thumbs/2026-09-15-chatgpt-just-became-free-unlimited-you-don-t-nee.jpg
+thumbnail_url: "https://i.ytimg.com/vi/qE2qvh961zc/maxresdefault.jpg"
+transcript_path: transcripts/2026-09-15-chatgpt-just-became-free-unlimited-you-don-t-nee.txt
+views: 91307
+likes: 1126
+comments: 63
+saves: null
+post_date: "2026-09-07"
+niche_tags: [chatgpt, productivity]
+pattern_tags: [curiosity_gap]
+format: long
+notes: "batch harvest ytsearch"
+---
+
+## Transcript (~30s)
+
+Open AI just made Chat GPT unlimited for Open AI just made Chat GPT unlimited for free. There's no subscription, no trial, free. There's no subscription, no trial, free. There's no subscription, no trial, and no cap on your text chats. So, the and no cap on your text chats. So, the and no cap on your text chats. So, the big question is, do you still need to big question is, do you still need to big question is, do you still need to pay $20 a month for Chat GPT Plus, or is pay $20 a month for Chat GPT Plus, or is pay $20 a month for Chat GPT Plus, or is the free plan enough now that Open AI the free plan enough now that Open AI the free plan enough now that Open AI has expanded it so much? Let's dive in. has expanded it so much? Let's dive in. has expanded it so much? Let's dive in. So, instead of reading you a change log, So, instead of reading you a change log, So, instead of reading you a change log, let me just show you the account. This let me just show you the account. This let me just show you the account. This is a clean free account on my second is a clean free account on my second is a clean free account on my second machine, no subscription attached to it, machine, no subscription attached to it, machine, no subscription attached to it, and I'm opening a brand new chat right and I'm opening a brand new chat right and I'm opening a brand new chat right now. Look at the model label at the top. now. Look at the model label at the top. now. Look at the model label at the top. Nobody said that it came that way, and Nobody said that it came that way, and Nobody said that it came that way, and that's the first change sitting there in

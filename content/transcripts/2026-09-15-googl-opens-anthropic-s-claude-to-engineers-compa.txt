@@ -1,0 +1,3 @@
+$GOOGL OPENS ANTHROPIC’S CLAUDE TO ENGINEERS COMPANY-WIDE
+
+Google is now allowing engineers across the company to use Anthropic’s Claude for internal coding work

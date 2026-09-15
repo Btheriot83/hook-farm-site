@@ -1,0 +1,9 @@
+If you think OpenAI Sora is a creative toy like DALLE, ... think again. Sora is a data-driven physics engine. It is a simulation of many worlds, real or fantastical. The simulator learns intricate rendering, "intuitive" physics, long-horizon reasoning, and semantic grounding, all by some denoising and gradient maths.
+
+I won't be surprised if Sora is trained on lots of synthetic data using Unreal Engine 5. It has to be!
+
+Let's breakdown the following video. Prompt: "Photorealistic closeup video of two pirate ships battling each other as they sail inside a cup of coffee."
+
+- The simulator instantiates two exquisite 3D assets: pirate ships with different decorations. Sora has to solve text-to-3D implicitly in its latent space.
+- The 3D objects are consistently animated as they sail and avoid each other's paths.
+- Fluid dynamics of the coffee, even the foams that form around the ships. Fluid

@@ -1,0 +1,1 @@
+BREAKING: OpenAI is reportedly training ChatGPT to not anthropomorphize itself, and to be less sycophantic, per 404 Media

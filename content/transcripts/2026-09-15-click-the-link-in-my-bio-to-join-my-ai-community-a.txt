@@ -1,0 +1,9 @@
+Click the link in my bio to join my AI Community and build all 5 of these valuable AI projects and much more!
+
+5 Things to build in Claude in one weekend. These useful AI projects in Claude will teach you more than any course or certification and you’ll come out ahead than 95% of people using AI. 
+
+1. Life Dashboard. One page that pulls your calendar, emails, tasks & connected tools all onto one dashboard. Set it up so that it automatically updates every morning and provides you with a daily briefing about the day ahead.
+
+2. Second Brain: Drop all your business and life admin into 1 folder. contracts, lease agreements, insurance, notes, PDFs…absolutely everything. Build your 2nd brain in Obsidian and then connected it to your AI agents.
+
+3. Executive Assistant Agent. It checks in every day and night to review what did and didn’t go well every day. Every week it rolls up analysis on what 

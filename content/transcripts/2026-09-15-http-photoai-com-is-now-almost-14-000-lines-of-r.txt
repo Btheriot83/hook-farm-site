@@ -1,0 +1,7 @@
+http://PhotoAI.com is now almost 14,000 lines of raw PHP mixed with inline HTML, CSS in <style> and raw JS in <script> tags
+
+I did not use TS, flexbox or frameworks except jQuery
+
+A lot of $.ajax() and float:left though
+
+It has 1,872 paying customers making $61,808 per month

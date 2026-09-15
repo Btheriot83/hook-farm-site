@@ -1,0 +1,5 @@
+"ChatGPT, find this person and follow them."
+
+GPT-6 Astra can autonomously navigate a drone through our office to find and follow a specific person.
+
+It's the first AI model to beat a human on each of the 5 Drone-Bench tasks in at least one of its attempts.

@@ -1,0 +1,3 @@
+Fun fact - if you have a recent commit that mentions OpenClaw in a json blob, Claude Code will either refuse your request or bill you extra money.
+
+This is an empty repo, I'm just calling Claude Code directly. Insanity.

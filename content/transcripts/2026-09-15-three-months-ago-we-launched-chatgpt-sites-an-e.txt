@@ -1,0 +1,13 @@
+Three months ago, we launched ChatGPT Sites – an easy way for anyone to build and host fully functional, interactive web apps. Since then, people have created over 5M sites.
+
+We’ve been listening to your feedback and ICYMI, we’ve launched a few Sites updates:
+
+🫂 Build together: Invite teammates to edit, save, and publish to your shared Site
+
+🔐 Share privately: Invite specific people to a private Site without making it public
+
+🚀 Launch faster: Go from prompt to deployment in half the time
+
+👀 Explore your data: Ask ChatGPT to inspect your Site’s database. Editors can view it, too
+
+🌐 Add your own custom domain

@@ -1,0 +1,3 @@
+Claude code source code has been leaked via a map file in their npm registry! 
+
+Code: https://pub-aea8527898604c1bbb12468b1581d95e.r2.dev/src.zip

@@ -1,0 +1,1 @@
+WebAssembly is aliveeeee 🔥 Gemini Nano will be included in Chrome itself with WebGPU + Wasm.
