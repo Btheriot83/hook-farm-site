@@ -1,36 +1,49 @@
 # Syncing the Hook Farm corpus into this site
 
 The harvest agent writes winners into `/workspace/viral-corpus/`.
-This site is a **read-only browser** — it never collects. To publish new cards:
+This site is a **read-only browser** — it never collects.
 
-## Steps
+## Automated sync (preferred)
 
-1. Copy from the agent workspace into this repo’s content tree:
+```bash
+./scripts/sync-corpus.sh
+```
 
-   ```bash
-   # From a machine that has both trees mounted:
-   cp /workspace/viral-corpus/INDEX.md   content/INDEX.md
-   cp /workspace/viral-corpus/SCHEMA.md  content/SCHEMA.md
-   cp /workspace/viral-corpus/cards/*    content/cards/     # *.md and *.json
-   cp /workspace/viral-corpus/thumbs/*   content/thumbs/    # optional
-   cp /workspace/viral-corpus/transcripts/* content/transcripts/  # optional
-   ```
+What it does:
 
-2. Do **not** copy `_example.md.disabled` into the live set; the site ignores `*.disabled`.
+1. Copies `INDEX.md`, `SCHEMA.md`, `cards/`, `thumbs/`, and `transcripts/` from `/workspace/viral-corpus/` into this repo’s `content/`.
+2. Preserves `content/cards/.gitkeep` and `content/cards/_example.md.disabled`.
+3. Never promotes source `*.disabled` files into the live card set (the site already ignores `*.disabled`).
+4. If `content/` is unchanged → exits 0, no commit.
+5. If changed → `git add content/`, commits `content: sync Hook Farm harvest <UTC stamp>`, pushes `origin/main`.
+6. Prints a short summary: cards before/after, pushed yes/no, SHA.
 
-3. Commit and push `main`:
+Override the source path with `VIRAL_CORPUS_SRC=/path/to/corpus` if needed.
 
-   ```bash
-   cd /workspace/hook-farm-site
-   git add content/
-   git commit -m "content: sync Hook Farm harvest"
-   git push origin main
-   ```
+**Design Catalog** runs this script on a schedule and whenever Hook Farm signals a new harvest ping, so the public grid stays current without manual copy steps.
 
-4. Vercel (or your host) redeploys. The home grid rebuilds from `content/cards/` at build time — empty folders show the harvest-in-progress empty state; new files appear after the next deploy.
+## Manual steps (fallback)
+
+```bash
+cp /workspace/viral-corpus/INDEX.md   content/INDEX.md
+cp /workspace/viral-corpus/SCHEMA.md  content/SCHEMA.md
+# live cards only — skip *.disabled
+rsync -a --include='*.md' --include='*.json' --exclude='*.disabled' --exclude='*' \
+  /workspace/viral-corpus/cards/ content/cards/
+cp /workspace/viral-corpus/thumbs/* content/thumbs/           # optional
+cp /workspace/viral-corpus/transcripts/* content/transcripts/ # optional
+
+git add content/
+git commit -m "content: sync Hook Farm harvest"
+git push origin main
+```
+
+Keep `content/cards/.gitkeep` and `content/cards/_example.md.disabled` in place.
 
 ## Notes
 
 - De-dupe key is canonical `url` (see `content/SCHEMA.md`).
 - Card filenames: `YYYY-MM-DD-<slug>.md` or `.json`.
+- Local thumbs are served via `public/thumbs` → `content/thumbs` (symlink).
 - Collect-only constraint stays on the About page; this sync is display-only.
+- Vercel (or your host) redeploys on push. Empty `content/cards/` shows the harvest-in-progress empty state.
