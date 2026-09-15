@@ -3,6 +3,7 @@ import Link from "next/link";
 import { getAllCards, getCorpusStats } from "@/lib/cards";
 import { formatCount } from "@/lib/format";
 import { patternLabel } from "@/lib/patterns";
+import { categoryLabel } from "@/lib/types";
 
 export const metadata: Metadata = {
   title: "Stats",
@@ -34,7 +35,25 @@ export default function StatsPage() {
             Cards · {stats.total}
           </p>
         </div>
-        <div className="grid sm:grid-cols-2">
+        <div className="grid sm:grid-cols-3">
+          <div className="border-b border-hairline px-4 py-5 sm:border-b-0 sm:border-r">
+            <h2 className="font-mono text-[10px] uppercase tracking-[0.14em] text-faint">
+              By category
+            </h2>
+            <ul className="mt-4 space-y-2">
+              {stats.byCategory.map((c) => (
+                <li
+                  key={c.category}
+                  className="flex items-baseline justify-between gap-4 border-b border-hairline pb-2 last:border-0"
+                >
+                  <span className="mark-platform">
+                    {categoryLabel(c.category)}
+                  </span>
+                  <span className="metric-xl text-2xl">{c.count}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
           <div className="border-b border-hairline px-4 py-5 sm:border-b-0 sm:border-r">
             <h2 className="font-mono text-[10px] uppercase tracking-[0.14em] text-faint">
               By platform
@@ -112,7 +131,7 @@ export default function StatsPage() {
                     {c.title}
                   </Link>
                   <p className="mt-0.5 pl-7 text-xs text-studio">
-                    {c.creator_handle} · {c.platform}
+                    {c.creator_handle} · {categoryLabel(c.category)} · {c.platform}
                   </p>
                 </div>
                 <span className="metric-xl text-2xl">

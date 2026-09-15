@@ -1,8 +1,8 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import type { Card, Platform } from "@/lib/types";
-import { PLATFORMS } from "@/lib/types";
+import type { Card, Category, Platform } from "@/lib/types";
+import { CATEGORIES, PLATFORMS, categoryLabel } from "@/lib/types";
 import { PATTERN_GLOSSARY, patternLabel } from "@/lib/patterns";
 import { engagementRate, engagementScore } from "@/lib/thumbs";
 import { CardTile } from "./CardTile";
@@ -93,6 +93,7 @@ function compareCards(
 }
 
 export function CorpusBrowser({ cards }: { cards: Card[] }) {
+  const [category, setCategory] = useState<Category | "all">("all");
   const [platform, setPlatform] = useState<Platform | "all">("all");
   const [pattern, setPattern] = useState<string | "all">("all");
   const [sortKey, setSortKey] = useState<SortKey>("views");
@@ -111,6 +112,12 @@ export function CorpusBrowser({ cards }: { cards: Card[] }) {
   const platformCounts = useMemo(() => {
     const map = new Map<string, number>();
     for (const c of cards) map.set(c.platform, (map.get(c.platform) ?? 0) + 1);
+    return map;
+  }, [cards]);
+
+  const categoryCounts = useMemo(() => {
+    const map = new Map<string, number>();
+    for (const c of cards) map.set(c.category, (map.get(c.category) ?? 0) + 1);
     return map;
   }, [cards]);
 
@@ -138,6 +145,7 @@ export function CorpusBrowser({ cards }: { cards: Card[] }) {
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
     const list = cards.filter((c) => {
+      if (category !== "all" && c.category !== category) return false;
       if (platform !== "all" && c.platform !== platform) return false;
       if (pattern !== "all" && !c.pattern_tags.includes(pattern)) return false;
       if (q) {
@@ -147,7 +155,7 @@ export function CorpusBrowser({ cards }: { cards: Card[] }) {
       return true;
     });
     return [...list].sort((a, b) => compareCards(a, b, sortKey, sortDir));
-  }, [cards, platform, pattern, sortKey, sortDir, query]);
+  }, [cards, category, platform, pattern, sortKey, sortDir, query]);
 
   const isEmpty = cards.length === 0;
 
@@ -221,6 +229,31 @@ export function CorpusBrowser({ cards }: { cards: Card[] }) {
 
         <div>
           <p className="mb-2 font-mono text-[10px] font-medium uppercase tracking-[0.14em] text-faint">
+            Category
+          </p>
+          <div className="flex flex-wrap gap-1.5">
+            <FilterChip
+              active={category === "all"}
+              onClick={() => setCategory("all")}
+              label={`All (${cards.length})`}
+            />
+            {CATEGORIES.map((cat) => {
+              const n = categoryCounts.get(cat) ?? 0;
+              return (
+                <FilterChip
+                  key={cat}
+                  active={category === cat}
+                  onClick={() => setCategory(cat)}
+                  label={`${categoryLabel(cat)}${n ? ` (${n})` : ""}`}
+                  muted={n === 0}
+                />
+              );
+            })}
+          </div>
+        </div>
+
+        <div>
+          <p className="mb-2 font-mono text-[10px] font-medium uppercase tracking-[0.14em] text-faint">
             Platform
           </p>
           <div className="flex flex-wrap gap-1.5">
@@ -291,7 +324,7 @@ export function CorpusBrowser({ cards }: { cards: Card[] }) {
         <div className="border border-hairline bg-ghost px-4 py-14 text-center">
           <p className="font-display text-xl text-ink">No matches</p>
           <p className="mt-2 text-sm text-studio">
-            Clear search or loosen platform / pattern filters.
+            Clear search or loosen category / platform / pattern filters.
           </p>
         </div>
       ) : (

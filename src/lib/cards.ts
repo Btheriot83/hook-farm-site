@@ -118,9 +118,18 @@ function parseJsonCard(filePath: string): Card | null {
   return normalizeCard(raw);
 }
 
+/** Build-time / request memo so SSG does not re-parse every card file per page. */
+let cachedCards: Card[] | null = null;
+let cachedById: Map<string, Card> | null = null;
+
 /** Load all live cards from content/cards (skips *.disabled and non card files). */
 export function getAllCards(): Card[] {
-  if (!fs.existsSync(CARDS_DIR)) return [];
+  if (cachedCards) return cachedCards;
+  if (!fs.existsSync(CARDS_DIR)) {
+    cachedCards = [];
+    cachedById = new Map();
+    return cachedCards;
+  }
 
   const files = fs
     .readdirSync(CARDS_DIR)
@@ -144,15 +153,20 @@ export function getAllCards(): Card[] {
     }
   }
 
-  return cards.sort((a, b) => {
+  cards.sort((a, b) => {
     const da = a.collected_at || a.post_date || "";
     const db = b.collected_at || b.post_date || "";
     return db.localeCompare(da);
   });
+
+  cachedCards = cards;
+  cachedById = new Map(cards.map((c) => [c.id, c]));
+  return cachedCards;
 }
 
 export function getCardById(id: string): Card | undefined {
-  return getAllCards().find((c) => c.id === id);
+  getAllCards();
+  return cachedById?.get(id);
 }
 
 export function getAllPatternTagsFromCards(): string[] {

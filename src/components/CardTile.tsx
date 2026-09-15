@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import type { Card } from "@/lib/types";
+import { categoryLabel } from "@/lib/types";
 import { formatCount, formatEngagementRate } from "@/lib/format";
 import { patternLabel } from "@/lib/patterns";
 import { cardThumbSrc } from "@/lib/thumbs";
@@ -61,7 +62,10 @@ export function CardTile({
         }
       >
         <div className="flex items-start justify-between gap-2">
-          <span className="mark-platform">{card.platform}</span>
+          <div className="flex flex-wrap items-center gap-1.5">
+            <span className="mark-platform">{card.platform}</span>
+            <span className="mark-platform">{categoryLabel(card.category)}</span>
+          </div>
           <span className="font-mono text-[10px] uppercase tracking-wider text-faint">
             {card.format}
           </span>

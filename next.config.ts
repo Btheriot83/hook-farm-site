@@ -1,6 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  // Card SSG: each page loads corpus; memoized loader + longer budget
+  staticPageGenerationTimeout: 180,
   images: {
     remotePatterns: [
       { protocol: "https", hostname: "i.ytimg.com" },

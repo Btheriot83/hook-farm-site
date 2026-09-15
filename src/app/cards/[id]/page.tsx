@@ -19,6 +19,7 @@ import {
 } from "@/lib/patterns";
 import { cardThumbSrc } from "@/lib/thumbs";
 import { CardTile } from "@/components/CardTile";
+import { categoryLabel } from "@/lib/types";
 
 type PageProps = {
   params: Promise<{ id: string }>;
@@ -84,6 +85,7 @@ export default async function CardDetailPage({ params }: PageProps) {
       <header className="space-y-3 border-b border-hairline pb-7">
         <div className="flex flex-wrap items-center gap-2">
           <span className="mark-platform">{card.platform}</span>
+          <span className="mark-platform">{categoryLabel(card.category)}</span>
           <span className="font-mono text-[10px] uppercase tracking-[0.14em] text-faint">
             {card.format}
           </span>
@@ -237,9 +239,9 @@ export default async function CardDetailPage({ params }: PageProps) {
           </dd>
         </div>
         <div>
-          <dt className="text-faint">Platform · format</dt>
+          <dt className="text-faint">Category · platform · format</dt>
           <dd className="mt-1 normal-case tracking-normal text-studio">
-            {card.platform} · {card.format}
+            {categoryLabel(card.category)} · {card.platform} · {card.format}
           </dd>
         </div>
         <div>

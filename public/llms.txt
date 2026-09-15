@@ -1,0 +1,49 @@
+# Hook Farm
+
+> Read-only viral packaging corpus for studying hooks, titles, and pattern craft. Collect only — never like, comment, follow, or post.
+
+Base URL: https://hook-farm-site.vercel.app
+Repo: https://github.com/Btheriot83/hook-farm-site
+
+## For agents (prefer these over HTML scraping)
+
+- Index: https://hook-farm-site.vercel.app/data/index.json
+- All cards: https://hook-farm-site.vercel.app/data/cards.json
+- Optional alias: https://hook-farm-site.vercel.app/api/cards → 308 to /data/cards.json
+- Agent guide: https://raw.githubusercontent.com/Btheriot83/hook-farm-site/main/content/AGENTS.md
+- Schema: https://raw.githubusercontent.com/Btheriot83/hook-farm-site/main/content/SCHEMA.md
+- This file: https://hook-farm-site.vercel.app/llms.txt
+
+## Categories
+
+| category | Use for |
+|----------|---------|
+| ai | ChatGPT, Claude, Cursor, agents, tools, prompts |
+| true_crime | True crime / dark storytelling (prefer faceless) |
+| diesel | Mobile diesel repair, semi/heavy truck, fleet roadside |
+| rideshare | Uber, Lyft, gig driving packaging |
+
+## Card JSON fields
+
+id, category, platform, url, title, creator_handle, hook_onscreen, hook_spoken, niche_tags, pattern_tags, views, likes, comments, saves, format, post_date, thumb, transcript_30s
+
+## How to use (short)
+
+1. Fetch /data/index.json for totals + byCategory / byPlatform
+2. Fetch /data/cards.json and filter by category, niche_tags, pattern_tags
+3. Prefer high views relative to format; skip notes containing "weak"
+4. Pattern tags are niche-agnostic packaging craft for transfer learning
+
+## Key human routes
+
+- / · /patterns · /stats · /agents · /about · /cards/{id}
+
+## Counts (build-time)
+
+- total: 587
+- byCategory: ai=377, true_crime=116, diesel=71, rideshare=23
+- lastUpdated: 2026-09-15T17:24:31.826Z
+
+## Disclaimer
+
+Independent read-only corpus. Public sources only. No endorsement.

@@ -2,6 +2,7 @@ import Link from "next/link";
 import type { CorpusStats } from "@/lib/cards";
 import { formatCount } from "@/lib/format";
 import { patternLabel } from "@/lib/patterns";
+import { categoryLabel } from "@/lib/types";
 
 /** Compact ledger strip — keeps thumbs above the fold. */
 export function StatsStrip({ stats }: { stats: CorpusStats }) {
@@ -24,6 +25,21 @@ export function StatsStrip({ stats }: { stats: CorpusStats }) {
         <span className="hidden h-3 w-px bg-hairline sm:block" aria-hidden />
 
         <ul className="flex flex-wrap items-center gap-x-3 gap-y-1">
+          {stats.byCategory
+            .filter((c) => c.count > 0)
+            .map((c) => (
+              <li key={c.category} className="flex items-center gap-1.5">
+                <span className="mark-platform !px-1 !py-0">
+                  {categoryLabel(c.category)}
+                </span>
+                <span className="metric-xl text-sm">{c.count}</span>
+              </li>
+            ))}
+        </ul>
+
+        <span className="hidden h-3 w-px bg-hairline sm:block" aria-hidden />
+
+        <ul className="hidden flex-wrap items-center gap-x-3 gap-y-1 sm:flex">
           {stats.byPlatform.map((p) => (
             <li key={p.platform} className="flex items-center gap-1.5">
               <span className="mark-platform !px-1 !py-0">{p.platform}</span>
