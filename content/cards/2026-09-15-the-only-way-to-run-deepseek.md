@@ -1,0 +1,26 @@
+---
+id: 2026-09-15-the-only-way-to-run-deepseek
+collected_at: 2026-09-15T09:22:12-07:00
+platform: youtube
+url: https://www.youtube.com/watch?v=7TR-FLWNVHY
+creator_handle: "@NetworkChuck"
+title: "the ONLY way to run Deepseek..."
+hook_onscreen: ""
+hook_spoken: "is it actually safe to run AI models is it actually safe to run AI models like deep seek R1 locally on your like deep seek R1 locally on your like deep seek R1 locally on your comp"
+thumbnail_path: thumbs/2026-09-15-the-only-way-to-run-deepseek.jpg
+thumbnail_url: "https://i.ytimg.com/vi_webp/7TR-FLWNVHY/maxresdefault.webp"
+transcript_path: transcripts/2026-09-15-the-only-way-to-run-deepseek.txt
+views: 1238167
+likes: 41692
+comments: 2800
+saves: null
+post_date: "2025-01-31"
+niche_tags: [deepseek, how-to]
+pattern_tags: [curiosity_gap]
+format: long
+notes: "batch harvest ytsearch"
+---
+
+## Transcript (~30s)
+
+is it actually safe to run AI models is it actually safe to run AI models like deep seek R1 locally on your like deep seek R1 locally on your like deep seek R1 locally on your computer which is a thing you can do computer which is a thing you can do computer which is a thing you can do I'll show you how it's pretty easy and I'll show you how it's pretty easy and I'll show you how it's pretty easy and it's supposed to be safer but is it it's supposed to be safer but is it it's supposed to be safer but is it actually how do we know it's not actually how do we know it's not actually how do we know it's not accessing the internet am I giving it accessing the internet am I giving it accessing the internet am I giving it access to my files Let's test that out access to my files Let's test that out access to my files Let's test that out and we're going to explore ways how we and we're going to explore ways how we and we're going to explore ways how we can make running an AI model locally as can make running an AI model locally as can make running an AI model locally as safe as possible get your coffee ready safe as possible get your coffee ready safe as possible get your coffee ready let's go now first of all you don't need let's go now first of all you don't need let's go now first of all you don't need to run models like deep seek R1 locally to run models like deep seek R1 locally to run models like deep seek R1 locally like right now it's the number one app like right now it's the number one app like right now it's the number one app on the App Store it has officially taken on the App Store it has officially taken on the App Store it has officially taken Chat gpt's Place which is insane and you Chat gpt's Place which is insane and you Chat gpt's Place which is insane and you can access it for free right here in can access it for free right here in can access it for free right here in your browser go ahead try it right now your browser go ahead try it right now your browser go ahead try it right now no don't do it I'll get into why here in no don't do it I'll get into why here in no don't do it I'll get into why here in a second and why you need to run stuff

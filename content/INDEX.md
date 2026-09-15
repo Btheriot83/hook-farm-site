@@ -31,6 +31,8 @@ De-dupe key: `url`. Cards live in `cards/`. Thumbnails in `thumbs/`. Transcripts
 | 2026-09-14-yes-ai-will-take-your-job-but-what-happens-next-is | youtube | Yes, AI Will Take Your Job. But What Happens NEXT Is Worse | replaced_job, negative, curiosity_gap, authority | https://www.youtube.com/watch?v=R6mTUK_yPKw |
 | 2026-09-14-youre-not-behind-yet-how-to-learn-ai-in-29-minutes | youtube | You’re Not Behind (Yet): How to Learn AI in 29 Minutes | negative, how_to_promise, curiosity_gap | https://www.youtube.com/watch?v=9c7zh2MkslY |
 | 2026-09-15-1-abra-o-gemini-2-anexe-sua-foto-3-copie-e-co | tiktok | 1️⃣ Abra o Gemini 2️⃣Anexe sua foto  3️⃣Copie e cole o prompt | number, how_to_promise, demo_first | https://www.tiktok.com/@cristianprompts/video/7684348696909139220 |
+| 2026-09-15-1-abra-o-gemini-2-anexe-sua-foto-3-copie-e-cole-2 | tiktok | 1\ufe0f\u20e3 Abra o Gemini 2\ufe0f\u20e3Anexe sua foto  3\ufe0f\u20e3Copie e cole o prompt  #vaipr... | curiosity_gap | https://www.tiktok.com/@cristianprompts/video/7685221942726511892 |
+| 2026-09-15-1-abra-o-gemini-2-anexe-sua-foto-3-copie-e-cole | tiktok | 1\ufe0f\u20e3 Abra o Gemini 2\ufe0f\u20e3Anexe sua foto  3\ufe0f\u20e3Copie e cole o prompt  #vaipr... | curiosity_gap | https://www.tiktok.com/@cristianprompts/video/7685232473436851476 |
 | 2026-09-15-10-chatgpt-life-hacks-that-ll-change-your-life | youtube | 10 ChatGPT Life Hacks - THAT\u2019LL CHANGE YOUR LIFE !! | curiosity_gap | https://www.youtube.com/watch?v=-fopYsgFdzc |
 | 2026-09-15-11-make-com-automations-you-need-to-start-using | youtube | 11 Make.com Automations You NEED To Start Using Every Day (steal these) | curiosity_gap | https://www.youtube.com/watch?v=dIH1F1WlE84 |
 | 2026-09-15-11-real-jobs-the-new-chatgpt-work-can-do-for-you | youtube | 11 Real Jobs The New ChatGPT Work Can Do For You | tool_reveal | https://www.youtube.com/watch?v=MrJI7MG_4kg |
@@ -65,6 +67,7 @@ De-dupe key: `url`. Cards live in `cards/`. Thumbnails in `thumbs/`. Transcripts
 | 2026-09-15-9-chatgpt-hacks-that-will-help-you-become-a-pro | youtube | 9 ChatGPT Hacks That Will Help You Become a PRO! (BONUS Apple Hack) | curiosity_gap | https://www.youtube.com/watch?v=u1NMxMqoqtY |
 | 2026-09-15-9-insane-chatgpt-5-use-cases-guaranteed-to-grow | youtube | 9 INSANE ChatGPT-5 Use Cases Guaranteed to Grow Your Business | curiosity_gap | https://www.youtube.com/watch?v=JWqhOaXOdpk |
 | 2026-09-15-a-computer-for-every-agent | youtube | A computer for every agent | curiosity_gap | https://www.youtube.com/watch?v=6Nru5OQq9O4 |
+| 2026-09-15-a-new-ai-music-king-is-here-and-it-s-totally-fre | youtube | A New AI Music King is Here and it's Totally FREE & Unlimited! | tool_reveal | https://www.youtube.com/watch?v=uBmLqOTs2jo |
 | 2026-09-15-a-technical-dive-inside-our-new-midjourney-scanne | x | A technical dive inside our new \"Midjourney Scanner\ | tool_reveal | https://x.com/midjourney/status/2067422898407837797 |
 | 2026-09-15-a2a-vs-mcp-ai-agent-communication-explained | youtube | A2A vs MCP: AI Agent Communication Explained | curiosity_gap | https://www.youtube.com/watch?v=BMDFPOyezH4 |
 | 2026-09-15-after-working-for-the-past-few-moths-with-key-part | x | After working for the past few moths with key partners like @NotionHQ, @Quora, and @DuckDuckGo, we’ve been able to carefully test out our systems in the wild. W | curiosity_gap | https://x.com/AnthropicAI/status/1635679544521920512 |
@@ -76,6 +79,7 @@ De-dupe key: `url`. Cards live in `cards/`. Thumbnails in `thumbs/`. Transcripts
 | 2026-09-15-ai-agents-fundamentals-in-21-minutes | youtube | AI Agents Fundamentals In 21 Minutes | number | https://www.youtube.com/watch?v=qU3fmidNbJE |
 | 2026-09-15-ai-social-media-automation-how-to-post-daily-con | youtube | AI Social Media Automation: How to Post Daily Content 100% on Autopilot! | number, how_to_promise | https://www.youtube.com/watch?v=4ZI_fL4cw_c |
 | 2026-09-15-ai-took-my-job-as-a-translator-i-m-starting-over | youtube | AI took my job as a translator. I'm starting over at 39 | curiosity_gap, authority | https://www.youtube.com/watch?v=OovTIngZtCY |
+| 2026-09-15-ai-videos-in-2025-are-getting-crazy-google-veo-3 | youtube | AI Videos in 2025 Are Getting Crazy! Google Veo 3 TUTORIAL! | how_to_promise | https://www.youtube.com/watch?v=c7R94ykz0po |
 | 2026-09-15-ai-was-supposed-to-take-your-job-why-hasn-t-it | youtube | AI Was Supposed To Take Your Job. Why Hasn't It? | replaced_job | https://www.youtube.com/watch?v=zRv5kW5mAxM |
 | 2026-09-15-although-still-pretty-inefficient-having-tested-t | x | Although still pretty inefficient, having tested the new Opus (currently in stealth in Claude Code for most subs) it's a biiig step up over Opus 5. | number | https://x.com/synthwavedd/status/2099660224059637876 |
 | 2026-09-15-ammaar-490519 | x |  | curiosity_gap | https://x.com/ammaar/status/1828129847014490519 |
@@ -130,6 +134,7 @@ De-dupe key: `url`. Cards live in `cards/`. Thumbnails in `thumbs/`. Transcripts
 | 2026-09-15-claude-code-vs-codex-vs-cursor-an-honest-compari | youtube | Claude Code vs Codex vs Cursor (an honest comparison) | curiosity_gap | https://www.youtube.com/watch?v=JMYspR42HFM |
 | 2026-09-15-claude-users-have-turned-tibo-into-an-opus-5-2-de | x | 🚨Claude users have turned Tibo into an Opus 5.2 detector | number, curiosity_gap | https://x.com/AbdoKerdawy/status/2099596082724397223 |
 | 2026-09-15-click-the-link-in-my-bio-to-join-my-ai-community-a | tiktok | Click the link in my bio to join my AI Community and build all 5 of these valuable AI projects and much more! | number, how_to_promise, list | https://www.tiktok.com/@taki.gpt/video/7676294305526369553 |
+| 2026-09-15-comfyui-course-learn-comfyui-from-scratch-full-5 | youtube | ComfyUI Course - Learn ComfyUI From Scratch | Full 5 Hour Course (Ep01) | how_to_promise | https://www.youtube.com/watch?v=HkoRkNLWQzY |
 | 2026-09-15-comment-1k-and-follow-me-to-get-the-full-money-m | tiktok | Comment \"1K\" and follow me to get the full money-making prompts. | number, how_to_promise, curiosity_gap, authority | https://www.tiktok.com/@sabrina_ramonov/video/7629773900364270861 |
 | 2026-09-15-comment-agent-and-i-will-send-the-resource-links | tiktok | comment ‘agent’ and i will send the resource links to you! they are also up at the link in my bio! #aiagent #agenticai #learnai #softwareengineer #coding  | curiosity_gap, how_to_promise | https://www.tiktok.com/@eggintech/video/7623937297729260814 |
 | 2026-09-15-comment-edit-and-i-ll-send-you-the-full-setup-gu | tiktok | Comment \"Edit\" and I'll send you the full setup guide 👇 | number, how_to_promise | https://www.tiktok.com/@maverickgpt/video/7685382533684546847 |
@@ -161,12 +166,15 @@ De-dupe key: `url`. Cards live in `cards/`. Thumbnails in `thumbs/`. Transcripts
 | 2026-09-15-edge-of-yesterday | tiktok | Edge of yesterday • • • | curiosity_gap | https://www.tiktok.com/@other_realm/video/7683379711417879822 |
 | 2026-09-15-esta-inteligencia-artificial-genera-im-genes-reali | tiktok | Esta inteligencia artificial genera imágenes realistas gratis y sin límites, mucho mejor que Nano banana  | list | https://www.tiktok.com/@javirec_/video/7570694814501457174 |
 | 2026-09-15-every-chatgpt-feature-in-37-minutes | youtube | Every ChatGPT Feature In 37 Minutes | number | https://www.youtube.com/watch?v=jS8g9cnfvTs |
+| 2026-09-15-every-grok-bot-concept-explained-for-normal-peop | youtube | Every Grok Bot Concept Explained for Normal People | curiosity_gap | https://www.youtube.com/watch?v=NyfYxpXiw_0 |
+| 2026-09-15-explaining-prompting-techniques-in-12-minutes-st | youtube | Explaining Prompting Techniques In 12 Minutes \u2013 Stable Diffusion Tutorial (Automatic1111) | number, how_to_promise | https://www.youtube.com/watch?v=dlUpSEbbCho |
 | 2026-09-15-five-things-you-need-to-do-when-you-start-using | tiktok | 🚀 Five things you need to do when you start using Claude. Doing these three things will make you a top 1% Claude immediately. Comment “Claude” for my full Claud | number, secret, how_to_promise, authority | https://www.tiktok.com/@taki.gpt/video/7627875864797056273 |
 | 2026-09-15-follow-and-comment-list-and-i-ll-send-you-hundre | tiktok | Follow and comment “List” and I’ll send you hundreds more 👇 5 secret codes that make ChatGPT 10x better. Just paste these before any prompt: /human — Makes your | number, secret, authority, before_after, demo_first | https://www.tiktok.com/@maverickgpt/video/7668104714155740447 |
 | 2026-09-15-follow-and-comment-pfp-for-the-prompt | instagram | Follow and Comment “PFP” for the prompt | demo_first | https://www.instagram.com/reel/DdGdWRXNg6D/ |
 | 2026-09-15-follow-and-comment-pfp-to-get-prompt-in-your-inb | instagram | Follow and comment \"Pfp\" to get Prompt in your inbox..🖤🔥 | number, demo_first | https://www.instagram.com/reel/DZ-Z2-_vbnu/ |
 | 2026-09-15-follow-me-and-comment-classy | instagram | Follow me and comment \"Classy\ | demo_first | https://www.instagram.com/reel/DVXbxyuCH-b/ |
 | 2026-09-15-for-prompt | instagram | For prompt ⬇️  | demo_first | https://www.instagram.com/reel/DSjfzasEq7P/ |
+| 2026-09-15-free-veo-3-ai-video-generator-how-to-use-it-worl | youtube | FREE Veo 3 AI Video Generator : How to Use It WORLDWIDE | how_to_promise | https://www.youtube.com/watch?v=UC_Cw9xqIuE |
 | 2026-09-15-from-zero-to-your-first-ai-agent-in-25-minutes-n | youtube | From Zero to Your First AI Agent in 25 Minutes (No Coding) | number, before_after | https://www.youtube.com/watch?v=EH5jx5qPabU |
 | 2026-09-15-full-claude-code-tutorial-for-beginners-in-2026 | youtube | FULL Claude Code Tutorial for Beginners in 2026! (Step-By-Step) | how_to_promise | https://www.youtube.com/watch?v=qYqIhX9hTQk |
 | 2026-09-15-full-claude-course-for-beginners-in-2026-become | youtube | FULL Claude Course for Beginners in 2026! (Become a PRO!) | curiosity_gap | https://www.youtube.com/watch?v=Fys4oHlXQmQ |
@@ -182,12 +190,15 @@ De-dupe key: `url`. Cards live in `cards/`. Thumbnails in `thumbs/`. Transcripts
 | 2026-09-15-get-started-with-chatgpt-work | youtube | Get started with ChatGPT Work | curiosity_gap | https://www.youtube.com/watch?v=GphgJjaKKhw |
 | 2026-09-15-get-the-chatgpt-paid-plan-for-free-if-you-are-a-st | tiktok | Get the chatgpt paid plan for free if you are a student and how to use it properly to be more productive #students #chatgpt  | how_to_promise | https://www.tiktok.com/@k.buildsapps/video/7685487976964492557 |
 | 2026-09-15-getting-started-with-claude-ai | youtube | Getting started with Claude.ai | curiosity_gap | https://www.youtube.com/watch?v=0vZ_UVLhSQQ |
+| 2026-09-15-getting-started-with-dream-machine-by-luma-ai | youtube | Getting Started With Dream Machine by Luma AI | curiosity_gap | https://www.youtube.com/watch?v=CenxCa29Yh8 |
 | 2026-09-15-getting-started-with-projects-in-claude-ai | youtube | Getting started with projects in Claude.ai | curiosity_gap | https://www.youtube.com/watch?v=GJ5jTgcbRHA |
 | 2026-09-15-give-me-26-minutes-i-ll-give-you-10-000-hours-of | youtube | \u2060Give Me 26 minutes, I'll Give You 10,000 hours of Claude Knowledge | number, authority | https://www.youtube.com/watch?v=wtDDjBOfTZo |
 | 2026-09-15-give-me-28-minutes-i-ll-give-you-10-000-hours-of | youtube | Give Me 28 Minutes, I\u2019ll Give You 10,000 Hours of ChatGPT Knowledge | number, authority | https://www.youtube.com/watch?v=w-lkP9XcZfg |
 | 2026-09-15-good-luck-everyone-claude-ai-incomingfreshman | tiktok | Good luck everyone #claude #ai #incomingfreshman #collegeadvice #college  | curiosity_gap, how_to_promise | https://www.tiktok.com/@andreas.univ/video/7683548358845140254 |
 | 2026-09-15-good-news-for-anthropicai-devs | x | Good news for @AnthropicAI devs: | number, tool_reveal | https://x.com/alexalbert__/status/1812921642143900036 |
 | 2026-09-15-googl-opens-anthropic-s-claude-to-engineers-compa | x | $GOOGL OPENS ANTHROPIC’S CLAUDE TO ENGINEERS COMPANY-WIDE | authority | https://x.com/wallstengine/status/2099630451912802331 |
+| 2026-09-15-google-notebook-lm-tutorial-become-a-power-user | youtube | Google Notebook LM Tutorial - [Become A Power User in 15 min] | how_to_promise | https://www.youtube.com/watch?v=UG0DP6nVnrc |
+| 2026-09-15-google-veo-3-tutorial-make-cinematic-ai-videos-w | youtube | Google Veo 3 Tutorial: Make Cinematic AI Videos with Just a Prompt | how_to_promise | https://www.youtube.com/watch?v=IjF5Uun2jrM |
 | 2026-09-15-gpt-6-astra-chatgpt-work-changes-everything | youtube | GPT-6 Astra + ChatGPT Work Changes Everything | curiosity_gap | https://www.youtube.com/watch?v=sQwp9GrkGi4 |
 | 2026-09-15-gpt-6-pro-limits-are-totally-separate-from-your-co | x | GPT-6 Pro limits are totally separate from your Codex limits | number, secret | https://x.com/DavidOndrej1/status/2099594885783277815 |
 | 2026-09-15-have-an-idea-but-need-help-getting-started-use-te | tiktok | Have an idea but need help getting started? Use templates for popular image formats like posters or merch, then add your message, design elements, or style to m | curiosity_gap | https://www.tiktok.com/@chatgpt/video/7685630500236578078 |
@@ -209,14 +220,18 @@ De-dupe key: `url`. Cards live in `cards/`. Thumbnails in `thumbs/`. Transcripts
 | 2026-09-15-how-to-build-an-ai-agent-with-microsoft-365-copi | youtube | How to Build an AI Agent with Microsoft 365 Copilot (No Code Step-by-Step Guide) | how_to_promise | https://www.youtube.com/watch?v=Iz3ul6hSeTs |
 | 2026-09-15-how-to-build-sell-ai-agents-ultimate-beginner-s | youtube | How to Build & Sell AI Agents: Ultimate Beginner\u2019s Guide | how_to_promise | https://www.youtube.com/watch?v=w0H1-b044KY |
 | 2026-09-15-how-to-build-sell-ai-automations-ultimate-beginn | youtube | How to Build & Sell AI Automations: Ultimate Beginner\u2019s Guide | how_to_promise | https://www.youtube.com/watch?v=5TxSqvPbnWw |
+| 2026-09-15-how-to-create-amazing-full-animated-stories-usin | youtube | How to Create Amazing Full Animated Stories Using ChatGPT & Kling 2.1 (Step by Step Tutorial) | how_to_promise | https://www.youtube.com/watch?v=oBKBHaGkQk8 |
 | 2026-09-15-how-to-create-custom-gpt-openai-tutorial | youtube | How to Create Custom GPT | OpenAI Tutorial | how_to_promise | https://www.youtube.com/watch?v=0Q1AQAxpdGg |
 | 2026-09-15-how-to-create-custom-gpts-for-beginners | youtube | How To Create Custom GPTs For Beginners | how_to_promise | https://www.youtube.com/watch?v=ABVwhZWg1Uk |
 | 2026-09-15-how-to-do-the-look-alike-trend-how-to-do-the-look | tiktok | how to do the look alike trend. how to do the look alike trend chatgpt. soulmate theory look alike chat gpt. the theory that soulmates lookalike. how to do the  | how_to_promise, before_after | https://www.tiktok.com/@kudong49/video/7683137092377005334 |
 | 2026-09-15-how-to-go-from-chatgpt-beginner-to-pro-in-2026 | youtube | How to Go From ChatGPT Beginner to Pro in 2026 | before_after, how_to_promise | https://www.youtube.com/watch?v=DEYJCRkAZ2Q |
 | 2026-09-15-how-to-make-edit-images-with-chatgpt-for-beginne | youtube | How to Make & Edit Images with ChatGPT for Beginners | how_to_promise | https://www.youtube.com/watch?v=JKQCWSVqNYc |
+| 2026-09-15-how-to-make-long-ai-videos-with-consistent-chara | youtube | How to Make Long AI Videos with Consistent Characters (2026) | how_to_promise | https://www.youtube.com/watch?v=dOmKYJoRboE |
 | 2026-09-15-how-to-make-vibe-coding-not-suck | youtube | How to make vibe coding not suck\u2026 | how_to_promise | https://www.youtube.com/watch?v=PLKrSVuT-Dg |
 | 2026-09-15-how-to-manipulate-chatgpt | youtube | How to manipulate CHATGPT! | how_to_promise | https://www.youtube.com/watch?v=cZxkvVozBM4 |
+| 2026-09-15-how-to-master-notebooklm-in-2026-free-course | youtube | How To Master NotebookLM in 2026 (Free Course) | how_to_promise | https://www.youtube.com/watch?v=b2fGNHPlUGA |
 | 2026-09-15-how-to-turn-a-business-question-into-a-strategy | youtube | How to Turn a Business Question Into a Strategy Deck With ChatGPT Work | Tutorial | how_to_promise | https://www.youtube.com/watch?v=XjSJ6ybS9I8 |
+| 2026-09-15-how-to-use-ai-sound-effects-elevenlabs-sfx-v2-wa | youtube | How to Use AI Sound Effects \u2013 ElevenLabs SFX v2 Walkthrough | how_to_promise | https://www.youtube.com/watch?v=iyHypKlscV0 |
 | 2026-09-15-how-to-use-ai-to-make-money-save-time-and-be-mor | youtube | How to Use AI to Make Money, Save Time, and Be More Productive | how_to_promise | https://www.youtube.com/watch?v=64qXq8AG_9M |
 | 2026-09-15-how-to-use-chatgpt-5-5-better-than-99-of-people | youtube | How to Use ChatGPT 5.5 Better Than 99% of People | number, how_to_promise | https://www.youtube.com/watch?v=lQQu5_uE5uU |
 | 2026-09-15-how-to-use-chatgpt-by-openai-for-beginners | youtube | How To Use ChatGPT by OpenAI For Beginners | how_to_promise | https://www.youtube.com/watch?v=AXn2XVLf7d0 |
@@ -225,14 +240,21 @@ De-dupe key: `url`. Cards live in `cards/`. Thumbnails in `thumbs/`. Transcripts
 | 2026-09-15-how-to-use-chatgpt | youtube | How to Use ChatGPT | how_to_promise | https://www.youtube.com/watch?v=PDw3Uk9dN9k |
 | 2026-09-15-how-to-use-claude-better-than-99-of-people | youtube | How To Use Claude Better Than 99% Of People | number, how_to_promise | https://www.youtube.com/watch?v=28TGfTZweqw |
 | 2026-09-15-how-to-use-claude-projects-full-tutorial | youtube | How to Use Claude Projects (Full Tutorial) | how_to_promise | https://www.youtube.com/watch?v=w7_yWjYyxjE |
+| 2026-09-15-how-to-use-comfyui-for-beginners | youtube | How to use ComfyUI for beginners. | how_to_promise | https://www.youtube.com/watch?v=23VkGD-4uwk |
+| 2026-09-15-how-to-use-comfyui-step-by-step-tutorial | youtube | How to Use ComfyUI (Step-by-Step Tutorial) | how_to_promise | https://www.youtube.com/watch?v=hl7kwMwkLJU |
 | 2026-09-15-how-to-use-cursor-ai-for-beginners | youtube | How To Use Cursor AI For Beginners | how_to_promise | https://www.youtube.com/watch?v=Rgz6mX93C4Y |
 | 2026-09-15-how-to-use-cursor-ai-full-tutorial-for-beginners | youtube | How To Use Cursor AI (Full Tutorial For Beginners 2025) | how_to_promise | https://www.youtube.com/watch?v=cE84Q5IRR6U |
+| 2026-09-15-how-to-use-midjourney-for-beginners-in-2026 | youtube | How to Use Midjourney for Beginners in 2026 | how_to_promise | https://www.youtube.com/watch?v=xoZG5WQbgMw |
 | 2026-09-15-how-to-use-new-chatgpt-work-in-12-minutes | youtube | How to Use New ChatGPT Work in 12 Minutes | number, how_to_promise, tool_reveal | https://www.youtube.com/watch?v=MpVX4fMXv0A |
+| 2026-09-15-how-to-use-perplexity-ai-for-beginners | youtube | How To Use Perplexity AI For Beginners | how_to_promise | https://www.youtube.com/watch?v=qpN-pjev-vM |
+| 2026-09-15-how-to-use-pika-labs-image-to-video-generator-la | youtube | How to use Pika Labs - Image to Video Generator  (Latest Features 2024) | how_to_promise | https://www.youtube.com/watch?v=MZh2RhG4tkM |
+| 2026-09-15-how-to-use-suno-ai-tutorial-free-ai-music-genera | youtube | How to Use Suno AI Tutorial (FREE AI Music Generator) | how_to_promise | https://www.youtube.com/watch?v=BVR4rb5aDGE |
 | 2026-09-15-http-photoai-com-is-now-almost-14-000-lines-of-r | x | http://PhotoAI.com is now almost 14,000 lines of raw PHP mixed with inline HTML, CSS in <style> and raw JS in <script> tags | number | https://x.com/levelsio/status/1675829733668319233 |
 | 2026-09-15-i-asked-chatgpt-to-make-me-10-000-as-fast-as-pos | youtube | I Asked ChatGPT to Make Me $10,000 as Fast as Possible | authority | https://www.youtube.com/watch?v=qSg0OQwyYoY |
 | 2026-09-15-i-asked-chatgpt-to-make-me-as-much-money-as-poss | youtube | I Asked ChatGPT To Make Me As Much Money As Possible | curiosity_gap, authority | https://www.youtube.com/watch?v=nY234RoQeHw |
 | 2026-09-15-i-blew-up-a-youtube-channel-in-7-days-with-ai | youtube | I BLEW UP a YouTube Channel in 7 Days with AI | curiosity_gap, authority | https://www.youtube.com/watch?v=1r0eyM7suUg |
 | 2026-09-15-i-consider-this-a-smoking-gun-for-midjourney-s-fla | x | I consider this a smoking gun for Midjourney's flagrant copyright infringement. A 6-word prompt can replicate a Dune still nearly 1:1 every time. These aren't v | number | https://x.com/Rahll/status/1739003201221718466 |
+| 2026-09-15-i-found-a-secret-ai-music-generator-100-free-and | youtube | I Found a Secret AI MUSIC Generator - 100% FREE and Unlimited (With Commercial usage rights) | number, negative, secret, authority | https://www.youtube.com/watch?v=k_TPO1v4tLQ |
 | 2026-09-15-i-got-claude-answering-inside-siri-on-macos-27 | x | I got Claude answering inside Siri on macOS 27 🚀 | number | https://x.com/marcelpociot/status/2099604010634207678 |
 | 2026-09-15-i-have-no-idea-what-is-happening-but-happy-sunday | tiktok | I have no idea what is happening but happy Sunday... | curiosity_gap | https://www.tiktok.com/@theoldcozy/video/7685009733593419030 |
 | 2026-09-15-i-just-found-the-ai-workflow-everyone-will-be-co | x | 🚨 I JUST FOUND THE AI WORKFLOW EVERYONE WILL BE COPYING IN SIX MONTHS | number, curiosity_gap | https://x.com/aaassa120/status/2099585833787371714 |
@@ -252,9 +274,15 @@ De-dupe key: `url`. Cards live in `cards/`. Thumbnails in `thumbs/`. Transcripts
 | 2026-09-15-introducing-cursor-https-cursor-so | x | Introducing Cursor!! (https://cursor.so) | tool_reveal | https://x.com/amanrsanger/status/1615539968772050946 |
 | 2026-09-15-introducing-deepseek-v4-1-flash-smarter-faster | x | 🚀 Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient. | number, tool_reveal | https://x.com/deepseek_ai/status/2097930608790167907 |
 | 2026-09-15-introducing-dream-machine-a-next-generation-vide | x | Introducing Dream Machine - a next generation video model for creating high quality, realistic shots from text instructions and images using AI. It’s available  | how_to_promise, tool_reveal | https://x.com/LumaLabsAI/status/1800921380034379951 |
+| 2026-09-15-introducing-elevenlabs-conversational-agents | youtube | Introducing ElevenLabs Conversational Agents | tool_reveal | https://www.youtube.com/watch?v=v-EYzZCLF48 |
+| 2026-09-15-introducing-elevenlabs-conversational-ai-2-0 | youtube | Introducing ElevenLabs Conversational AI 2.0 | tool_reveal | https://www.youtube.com/watch?v=TlclS4wLWgY |
+| 2026-09-15-introducing-grok-bot | youtube | Introducing Grok Bot | tool_reveal | https://www.youtube.com/watch?v=F1_0Lkp16Rc |
+| 2026-09-15-introducing-luma-dream-machine-next-generation-a | youtube | Introducing Luma Dream Machine - Next Generation AI Video | tool_reveal | https://www.youtube.com/watch?v=Zb3tffmBPRE |
 | 2026-09-15-introducing-plan-mode | youtube | Introducing Plan Mode | tool_reveal | https://www.youtube.com/watch?v=WInPBmCK3l4 |
+| 2026-09-15-introducing-studio-3-0-the-best-ai-audio-models | youtube | Introducing Studio 3.0 \u2014 The Best AI Audio Models in One Editor | tool_reveal | https://www.youtube.com/watch?v=ZZSROGCVg9M |
 | 2026-09-15-introducing-the-kling-3-0-model-everyone-a-dire | x | 🚀 Introducing the Kling 3.0 Model: Everyone a Director. It’s Time.  | number, tool_reveal, curiosity_gap | https://x.com/Kling_ai/status/2019064918960668819 |
 | 2026-09-15-just-1-prompt | instagram | JUST 1 PROMPT | number, demo_first | https://www.instagram.com/reel/DU30GCMk3tk/ |
+| 2026-09-15-kling-o1-tutorial-13-features-tips-for-ai-video | youtube | Kling O1 Tutorial: 13 Features & Tips for AI Video | how_to_promise | https://www.youtube.com/watch?v=Em6pM_MPNmc |
 | 2026-09-15-kratos-you-are-in-the-wrong-world-bro-or-maybe-n | tiktok | Kratos, you are in the wrong world bro. Or maybe not? What if I call you \"Ghost of fantasy\"... | curiosity_gap, negative | https://www.tiktok.com/@theoldcozy/video/7685380053596687638 |
 | 2026-09-15-langchain-vs-langgraph-a-tale-of-two-frameworks | youtube | LangChain vs LangGraph: A Tale of Two Frameworks | curiosity_gap | https://www.youtube.com/watch?v=qAF1NjEVHhY |
 | 2026-09-15-laziest-way-to-make-money-with-ai-starting-from | youtube | Laziest Way to Make Money with AI (Starting From Zero) | curiosity_gap | https://www.youtube.com/watch?v=uz_3dSU8rQo |
@@ -262,6 +290,8 @@ De-dupe key: `url`. Cards live in `cards/`. Thumbnails in `thumbs/`. Transcripts
 | 2026-09-15-laziest-ways-to-make-money-with-ai-for-beginners | youtube | Laziest Ways to Make Money with AI (For Beginners) | curiosity_gap | https://www.youtube.com/watch?v=ytAW1_g2IfI |
 | 2026-09-15-le-ped-a-chatgpt-que-imaginara-a-mi-hija-a-los-15 | tiktok | Le pedí a ChatGPT que imaginara a mi hija a los 15 años — y me mostró esto. 😳👧✨ ✨ Nadie está listo para ver a su bebé con 15 años… hasta ahora. Le pedí a ChatGP | number, list | https://www.tiktok.com/@celiass6/video/7685135222215560468 |
 | 2026-09-15-learn-80-of-claude-cowork-in-under-20-minutes | youtube | Learn 80% of Claude Cowork in Under 20 Minutes | number, how_to_promise | https://www.youtube.com/watch?v=z9rdrNrkvDY |
+| 2026-09-15-learn-80-of-notebooklm-in-under-13-minutes | youtube | Learn 80% of NotebookLM in Under 13 Minutes! | number, how_to_promise | https://www.youtube.com/watch?v=EOmgC3-hznM |
+| 2026-09-15-learn-80-of-perplexity-in-under-10-minutes | youtube | Learn 80% of Perplexity in under 10 minutes! | number, how_to_promise | https://www.youtube.com/watch?v=YoWdogtZRw8 |
 | 2026-09-15-learn-95-of-chatgpt-work-in-under-20-minutes | youtube | Learn 95% of ChatGPT Work in Under 20 Minutes | number, how_to_promise | https://www.youtube.com/watch?v=KmcTu2EigTs |
 | 2026-09-15-learn-zapier-in-7-minutes-business-personal-auto | youtube | Learn Zapier in 7 minutes: Business & Personal Automation Tutorial For Beginners (2025) | number, how_to_promise | https://www.youtube.com/watch?v=lD8Llq2heis |
 | 2026-09-15-live-wallpaper-tiger-passing-by | tiktok | Live Wallpaper | Tiger Passing By | curiosity_gap | https://www.tiktok.com/@wanderingpixels/video/7685400543082089750 |
@@ -269,6 +299,7 @@ De-dupe key: `url`. Cards live in `cards/`. Thumbnails in `thumbs/`. Transcripts
 | 2026-09-15-look-like-my-dad | tiktok | ‎ازاي اعمل تريند look like my dad كيف نعمله. كيفية عمل صور ترند التشابه العائلي. تعليمات لصور الوجوه المتشابهة عائليًا. شرح صور ترند chatgpt لعمل صورة وجه تشبه  | curiosity_gap | https://www.tiktok.com/@lakestory/video/7685644319692279061 |
 | 2026-09-15-make-com-automation-tutorial-for-beginners | youtube | Make.com Automation Tutorial for Beginners | how_to_promise | https://www.youtube.com/watch?v=JSA2oezQWOU |
 | 2026-09-15-master-80-of-n8n-in-36-minutes | youtube | Master 80% of n8n in 36 Minutes | number | https://www.youtube.com/watch?v=e3OV3LnrS7o |
+| 2026-09-15-master-ai-image-generation-comfyui-full-tutorial | youtube | Master AI image generation - ComfyUI FULL TUTORIAL | how_to_promise | https://www.youtube.com/watch?v=g74Cq9Ip2ik |
 | 2026-09-15-master-cursor-ai-in-13-minutes-you-ll-be-unstopp | youtube | Master Cursor AI In 13 Minutes (You'll Be Unstoppable) | number | https://www.youtube.com/watch?v=-SkWL0MK9Ec |
 | 2026-09-15-master-make-com-in-2-hours-complete-beginner-s-g | youtube | Master Make.com in 2 Hours: Complete Beginner\u2019s Guide for 2026 | number, how_to_promise | https://www.youtube.com/watch?v=MpmpC4C5fZs |
 | 2026-09-15-midjourney-8-2-is-out-and-it-still-cooks-i-ve-be | tiktok | MidJourney 8.2 is out. And it still cooks. I’ve been an MJ fanboy since Version 2 and with every version the team has brought something unique. 8.2 still has th | number, list | https://www.tiktok.com/@metamotion.ai/video/7666935169382698262 |
@@ -284,12 +315,15 @@ De-dupe key: `url`. Cards live in `cards/`. Thumbnails in `thumbs/`. Transcripts
 | 2026-09-15-ok-kudos-to-the-chatgpt-team-for-this-one-you-ca | x | ok kudos to the ChatGPT team for this one - you can now play snake while waiting for chatGPT to generate your image 🐍 | curiosity_gap, authority | https://x.com/francedot/status/2098249540268888546 |
 | 2026-09-15-only-1-of-users-use-http-photoai-io-s-prompt-fe | x | Only 1% of users use http://photoai.io's prompt feature which confirms to me again the future isn't people writing prompts, it's interfaces that generate prompt | number, tool_reveal | https://x.com/levelsio/status/1634457854957723648 |
 | 2026-09-15-openai-is-reportedly-paying-hundreds-of-contractor | x | OpenAI is reportedly paying hundreds of contractors to read real ChatGPT conversations as part of “Project Lily,” according to leaked internal documents and pro | number, demo_first | https://x.com/Pirat_Nation/status/2099605104642941331 |
+| 2026-09-15-openai-s-nightmare-deepseek-r1-on-a-raspberry-pi | youtube | OpenAI's nightmare: Deepseek R1 on a Raspberry Pi | curiosity_gap | https://www.youtube.com/watch?v=o1sN1lB76EA |
 | 2026-09-15-openai-swarm-langgraph-autogen-crewai-which-ai-a | youtube | OpenAI Swarm, LangGraph, AutoGen, & CrewAI: Which AI Agent Framework Wins? | curiosity_gap | https://www.youtube.com/watch?v=2F-z9s4wgwk |
 | 2026-09-15-perplexity-ai-hackerman | x | @perplexity_ai hackerman | curiosity_gap | https://x.com/jmilldotdev/status/1600624362394091523 |
+| 2026-09-15-pika-ai-video-generator-unveils-pikaswap-vfx-ani | youtube | PIKA AI Video Generator Unveils PikaSwap VFX Animation | curiosity_gap | https://www.youtube.com/watch?v=1ugUllz4wCs |
 | 2026-09-15-post-2 | instagram | 🖤🤍 | demo_first | https://www.instagram.com/reel/DcyLU-rvJm3/ |
 | 2026-09-15-post-3 | x |  | curiosity_gap, authority | https://x.com/trq212/status/2052809885763747935 |
 | 2026-09-15-post-4 | x |  | curiosity_gap, authority | https://x.com/lifeofjer/status/2048103471019434248 |
 | 2026-09-15-post | instagram | ✨🌅 | demo_first | https://www.instagram.com/reel/Db-r5ZGyxU7/ |
+| 2026-09-15-private-uncensored-local-llms-in-5-minutes-deeps | youtube | Private & Uncensored Local LLMs in 5 minutes (DeepSeek and Dolphin) | number | https://www.youtube.com/watch?v=A2CqSfd5I4I |
 | 2026-09-15-prompt-2 | instagram | prompt ⬇️ | demo_first | https://www.instagram.com/reel/Da5TGaav0sl/ |
 | 2026-09-15-prompt-available | instagram | Prompt Available 🌧️👇 | demo_first | https://www.instagram.com/reel/DZNXaaChh_f/ |
 | 2026-09-15-prompt-one-hundred-hands-waving-at-the-haters | x | Prompt: one hundred hands waving at the haters 😅  | number | https://x.com/tristwolff/status/1636188634012438530 |
@@ -297,9 +331,15 @@ De-dupe key: `url`. Cards live in `cards/`. Thumbnails in `thumbs/`. Transcripts
 | 2026-09-15-secret-prompts-and-codes-for-gpt-chat-try-and-use | tiktok | Secret Prompts and Codes for GPT Chat - try and use | secret, demo_first | https://www.tiktok.com/@technoskil/video/7678608203181034784 |
 | 2026-09-15-some-of-my-early-experiments-with-runwayml-gen-1 | x | Some of my early experiments with @runwayml GEN-1 | number, tool_reveal | https://x.com/karenxcheng/status/1627721862565482496 |
 | 2026-09-15-stop-repeating-yourself-how-to-create-a-custom-g | youtube | Stop Repeating Yourself: How to Create a Custom GPT | how_to_promise | https://www.youtube.com/watch?v=vFd5EdJaXjA |
+| 2026-09-15-stop-wasting-credits-become-a-kling-ai-master-in | youtube | STOP Wasting Credits & Become a Kling AI Master in 8 Minutes | number | https://www.youtube.com/watch?v=EWBsU0fSgPs |
+| 2026-09-15-stop-wasting-credits-master-kling-3-0-in-25-minu | youtube | STOP Wasting Credits & Master Kling 3.0 in 25 Minutes | number | https://www.youtube.com/watch?v=b_RghITuQQM |
 | 2026-09-15-stop-writing-long-prompts-these-10-codes-change-e | tiktok | Stop writing long prompts. These 10 codes change everything. Paste any of these into ChatGPT and watch how differently it responds: 1) ELI5 — Explains any topic | number, demo_first, list | https://www.tiktok.com/@aniksingal/video/7652719452567407902 |
+| 2026-09-15-suno-ai-music-generator-i-hummed-a-tune-it-made | youtube | Suno AI Music Generator \u2013 I Hummed a Tune, It Made a Song! | curiosity_gap, authority | https://www.youtube.com/watch?v=vA63-nDMYGg |
+| 2026-09-15-suno-ai-tutorial-2026-for-complete-beginners | youtube | Suno Ai Tutorial 2026 (For Complete Beginners) | how_to_promise | https://www.youtube.com/watch?v=72R1NjNaUnE |
+| 2026-09-15-suno-studio-tutorial-a-complete-beginner-s-guide | youtube | Suno Studio Tutorial: A Complete Beginner's Guide (2026) | how_to_promise | https://www.youtube.com/watch?v=qR4BefPvSiI |
 | 2026-09-15-tere-kalyani | instagram | Tere Kalyani ✨💓 | demo_first | https://www.instagram.com/reel/DcU4zwmyD_2/ |
 | 2026-09-15-the-ai-agent-tutorial-that-should-ve-been-your-f | youtube | The AI Agent Tutorial That Should've Been Your First (no code) | how_to_promise | https://www.youtube.com/watch?v=GchXMRwuWxE |
+| 2026-09-15-the-ai-music-race-is-over | youtube | The AI Music Race is Over | curiosity_gap | https://www.youtube.com/watch?v=ECLy6JnBdoY |
 | 2026-09-15-the-best-ai-side-hustles-to-start-if-you-re-brok | youtube | The Best AI Side Hustles To Start If You're BROKE | curiosity_gap | https://www.youtube.com/watch?v=8NvhbfZNTrc |
 | 2026-09-15-the-best-ai-side-hustles-to-start-in-2026-no-ski | youtube | The Best AI Side Hustles To Start In 2026 (No Skills) | curiosity_gap | https://www.youtube.com/watch?v=q1g65sjQI-4 |
 | 2026-09-15-the-chatgpt-settings-that-stop-it-saying-yes-all | tiktok | The ChatGPT settings that stop it saying \"yes\" all the time and telling you all your ideas are incredible! If ChatGPT is your favourite AI tool, you can really  | curiosity_gap | https://www.tiktok.com/@willfrancis24/video/7678359533315427606 |
@@ -310,6 +350,7 @@ De-dupe key: `url`. Cards live in `cards/`. Thumbnails in `thumbs/`. Transcripts
 | 2026-09-15-the-new-chatgpt-playbook-prompting-guide | youtube | The New ChatGPT Playbook & Prompting Guide | how_to_promise, tool_reveal | https://www.youtube.com/watch?v=MDy_b9F7oUc |
 | 2026-09-15-the-next-era-of-ai-coding | youtube | The next era of AI coding | curiosity_gap | https://www.youtube.com/watch?v=8h9j2rskP14 |
 | 2026-09-15-the-only-14-ways-to-make-money-with-ai-in-2026 | youtube | The Only 14 Ways to Make Money with AI in 2026 | number | https://www.youtube.com/watch?v=K8Ros5RhJW4 |
+| 2026-09-15-the-only-way-to-run-deepseek | youtube | the ONLY way to run Deepseek... | curiosity_gap | https://www.youtube.com/watch?v=7TR-FLWNVHY |
 | 2026-09-15-the-secret-way-i-m-using-chatgpt-sites-to-10x-my | youtube | The Secret Way I'm Using ChatGPT Sites to 10x My Productivity | negative, secret, authority | https://www.youtube.com/watch?v=1uAetuID7u0 |
 | 2026-09-15-the-simple-way-to-build-custom-actions-for-gpts | youtube | The Simple Way to Build Custom Actions for GPTs Without Coding (OpenAI Custom GPTs) | curiosity_gap | https://www.youtube.com/watch?v=vxDNxUTG9tE |
 | 2026-09-15-the-simple-way-to-make-money-from-ai-right-now | youtube | The SIMPLE Way To Make Money From AI Right Now | curiosity_gap | https://www.youtube.com/watch?v=92XVHHN9KKE |
@@ -337,6 +378,7 @@ De-dupe key: `url`. Cards live in `cards/`. Thumbnails in `thumbs/`. Transcripts
 | 2026-09-15-watch-how-i-connected-chrome-s-ai-api-to-ollama | x | 🚀 Watch how I connected Chrome's AI API to @ollama, enabling ANY web app built for Chrome's local Gemini to seamlessly work with open-source LLMs! A🧵on making A | how_to_promise | https://x.com/AndreiDavid/status/1881428512835596394 |
 | 2026-09-15-we-launched-2-cool-updates-today | x | we launched 2 cool updates today | number, authority, before_after, list | https://x.com/victornunez/status/2099659150972117006 |
 | 2026-09-15-we-re-releasing-a-technical-report-describing-how | x | We're releasing a technical report describing how Composer 2 was trained. | number, how_to_promise | https://x.com/cursor_ai/status/2036566134468542651 |
+| 2026-09-15-we-tested-a-cursed-ai-video-generator | youtube | We Tested a Cursed AI Video Generator | curiosity_gap | https://www.youtube.com/watch?v=Q5SpBD-vXF4 |
 | 2026-09-15-webassembly-is-aliveeeee-gemini-nano-will-be-inc | x | WebAssembly is aliveeeee 🔥 Gemini Nano will be included in Chrome itself with WebGPU + Wasm. | curiosity_gap | https://x.com/FanaHOVA/status/1790488633201553438 |
 | 2026-09-15-what-are-ai-agents-really-about | youtube | What Are AI Agents Really About? | curiosity_gap | https://www.youtube.com/watch?v=eHEHE2fpnWQ |
 | 2026-09-15-what-are-gpts-and-how-to-build-your-own-custom-g | youtube | What Are GPTs and How to Build your Own Custom GPT | how_to_promise | https://www.youtube.com/watch?v=ayUAPHYeCCM |
