@@ -1,5 +1,0 @@
-✨Built an MCP that enables Claude to control your browser using @browser_use 
-
-Unlike other browser-use MCPs that require paid API keys, this one works directly with Claude for free
-
-Here's a demo of me asking it to find the top 5 @huggingface models with the CC 4.0 license 📺

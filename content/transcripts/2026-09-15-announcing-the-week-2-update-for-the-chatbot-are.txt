@@ -1,5 +1,0 @@
-Announcing the Week 2 update for the Chatbot Arena leaderboard!
-
-We've added some new models that are showcasing strong performance. Currently, @OpenAI's GPT-4 and @AnthropicAI's Claude lead the pack, with open-source models in hot pursuit.
-
-More findings: https://lmsys.org/blog/2023-05-10-leaderboard/

@@ -1,3 +1,0 @@
-We're rolling back a few changes we shipped to Claude Code this week to make sure things are stable heading into the holidays.
-
-The rollback includes our incremental TUI update (the one to prevent flickering), instant compact, and some prompting changes.

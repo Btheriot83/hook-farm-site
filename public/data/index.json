@@ -2,20 +2,20 @@
   "name": "Hook Farm",
   "description": "Read-only viral packaging corpus. Collect only — no likes, comments, or follows. Categories: ai, true_crime, diesel, rideshare.",
   "baseUrl": "https://hook-farm-site.vercel.app",
-  "total": 1124,
+  "total": 623,
   "byCategory": {
-    "ai": 459,
-    "true_crime": 267,
-    "diesel": 212,
-    "rideshare": 186
+    "ai": 377,
+    "true_crime": 116,
+    "diesel": 71,
+    "rideshare": 59
   },
   "byPlatform": {
-    "youtube": 559,
-    "tiktok": 292,
-    "instagram": 57,
-    "x": 216
+    "youtube": 445,
+    "tiktok": 103,
+    "instagram": 14,
+    "x": 61
   },
-  "lastUpdated": "2026-09-15T19:23:51.329Z",
+  "lastUpdated": "2026-09-15T20:55:38.945Z",
   "endpoints": {
     "human": {
       "home": "https://hook-farm-site.vercel.app/",

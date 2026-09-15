@@ -1,9 +1,0 @@
-opencode 1.3.0 will no longer autoload the claude max plugin
-
-we did our best to convince anthropic to support developer choice but they sent lawyers
-
-it's your right to access services however you wish but it is also their right to block whoever they want
-
-we can't maintain an official plugin so it's been removed from github and marked deprecated on npm
-
-appreciate our partners at openai, github and gitlab who are going the other direction and supporting developer freedom

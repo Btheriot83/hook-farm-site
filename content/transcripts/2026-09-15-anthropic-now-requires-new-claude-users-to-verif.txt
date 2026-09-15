@@ -1,5 +1,0 @@
-Anthropic now requires new Claude users to verify their identity with a government-issued photo ID and a live selfie 
-
-No law forcing AI companies like this to do full ID checks. This appears to be Anthropic’s own choice
-
-They are also using Persona for the verification

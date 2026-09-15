@@ -1,8 +1,0 @@
-Vicious Self-Degradation 
-
-> you Google 
-> Quora spots query and id’s as frequent
-> Quora uses ChatGPT to generate answer 
-> ChatGPT hallucinates 
-> Google picks up Quora answer as highest probability correct answer 
-> ChatGPT hallucination is now canonical Google answer

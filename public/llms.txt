@@ -40,9 +40,9 @@ id, category, platform, url, title, creator_handle, hook_onscreen, hook_spoken, 
 
 ## Counts (build-time)
 
-- total: 1124
-- byCategory: ai=459, true_crime=267, diesel=212, rideshare=186
-- lastUpdated: 2026-09-15T19:23:51.329Z
+- total: 623
+- byCategory: ai=377, true_crime=116, diesel=71, rideshare=59
+- lastUpdated: 2026-09-15T20:55:38.945Z
 
 ## Disclaimer
 

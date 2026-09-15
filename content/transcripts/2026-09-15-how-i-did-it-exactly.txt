@@ -1,9 +1,0 @@
-How I did it exactly:
-
-1) I made a basic algo that filter out incomplete submissions. The more info there is in the form, the better the score is, if the score is too low, auto-reject
-
-2) The AI will control the relevance of the answers and will approve/disapprove it using specific keywords. If the keyword is present in the AI's reply, then a specific function is executed
-
-3) (soon) The AI scan the website to double-check the relevance
-
-The prompt is pretty long, so it's not free, but it's way cheaper than having an employee.

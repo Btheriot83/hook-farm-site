@@ -1,8 +1,0 @@
-3 - Setting it up for scale
-
-Now that you have the basics here's how you turn this into a ranking machine. 
-
-- Utilize college students
-- Uber/Lyft drivers
-- Odd jobs boards
-- Yard signs

@@ -1,5 +1,0 @@
-@UberEng @nanlan2022 Uber casually saying they have resolved all problems of agentic coding.
-
-They have a unified Brain graph, automatic compaction as 400K token (I do need that for subagent !), unified MCP registry exposed as a single CLI.
-
-That’s so frustrating. Totally worth reading.

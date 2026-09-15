@@ -1,3 +1,0 @@
-We've redesigned Claude Code on desktop.
-
-You can now run multiple Claude sessions side by side from one window, with a new sidebar to manage them all.

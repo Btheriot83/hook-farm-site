@@ -1,3 +1,0 @@
-This morning I was hacking the new ChatGPT API and found something super interesting: there are over 80 secret plugins that can be revealed by removing a specific parameter from an API call.
-
-The secret plugins include a "DAN plugin", "Crypto Prices Plugin", and many more.

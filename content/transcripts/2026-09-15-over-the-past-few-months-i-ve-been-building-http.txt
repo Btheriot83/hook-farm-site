@@ -1,7 +1,0 @@
-Over the past few months, I've been building http://v0.dev with my team @Vercel. 
-
-It's an AI tool that is effectively Midjourney for React. 
-
-With v0 you can use simple prompts to generate copy-and-paste friendly React , powered by @shadcn UI and Tailwind CSS. 
-
-https://v0.dev/t/4AsVwNf
