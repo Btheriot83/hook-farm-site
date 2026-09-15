@@ -1,0 +1,28 @@
+---
+id: 2026-09-15-demolished-6-7-ram-cummins-diesel-engine-teardow
+collected_at: 2026-09-15T11:28:49-07:00
+platform: youtube
+category: diesel
+url: https://www.youtube.com/watch?v=hp-pVi-8TDE
+creator_handle: "@IDoCars"
+title: "DEMOLISHED 6.7 Ram Cummins Diesel Engine Teardown! Violent End To A Pricey Engine! Worst Diesel Yet?"
+hook_onscreen: ""
+hook_spoken: "last   week    we    tore    down    a    454    big    block last week we tore down a 454 big block last week we tore down a 454 big block chevrolet   that    was    on    the"
+thumbnail_path: thumbs/2026-09-15-demolished-6-7-ram-cummins-diesel-engine-teardow.jpg
+thumbnail_url: ""
+transcript_path: transcripts/2026-09-15-demolished-6-7-ram-cummins-diesel-engine-teardow.txt
+views: 675174
+likes: null
+comments: null
+saves: null
+post_date: null
+niche_tags: [diesel, engine, before_after]
+pattern_tags: [number, demo_first]
+format: long
+language: en
+notes: "HARVEST_BRIEF refined wave"
+---
+
+## Transcript (~30s)
+
+last   week    we    tore    down    a    454    big    block last week we tore down a 454 big block last week we tore down a 454 big block chevrolet   that    was    on    the    cusp    of chevrolet that was on the cusp of chevrolet that was on the cusp of breaking   my    engine    stand    and    it    had    some breaking my engine stand and it had some breaking my engine stand and it had some awesome   carnage    so    i    figured    i'd    try    to awesome carnage so i figured i'd try to awesome carnage so i figured i'd try to continue   that    trend    of    large    engines continue that trend of large engines continue that trend of large engines with   massive    damage    and    we're    going    to with massive damage and we're going to with massive damage and we're going to take   apart    a    blown-up    6-7    cummins    and    i take apart a blown-up 6-7 cummins and i take apart a blown-up 6-7 cummins and i i   know    there's    some    of    you    that    have i know there's some of you that have i know there's some of you that have been   watching    this    channel    for    quite been watching this channel for quite been watching this channel for quite some   time    where    i    said    the    next    diesel    i some time where i said the next diesel i some time where i said the next diesel i tear   down    will    be    a    power    stroke tear down will be a power stroke tear down will be a power stroke and   i'm    sorry    it    is    buried    here    at    the and i'm sorry it is buried here at the and i'm sorry it is buried here at the shop   and    also    the    7-3    power    stroke    core shop and also the 7-3 power stroke core shop and also the 7-3 power stroke core that   i    have    might    not    be    a    core    it    could that i have might not be a core it could that i have might not be a core it could be   a    good    engine    i'd    hate    to    take    a    good be a good engine i'd hate to take a good be a good engine i'd hate to take a good one   apart one apart one apart i   am    looking    for    i'm    avidly    looking    for
