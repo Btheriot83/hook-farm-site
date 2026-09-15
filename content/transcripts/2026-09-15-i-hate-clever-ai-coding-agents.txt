@@ -1,0 +1,7 @@
+I hate clever AI coding agents. 
+
+Instead of running pnpm build and checking the output, it create a harness + script to check if something in the output artifact appears (or doesn't)
+
+And because it made an error it ran around for 8 hrs and searched it's own ghost
+
+~Opus 4.8

@@ -1,0 +1,3 @@
+The main problem with vibe coding:
+
+When the AI takes a wrong turn, an inexperienced operator can’t tell he’s speeding toward a cliff - while the model cheerfully agrees the whole way down

@@ -1,0 +1,28 @@
+---
+id: 2026-09-15-earning-500-daily-with-lyft
+collected_at: 2026-09-15T11:31:45-07:00
+platform: youtube
+category: rideshare
+url: https://www.youtube.com/watch?v=zGnjPV-DqPI
+creator_handle: "@FutureRideshareMillionaire"
+title: "Earning $500 Daily with Lyft"
+hook_onscreen: ""
+hook_spoken: "check   this    out check this out check this out sunday   august    8th    i    made    860 sunday august 8th i made 860 sunday august 8th i made 860 and   one    day    driving"
+thumbnail_path: thumbs/2026-09-15-earning-500-daily-with-lyft.jpg
+thumbnail_url: ""
+transcript_path: transcripts/2026-09-15-earning-500-daily-with-lyft.txt
+views: 102091
+likes: null
+comments: null
+saves: null
+post_date: null
+niche_tags: [rideshare, money, authority]
+pattern_tags: [number]
+format: long
+language: en
+notes: "HARVEST_BRIEF refined wave"
+---
+
+## Transcript (~30s)
+
+check   this    out check this out check this out sunday   august    8th    i    made    860 sunday august 8th i made 860 sunday august 8th i made 860 and   one    day    driving    with    lyft    and    that and one day driving with lyft and that and one day driving with lyft and that doesn't   even    include    the    cash    tips    that doesn't even include the cash tips that doesn't even include the cash tips that i   received    would    actually    put    me    over i received would actually put me over i received would actually put me over 900   for    the    day    now    you    must    be 900 for the day now you must be 900 for the day now you must be wondering   what    the    title    of    my    video wondering what the title of my video wondering what the title of my video says   500    and    not    the    900    that    i    just says 500 and not the 900 that i just says 500 and not the 900 that i just told   you    about    and    that's    because    i told you about and that's because i told you about and that's because i genuinely   hate    clickbait genuinely hate clickbait genuinely hate clickbait while   i'm    able    to    pull    off    the    900 while i'm able to pull off the 900 while i'm able to pull off the 900 figure   about    once    a    week    it's    more figure about once a week it's more figure about once a week it's more normal   for    me    to    do    500    a    day    and    i normal for me to do 500 a day and i normal for me to do 500 a day and i wanted   to    make    this    video    to    focus    on    a wanted to make this video to focus on a wanted to make this video to focus on a goal   that    can    be    consistently    attained goal that can be consistently attained goal that can be consistently attained rather   than    focusing    on    something    that rather than focusing on something that rather than focusing on something that just just just sounds   better    so    this    video    will    be sounds better so this video will be sounds better so this video will be about   how    i    can    routinely    make    500    a    day

@@ -1,0 +1,3 @@
+Uber doesnt assign this . It works on "trip dispatch vs acceptance matrix"
+
+This happens because the trips requested by user are sent to mutiple driver partners in the trip RADAR , and the one who accepts its first is the one  who gets to take that trip.

@@ -1,0 +1,1 @@
+Small feature suggestion for Uber - If I am canceling a ride saying “Driver Not Moving” what is the point assigning a subsequent booking to the same driver?
