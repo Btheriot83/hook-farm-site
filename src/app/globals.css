@@ -31,6 +31,9 @@ body {
   background: var(--paper);
   color: var(--ink);
   font-family: var(--font-source-sans), ui-sans-serif, system-ui, sans-serif;
+  /* Quiet Folio: faint paper grain — chrome only, never over thumbs */
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.035'/%3E%3C/svg%3E");
+  background-attachment: fixed;
 }
 
 .font-display {
@@ -44,4 +47,46 @@ body {
 
 a {
   text-underline-offset: 3px;
+}
+
+/* Letterpress platform mark */
+.mark-platform {
+  font-family: var(--font-ibm-plex-mono), ui-monospace, monospace;
+  font-size: 0.65rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--studio);
+  border: 1px solid var(--hairline);
+  padding: 0.15rem 0.45rem;
+  line-height: 1.2;
+}
+
+.metric-xl {
+  font-family: var(--font-newsreader), ui-serif, Georgia, serif;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+}
+
+.pull-quote {
+  font-family: var(--font-newsreader), ui-serif, Georgia, serif;
+  font-style: italic;
+  font-size: clamp(1.35rem, 2.4vw, 1.85rem);
+  line-height: 1.35;
+  color: var(--ink);
+}
+
+.folio-rule {
+  border: none;
+  border-top: 1px solid var(--hairline);
+  margin: 0;
+}
+
+.identity-mark {
+  display: inline-block;
+  width: 0.55rem;
+  height: 0.55rem;
+  background: var(--ink);
+  vertical-align: middle;
+  margin-right: 0.45rem;
 }

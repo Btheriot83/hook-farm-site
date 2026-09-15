@@ -16,3 +16,10 @@ export function engagementScore(card: Card): number | null {
   if (views == null && likes == null && comments == null) return null;
   return (views ?? 0) + 10 * (likes ?? 0) + 20 * (comments ?? 0);
 }
+
+/** Proxy rate: likes / views. Null when either side is missing. */
+export function engagementRate(card: Card): number | null {
+  if (card.likes == null || card.views == null || card.views <= 0) return null;
+  const r = card.likes / card.views;
+  return Number.isFinite(r) ? r : null;
+}

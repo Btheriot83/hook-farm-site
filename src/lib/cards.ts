@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 import type { Card, Platform } from "./types";
+import { engagementRate, engagementScore } from "./thumbs";
 
 const CONTENT_DIR = path.join(process.cwd(), "content");
 const CARDS_DIR = path.join(CONTENT_DIR, "cards");
@@ -116,3 +117,75 @@ export function getAllPatternTagsFromCards(): string[] {
   return Array.from(set).sort();
 }
 
+export function getCardsByPattern(patternId: string): Card[] {
+  return getAllCards().filter((c) => c.pattern_tags.includes(patternId));
+}
+
+/** Cards sharing the most pattern_tags with `card`, excluding itself. */
+export function getSimilarCards(card: Card, limit = 4): Card[] {
+  const tags = new Set(card.pattern_tags);
+  if (tags.size === 0) return [];
+
+  const scored = getAllCards()
+    .filter((c) => c.id !== card.id)
+    .map((c) => {
+      let shared = 0;
+      for (const t of c.pattern_tags) if (tags.has(t)) shared += 1;
+      return { c, shared };
+    })
+    .filter((x) => x.shared > 0)
+    .sort((a, b) => {
+      if (b.shared !== a.shared) return b.shared - a.shared;
+      const va = a.c.views ?? -1;
+      const vb = b.c.views ?? -1;
+      if (vb !== va) return vb - va;
+      return a.c.id.localeCompare(b.c.id);
+    });
+
+  return scored.slice(0, limit).map((x) => x.c);
+}
+
+export function countByPattern(cards: Card[]): Map<string, number> {
+  const map = new Map<string, number>();
+  for (const c of cards) {
+    for (const t of c.pattern_tags) {
+      map.set(t, (map.get(t) ?? 0) + 1);
+    }
+  }
+  return map;
+}
+
+export function countByPlatform(cards: Card[]): Map<string, number> {
+  const map = new Map<string, number>();
+  for (const c of cards) {
+    map.set(c.platform, (map.get(c.platform) ?? 0) + 1);
+  }
+  return map;
+}
+
+export interface CorpusStats {
+  total: number;
+  byPlatform: { platform: string; count: number }[];
+  topPatterns: { id: string; count: number }[];
+  topByViews: Card[];
+}
+
+export function getCorpusStats(cards?: Card[]): CorpusStats {
+  const list = cards ?? getAllCards();
+  const byPlatform = Array.from(countByPlatform(list).entries())
+    .map(([platform, count]) => ({ platform, count }))
+    .sort((a, b) => b.count - a.count || a.platform.localeCompare(b.platform));
+
+  const topPatterns = Array.from(countByPattern(list).entries())
+    .map(([id, count]) => ({ id, count }))
+    .sort((a, b) => b.count - a.count || a.id.localeCompare(b.id));
+
+  const topByViews = [...list]
+    .filter((c) => c.views != null)
+    .sort((a, b) => (b.views ?? 0) - (a.views ?? 0) || a.id.localeCompare(b.id))
+    .slice(0, 8);
+
+  return { total: list.length, byPlatform, topPatterns, topByViews };
+}
+
+export { engagementRate, engagementScore };
