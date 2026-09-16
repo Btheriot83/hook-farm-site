@@ -1,0 +1,1 @@
+The Claude Code team open-sourced the agent they use to clean up messy AI-generated code. Run it after building a feature to remove unnecessary complexity before opening your PR.

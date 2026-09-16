@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/aaassa120/status/2099585833787371714"
 creator_handle: @aaassa120
 title: 🚨 I JUST FOUND THE AI WORKFLOW EVERYONE WILL BE COPYING IN SIX MONTHS
+hooks: ["🚨 I JUST FOUND THE AI WORKFLOW EVERYONE WILL BE COPYING IN SIX MONTHS"]
 hook_onscreen: ""
 hook_spoken: 🚨 I JUST FOUND THE AI WORKFLOW EVERYONE WILL BE COPYING IN SIX MONTHS
 thumbnail_path: thumbs/2026-09-15-i-just-found-the-ai-workflow-everyone-will-be-co.jpg

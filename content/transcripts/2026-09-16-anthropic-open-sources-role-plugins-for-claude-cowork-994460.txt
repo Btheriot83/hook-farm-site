@@ -1,0 +1,12 @@
+📌 Anthropic open-sources role plugins for Claude Cowork
+
+✨ Anthropic just open-sourced knowledge work plugins for Claude Cowork & Claude Code! 🚀
+
+Turn Claude into a role specialist with ready-to-use workflows connecting Slack, Notion, Jira, and more.
+
+✦ Turns Claude into a specialized agent for specific roles and workflows.
+✦ Bundles skills, slash commands, sub-agents, and enterprise connectors.
+✦ Compatible with both Claude Cowork and Claude Code out of the box.
+
+⭐ 24,133  🍴 2,914  💻 Python
+🔗 github.com/anthropics/knowle… #ClaudeAI #Anthropic #Productivity #AI

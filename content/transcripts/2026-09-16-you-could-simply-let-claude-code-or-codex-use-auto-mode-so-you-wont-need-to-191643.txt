@@ -1,0 +1,1 @@
+You could simply let Claude Code or Codex use auto mode, so you won’t need to say "continue" as the AI will handle everything automatically.

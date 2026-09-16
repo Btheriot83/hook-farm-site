@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/Kling_ai/status/2019064918960668819"
 creator_handle: @Kling_ai
 title: "🚀 Introducing the Kling 3.0 Model: Everyone a Director. It’s Time. "
+hooks: ["🚀 Introducing the Kling 3.0 Model: Everyone a Director. It’s Time. "]
 hook_onscreen: ""
 hook_spoken: "🚀 Introducing the Kling 3.0 Model: Everyone a Director. It’s Time. "
 thumbnail_path: thumbs/2026-09-15-introducing-the-kling-3-0-model-everyone-a-dire.jpg

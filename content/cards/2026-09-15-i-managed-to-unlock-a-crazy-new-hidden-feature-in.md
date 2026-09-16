@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/NicerInPerson/status/2014989679796347375"
 creator_handle: @NicerInPerson
 title: "I managed to unlock a crazy new hidden feature in Claude Code called Swarms. You're not talking to an AI coder anymore. You're talking to a team lead. The lead "
+hooks: ["I managed to unlock a crazy new hidden feature in Claude Code called Swarms. You're not talking to an AI coder anymore. You're talking to a team lead. The lead "]
 hook_onscreen: ""
 hook_spoken: "I managed to unlock a crazy new hidden feature in Claude Code called Swarms. You're not talking to an AI coder anymore. You're talking to a team lead. The lead "
 thumbnail_path: thumbs/2026-09-15-i-managed-to-unlock-a-crazy-new-hidden-feature-in.jpg

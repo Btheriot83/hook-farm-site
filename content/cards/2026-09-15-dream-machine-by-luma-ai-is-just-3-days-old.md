@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/hey_madni/status/1801900554488291414"
 creator_handle: @hey_madni
 title: Dream Machine by Luma AI is just 3 days old.
+hooks: ["Dream Machine by Luma AI is just 3 days old."]
 hook_onscreen: ""
 hook_spoken: Dream Machine by Luma AI is just 3 days old.
 thumbnail_path: thumbs/2026-09-15-dream-machine-by-luma-ai-is-just-3-days-old.jpg

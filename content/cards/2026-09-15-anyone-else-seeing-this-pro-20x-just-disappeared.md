@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/aimaddie/status/2098128761388716353"
 creator_handle: @aimaddie
 title: Anyone else seeing this? Pro 20x just disappeared for new subs.
+hooks: ["Anyone else seeing this? Pro 20x just disappeared for new subs."]
 hook_onscreen: ""
 hook_spoken: Anyone else seeing this? Pro 20x just disappeared for new subs.
 thumbnail_path: thumbs/2026-09-15-anyone-else-seeing-this-pro-20x-just-disappeared.png

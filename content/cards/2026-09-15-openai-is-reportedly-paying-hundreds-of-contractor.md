@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/Pirat_Nation/status/2099605104642941331"
 creator_handle: @Pirat_Nation
 title: OpenAI is reportedly paying hundreds of contractors to read real ChatGPT conversations as part of “Project Lily,” according to leaked internal documents and pro
+hooks: ["OpenAI is reportedly paying hundreds of contractors to read real ChatGPT conversations as part of “Project Lily,” according to leaked internal documents and pro"]
 hook_onscreen: ""
 hook_spoken: OpenAI is reportedly paying hundreds of contractors to read real ChatGPT conversations as part of “Project Lily,” according to leaked internal documents and pro
 thumbnail_path: thumbs/2026-09-15-openai-is-reportedly-paying-hundreds-of-contractor.jpg

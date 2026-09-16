@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/davidonchainx/status/2041157350434701639"
 creator_handle: @davidonchainx
 title: "I generated 30M+ views on X in 1 month with Claude. Here's the exact system I used."
+hooks: ["I generated 30M+ views on X in 1 month with Claude. Here's the exact system I used."]
 hook_onscreen: ""
 hook_spoken: "I generated 30M+ views on X in 1 month with Claude. Here's the exact system I used."
 thumbnail_path: thumbs/2026-09-14-i-generated-30m-views-on-x-in-1-month-with-claude.jpg

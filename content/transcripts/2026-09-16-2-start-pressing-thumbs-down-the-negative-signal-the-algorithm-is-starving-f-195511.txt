@@ -1,0 +1,21 @@
+2. Start pressing thumbs down  the negative signal the algorithm is starving for.
+
+This is the single most impactful retraining action  and the one most subscribers have never taken.
+
+Netflix has a thumbs-down button on every title. On the homepage. On the title detail page. During playback. After playback. It's everywhere. Most subscribers have never pressed it  not once, on any title, in years of usage.
+
+Why this matters:
+
+The algorithm learns from 2 types of signals: positive (what you watch, what you finish, what you rate up) and negative (what you skip, what you quit early, what you rate down). Most subscribers give hundreds of positive signals  they watch shows, finish episodes, add to My List. They give almost zero explicit negative signals.
+
+Without negative signals, the algorithm has no boundaries. It knows what you'll watch. It doesn't know what you won't. So it keeps recommending the same genres  because nothing told it to stop. One true crime documentary becomes 6 rows of true crime. Not because you love true crime. Because you never told the algorithm you don't.
+
+The retraining action:
+
+Scroll your homepage right now. Every title you see that you'd never watch  not "maybe," not "later," genuinely "never"  press thumbs down. Korean soap opera you'd never watch? Thumbs down. Reality dating show? Thumbs down. Horror movie you'd never open? Thumbs down.
+
+Each thumbs down tells the algorithm: "Stop showing me this type of content." It reduces that genre's weight in your recommendations. It creates space for other genres to surface. It gives the algorithm the boundary it's been missing.
+
+He spent 5 minutes thumbs-downing 20 titles on his homepage that he'd never watch. Within 48 hours, those genres started receding. New rows appeared  categories he hadn't seen in months. The homepage opened up  because the algorithm finally knew where the edges of his taste were.
+
+"You've been scrolling past content you don't want  for years  without telling the algorithm you don't want it. The scroll is invisible to the algorithm. The thumbs down is not. Press it. The homepage changes."

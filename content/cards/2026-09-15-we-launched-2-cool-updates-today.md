@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/victornunez/status/2099659150972117006"
 creator_handle: @victornunez
 title: we launched 2 cool updates today
+hooks: ["we launched 2 cool updates today"]
 hook_onscreen: ""
 hook_spoken: we launched 2 cool updates today
 thumbnail_path: thumbs/2026-09-15-we-launched-2-cool-updates-today.jpg

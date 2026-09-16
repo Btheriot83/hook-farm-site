@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/karpathy/status/1886192184808149383"
 creator_handle: @karpathy
 title: "There's a new kind of coding I call \\\"vibe coding\\\", where you fully give in to the vibes, embrace exponentials, and forge"
+hooks: ["There's a new kind of coding I call \\\\\\\"vibe coding\\\\\\\", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists. It's possible because the LLMs (e.g. Cursor Compose"]
 hook_onscreen: ""
 hook_spoken: "There's a new kind of coding I call \\\"vibe coding\\\", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists. It's possible because the LLMs (e.g. Cursor Compose"
 thumbnail_path: thumbs/2026-09-14-theres-a-new-kind-of-coding-i-call-vibe-coding-whe.jpg

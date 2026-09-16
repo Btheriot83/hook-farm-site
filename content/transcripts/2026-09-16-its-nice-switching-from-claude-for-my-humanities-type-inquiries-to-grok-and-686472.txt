@@ -1,0 +1,3 @@
+its nice switching from claude for my humanities type inquiries to grok and seeing "thinking about your requests" instead of the "thinking about concerns with your request"
+
+the only real alignment issue is having anthropic be in the lead for AI dev (thankfully its a commodity with Astra and who knows what else coming soon)

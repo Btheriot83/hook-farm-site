@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/gdb/status/2099602912645452021"
 creator_handle: @gdb
 title: "chatgpt for empowering parents:"
+hooks: ["chatgpt for empowering parents:"]
 hook_onscreen: ""
 hook_spoken: "chatgpt for empowering parents:"
 thumbnail_path: null

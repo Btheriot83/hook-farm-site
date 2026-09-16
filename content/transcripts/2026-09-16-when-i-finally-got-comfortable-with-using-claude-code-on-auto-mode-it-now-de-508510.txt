@@ -1,0 +1,5 @@
+When I finally got comfortable with using Claude Code on auto mode, it now decided to always run commands that require approval. It can't even fucking read or edit files without asking me when it's already on auto mode.
+
+I have to fucking swear at it in at least two languages and tell it to fucking use the read/write tools instead of bash commands and then it always says some crap like "Fair - sticking to Read/Write".
+
+I even put it in a CLAUDE.md file that it should always prioritise Read/Write over bash commands where possible but nothing seems to stick.

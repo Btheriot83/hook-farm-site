@@ -1,0 +1,60 @@
+---
+id: "2026-09-16-shelly-carroll-forces-gc-ca-930665"
+collected_at: "2026-09-16T07:39:17-07:00"
+platform: x
+category: "true_crime"
+language: "en"
+url: "https://x.com/silversnake66/status/2100180548735930665"
+creator_handle: "@silversnake66"
+title: "🇨🇦 SHELLY.CARROLL@FORCES.GC.CA"
+hooks: ["🇨🇦 SHELLY.CARROLL@FORCES.GC.CA"]
+hook_onscreen: "🇨🇦 SHELLY.CARROLL@FORCES.GC.CA"
+hook_spoken: "🇨🇦 SHELLY.CARROLL@FORCES.GC.CA"
+thumbnail_path: "thumbs/2026-09-16-shelly-carroll-forces-gc-ca-930665.jpg"
+thumbnail_url: "https://tw.eir-nya.gay/pic/media%2FHSU3jz2XAAArm1K.jpg%3Fname%3Dsmall%26format%3Dwebp"
+transcript_30s: "🇨🇦 SHELLY.CARROLL@FORCES.GC.CA\n\nCCP-Tied Group That Met Carney Joined 2019 United Front Gala at Wei Wei Mansion With Liberal Insiders—Months Before Casino Raid\n\nTORONTO — New evidence reviewed by The Bureau reveals that the Jiangsu Commerce Council of Canada—the Chinese Communist Party-linked business group at the center of a controversial meeting with Prime Minister Mark Carney during his leadership campaign—was among the key attendees of a lavish Lunar New Year gala in January 2019, attended by senior Liberal Party organizers and hosted by Wei Wei, a United Front affiliate and Chinese organized crime target, at one of Wei’s Toronto-area mansions.\n\nA year later, another of Wei’s residences would become the focus of a high-level York Regional Police and CSIS investigation into underground casinos, weapons stockpiles, and transnational money laundering that police allege abetted international drug trafficking.\n\nEvidence suggests Wei Wei’s properties were used for political donations to the Don Valley North Liberal Association, a campaign in Markham–Thornhill, and a Liberal nomination contestant in the Markham–Unionville riding.\n\nElections Canada records show that both Wei Wei and the JCCC’s former president donated to Bang-Gu Jiang’s nomination effort in Markham–Unionville during Justin Trudeau’s tenure as Liberal leader.\n\nThe revelation deepens the controversy surrounding JCCC’s political access and linkages to figures investigated by Canadian police. During his campaign to become Prime Minister, Mark Carney denied meeting with JCCC leaders with links to Beijing’s United Front Work Department, after The Globe and Mail reported on the meeting.\n\nThe JCCC’s website was subsequently pulled offline. However, The Bureau published photographic and documentary evidence showing Carney did in fact attend a JCCC-sponsored event in Toronto—a high-level Chinese New Year reception involving key figures in the Liberal fundraising ecosystem. Among them were JCCC executives linked to a United Front PPE operation involving the same Markham riding boss photographed with Wei Wei at the January 2019 gathering at Wei’s lavish residence.\n\nThis Liberal Party official—listed as a director alongside Wei Wei of the Canada Hefei Friendship Association, which nominally hosted the January 2019 gala at Wei’s Toronto mansion—has long held fundraising and organizing roles for Liberal candidates across the Greater Toronto Area.\n\nThe newly surfaced 2019 gala—hosted on January 5, months ahead of the federal election—was held at one of Wei Wei's upscale Toronto-area homes and attended by over 40 community association leaders, business executives, and political operatives. While separate from his notorious 5 DeCourcy Court property, which was raided in a sweeping police operation, the interior photos confirm a similarly extravagant setting: crystal chandeliers, silk table settings, a decadent bar populated by dozens of wine and high-end Chinese liquor bottles, and banners for the Hefei Friendship Association (HFA).\n\nPhotographic and documentary evidence obtained by The Bureau confirms that among the attendees were Wei Wei, casually dressed and seated beneath red velvet lounge décor; the president of the Canada Hefei Friendship Association, who opened the gala with a speech promoting political and economic exchange with Anhui Province; Bang-Gu Jiang, a Liberal nomination contender in Don Valley North; and the Liberal riding boss tied to the JCCC, who played a central role in the party’s regional fundraising apparatus.\n\nThe gala also brought together leaders from the Confederation of Toronto Chinese Canadian Organizations (CTCCO), a group founded in 1985 and described in The Globe and Mail as linked to Peter Yuen, Carney’s chosen candidate to replace MP Paul Chiang in Markham–Unionville. According to The Globe, CTCCO is led by an individual who “has close ties to the Chinese consulate and attended sessions of the Chinese People’s Congress and Chinese People’s Consultative Conference, a top advisory body to President Xi Jinping.” That individual, along with the CTCCO, was debanked by TD Bank, which cited internal documents showing the organization’s transactions were flagged as involving “individuals or entity(ies) identified by media, law enforcement and/or intelligence agencies as being linked to criminal activities,” The Globe reported.\n\nSOURCE:\n\nSam Cooper \nThe Bureau \nMay 22, 2025\n\n🇨🇦 JAMES.CARROLL@FORCES.GC.CA"
+transcript_path: "transcripts/2026-09-16-shelly-carroll-forces-gc-ca-930665.txt"
+views: null
+likes: 1
+comments: null
+saves: null
+post_date: "Sep 16, 2026 · 11:10 AM UTC"
+niche_tags: ["true_crime"]
+pattern_tags: ["number", "list", "authority", "demo_first", "before_after", "replaced_job"]
+format: "short"
+notes: "Public X post; engagement snapshot from read-only search mirror. Retweets excluded. Media thumbnail downloaded."
+---
+
+## Transcript (~30s)
+
+🇨🇦 SHELLY.CARROLL@FORCES.GC.CA
+
+CCP-Tied Group That Met Carney Joined 2019 United Front Gala at Wei Wei Mansion With Liberal Insiders—Months Before Casino Raid
+
+TORONTO — New evidence reviewed by The Bureau reveals that the Jiangsu Commerce Council of Canada—the Chinese Communist Party-linked business group at the center of a controversial meeting with Prime Minister Mark Carney during his leadership campaign—was among the key attendees of a lavish Lunar New Year gala in January 2019, attended by senior Liberal Party organizers and hosted by Wei Wei, a United Front affiliate and Chinese organized crime target, at one of Wei’s Toronto-area mansions.
+
+A year later, another of Wei’s residences would become the focus of a high-level York Regional Police and CSIS investigation into underground casinos, weapons stockpiles, and transnational money laundering that police allege abetted international drug trafficking.
+
+Evidence suggests Wei Wei’s properties were used for political donations to the Don Valley North Liberal Association, a campaign in Markham–Thornhill, and a Liberal nomination contestant in the Markham–Unionville riding.
+
+Elections Canada records show that both Wei Wei and the JCCC’s former president donated to Bang-Gu Jiang’s nomination effort in Markham–Unionville during Justin Trudeau’s tenure as Liberal leader.
+
+The revelation deepens the controversy surrounding JCCC’s political access and linkages to figures investigated by Canadian police. During his campaign to become Prime Minister, Mark Carney denied meeting with JCCC leaders with links to Beijing’s United Front Work Department, after The Globe and Mail reported on the meeting.
+
+The JCCC’s website was subsequently pulled offline. However, The Bureau published photographic and documentary evidence showing Carney did in fact attend a JCCC-sponsored event in Toronto—a high-level Chinese New Year reception involving key figures in the Liberal fundraising ecosystem. Among them were JCCC executives linked to a United Front PPE operation involving the same Markham riding boss photographed with Wei Wei at the January 2019 gathering at Wei’s lavish residence.
+
+This Liberal Party official—listed as a director alongside Wei Wei of the Canada Hefei Friendship Association, which nominally hosted the January 2019 gala at Wei’s Toronto mansion—has long held fundraising and organizing roles for Liberal candidates across the Greater Toronto Area.
+
+The newly surfaced 2019 gala—hosted on January 5, months ahead of the federal election—was held at one of Wei Wei's upscale Toronto-area homes and attended by over 40 community association leaders, business executives, and political operatives. While separate from his notorious 5 DeCourcy Court property, which was raided in a sweeping police operation, the interior photos confirm a similarly extravagant setting: crystal chandeliers, silk table settings, a decadent bar populated by dozens of wine and high-end Chinese liquor bottles, and banners for the Hefei Friendship Association (HFA).
+
+Photographic and documentary evidence obtained by The Bureau confirms that among the attendees were Wei Wei, casually dressed and seated beneath red velvet lounge décor; the president of the Canada Hefei Friendship Association, who opened the gala with a speech promoting political and economic exchange with Anhui Province; Bang-Gu Jiang, a Liberal nomination contender in Don Valley North; and the Liberal riding boss tied to the JCCC, who played a central role in the party’s regional fundraising apparatus.
+
+The gala also brought together leaders from the Confederation of Toronto Chinese Canadian Organizations (CTCCO), a group founded in 1985 and described in The Globe and Mail as linked to Peter Yuen, Carney’s chosen candidate to replace MP Paul Chiang in Markham–Unionville. According to The Globe, CTCCO is led by an individual who “has close ties to the Chinese consulate and attended sessions of the Chinese People’s Congress and Chinese People’s Consultative Conference, a top advisory body to President Xi Jinping.” That individual, along with the CTCCO, was debanked by TD Bank, which cited internal documents showing the organization’s transactions were flagged as involving “individuals or entity(ies) identified by media, law enforcement and/or intelligence agencies as being linked to criminal activities,” The Globe reported.
+
+SOURCE:
+
+Sam Cooper 
+The Bureau 
+May 22, 2025
+
+🇨🇦 JAMES.CARROLL@FORCES.GC.CA

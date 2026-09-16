@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/marcelpociot/status/2099604010634207678"
 creator_handle: @marcelpociot
 title: I got Claude answering inside Siri on macOS 27 🚀
+hooks: ["I got Claude answering inside Siri on macOS 27 🚀"]
 hook_onscreen: ""
 hook_spoken: I got Claude answering inside Siri on macOS 27 🚀
 thumbnail_path: thumbs/2026-09-15-i-got-claude-answering-inside-siri-on-macos-27.jpg

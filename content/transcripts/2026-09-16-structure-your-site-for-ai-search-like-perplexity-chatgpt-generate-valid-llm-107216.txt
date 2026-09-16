@@ -1,0 +1,3 @@
+🤖 Structure your site for AI search like Perplexity & ChatGPT. Generate valid /llms.txt & /llms-full.txt files to maximize Generative Engine Optimization (GEO) citations.
+
+📄 Try it here: twistertools.com/tools/web-t… #GEO #SEO #AI #DevTools

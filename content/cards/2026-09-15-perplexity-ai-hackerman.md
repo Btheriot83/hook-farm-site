@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/jmilldotdev/status/1600624362394091523"
 creator_handle: @jmilldotdev
 title: @perplexity_ai hackerman
+hooks: ["@perplexity_ai hackerman"]
 hook_onscreen: ""
 hook_spoken: @perplexity_ai hackerman
 thumbnail_path: thumbs/2026-09-15-perplexity-ai-hackerman.jpg

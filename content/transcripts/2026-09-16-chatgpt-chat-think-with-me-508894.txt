@@ -1,0 +1,3 @@
+ChatGPT Chat = think with me. 
+ChatGPT Work = do this job with me. 
+Codex = build this software with me.

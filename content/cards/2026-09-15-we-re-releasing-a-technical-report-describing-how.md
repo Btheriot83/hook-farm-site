@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/cursor_ai/status/2036566134468542651"
 creator_handle: @cursor_ai
 title: "We're releasing a technical report describing how Composer 2 was trained."
+hooks: ["We're releasing a technical report describing how Composer 2 was trained."]
 hook_onscreen: ""
 hook_spoken: "We're releasing a technical report describing how Composer 2 was trained."
 thumbnail_path: thumbs/2026-09-15-we-re-releasing-a-technical-report-describing-how.jpg

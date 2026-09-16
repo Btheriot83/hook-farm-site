@@ -1,0 +1,11 @@
+GOOGLE JUST SHOWED A NEW WAY TO MAKE AI AGENTS BETTER WITHOUT RETRAINING THEM
+
+Dream-RSI lets an agent replay its own past discovery attempts and test thousands of alternative strategies before making the next real-world move.
+
+▫️ improves exploration instead of model weights
+▫️ matches or improves discovery quality
+▫️ cuts agent calls by up to 162× in one setting
+
+The crazy part..?
+
+The model stays the same. The strategy evolves. 👀

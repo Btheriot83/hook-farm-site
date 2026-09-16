@@ -1,0 +1,1 @@
+Fleet managers don’t need another dashboard. They need maintenance work to move. Built GantryPact to monitor hours, inspections, repairs, parts, and vendors—then route action and deliver daily fleet-readiness reports. Live soon.

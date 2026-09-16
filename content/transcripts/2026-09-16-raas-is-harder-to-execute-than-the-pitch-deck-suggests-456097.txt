@@ -1,0 +1,7 @@
+RaaS is harder to execute than the pitch deck suggests.
+
+The recurring revenue story is clean. The operational reality is not. Uptime guarantees, field service coverage, SLA disputes, fleet maintenance costs — these eat margin fast if you haven't modeled them carefully.
+
+Locus Robotics, Roboworx, and Aescape are putting people on a panel at RoboBusiness 2026 (Oct. 20, Santa Clara) to get into the actual mechanics: contract structure, customer success metrics, unit economics at scale.
+
+For anyone pricing a RaaS offering right now: how are you handling the gap between promised uptime and the real cost of delivering it in the field?

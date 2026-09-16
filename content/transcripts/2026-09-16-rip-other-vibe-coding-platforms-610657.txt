@@ -1,0 +1,11 @@
+RIP other vibe coding platforms.
+
+We just launched Macaly Cloud. We built it without the most expensive part of a vibe coding platform: the coding agent.
+
+You already pay for ChatGPT or Claude. Let them write the code. We provide:
+→ database, auth and hosting
+→ domains and payments
+→ SEO, analytics and security checks
+→ image generation and web scraping
+
+Free until October 1. Then $10/month. macaly.com/cloud

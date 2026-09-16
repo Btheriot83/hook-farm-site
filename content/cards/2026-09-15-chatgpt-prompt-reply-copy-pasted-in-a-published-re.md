@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/Saboo_Shubham_/status/1768714521340752093"
 creator_handle: @Saboo_Shubham_
 title: ChatGPT prompt reply copy-pasted in a published research paper.
+hooks: ["ChatGPT prompt reply copy-pasted in a published research paper."]
 hook_onscreen: ""
 hook_spoken: ChatGPT prompt reply copy-pasted in a published research paper.
 thumbnail_path: thumbs/2026-09-15-chatgpt-prompt-reply-copy-pasted-in-a-published-re.png

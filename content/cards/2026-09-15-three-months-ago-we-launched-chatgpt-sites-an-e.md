@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/ChatGPT/status/2098457920291946894"
 creator_handle: @ChatGPT
 title: Three months ago, we launched ChatGPT Sites – an easy way for anyone to build and host fully functional, interactive web apps. Since then, people have created o
+hooks: ["Three months ago, we launched ChatGPT Sites – an easy way for anyone to build and host fully functional, interactive web apps. Since then, people have created o"]
 hook_onscreen: ""
 hook_spoken: Three months ago, we launched ChatGPT Sites – an easy way for anyone to build and host fully functional, interactive web apps. Since then, people have created o
 thumbnail_path: null

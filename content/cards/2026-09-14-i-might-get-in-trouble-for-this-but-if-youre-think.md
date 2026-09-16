@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/poteto/status/2089369732554404153"
 creator_handle: @poteto
 title: I might get in trouble for this, but if you’re thinking about switching to Cursor + @bot, DM me your email and a screens
+hooks: ["I might get in trouble for this, but if you’re thinking about switching to Cursor + @bot, DM me your email and a screenshot of canceling your other sub(s) and I’ll send you a free month of Ultra 👀"]
 hook_onscreen: ""
 hook_spoken: I might get in trouble for this, but if you’re thinking about switching to Cursor + @bot, DM me your email and a screenshot of canceling your other sub(s) and I’ll send you a free month of Ultra 👀
 thumbnail_path: thumbs/2026-09-14-i-might-get-in-trouble-for-this-but-if-youre-think.jpg

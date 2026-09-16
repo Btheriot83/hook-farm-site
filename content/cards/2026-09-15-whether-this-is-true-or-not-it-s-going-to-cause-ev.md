@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/thdxr/status/2034978341594231245"
 creator_handle: @thdxr
 title: "whether this is true or not it's going to cause every company producing open source models to re-evaluate if they should continue to do so"
+hooks: ["whether this is true or not it's going to cause every company producing open source models to re-evaluate if they should continue to do so"]
 hook_onscreen: ""
 hook_spoken: "whether this is true or not it's going to cause every company producing open source models to re-evaluate if they should continue to do so"
 thumbnail_path: null

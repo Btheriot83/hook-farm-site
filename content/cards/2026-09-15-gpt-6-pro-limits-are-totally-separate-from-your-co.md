@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/DavidOndrej1/status/2099594885783277815"
 creator_handle: @DavidOndrej1
 title: GPT-6 Pro limits are totally separate from your Codex limits
+hooks: ["GPT-6 Pro limits are totally separate from your Codex limits"]
 hook_onscreen: ""
 hook_spoken: GPT-6 Pro limits are totally separate from your Codex limits
 thumbnail_path: null

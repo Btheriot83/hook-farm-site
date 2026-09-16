@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/runwayml/status/1817963062646722880"
 creator_handle: @runwayml
 title: Today we are releasing Gen-3 Alpha Image to Video. This update allows you to use any image as the first frame of your video generation, either on its own or wit
+hooks: ["Today we are releasing Gen-3 Alpha Image to Video. This update allows you to use any image as the first frame of your video generation, either on its own or wit"]
 hook_onscreen: ""
 hook_spoken: Today we are releasing Gen-3 Alpha Image to Video. This update allows you to use any image as the first frame of your video generation, either on its own or wit
 thumbnail_path: thumbs/2026-09-15-today-we-are-releasing-gen-3-alpha-image-to-video.jpg

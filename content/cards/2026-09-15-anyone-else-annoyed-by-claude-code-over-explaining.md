@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/moshhamedani/status/2099592389275091161"
 creator_handle: @moshhamedani
 title: "Anyone else annoyed by Claude Code over-explaining lately? Also, all these \\\"privately\\\" things driving me nuts, adding too much mental overhead."
+hooks: ["Anyone else annoyed by Claude Code over-explaining lately? Also, all these \\\\\\\"privately\\\\\\\" things driving me nuts, adding too much mental overhead."]
 hook_onscreen: ""
 hook_spoken: "Anyone else annoyed by Claude Code over-explaining lately? Also, all these \\\"privately\\\" things driving me nuts, adding too much mental overhead."
 thumbnail_path: null

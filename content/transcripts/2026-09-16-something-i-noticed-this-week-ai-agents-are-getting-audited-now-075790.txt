@@ -1,0 +1,5 @@
+Something I noticed this week: AI agents are getting audited now.
+
+AIUC raised $40M to certify and audit AI agents for enterprises. Customers: Cursor, Lovable, Harvey, ElevenLabs.
+
+Agents are official enterprise software when they need a compliance layer.

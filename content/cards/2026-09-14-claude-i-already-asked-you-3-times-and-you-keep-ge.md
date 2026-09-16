@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/davidonchainx/status/2039010627788661067"
 creator_handle: @davidonchainx
 title: "\\\"CLAUDE I ALREADY ASKED YOU 3 TIMES AND YOU KEEP GETTING IT WRONG, THINK LIKE A SOFTWARE ENGINEER AND FIX THIS BUG, MAKE"
+hooks: ["\\\\\\\"CLAUDE I ALREADY ASKED YOU 3 TIMES AND YOU KEEP GETTING IT WRONG, THINK LIKE A SOFTWARE ENGINEER AND FIX THIS BUG, MAKE NO MISTAKES\\\\\\"]
 hook_onscreen: ""
 hook_spoken: "\\\"CLAUDE I ALREADY ASKED YOU 3 TIMES AND YOU KEEP GETTING IT WRONG, THINK LIKE A SOFTWARE ENGINEER AND FIX THIS BUG, MAKE NO MISTAKES\\\""
 thumbnail_path: thumbs/2026-09-14-claude-i-already-asked-you-3-times-and-you-keep-ge.jpg

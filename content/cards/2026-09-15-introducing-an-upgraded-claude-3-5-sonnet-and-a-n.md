@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/AnthropicAI/status/1848742740420341988"
 creator_handle: @AnthropicAI
 title: "Introducing an upgraded Claude 3.5 Sonnet, and a new model, Claude 3.5 Haiku. We’re also introducing a new capability in beta: computer use."
+hooks: ["Introducing an upgraded Claude 3.5 Sonnet, and a new model, Claude 3.5 Haiku. We’re also introducing a new capability in beta: computer use."]
 hook_onscreen: ""
 hook_spoken: "Introducing an upgraded Claude 3.5 Sonnet, and a new model, Claude 3.5 Haiku. We’re also introducing a new capability in beta: computer use."
 thumbnail_path: thumbs/2026-09-15-introducing-an-upgraded-claude-3-5-sonnet-and-a-n.png

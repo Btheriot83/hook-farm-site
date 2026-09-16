@@ -1,0 +1,21 @@
+First version of the client homepage is done.
+
+And yeah... it looks like classic AI slop 😂
+Or am I being too harsh?
+My process so far:
+
+Client sent me the basic idea and assets
+
+The crazy part: he didn’t even have the logo as a standalone file
+He only had a ChatGPT-generated office image with the logo inside it
+My colleague turned that into a proper branding manual for €150
+I generated the first homepage version in Claude Design
+Then I gave it URLs of websites I actually like as visual references
+Next step: export the result and finish the real work in Claude Code
+That’s basically my workflow right now:
+
+AI draft → references → export → manual refinement → client-ready version
+
+What do you think about this first version?
+
+If you want to see the branding manual too, I can post that later.

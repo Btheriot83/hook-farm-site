@@ -1,0 +1,325 @@
+PAID VERSION → FREE ALTERNATIVE
+
+1. ChatGPT Plus → Google Gemini
+2. Netflix Premium → Tubi
+3. Spotify Premium → SoundCloud
+4. YouTube Premium → NewPipe
+5. Canva Pro → Adobe Express
+6. Microsoft 365 → LibreOffice
+7. Adobe Photoshop → GIMP
+8. Figma Pro → Penpot
+9. Adobe Premiere Pro → DaVinci Resolve
+10. Grammarly Premium → LanguageTool
+11. Midjourney → Microsoft Designer
+12. Notion AI → Obsidian
+13. Claude Pro → Google Gemini
+14. Adobe Illustrator → Inkscape
+15. Zoom Pro → Google Meet
+16. Slack Pro → Discord
+17. Dropbox → Google Drive
+18. Adobe Acrobat Pro → PDFgear
+19. GitHub Copilot → Codeium
+20. CapCut Pro → DaVinci Resolve
+21. After Effects → Blender
+22. Microsoft Visio → draw io
+23. 1Password → Bitwarden
+24. LastPass Premium → Bitwarden
+25. Webflow → Framer
+26. Trello Premium → ClickUp
+27. Calendly Premium → Cal. com
+28. Audible → LibriVox
+29. Amazon Prime Video → Pluto TV
+30. Disney+ → Tubi
+31. Apple TV+ → Pluto TV
+32. Xbox Game Pass → Epic Games Store
+33. Final Cut Pro → DaVinci Resolve
+34. Adobe Lightroom → Darktable
+35. Loom → OBS Studio
+36. Typeform → Google Forms
+37. Mailchimp Premium → Brevo
+38. Zapier → Make
+39. Miro → FigJam
+40. Google Workspace → Zoho Workplace
+41. Perplexity Pro → You com
+42. Cursor Pro → Continue
+43. Evernote → Joplin
+44. Todoist Pro → Microsoft To Do
+45. NordVPN → Proton VPN
+46. ExpressVPN → Windscribe
+47. AutoCAD → FreeCAD
+48. Salesforce → HubSpot
+49. Shopify → WooCommerce
+50. Jira Premium → Plane
+
+AI + CREATOR TOOLS
+
+51. Jasper AI → Writesonic
+52. Synthesia → HeyGen
+53. ElevenLabs → TTSMaker
+54. Murf AI → TTSMaker
+55. Runway → Kling AI
+56. Pika → Luma Dream Machine
+57. Leonardo AI → Playground AI
+58. DALL·E → Craiyon
+59. Ideogram → Microsoft Designer
+60. Gamma → Google Slides
+61. Beautiful ai → Google Slides
+62. Tome → Google Slides
+63. Otter ai Pro → Notta
+64. Fireflies ai → Fathom
+65. Krisp Pro → NVIDIA Broadcast
+66. Descript → Audacity
+67. Riverside → OBS Studio
+68. VEED Pro → CapCut
+69. InVideo Pro → CapCut
+70. Camtasia → OBS Studio
+71. ScreenFlow → OBS Studio
+72. Snagit → ShareX
+73. Screen Studio → OBS Studio
+74. QuillBot Premium → LanguageTool
+75. Hemingway Editor Plus → LanguageTool
+76. Freepik Premium → unDraw
+77. Envato Elements → Mixkit
+78. Shutterstock → Unsplash
+79. Adobe Stock → Pexels
+80. Epidemic Sound → Pixabay Music
+81. Artlist → Free Music Archive
+82. Flaticon Premium → SVG Repo
+83. Icons8 Pro → Lucide
+84. Font Awesome Pro → Heroicons
+85. Adobe Fonts → Google Fonts
+86. Sketch → Penpot
+87. Affinity Photo → GIMP
+88. Affinity Designer → Inkscape
+89. CorelDRAW → Inkscape
+90. Adobe InDesign → Scribus
+91. Affinity Publisher → Scribus
+92. Adobe XD → Penpot
+93. Cinema 4D → Blender
+94. Autodesk Maya → Blender
+95. Autodesk 3ds Max → Blender
+96. ZBrush → Blender
+97. Substance 3D Painter → ArmorPaint
+98. Pro Tools → Audacity
+99. FL Studio → LMMS
+100. Ableton Live → LMMS
+101. Logic Pro → GarageBand
+102. Adobe Audition → Audacity
+103. Motion → Blender
+104. DaVinci Resolve Studio → Kdenlive
+105. Final Cut Pro → Shotcut
+
+MARKETING + BUSINESS
+
+106. Semrush → Ubersuggest
+107. Ahrefs → Google Search Console
+108. Moz Pro → Google Search Console
+109. Surfer SEO → Google Keyword Planner
+110. Similarweb → Google Trends
+111. BuzzSumo → Google Trends
+112. Hotjar Pro → Microsoft Clarity
+113. Hootsuite → Buffer
+114. Sprout Social → Metricool
+115. Later → Buffer
+116. SocialBee → Buffer
+117. ConvertKit → Substack
+118. Beehiiv → Substack
+119. HubSpot Marketing Hub → Mautic
+120. Intercom → Tawk to
+121. Zendesk → Zammad
+122. Freshdesk → Zammad
+123. DocuSign → SignWell
+124. PandaDoc → Jotform
+125. SurveyMonkey → Google Forms
+126. Airtable → Baserow
+127. Asana Premium → OpenProject
+128. Monday com → Taiga
+129. ClickUp → OpenProject
+130. Microsoft Project → ProjectLibre
+131. QuickBooks Online → Wave
+132. FreshBooks → Wave
+133. Xero → Wave
+134. Dropbox Sign → SignWell
+135. Nitro PDF Pro → PDF24
+136. Smallpdf Pro → PDF24
+137. CamScanner Premium → Microsoft Lens
+138. TeamViewer → RustDesk
+139. AnyDesk → RustDesk
+140. Dashlane Premium → Bitwarden
+141. NordPass Premium → Bitwarden
+142. Squarespace → WordPress
+143. Wix Premium → WordPress
+144. BigCommerce → WooCommerce
+145. Elementor Pro → Brizy
+146. Divi → Brizy
+147. WP Rocket → LiteSpeed Cache
+148. Yoast SEO Premium → Rank Math
+149. Rank Math Pro → The SEO Framework
+150. WPForms Pro → Forminator
+151. Gravity Forms → Forminator
+152. MemberPress → Paid Memberships Pro
+153. Google One → Proton Drive
+154. Microsoft OneDrive → MEGA
+155. Microsoft Teams → Jitsi Meet
+
+DEVELOPER + TECH
+
+156. Replit Core → StackBlitz
+157. Postman Pro → Insomnia
+158. Docker Desktop Pro → Podman
+159. Datadog → Grafana
+160. New Relic → Grafana
+161. Sentry → GlitchTip
+162. Firebase → Supabase
+163. MongoDB Atlas → Supabase
+164. Vercel Pro → Cloudflare Pages
+165. Netlify Pro → Cloudflare Pages
+166. Heroku → Render
+167. AWS → Oracle Cloud Free Tier
+168. Twilio → Telnyx
+169. Algolia → Meilisearch
+170. Pinecone → Qdrant
+171. OpenAI API → Google AI Studio
+172. Claude API → Gemini API
+173. WebStorm → VS Code
+174. PyCharm Professional → VS Code
+175. DataGrip → DBeaver
+176. IntelliJ IDEA Ultimate → Eclipse
+177. Rider → Visual Studio Community
+178. Visual Studio Professional → Eclipse
+179. Sublime Text → Notepad++
+180. UltraEdit → Notepad++
+181. Charles Proxy → mitmproxy
+182. Splunk → OpenSearch
+183. Terraform Cloud → OpenTofu
+184. GitHub Enterprise → Gitea
+185. GitLab Premium → Gitea
+186. Elasticsearch Cloud → OpenSearch
+187. SendGrid → Brevo
+188. Mailgun → Brevo
+189. Make → n8n
+190. PagerDuty → Grafana OnCall
+
+DATA + ENGINEERING + PROFESSIONAL
+
+191. MATLAB → GNU Octave
+192. Mathematica → SageMath
+193. SPSS → PSPP
+194. Stata → Gretl
+195. Tableau → Apache Superset
+196. Power BI Pro → Looker Studio
+197. Qlik Sense → Metabase
+198. Alteryx → KNIME
+199. Minitab → Jamovi
+200. ArcGIS → QGIS
+201. SolidWorks → FreeCAD
+202. SketchUp Pro → Blender
+203. Revit → FreeCAD
+204. Fusion 360 → FreeCAD
+205. Rhino 3D → Blender
+206. MATLAB Simulink → Scilab Xcos
+207. LabVIEW → GNU Radio
+208. COMSOL → OpenFOAM
+209. ANSYS → OpenFOAM
+210. Wolfram Alpha Pro → GeoGebra
+211. QuarkXPress → Scribus
+212. Microsoft Project → ProjectLibre
+213. Microsoft Visio → diagrams net
+214. Tableau → Metabase
+215. Power BI Pro → Apache Superset
+
+MORE FREE ALTERNATIVES
+
+216. Adobe Premiere Pro → Kdenlive
+217. After Effects → Natron
+218. Final Cut Pro → Kdenlive
+219. Adobe Acrobat Pro → PDF24
+220. Adobe Express Premium → VistaCreate
+221. Canva Pro → VistaCreate
+222. Figma Pro → Lunacy
+223. Sketch → Lunacy
+224. Photoshop → Photopea
+225. Lightroom → RawTherapee
+226. Illustrator → Vectr
+227. InDesign → Scribus
+228. Pro Tools → Cakewalk
+229. Ableton Live → Cakewalk
+230. ScreenFlow → OBS Studio
+231. Loom Business → ScreenPal
+232. Slack Pro → Mattermost
+233. Zoom Pro → Jitsi Meet
+234. Discord Nitro → Telegram
+235. 1Password → KeePassXC
+236. LastPass Premium → KeePassXC
+237. Evernote → Standard Notes
+238. Todoist Pro → Super Productivity
+239. Notion → Anytype
+240. Airtable → NocoDB
+241. Jira → OpenProject
+242. Monday com → OpenProject
+243. Calendly → ZCal
+244. Typeform → Tally
+245. Mailchimp → MailerLite
+246. Hootsuite → Publer
+247. Sprout Social → Buffer
+248. HubSpot → Bitrix24
+249. Adobe Stock → Pixabay
+250. Shutterstock → Pexels
+251. Envato Elements → Pixabay
+252. Freepik Premium → Pixabay
+253. Epidemic Sound → Free Music Archive
+254. Artlist → Pixabay Music
+255. Dropbox → Proton Drive
+256. Google Drive Storage → MEGA
+257. NordVPN → Windscribe
+258. ExpressVPN → Proton VPN
+259. TeamViewer → RustDesk
+260. AnyDesk → Chrome Remote Desktop
+261. AutoCAD → LibreCAD
+262. SolidWorks → SolveSpace
+263. MATLAB → Scilab
+264. SPSS → Jamovi
+265. Tableau → Metabase
+266. Power BI Pro → Metabase
+267. ArcGIS → QGIS
+268. WebStorm → VSCodium
+269. PyCharm Professional → VSCodium
+270. DataGrip → Beekeeper Studio
+271. Postman Pro → Bruno
+272. Docker Desktop Pro → Rancher Desktop
+273. Datadog → Prometheus
+274. New Relic → OpenTelemetry
+275. Sentry → Highlight io
+276. Firebase → Appwrite
+277. MongoDB Atlas → Neon
+278. Vercel Pro → GitHub Pages
+279. Netlify Pro → GitHub Pages
+280. Algolia → Typesense
+281. Pinecone → Weaviate
+282. Elasticsearch Cloud → OpenSearch
+283. GitHub Copilot → Continue
+284. Cursor Pro → VS Code + Continue
+285. Zapier → n8n
+286. Miro → Excalidraw
+287. Trello Premium → Taiga
+288. Asana Premium → Taiga
+289. Adobe XD → Penpot
+290. ProtoPie → Penpot
+291. Zeplin → Storybook
+292. Adobe Audition → Ocenaudio
+293. Camtasia → ShareX + OBS Studio
+294. Microsoft 365 → ONLYOFFICE
+295. Google Workspace → ONLYOFFICE
+296. Adobe Acrobat Pro → Stirling PDF
+297. Microsoft Visio → yEd
+298. Microsoft Project → GanttProject
+299. QuickBooks → GnuCash
+300. Xero → GnuCash
+
+300 PAID TOOLS.
+300 FREE ALTERNATIVES.
+
+Stop paying for subscriptions when free options exist.
+
+Bookmark this.
+Check it before you buy your next tool.

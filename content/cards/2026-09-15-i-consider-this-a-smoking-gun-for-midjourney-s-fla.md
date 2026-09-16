@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/Rahll/status/1739003201221718466"
 creator_handle: @Rahll
 title: "I consider this a smoking gun for Midjourney's flagrant copyright infringement. A 6-word prompt can replicate a Dune still nearly 1:1 every time. These aren't v"
+hooks: ["I consider this a smoking gun for Midjourney's flagrant copyright infringement. A 6-word prompt can replicate a Dune still nearly 1:1 every time. These aren't v"]
 hook_onscreen: ""
 hook_spoken: "I consider this a smoking gun for Midjourney's flagrant copyright infringement. A 6-word prompt can replicate a Dune still nearly 1:1 every time. These aren't v"
 thumbnail_path: thumbs/2026-09-15-i-consider-this-a-smoking-gun-for-midjourney-s-fla.jpg

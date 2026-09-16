@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/bcherny/status/2007179832300581177"
 creator_handle: @bcherny
 title: "I'm Boris and I created Claude Code. Lots of people have asked how I use Claude Code, so I wanted to show off my setup a bit."
+hooks: ["I'm Boris and I created Claude Code. Lots of people have asked how I use Claude Code, so I wanted to show off my setup a bit."]
 hook_onscreen: ""
 hook_spoken: "I'm Boris and I created Claude Code. Lots of people have asked how I use Claude Code, so I wanted to show off my setup a bit."
 thumbnail_path: null

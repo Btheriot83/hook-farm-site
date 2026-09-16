@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/markchen90/status/2097400166554993041"
 creator_handle: @markchen90
 title: "Two things to distinguish:"
+hooks: ["Two things to distinguish:"]
 hook_onscreen: ""
 hook_spoken: "Two things to distinguish:"
 thumbnail_path: null

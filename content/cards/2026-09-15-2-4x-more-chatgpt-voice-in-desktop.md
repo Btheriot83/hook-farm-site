@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/athyuttamre/status/2099633549007568977"
 creator_handle: @athyuttamre
 title: ⚡️ 2.4x more ChatGPT Voice in Desktop
+hooks: ["⚡️ 2.4x more ChatGPT Voice in Desktop"]
 hook_onscreen: ""
 hook_spoken: ⚡️ 2.4x more ChatGPT Voice in Desktop
 thumbnail_path: null

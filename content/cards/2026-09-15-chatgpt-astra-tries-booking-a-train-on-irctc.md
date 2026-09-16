@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/IndianTechGuide/status/2099736414216974599"
 creator_handle: @IndianTechGuide
 title: 🚨 ChatGPT Astra tries booking a train on IRCTC.
+hooks: ["🚨 ChatGPT Astra tries booking a train on IRCTC."]
 hook_onscreen: ""
 hook_spoken: 🚨 ChatGPT Astra tries booking a train on IRCTC.
 thumbnail_path: thumbs/2026-09-15-chatgpt-astra-tries-booking-a-train-on-irctc.jpg

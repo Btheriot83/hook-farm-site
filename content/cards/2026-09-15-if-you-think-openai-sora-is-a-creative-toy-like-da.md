@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/DrJimFan/status/1758210245799920123"
 creator_handle: @DrJimFan
 title: If you think OpenAI Sora is a creative toy like DALLE, ... think again. Sora is a data-driven physics engine. It is a simulation of many worlds, real or fantast
+hooks: ["If you think OpenAI Sora is a creative toy like DALLE, ... think again. Sora is a data-driven physics engine. It is a simulation of many worlds, real or fantast"]
 hook_onscreen: ""
 hook_spoken: If you think OpenAI Sora is a creative toy like DALLE, ... think again. Sora is a data-driven physics engine. It is a simulation of many worlds, real or fantast
 thumbnail_path: thumbs/2026-09-15-if-you-think-openai-sora-is-a-creative-toy-like-da.jpg

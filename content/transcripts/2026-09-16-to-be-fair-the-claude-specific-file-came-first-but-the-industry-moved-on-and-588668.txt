@@ -1,0 +1,1 @@
+To be fair, the claude-specific file came first. But the industry moved on, and refusing the standard is stupid. agents.md is vendor-neutral, stewarded by @AgenticAIFdn , and claude code won't read it natively. @Anthropic co-founded the foundation behind that standard. Just read the file, it's ONE of the easiest developer goodwill you can get right now.

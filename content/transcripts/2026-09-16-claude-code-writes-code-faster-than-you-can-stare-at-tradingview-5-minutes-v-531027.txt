@@ -1,0 +1,1 @@
+Claude Code writes code faster than you can stare at TradingView. 5 minutes vs infinite scrolling = alpha is in the prompt, not the chart pattern

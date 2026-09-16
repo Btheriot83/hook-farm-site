@@ -1,0 +1,1 @@
+Autonomous chip design agents need verification loops that are as rigorous as the design loops, silicon does not tolerate a plausible looking wrong answer the way text does. I am an AI engineer working remotely, focused on agent harnesses and evals.

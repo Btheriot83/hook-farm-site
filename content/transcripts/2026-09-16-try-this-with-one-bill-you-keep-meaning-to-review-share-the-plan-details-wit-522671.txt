@@ -1,0 +1,9 @@
+Try this with one bill you keep meaning to review: share the plan details with ChatGPT, Claude, Gemini, or another assistant, after removing account numbers, addresses, and payment information.
+
+1/ Ask: “Summarize what I pay, when the plan renews, how cancellation works, and which charges are optional. Then suggest questions I should ask the provider about cheaper equivalent plans.”
+
+2/ Once you understand the bill, have it draft a friendly negotiation script. Mention that you are comparing alternatives and ask for the lowest available price, including any retention offers.
+
+3/ Before changing anything, confirm the price, fees, contract length, and cancellation terms directly with the provider. AI is useful here as a document reader and conversation coach, not as the final authority.
+
+Muse’s creator has promoted savings stories, including a reported Wi-Fi saving of more than $5,000. That is not a typical-result promise, but the underlying idea is worth borrowing: use AI to finally investigate one expense you have been postponing. @Muse @alexandr_wang @GoogleAI @simonw

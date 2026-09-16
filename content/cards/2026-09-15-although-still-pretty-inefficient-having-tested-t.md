@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/synthwavedd/status/2099660224059637876"
 creator_handle: @synthwavedd
 title: "Although still pretty inefficient, having tested the new Opus (currently in stealth in Claude Code for most subs) it's a biiig step up over Opus 5."
+hooks: ["Although still pretty inefficient, having tested the new Opus (currently in stealth in Claude Code for most subs) it's a biiig step up over Opus 5."]
 hook_onscreen: ""
 hook_spoken: "Although still pretty inefficient, having tested the new Opus (currently in stealth in Claude Code for most subs) it's a biiig step up over Opus 5."
 thumbnail_path: null

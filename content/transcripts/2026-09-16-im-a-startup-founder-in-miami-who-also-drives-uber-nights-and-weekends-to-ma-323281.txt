@@ -1,0 +1,79 @@
+I’m a startup founder in Miami who also drives Uber nights and weekends to make ends meet. @Uber , I want the platform to succeed. But I don’t think we’re measuring driver economics correctly.
+
+I reviewed 7 recent UberX rides from my own account. Excluding tips and toll reimbursements:
+
+57.03 passenger-trip miles
+2 hours 4 minutes with riders
+$62.28 in driver earnings before vehicle expenses
+
+If you look only at pickup-to-drop-off time, that appears to be about $30/hour gross.
+
+But that’s not a driver’s working clock.
+
+Our time starts when we accept the ride and begin driving to the passenger.
+
+If the drive to those 7 pickups averaged just 10 minutes each, my active time is already at least 3 hours 14 minutes, and the same $62.28 becomes about $19.26/hour gross.
+
+And that’s before counting additional pickup waiting.
+
+It’s also before energy, depreciation, tires, maintenance, cleaning and insurance.
+
+And it still excludes time online between rides and repositioning after a drop-off.
+
+Uber itself has used a definition of “active time” that includes driving to pickup, waiting and completing the trip.
+
+There’s another problem: paid wait time generally doesn’t begin until we reach the designated pickup point and the rider’s grace period expires.
+
+In Miami, real life isn’t always that clean.
+
+At a gated community, I can be sitting at the gate waiting for access while the app doesn’t consider me at the pickup.
+
+At an event, reaching a passenger can take 20–30+ minutes.
+
+If traffic or police make me circle while the rider is still inside, I’m still committing my time and vehicle to that ride, but the paid-wait clock may not reflect it.
+
+My receipt shows paid waiting at $0.19/minute, or $11.40/hour, once that clock is actually running.
+
+Here’s another benchmark that caught my attention:
+
+NYC’s 2026 minimum Uber/Lyft driver-pay formula is $1.283/mile + $0.681/minute.
+
+Apply that formula to the same 57.03 passenger miles and 124 passenger minutes and the minimum comes to about $157.61.
+
+My actual earnings on those Miami rides were $62.28.
+
+NYC is a different market and more expensive overall. I’m not saying Miami should copy NYC.
+
+But a ~2.5x difference is large enough to ask whether Miami’s driver economics are calibrated correctly.
+
+And this matters competitively.
+
+Driver-first alternatives are targeting exactly this pain point. Empower launched in Miami this year with a model that lets drivers set their own rates and keep the fare while paying the platform separately. Epic Rides is local and signing hundreds of drivers per week.
+
+I’m already seeing riders and drivers experiment with alternatives because cancellations, long pickup times and difficulty getting rides accepted hurt both sides.
+
+Uber has an enormous liquidity advantage today.
+
+But if better economics start pulling driver supply elsewhere, the consequences show up as longer ETAs and more cancellations. Eventually riders follow the supply.
+
+That’s how a driver-economics problem can become a market-share problem.
+
+I’m not arguing Uber should simply take less margin.
+
+I’m not arguing riders should simply pay dramatically more.
+
+I’m arguing that better driver economics can also mean more reliable supply, shorter pickups, fewer cancellations, less deadhead mileage and potentially less money required to incentivize supply.
+
+That can be good for riders, drivers AND shareholders.
+
+This is a small sample from my own driving, not a claim that 7 rides represent all of Miami.
+
+I’m using it to illustrate what I think is a measurement problem. @Uber : I’d genuinely like to see Miami driver economics published using total active time, actual pickup time, realistic vehicle costs and tips separated.
+
+That’s the number that matters.
+
+I’m not someone who comes with a problem without a solution.
+
+I put what I’d test in the next post.
+
+CC: @dkhos @andrewgordonmac @PrParameswaran @sachinkansal @_balaji_km @jillhazelbaker @Sarfraz_Maredia

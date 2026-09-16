@@ -1,0 +1,3 @@
+Yeah, this "RSI" is just a sort of automated mapping. It is helpful and sounds alright, but it's not the big RSI where a model is actually adding to its own weights.
+
+Having AI models writing code for new models, like Claude does, is a much bigger thing, overall.

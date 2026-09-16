@@ -1,0 +1,18 @@
+A sales inquiry arrives. Before you can send a proposal, someone has to research the buyer, check fit, define the scope, and verify the price.
+
+That’s where AI can help - but each step needs a clear job:
+
+→ Research: gather facts and sources; flag what’s unknown.
+→ Qualify: check the lead against your business criteria.
+→ Draft: use approved scope, claims, and pricing.
+→ Verify: check the evidence, requirements, and totals.
+→ Human approval: confirm the exact proposal and recipients.
+→ Send + log: record the result in your CRM and check before retrying.
+
+The useful measure isn’t how many proposals AI can write. It’s whether you send accurate proposals faster, with less rework.
+
+So when is a simple automation enough - and when are AI agents worth the extra cost?
+
+My guide explores 13 business workflows, 12 tools, and 3 practical agent teams, with an illustrative cost model to help you assess whether a project could pay off.
+
+Full guide: tw.eir-nya.gay/Colentbur/status/21001…

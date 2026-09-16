@@ -1,0 +1,6 @@
+Anthropic says seven China AI labs ran industrial-scale Claude distillation
+
+Anthropic disrupted distillation attacks from seven Chinese labs:
+- Alibaba, Moonshot, DeepSeek, Z.ai , MiniMax named
+
+The AI race got more confrontational. thehackernews.com/2026/09/an…

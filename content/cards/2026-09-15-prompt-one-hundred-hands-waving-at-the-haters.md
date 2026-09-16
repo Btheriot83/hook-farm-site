@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/tristwolff/status/1636188634012438530"
 creator_handle: @tristwolff
 title: "Prompt: one hundred hands waving at the haters 😅 "
+hooks: ["Prompt: one hundred hands waving at the haters 😅 "]
 hook_onscreen: ""
 hook_spoken: "Prompt: one hundred hands waving at the haters 😅 "
 thumbnail_path: thumbs/2026-09-15-prompt-one-hundred-hands-waving-at-the-haters.jpg

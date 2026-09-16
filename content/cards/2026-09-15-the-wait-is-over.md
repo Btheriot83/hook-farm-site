@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/runwayml/status/1640337292542844928"
 creator_handle: @runwayml
 title: The wait is over.
+hooks: ["The wait is over."]
 hook_onscreen: ""
 hook_spoken: The wait is over.
 thumbnail_path: thumbs/2026-09-15-the-wait-is-over.jpg

@@ -1,0 +1,153 @@
+SPACEX
+Updated 2026-09-16
+Sources: your SpaceX + Space X Tesla XAi + Space X Data Centers + Space X$ bookmark folders (1354 unique posts).
+
+NEW TODAY
+- Folder set grew to 1354 unique posts. 17 new vs Sep 15 (1337).
+- Testers (Aaron Burnett (aaronburnett)): Gwynne is suggesting we rebrand data centers to super compute.
+- Testers (X Freeze (XFreeze)): SpaceX is making some serious heat shield upgrades for Starship Flight 14 🔥 This flight w…
+- Testers (DogeDesigner (cb_doge)): BREAKING: SpaceX has signed a Starfall mission deal with Luxembourg-based Space Cargo for…
+WHAT IT IS
+- SpaceX: launch (Falcon / Falcon Heavy / Starship), Starlink connectivity, Starshield, Dragon, SpaceXAI (Grok / Cursor), ground AI clusters (Colossus), and pitched orbital compute (Starmind).
+- Elon (via testers, company talk): founded to make life multiplanetary and extend consciousness beyond Earth.
+- Public ticker in these folders is $SPCX (post-IPO). Treat price, valuation, and “$100T” posts as Testers, not Official.
+- Testers (Sep 15–16): All-In Shotwell takeaways (SPCX100T / spcxGOD) — no more $SPCX stock issuance to fund infra; ground DCs + future orbital compute funded by Starlink cash flow + balance sheet + debt; compute rental demand with “no slowdown”; major announcement soon. Testers (DavidCarbutt_): Shotwell “no drop in demand at all”; Elon ARR talk $100B EOY 2026 / ~$300B EOY 2027. Testers (spcxGOD): $SPCX ~$8.49 above IPO (~95 days); catalysts Grok 4.7, Starship ~Sep 22, Nasdaq-100 rebalance Sep 21 (~$25B forced-buy talk), unlock Sep 24, SpaceXAI revenue update imminent; OpenAI ~$40B ARR / $1.2T vs SpaceX ~$42B ARR → ~$5T “fair value” talk — all Testers. Testers (aaronburnett): Shotwell “super compute” rebrand for data centers.
+- Testers (Sep 14–15): Gwynne Shotwell (All-In / tester clips) — SpaceX as much an AI business as space; compute rental demand strong with a “quick” announcement hint; ground data-center land cost framed $3k→$180k/acre (orbital compute pitch). Testers (SERobinsonJr): Shotwell + KDDI Starlink Mobile V2 service agreement at Starbase. Testers (BassonBrain): Barron’s walks back pre-IPO $90 take — AI scaled faster; shareholders “won.” Testers (spcxGOD / Gfilche): Nasdaq-100 weight 1.28%→~2.82% (~$25B forced-buy talk, Sep 21 rebalance); $SPCX ~$13 above IPO / $150 “bottom” talk; Q revenue $7.8B record + tester Q3 $12B P/S math — all Testers, not Official.
+- Testers ( $SPCX folder, Sep 8–13): unlock mechanics (319M shares / ~17% float; another 59.1M unlock; next unlock Sep 24; price talk ~$140–$154 peaks; Sep 11 close above $150 / +~$16 vs IPO per testers). Desk talk of NASDAQ-100 add / ~$12.4B–$15.5B passive/buying-pressure talk (testers markflowchatter / spcxGOD). Testers (BassonBrain / coinbureau / muskonomy / cb_doge): Vy Capital ~$40B/~3.4%; Vy framed SpaceX past $10T (Testers). Testers (nextbigfuture): ~$10B monthly revenue by Dec talk. Testers (spcxGOD): Microsoft framed as secret AI compute customer — all Testers. Compute GW talk: >2 GW YE / 5–10 GW next year; SpaceXAI ~$3.43B/mo from Dec 1 framed toward $100B ARR (testers). Pivotal Research initiated Buy citing Starship rapid reusability (cb_doge). All Testers — treat price/unlock/ARR as Testers, not Official.
+- Full Starship vehicle/flight detail lives in the separate Starship note. This note only keeps what these folders say.
+
+FALCON / LAUNCHES
+- Testers (LaceyPresley, Sep 14): ~620 Falcon flights / ~99% mission success (as of Mar 31 framing) — launch as infrastructure (“not a mission. A route. Not a rocket. A bus.”). Testers only.
+- Testers (cb_doge, Sep 13): SpaceX completed the 700th Falcon-family launch; also framed as 400th orbital launch from SLC-40 (345 by SpaceX). Tester year-by-year Falcon counts through 2026:107 — Testers only (no Official SpaceX 700th post in this dump).
+- Testers (BassonBrain): avg ~10 Falcon 9 Starlink/month over past 2 years; one Starship with ~60 V3 sats framed as bandwidth ≈ ~20 of those F9 missions — Testers only.
+- Official SpaceX (Sep 10): USSF-153 Falcon 9 from California — propellant load / weather ~70% favorable. Testers (XFreeze, Sep 11): USSF-153 launched successfully from Vandenberg; B1081 27th flight, landed on Of Course I Still Love You — Testers for launch/landing claim (no Official launch confirm in this dump). Testers also cite 658 successful Falcon booster landings (DimaZeniuk).
+- Testers (Aug 26): 101st Falcon 9 of 2026 from Vandenberg with 27 Starlink; B1082 24th flight; droneship Of Course I Still Love You. Testers pair it with a Florida “100th” ~24h earlier — cadence labels remain Testers only; no Official “101st” post in this dump.
+- Testers (Aug 25): 100th Falcon 9 of 2026 on a Florida 29-sat Starlink; Official posts confirm that launch/deployment but not the “100th” label. Prior dump testers dated a “100th Falcon” around Aug 22 (California 27-sat) — tester cadence labels conflict; do not treat as Official.
+- Testers: last planned Falcon 9 Starlink from Florida (Starlink 10-49); F9 Starlink continues from Vandenberg; Florida framed as shifting to Starship. B1067 record 37th flight and droneship landing.
+- Testers (SERobinsonJr): B1067 at Port Canaveral after that 37th flight/landing from Starlink 10-49. Testers also spotted droneships ASOG and JRTI plus a newly added Starship transport barge You’ll Thank Me Later (Marmac 31). Testers only.
+- Testers (XFreeze, prior dump): Falcon family ~681 F9 + 12 FH; individual boosters flown 36× (this dump: 37×). Dual Falcon 9s 38.5 minutes apart (record). Regular Starlink cadence from Cape and Vandenberg.
+- Elon (Mar 2026): over 500 rocket landings; Falcon 9 ~20 tons to orbit with reusable booster and fairing; delivered 119 satellites in one launch.
+- Testers quoting Elon: Falcon 9 retired when Starship flies reliably several times/week; no new Falcon bookings past 2028; some expendable hardware production already stopped — Testers.
+- Testers (VladSaigau / BassonBrain, prior): Falcon 9 list ~$70–74M; tester reuse-cost models — not Official.
+- Official SpaceX (Dec 2025): approval to develop SLC-37 at Cape Canaveral for Starship; construction started; three Florida pads framed for airport-like ops.
+- Elon (May 2026): considering several domestic and international sites for advanced spaceports.
+- Testers: classified USSF-366 from Vandenberg; analysts say likely Starshield. Official Q2: >$6B multi-year U.S. Starshield contracts.
+- Testers (cb_doge / XFreeze, Space Force filing): new PLEO firm-fixed-price task order (awarded July 28, published Aug 25) for Starshield aviation. At least 500 Mbps down / 100 Mbps up, worldwide, Tile + Tile Mini on cargo through fighters; one-year base through July 2027 plus option through July 2028. Testers say Space Force called SpaceX the only capable provider; value and aircraft count redacted. Not Official.
+- Official SpaceX (Jun 2026): Starfall demo — new recoverable microgravity / in-space manufacturing return vehicle; deployment confirmed; splashdown in the Pacific.
+- Official SpaceX: NASA Roman Space Telescope encapsulated in Falcon Heavy; launch Sunday Aug 30 from pad 39A. Testers: ~$4.3B payload, 7:26 a.m. EDT. Testers this dump: ~8 months ahead of schedule and under budget; Falcon Heavy “then and now” framing.
+
+- Testers (MarcusHouse / JoeTegtmeyer, Sep 12–13): Ship Quick Disconnect hook-in after a catch framed as enabling detank/safe of remaining propellant, then transport-stand prep — testing toward Flight 15. Testers only.
+- Testers (danielcher reply): Flight 14 targeting Sep 18 framed as revenue-generating Starship step — Testers only (not Official SpaceX NET in this dump).
+- Testers (RGVaerialphotos): drone footage of activity at newly acquired ~444-acre SpaceX site along Hwy 4 near Starbase. Testers only.
+STARSHIP
+- Testers (XFreeze, Sep 15): Flight 14 heat-shield upgrades — extra tile retention in high-risk areas; plasma-path fixes behind the shield; new curved tiles (lower gap heating); first reuse of flown Starship heat-shield tiles (Ship 40 → Ship 41 / Flight 13 hardware back on Flight 14). Testers only.
+- Testers (cb_doge): Starfall mission deal with Luxembourg Space Cargo — Starship’s first commercial mission framed for 2028; BentoBox system returning up to ~1 ton of customer payloads from orbit. Testers only (no Official SpaceX deal post in this dump).
+- Testers (spcxGOD / catalysts): Flight 14 framed as first full orbital insertion + ~20–26 production Starlink V3 deploy (high-capacity launch step) — targeting ~Tue Sep 22 in tester catalyst lists. Testers (Teslaconomics): each Starship launch potentially ~$1B revenue (Elon “not impossible” framing) — Testers only.
+- Testers quoting SpaceX CFO Bret Johnsen (Goldman Communacopia, Sep 10): Flight 14 later this month framed as revenue-generating — first operational Starlink V3s on Starship. Testers only for the quote framing; not an Official SpaceX post in this dump.
+- Testers (wvmattz / SERobinsonJr): Ship 42 (Flight 15) emerged from MB2 / left Massey’s short stay and returning to production; road-delay transport talk Sep 10–11. Testers (FelixSchlang, Sep 11): Ship 42 lifted at Pad 2 — framed as alignment test for post-catch ops. Testers only.
+- Testers (MarcusHouse): Pad 1 new roof + black sides lifted into place at Starbase (Sep 9). Testers only.
+- Keep light here. See the separate Starship how-to for flights, catch timeline, and V3/V4 detail.
+- Testers (is_OwenLewis): once Starship is fully operational, annual mass-to-space framed as making everyone else (incl. China) a rounding error vs ~7,117 launches / 22k+ sats historical totals — Testers only.
+- Official SpaceX: Flight 13 liftoff / next-gen flight deploying advanced Starlink sats; Flight 14 ship did a 60-second six-Raptor static fire.
+- Official SpaceX (Aug 25): Booster 21 moved to the pad at Starbase for static fire testing ahead of Flight 14. Testers: Pad 2; out of Megabay 1.
+- Official SpaceX (Aug 27): engineers spent several days inspecting Ship 40 in the waters off Christmas Island; collected heatshield samples and reentry data; improvements planned on future vehicles.
+- Testers (LaceyPresley): Raptor 3 is 250 tf (~551,000 lb) from one methane engine; booster carries 33. Testers only (not in the Official Ship 40 post).
+- Testers: Ship 41 Massey’s fires; Flight 14 framed as first real orbital / product flight with deorbit-burn work; testers also say Flight 14 uses a special internal alloy (not 301).
+- CONFLICT: some Aug 14 tester posts say Flight 14 is the first ship-catch attempt; Elon via Aug 20 testers says catch “in a few months.” Prefer the Aug 20 Elon line (same conflict as the Starship note).
+- Testers (Aug 25 announcement coverage): Starbase Louisiana / Pecan Island / Vermilion Parish — $100B+, construction 2027, first Starship 2029, thousands of flights/year, 30+/day and “over a dozen” towers via Elon quotes, airport + propellant/power/shipping. No Official SpaceX post of that announcement in this dump. Acreage 125k–136k and pad counts conflict across testers.
+- Testers (LAGovJeffLandry): Louisiana governor says SpaceX’s $100 billion investment will transform Louisiana. Testers/governor, not Official SpaceX.
+- Testers (FelixSchlang): Pad 39A flame diverter almost finished; pad in final stages; testers say first Starship from 39A is coming fast. Testers only (no Official SpaceX 39A Starship post in this dump).
+- Testers (LaceyPresley): tower ship-catch framed as operational unlock (no ocean recovery / landing legs; vehicle back same day); Flight 13 landing precise enough chopsticks would have caught it; remaining limiter is heat-shield (quick look vs tile-by-tile). Testers only.
+- Testers (LevLime): Starbase PA for a static fire (attempt 2). Testers only; no Official static-fire result in this dump.
+
+STARLINK
+- Testers (BassonBrain): one Starship ~60 V3 sats ≈ bandwidth of ~20 monthly-average F9 Starlink missions — Testers only.
+- Testers (DividendDad1): UK spent nearly $40M on Starlink and Starshield; framed as first country outside the US to confirm Starshield for military communications — Testers, not Official.
+- Testers (BassonBrain / Bloomberg Opinion): Chris Hughes argues Starlink is becoming a real threat to terrestrial telecoms (indoor/dense-city limits noted). Testers/opinion, not Official.
+- Official Q2 2026 (testers quoting the release + Official summary): Connectivity revenue $4.29B (+66% YoY); Starlink subscribers 12M (doubled YoY; +1.7M in Q2); ARPU ~$66/mo (tester earnings rundown). Testers also cite 167 countries and ~10,200 sats in orbit at Q2; this dump testers say constellation now passed 11,000.
+- Official SpaceX this dump: 29 Starlink launched from Florida + deployment confirmed; 27 Starlink deployment confirmed.
+- Testers this dump: another 27 Starlink from Vandenberg (paired with the “101st Falcon” claim); constellation still framed as past 11,000.
+- Official Starlink: Stargaze SSA / conjunction data offered free to all operators.
+- Official / testers: Flight 13 deployed Starlink V3 sats for the first time; testers — up to ~60 V3s per Starship, ~1 Tbps downlink each.
+- Testers: FCC filing talk of up to 100,000 Gen3 Starlink sats at ~1 Tbps each (news/tester, not an Official post in this dump).
+- Testers: last planned F9 Starlink from Florida; remaining F9 Starlink from Vandenberg.
+- Testers (XFreeze): TGS vessels 200 GB/day seismic → as much as 10 TB/day over Starlink; 30× lower latency; 15× faster uploads; Arctic.
+- Testers: Sherman, TX mall parking approved as a Starlink gateway; 800 MHz spectrum interest with ASTS for direct-to-device voice (reported). Testers also: Starlink Mobile 2027 / D2C from Starship.
+- Testers (muskonomy / FCC DA 26-747, WT Docket 26-187): Starlink Spectrum Holdings buying Tristar License Group outright for three uplink-only licences at 1695-1710 MHz (62 counties / 8 states / about 4% of U.S. pop). SpaceX asks renew, extend the terrestrial-build deadline to July 2027, and permanently waive ground-coverage duties in favor of satellite obligations. Light Reading: Tristar paid about $6M. Not Official.
+- Testers (cb_doge): SpaceX urging FCC to block Viasat-3 F2 from key U.S. spectrum; testers say Viasat failed a coordination agreement and Viasat’s own data shows excessive downlink interference ~1/3 of the time. Testers/filing, not Official.
+- Testers (cb_doge): SpaceX FCC filing urging review of outdated broadband funding (~97% of U.S. households have ≥2 high-speed providers; ~77% have ≥3) and redirect toward affordability. Testers/filing, not Official.
+- Testers (muskonomy): SpaceX asking FCC to scrutinize Iridium over blocking next-gen Starlink gateways; testers say Iridium filed 50+ petitions in 8 months and FCC rejected challenges 20 times. Testers/filing, not Official.
+
+- Testers (spcxGOD) [Space X$]: Microsoft framed as new secret AI compute customer of SpaceX; also argues if frontier labs slow, Grok can overtake while SpaceX owns compute/orbital compute/connectivity/Terafab/energy stacks — Testers only.
+- Testers (spcxGOD): SpaceX builds compute ~10× faster framing for frontier labs; Sep catalysts list includes Grok 4.7, Starship V3 deploy, NASDAQ forced buying, Anthropic IPO liquidity, unlock — Testers only. Also: one X subscription soon unlocking Supergrok + Cursor — Testers only.
+SPACEXAI / XAI
+- Testers quoting SpaceX CFO Bret Johnsen (Goldman Communacopia, Sep 10): another AI compute hosting deal ~$1.11B/month starting Dec 1, 2026 (~$13B annualized); more conviction on $100B ARR target. Testers also: Grok Bot “viral product” demand + Grok 4.6/4.7 → modeling revenue/GW rising from ~$30–50B/GW (aaronburnett). Not Official SpaceX posts in this dump.
+- Testers (travel_invest): CFO restated orbital compute — first Starmind satellite 2027 (aligns with prior Elon Q4 2027 AI1 / 2028 scale). Testers.
+- Official SpaceX (Jun 16, 2026): exercised option to acquire cursor_ai in an all-stock deal; SpaceXAI had been jointly training a model with Cursor (to ship in Cursor and Grok Build). Q2 Official: Cursor agreement at $60B; Grok 4.5 released in July.
+- Testers quoting Gwynne Shotwell (TIME): xAI merger happened quickly; xAI largely operates as its own entity with integration over time; Elon’s decision, Shotwell supportive.
+- Official Q2: AI revenue $2.56B (+247% YoY); $14.1B Cloud Services Agreements contracted; AI Capex $15.8B in the quarter.
+- Testers quoting Elon (earnings / company talk): AI revenue to exceed all other SpaceX revenue by September and significantly exceed it in Q4; ~$100B+ ARR targeted by December 2026; internal $1T revenue target moved to 2030 (non-zero chance 2029). Testers also quote Elon: AI ~99% of SpaceX’s value in ~4–5 years.
+- Testers (herbertong / Jo Bhakdi): Elon reportedly told employees AI revenue could be bigger than the rest of SpaceX next quarter; another major compute deal possible; $SPCX ~$135 — Testers/analyst.
+- Testers (JPMorgan): Cursor ~$4B ARR (~75% business); Grok 4.6 cheaper than peers; monthly models through 2026; Grok 5 expected December; Grok Bot as enterprise agents — analyst, not Official.
+- Testers on Colossus rentals: Anthropic ~$1.25B/mo, Google ~$920M/mo, Reflection ~$150M/mo (tester rundowns of compute deals).
+- Elon (Aug 1): hiring for AI supercomputer clusters on and off Earth — datacenters at spacex.com .
+- Testers (muskonomy): xAI–OpenAI trade-secret litigation; 9th Circuit appeal; OpenAI fee ask ~$1M — Testers/MLex, not SpaceX Official.
+- Space X Tesla XAi folder (2 posts, Testers only): merger / $200Tn combo speculation — not Official.
+
+DATA CENTERS / ORBITAL COMPUTE
+- Testers (spcxGOD, Sep 15): orbital DC pitch — free/infinite real estate, own launch, free cooling, free solar energy; also building own solar-panel manufacturing at scale (connectivity/compute/training/energy/launch framed in-house). Testers only.
+- Official SpaceX (Aug 4): partnering with Nvidia to design the Starmind AI1 satellite compute payload; each Starmind sat to include NVIDIA Rubin GPUs and Vera CPUs for datacenter-class space compute.
+- Testers on AI1 specs (not in the Official post text here): up to ~150 kW compute / ~120 kW sustained; solar + vacuum radiators; Starlink laser links; Gigasat factory in Bastrop; mass production / deployment talk for late 2027–2028.
+- Testers this dump: space-optimized Vera Rubin NVL72 (72 GPU / 36 CPU) launch window Q4 2027, scale 2028 — Testers.
+- Testers (SPCX100T): ~100–120 Starship launches per 1 GW orbital compute; Louisiana >30 flights/day → ~4 days per GW at that cadence — Testers only.
+- Testers quoting Elon: AI ~99% of SpaceX’s value in ~4–5 years; training on the ground, inference toward orbit.
+- Space X Data Centers folder: Testers say Elon declared launching “space data centers” next year; Testers quote Anthropic’s Daniela Amodei — preliminary interest, but space DCs “not on our to do list in 2027”; Testers quote SpaceX CFO Bret Johnsen — within a couple of years.
+- CONFLICT: “next year” / “couple of years” / Amodei “not 2027” / tester Q4 2027 NVL72 launch window / tester late-2027 production — timelines disagree; label all Testers except the Official Nvidia/Starmind post.
+
+- Testers (BassonBrain) [Space X$]: Vy Capital ~$40B / ~3.4% $SPCX — framed as 5th largest disclosed shareholder, ahead of Sequoia/Andreessen (tester read). Testers only.
+- Testers (spcxGOD) [Space X$]: claims Microsoft is the “secret” AI compute customer on the recent SpaceX compute deal; also ~$12–15.5B buying-pressure framing (~2 days volume) toward new highs — all Testers, not Official.
+- Testers (GrindeOptions) [Space X$]: $SPCX compute scale will need far more $TSLA Megapacks (“720 ain’t nothin’”). Testers only.
+STOCK / BUSINESS
+- Testers (SPCX100T / spcxGOD, Sep 15–16) [Space X$]: Shotwell — no capital raises via $SPCX stock for infrastructure; Starlink CF + BS + debt for ground/orbital compute buildout. $SPCX ~$8.49 above IPO (~95 days live). Near-term tester catalysts: Grok 4.7, Starship ~Sep 22, Anthropic IPO, Nasdaq rebalance Sep 21, unlock Sep 24, SpaceXAI revenue update. All Testers.
+- Testers (spcxGOD) [Space X$]: investor site tracking $SPCX (TA/FA/news, built with Grok) — Testers/promo, not Official.
+- Official Q2 2026: revenue $7.8B (+92% YoY); net loss $541M (improved $467M YoY); Adjusted EBITDA $3.5B (+191% YoY); segments Space / Connectivity / AI as above.
+- Testers: $SPCX IPO mid-2026; staggered lockups (float started ~5%); Aug unlocks and a second ~319M-share unlock around Aug 20 (tester timelines). This dump: ~$135–$137 chatter and a ~$1.86T valuation at $137 — do not treat as fact.
+- Testers (JPMorgan): Overweight, $240 PT. Testers quoting Elon: will “exceed” analyst 5-yr growth estimates (SpaceX +2,090% cited by testers).
+- Testers on ownership filings: Elon ~48.7%; large disclosed stakes (Alphabet/Google, Saudi PIF, Nvidia, Valor/Antonio Gracias, Harvard, etc.) — all tester reads of 13Fs. Testers this dump: a June 30 2026 “top 50 shareholders” spreadsheet — Testers only.
+- Testers (BassonBrain): Nvidia SEC filing read — 122.7 million $SPCX shares valued at $21B. Testers/filing, not Official SpaceX.
+- Testers quoting Elon (Teslaconomics / niccruzpatane): “My best guess for ~$3.5T revenue is roughly around 2033.” Testers quote (not an Official elonmusk or SpaceX post in this dump). Testers pair it with $SPCX ~$137 / ~$1.86T (already in this section) and contrast Morgan Stanley’s $3.5T in 2040.
+- Testers: Buffett/Berkshire ~0.04% indirect stake via nested holdings (~$700M estimate) — not a direct Official announcement.
+- Testers (Ron Baron, Chamath, Citi, MS, Polymarket IPO bets, “$100T” posts, 18,712 BTC hold): bull cases and valuations. Label Testers; they conflict with each other and with Official financials.
+- Folder Space X$ is mostly market chatter. Prefer Official earnings and Elon quotes over price-target threads.
+
+ACCESS AND PLANS
+- Elon: “Sign up for SpaceX investor relations updates!” (Jun 15, 2026). Public equity access in these posts is via $SPCX after the IPO — details beyond IR signup are tester.
+- Testers (SERobinsonJr): CFO Bret Johnsen at Goldman Sachs Communacopia and Technology Conference Thu Sep 10, 12:25 p.m. PT, Palace Hotel San Francisco; testers say live audio/replay on SpaceX IR. Testers, not Official.
+- Starlink: consumer / enterprise / government service (12M subs at Q2 per earnings rundowns). Watch Official SpaceX / Starlink for coverage and plans.
+- Starship rides are not a ticketed public product here; watch Official streams. Deep Starship plans → separate Starship note.
+- Elon: hiring for on/off-Earth AI datacenter clusters (datacenters at spacex.com ).
+- Official Starfall: path toward routine microgravity research / manufacturing return (demo flown; Redwire SpaceMD booking is tester news for late 2028).
+- Testers: spacex.com “Sites” page now lists U.S. locations including Starbase Louisiana.
+
+USEFUL WORKFLOWS
+- Cadence: follow Official SpaceX and tester launch boards (e.g. upcoming Starlink windows) for Falcon / Starlink; treat NET times as air-traffic hints. Next Official-dated payload: Roman on Falcon Heavy Aug 30 pad 39A.
+- Earnings / IR: use Official Q2 post + Elon IR signup; ignore unlocked-float panic, JPM price targets, and “$100T” threads as investment advice.
+- Earnings / IR this dump: testers date CFO Bret Johnsen at Goldman Sachs Communacopia Sep 10 (12:25 p.m. PT). Still testers, not Official.
+- Starship: Flight 14 gate is B21 pad static fire (Official); for catch timing and vehicle detail open the Starship note. Louisiana Starbase, Pad 39A flame-diverter, and this dump’s static-fire PA are Testers-only (no Official SpaceX announcement post).
+- Orbital compute: Official Nvidia/Starmind post is the anchor; treat “next year” / Q4 2027 NVL72 / GW-scale / AI1 kW posts as Testers and flag timeline conflicts.
+- National security / Starshield: expect thin Official detail; mission numbers (e.g. USSF-366) are often all that appears. This dump's aviation PLEO task order is Testers/filing only (no Official SpaceX post).
+
+KEY LINKS
+- SpaceX folder:
+- Space X Tesla XAi folder:
+- Space X Data Centers folder:
+- Space X$ folder:
+- Official Q2 2026 results:
+- Official Starmind / Nvidia AI1:
+- Official Cursor / SpaceXAI:
+- Official Flight 14 ship static fire:
+- Official B21 to pad for Flight 14 static fire:
+- Official Roman / Falcon Heavy encapsulation:
+- Official 29 Starlink from Florida:
+- Official 27 Starlink deployment:
+- Official Ship 40 Christmas Island inspection:

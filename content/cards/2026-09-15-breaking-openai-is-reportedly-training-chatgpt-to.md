@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/unusual_whales/status/2099653673974653205"
 creator_handle: @unusual_whales
 title: "BREAKING: OpenAI is reportedly training ChatGPT to not anthropomorphize itself, and to be less sycophantic, per 404 Media"
+hooks: ["BREAKING: OpenAI is reportedly training ChatGPT to not anthropomorphize itself, and to be less sycophantic, per 404 Media"]
 hook_onscreen: ""
 hook_spoken: "BREAKING: OpenAI is reportedly training ChatGPT to not anthropomorphize itself, and to be less sycophantic, per 404 Media"
 thumbnail_path: null

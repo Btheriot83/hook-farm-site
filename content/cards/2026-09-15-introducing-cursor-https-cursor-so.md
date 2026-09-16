@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/amanrsanger/status/1615539968772050946"
 creator_handle: @amanrsanger
 title: "Introducing Cursor!! (https://cursor.so)"
+hooks: ["Introducing Cursor!! (https://cursor.so)"]
 hook_onscreen: ""
 hook_spoken: "Introducing Cursor!! (https://cursor.so)"
 thumbnail_path: thumbs/2026-09-15-introducing-cursor-https-cursor-so.jpg

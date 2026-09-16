@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/steph_palazzolo/status/1890058003493343453"
 creator_handle: @steph_palazzolo
 title: "Anthropic's next Claude model is coming—and soon."
+hooks: ["Anthropic's next Claude model is coming—and soon."]
 hook_onscreen: ""
 hook_spoken: "Anthropic's next Claude model is coming—and soon."
 thumbnail_path: null

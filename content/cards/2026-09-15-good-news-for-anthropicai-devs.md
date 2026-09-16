@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/alexalbert__/status/1812921642143900036"
 creator_handle: @alexalbert__
 title: "Good news for @AnthropicAI devs:"
+hooks: ["Good news for @AnthropicAI devs:"]
 hook_onscreen: ""
 hook_spoken: "Good news for @AnthropicAI devs:"
 thumbnail_path: thumbs/2026-09-15-good-news-for-anthropicai-devs.jpg

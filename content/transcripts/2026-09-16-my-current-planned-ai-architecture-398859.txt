@@ -1,0 +1,3 @@
+My current (planned) AI architecture.
+
+One foreman. One crew. Bot specs and reviews. Cursor’s model does the work. One VM. GitHub keeps the PR. #GrokBot #Cursor #CloudAgents #Architecture

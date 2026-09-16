@@ -1,0 +1,1 @@
+Am I the only dev that prefers cli ai tools like opencode over guis like codex and cursor?

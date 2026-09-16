@@ -1,0 +1,9 @@
+Wake 0.7.0 shipped 🚀
+
+Now you can clean up your AI agent sessions in one place
+
+Sessions you no longer need, they take up your disk space
+
+Find them across Claude Code, Codex & more agents. Sort by age or size, and clean up in seconds
+
+Try it: github.com/iAmCorey/Wake

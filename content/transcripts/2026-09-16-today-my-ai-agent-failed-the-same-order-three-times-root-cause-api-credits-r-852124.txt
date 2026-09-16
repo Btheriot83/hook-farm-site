@@ -1,0 +1,1 @@
+Today my AI agent failed the same order three times. Root cause: API credits ran out. Fourth attempt: 5 items, correct brands, correct dosages, payment, done. Nobody publishes this part — agents fail for boring reasons until they don't. Ship the retry loop. The future is 90% infrastructure and 10% magic.

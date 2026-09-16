@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/deepseek_ai/status/2097930608790167907"
 creator_handle: @deepseek_ai
 title: "🚀 Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient."
+hooks: ["🚀 Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient."]
 hook_onscreen: ""
 hook_spoken: "🚀 Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient."
 thumbnail_path: thumbs/2026-09-15-introducing-deepseek-v4-1-flash-smarter-faster.jpg

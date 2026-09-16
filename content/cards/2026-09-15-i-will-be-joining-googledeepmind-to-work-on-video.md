@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/_tim_brooks/status/1841982327431561528"
 creator_handle: @_tim_brooks
 title: "I will be joining @GoogleDeepMind to work on video generation and world simulators! Can't wait to collaborate with such a talented team."
+hooks: ["I will be joining @GoogleDeepMind to work on video generation and world simulators! Can't wait to collaborate with such a talented team."]
 hook_onscreen: ""
 hook_spoken: "I will be joining @GoogleDeepMind to work on video generation and world simulators! Can't wait to collaborate with such a talented team."
 thumbnail_path: null

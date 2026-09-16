@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/LumaLabsAI/status/1800921380034379951"
 creator_handle: @LumaLabsAI
 title: "Introducing Dream Machine - a next generation video model for creating high quality, realistic shots from text instructions and images using AI. It’s available "
+hooks: ["Introducing Dream Machine - a next generation video model for creating high quality, realistic shots from text instructions and images using AI. It’s available "]
 hook_onscreen: ""
 hook_spoken: "Introducing Dream Machine - a next generation video model for creating high quality, realistic shots from text instructions and images using AI. It’s available "
 thumbnail_path: thumbs/2026-09-15-introducing-dream-machine-a-next-generation-vide.jpg

@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/karenxcheng/status/1627721862565482496"
 creator_handle: @karenxcheng
 title: Some of my early experiments with @runwayml GEN-1
+hooks: ["Some of my early experiments with @runwayml GEN-1"]
 hook_onscreen: ""
 hook_spoken: Some of my early experiments with @runwayml GEN-1
 thumbnail_path: thumbs/2026-09-15-some-of-my-early-experiments-with-runwayml-gen-1.jpg

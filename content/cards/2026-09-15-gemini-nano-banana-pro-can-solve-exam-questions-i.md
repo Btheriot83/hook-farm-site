@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/karpathy/status/1992655330002817095"
 creator_handle: @karpathy
 title: Gemini Nano Banana Pro can solve exam questions *in* the exam page image. With doodles, diagrams, all that.
+hooks: ["Gemini Nano Banana Pro can solve exam questions *in* the exam page image. With doodles, diagrams, all that."]
 hook_onscreen: ""
 hook_spoken: Gemini Nano Banana Pro can solve exam questions *in* the exam page image. With doodles, diagrams, all that.
 thumbnail_path: thumbs/2026-09-15-gemini-nano-banana-pro-can-solve-exam-questions-i.jpg

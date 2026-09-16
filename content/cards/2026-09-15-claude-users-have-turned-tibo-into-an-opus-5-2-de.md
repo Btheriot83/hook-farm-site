@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/AbdoKerdawy/status/2099596082724397223"
 creator_handle: @AbdoKerdawy
 title: 🚨Claude users have turned Tibo into an Opus 5.2 detector
+hooks: ["🚨Claude users have turned Tibo into an Opus 5.2 detector"]
 hook_onscreen: ""
 hook_spoken: 🚨Claude users have turned Tibo into an Opus 5.2 detector
 thumbnail_path: thumbs/2026-09-15-claude-users-have-turned-tibo-into-an-opus-5-2-de.png

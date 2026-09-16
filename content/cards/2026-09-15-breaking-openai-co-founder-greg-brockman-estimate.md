@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/PolymarketMoney/status/2099583589247795506"
 creator_handle: @PolymarketMoney
 title: "BREAKING: OpenAI co-founder Greg Brockman estimates 1.5 billion people have tried ChatGPT but no longer use it."
+hooks: ["BREAKING: OpenAI co-founder Greg Brockman estimates 1.5 billion people have tried ChatGPT but no longer use it."]
 hook_onscreen: ""
 hook_spoken: "BREAKING: OpenAI co-founder Greg Brockman estimates 1.5 billion people have tried ChatGPT but no longer use it."
 thumbnail_path: null

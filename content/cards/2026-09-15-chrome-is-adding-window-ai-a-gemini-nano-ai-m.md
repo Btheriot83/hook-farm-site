@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/rauchg/status/1806385778064564622"
 creator_handle: @rauchg
 title: Chrome is adding `window​.ai` — a Gemini Nano AI model right inside your browser.
+hooks: ["Chrome is adding `window​.ai` — a Gemini Nano AI model right inside your browser."]
 hook_onscreen: ""
 hook_spoken: Chrome is adding `window​.ai` — a Gemini Nano AI model right inside your browser.
 thumbnail_path: thumbs/2026-09-15-chrome-is-adding-window-ai-a-gemini-nano-ai-m.jpg

@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/AndreiDavid/status/1881428512835596394"
 creator_handle: @AndreiDavid
 title: "🚀 Watch how I connected Chrome's AI API to @ollama, enabling ANY web app built for Chrome's local Gemini to seamlessly work with open-source LLMs! A🧵on making A"
+hooks: ["🚀 Watch how I connected Chrome's AI API to @ollama, enabling ANY web app built for Chrome's local Gemini to seamlessly work with open-source LLMs! A🧵on making A"]
 hook_onscreen: ""
 hook_spoken: "🚀 Watch how I connected Chrome's AI API to @ollama, enabling ANY web app built for Chrome's local Gemini to seamlessly work with open-source LLMs! A🧵on making A"
 thumbnail_path: thumbs/2026-09-15-watch-how-i-connected-chrome-s-ai-api-to-ollama.jpg

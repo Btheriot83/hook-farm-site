@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/Grow_withAI/status/2099669416489464039"
 creator_handle: @Grow_withAI
 title: "30 Websites That Feel \\\"Illegal\\\" But Are Perfectly Legal"
+hooks: ["30 Websites That Feel \\\\\\\"Illegal\\\\\\\" But Are Perfectly Legal"]
 hook_onscreen: ""
 hook_spoken: "30 Websites That Feel \\\"Illegal\\\" But Are Perfectly Legal"
 thumbnail_path: thumbs/2026-09-15-30-websites-that-feel-illegal-but-are-perfectly.jpg

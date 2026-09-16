@@ -1,0 +1,3 @@
+Google DeepMind just published Dream-RSI, a framework where AI agents improve how they explore by replaying their own discovery history
+
+Instead of repeatedly testing strategies in the real world, the agent dreams through past search trees, finds a better exploration policy, then deploys it 👀

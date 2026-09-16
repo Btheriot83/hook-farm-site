@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/ClaudeCodeLog/status/2099627237012090958"
 creator_handle: @ClaudeCodeLog
 title: Claude Code 2.1.271 has been released.
+hooks: ["Claude Code 2.1.271 has been released."]
 hook_onscreen: ""
 hook_spoken: Claude Code 2.1.271 has been released.
 thumbnail_path: thumbs/2026-09-15-claude-code-2-1-271-has-been-released.jpg

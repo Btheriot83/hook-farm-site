@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/fynnso/status/2034706304875602030"
 creator_handle: @fynnso
 title: was messing with the OpenAI base URL in Cursor and caught this
+hooks: ["was messing with the OpenAI base URL in Cursor and caught this"]
 hook_onscreen: ""
 hook_spoken: was messing with the OpenAI base URL in Cursor and caught this
 thumbnail_path: thumbs/2026-09-15-was-messing-with-the-openai-base-url-in-cursor-and.jpg

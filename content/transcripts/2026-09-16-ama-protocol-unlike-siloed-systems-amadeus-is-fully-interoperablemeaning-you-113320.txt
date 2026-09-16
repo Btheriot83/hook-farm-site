@@ -1,0 +1,1 @@
+@ama_protocol Unlike siloed systems, Amadeus is fully interoperable—meaning your agents can travel anywhere. It also utilizes useful Proof of Work dedicated to training proprietary AI models and handling inference. 🤖⚡

@@ -1,0 +1,14 @@
+The Central Consumer Protection Authority (CCPA) has imposed a Rs 10 lakh penalty on ride-hailing platform Rapido for alleged misleading advertisements, unfair trade practices, unfair contract terms and the use of deceptive “dark patterns”, the government said on Tuesday.
+
+The action against Roppen Transportation Services Pvt Ltd, which operates Rapido, follows a sector-wide examination of cab and bike-taxi aggregators over practices including pre-ride tipping and dynamic pricing.
+
+The CCPA said Rapido prompted riders to pay more while their bookings were still being processed. Messages displayed on the app included, “Higher the price, higher the chance of getting a ride” and suggestions to add Rs 10, Rs 20 or Rs 30 when drivers were not accepting the quoted fare.
+
+According to the regulator, the app first quoted a fare and, after the booking was made, prompted users to increase the amount, creating an impression that paying more was necessary to secure the ride.
+
+The CCPA classified the practice as “confirm shaming”, a dark pattern that creates urgency or fear of losing a service unless the consumer agrees to an additional payment.
+
+The authority also flagged the colour-coded “Set your price” slider, saying it could influence users’ pricing decisions.
+The CCPA noted that tips are ordinarily voluntary and should not be presented as a condition for receiving a service. It said Rapido’s submissions on tips were rejected.
+
+The authority has also issued notices to Uber, Ola, Rapido and Namma Yatri under the 2023 dark-pattern guidelines. Its examination of Uber and Ola is ongoing. #rapido #TheAssamTribune @rapidoapp_

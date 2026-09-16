@@ -1,0 +1,13 @@
+How much cost a Cybercab ride ? 
+
+Here is a comparaison on 5-mile / 15-minute ride, excluding surge and tips:
+
+Cybercab → ≈$10
+Lyft → $11–$14
+UberX → $11.7–$15
+Waymo → ≈UberX price
+Taxi → $16–$20.7
+
+Under normal conditions, Tesla is roughly 20–25% cheaper than Uber or Lyft.
+
+Definitely the end of taxi era.

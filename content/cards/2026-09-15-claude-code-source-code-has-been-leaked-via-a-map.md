@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/shoucccc/status/2038894956459290963"
 creator_handle: @shoucccc
 title: "Claude code source code has been leaked via a map file in their npm registry! "
+hooks: ["Claude code source code has been leaked via a map file in their npm registry! "]
 hook_onscreen: ""
 hook_spoken: "Claude code source code has been leaked via a map file in their npm registry! "
 thumbnail_path: thumbs/2026-09-15-claude-code-source-code-has-been-leaked-via-a-map.jpg

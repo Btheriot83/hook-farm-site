@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/levelsio/status/1675829733668319233"
 creator_handle: @levelsio
 title: "http://PhotoAI.com is now almost 14,000 lines of raw PHP mixed with inline HTML, CSS in <style> and raw JS in <script> tags"
+hooks: ["http://PhotoAI.com is now almost 14,000 lines of raw PHP mixed with inline HTML, CSS in <style> and raw JS in <script> tags"]
 hook_onscreen: ""
 hook_spoken: "http://PhotoAI.com is now almost 14,000 lines of raw PHP mixed with inline HTML, CSS in <style> and raw JS in <script> tags"
 thumbnail_path: thumbs/2026-09-15-http-photoai-com-is-now-almost-14-000-lines-of-r.jpg

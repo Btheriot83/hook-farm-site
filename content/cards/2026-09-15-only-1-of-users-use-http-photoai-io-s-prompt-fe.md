@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/levelsio/status/1634457854957723648"
 creator_handle: @levelsio
 title: "Only 1% of users use http://photoai.io's prompt feature which confirms to me again the future isn't people writing prompts, it's interfaces that generate prompt"
+hooks: ["Only 1% of users use http://photoai.io's prompt feature which confirms to me again the future isn't people writing prompts, it's interfaces that generate prompt"]
 hook_onscreen: ""
 hook_spoken: "Only 1% of users use http://photoai.io's prompt feature which confirms to me again the future isn't people writing prompts, it's interfaces that generate prompt"
 thumbnail_path: thumbs/2026-09-15-only-1-of-users-use-http-photoai-io-s-prompt-fe.jpg

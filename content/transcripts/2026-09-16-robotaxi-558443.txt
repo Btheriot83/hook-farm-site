@@ -1,0 +1,114 @@
+ROBOTAXI
+Updated 2026-09-16
+Sources: Robotaxi + Owning Robotaxi Fleet bookmark folders (225 unique). Not Cybercab.
+
+NEW TODAY
+- Testers (RobotaxiRadar): Tesla hiring for driving-data collection/tracking/management in 27 cities, 15 states (NY/TX/FL/NV/CA/GA/UT/CO/MN/NC/DC/PA/LA/AZ…) — hiring signal, not Official city launch…
+- Folder totals: Robotaxi 221 (+1) + Fleet 4 (0 new) → 225 unique
+
+WHAT IT IS
+- Tesla’s paid autonomous ride service. You book a car in the Robotaxi app. The car drives. There is no human driver on unsupervised rides.
+- Live cars today are mostly Model Y. The purpose-built Cybercab is the volume vehicle testers say Tesla is prioritizing.
+- Camera-only vision. Tesla VP of AI Ashok Elluswamy: no lidar, radar, or HD maps required for safe operation on this stack.
+- This how-to merges the public Robotaxi service folder with Owning Robotaxi Fleet (owner / private-fleet economics). Not Cybercab-only bookmarks.
+
+HOW IT WORKS
+- Download the Tesla Robotaxi app and join the waitlist. Official robotaxi (Sep 2025): app is available to all; access expands over time.
+- Book the ride in Tesla’s app. Elon: Tesla will not partner with Uber or Lyft. “We will have enough demand.”
+- Unsupervised means no safety driver. Supervised cities still have a person in the car.
+- Official robotaxi (Aug 27): service hours are 6am to 10pm, 7 days/week. Unsupervised fleet is a lot bigger. Upgraded vehicle distribution and routing so you wait less.
+- Testers: you can change destination and keep the same trip for multiple stops.
+- Cars return to a depot or homebase and park themselves (Houston footage).
+- Ashok: FSD v15 is already running on Model Y robotaxis and will run on Cybercab.
+- Testers: Tesla is limiting Model Y conversions to prioritize Cybercab, built with an unboxed modular process.
+- Testers (Aug 24): Tesla expects Cybercab to replace Model Ys in the Robotaxi fleet over time and become the highest-volume vehicle there. Testers flag Sept 3 / 9/3 as the Cybercab strategy moment. Austin public Cybercab rides described as “imminent.”
+- Testers (Sep 7): Cybercab expected to be actively deployed across Tesla’s Robotaxi fleet soon; Austin Cybercab wait times described as going parabolic on demand.
+- Testers (Sep 7): Tesla hiring Robotaxi Fleet Support Supervisors night shift across 21 cities (Cybercabs incoming signal).
+- Testers (Sep 7): Waymo Q3 2025 occupancy — 90% of trips have 2 or fewer people (two-seater Cybercab justification resurfaced).
+- Testers (Sep 8): Robotaxi tracking site — fleet at 969 after +59 vehicles; 31 short of 1,000.
+- Testers (Sep 8): Houston hub still holding ~100 Cybercabs waiting on orders plus Model Y robotaxis; little lot growth since last check — FSD v15 brain called out as the unlock.
+- Testers (Sep 8): Texas Robotaxi fleet momentum — Jeff Lutz cited 432 registered autonomous vehicles incl. 45 Cybercabs; software quality cited as why Tesla can keep adding cars.
+- Testers (Sep 11 TeslaZoa): Robotaxi tracking site — fleet at 994 after +14 vehicles; 6 short of 1,000.
+- Testers (Sep 11 AIScottAdams): sleep-through long-haul thesis — lie-flat Robotaxi rides could cannibalize short- and long-haul flights (tester/AI channel, not Official).
+- Testers (Sep 11 CernBasher): “Tesla Just Opened The Floodgates In Austin!” ( $TSLA video/title post).
+- Testers (Sep 11 teslayoda): “Robotaxis incoming to California.” Still Testers — signal, not a new Official city launch.
+
+- Testers (Sep 12 Alexs_jame): “BREAKING” clip framed as Elon Musk and Tesla AI celebrating a Robotaxi service launch day — tester/media claim, not Official robotaxi.
+- Testers (Sep 13 gailalfaratx): Austin UT campus — Robotaxis ferrying football fans fully unsupervised (no safety supervisor); emotional “how far Tesla has come” note.
+- Testers (Sep 13 niccruzpatane): Austin ride comparison — 21 Robotaxi vs 2 human Uber rides; claims Robotaxi comfort next-level (smooth turning, less heavy braking).
+- Testers (Sep 13 TeslaZoa): Nashville spot — 26 Cybercabs + 7 Robotaxi validation Model Ys (33 AVs total) on public roads (signal, not a new Official city launch).
+- Testers (Sep 13 herbertong / TeslaLarry): peak-demand surge capacity may matter more for profits than steady-state fleet count; Tesla need not own that surge capacity.
+- Testers (Sep 13 herbertong / TeslaLarry): network efficiency (charging, cleaning, maintenance, depots, coverage) may beat raw Robotaxi count as the competitive edge.
+- Testers (Sep 13 SERobinsonJr): MSM late to a 720-unit figure — tester says more are coming / already on site (fleet/Cybercab count chatter, not Official).
+- Testers (Sep 14 MelvinInvests): stack thesis — Tesla owns vehicles/software/charging/customer vs Uber marketplace (tester/investor take, not Official).
+- Testers (Sep 14 TeslaNewswire): Slovenia Ministry of Transport tested FSD Supervised; working toward Robotaxi approval (tester/news signal, not Official launch).
+- Testers (Sep 14 RobotaxiRadar): fleet officially past 1,000 — 1,001 in service; unsupervised 305; all latest adds unsupervised (tester tracking site).
+- Testers (Sep 14 TeslaZoa): Austin density — downtown Robotaxi ~every 30s; Model Y waits ~5m; visitor mix of Model Y + Cybercab rides.
+- Testers (Sep 15 RobotaxiRadar): Tesla hiring for collection/tracking/management of driving data in 27 cities across 15 states (NY, TX, FL, NV, CA, GA, UT, CO, MN, NC, D.C., PA, LA, AZ listed) — hiring signal, not a new Official city launch.
+HOW TO USE
+- Official robotaxi: download the app, join the waitlist.
+- Official robotaxi (Aug 27): rides run 6am to 10pm every day. Unsupervised fleet is a lot bigger; routing upgrade is meant to cut wait time.
+- Testers: booking is in the app. One Orlando rider paid with an X Money card.
+- Tesla site (as quoted): app in 29 languages; service animals; space for some wheelchairs and assistive devices.
+- Testers: vehicles in Nevada must be marked “Robotaxi.”
+- After the Aug 20 Nevada approval, testers say Tesla still has to finish vehicle inspections, insurance, and published rates before paid rides start there.
+
+OWNING / FLEET (from Owning Robotaxi Fleet dump)
+- Elon (Feb 2026, also in Robotaxi folder): Tesla owners will be able to add their cars to the Robotaxi network; Tesla collects 25% of revenue.
+- Fleet testers frame the network like Airbnb for cars: owner adds vehicle; Tesla handles software, routing, payments, rider experience; platform fee often modeled ~25–35%; owner keeps the rest after operating costs (tester).
+- Fleet / Teslaconomics (Mar 2026): ~$30k/yr net profit per Robotaxi to owner is a base-case assumption from analyst models + Tesla long-term vision — after platform fee, charging, tires, maintenance, insurance, cleaning. No official real-world owner earnings in this dump. Profit/mile chatter ~$0.25–$0.50 after costs at 50k–100k+ miles/yr in high-demand areas.
+- Fleet / Teslaconomics: Cybercab cost chatter ~$25k–$30k; Elon told that tester production was starting in ~1 month (Mar 2026 context — treat as dated tester claim). Rough capital for a ~$1M/yr fleet ~$850k–$1M in vehicles (tester arithmetic).
+- Fleet / chamath: intends to buy and deploy large fleets nationally when possible; expects payback and positive FCF in under 2 years (tester / investor claim, not Official Tesla).
+- Fleet / BrianRoemmele: “all in” on buying into the owning-fleet thesis now; separate Optimus ownership program mentioned but not published in this dump.
+- Fleet / tslaming (Mar 2026): then only 8 unsupervised Austin robotaxis — historical; do not use as current fleet size (Robotaxi dump Aug 23 tester: 908 total).
+- Testers / Teslaconomics (Aug 25, Robotaxi folder): “owning your own Tesla Robotaxi fleet can one day make you financially free.” Still a tester slogan — no Official owner-earnings number in this dump.
+- CONFLICT / caution: owner earnings, Cybercab sticker, ROI, and payback are tester models. Dump explicitly says none of it is guaranteed. Do not treat as Official Tesla guidance.
+
+SERVICE AREA / CITIES
+- Unsupervised (no safety driver), as listed May 2026: Austin, TX (launched Jun 22, 2025); Dallas, TX and Houston, TX (launched Apr 18, 2026).
+- Supervised (safety driver), as listed May 2026: SF Bay Area, CA (launched Apr 18, 2026).
+- Testers: Bay Area rides to and from SFO. Earlier: San Jose Airport pickup.
+- Testers: an Orlando rider reviewed a live Robotaxi trip (Jul 2026). Aug 21 testers also list Orlando and Tampa as live; that is not on the May 2026 official city list.
+- Testers (Aug 25 Teslaconomics): 7 metro areas live. Austin, Dallas, Houston, Miami, Orlando, Tampa ramping unsupervised; Bay Area still safety-driver. Treat as tester city list, not Official May 2026 list.
+- Testers (Aug 27 travel_invest): recap of Official hours post lists 6 target cities — Austin, Dallas, Houston, Miami, Orlando, Tampa. Tester translation, not a new Official city list.
+- Nevada (Aug 20, 2026): full network permit for paid public service. Start small in Clark County / Las Vegas; Tesla can expand elsewhere in the state after notifying the commission.
+- Testers (Aug 23): Nevada approved Tesla for up to 5,000 autonomous vehicles, up from a 10-car interim limit. Tesla said it would be “extremely happy” to have around 2,500 running within a year.
+- Testers (May 2026) said Tesla was also aiming at Phoenix, Miami, Orlando, Tampa.
+- Hiring and test-vehicle posts (treat as signals, not live service): Arizona, Florida, Washington, New York, Pennsylvania, Massachusetts, California, D.C., plus Georgia/Utah/Colorado/Minnesota/North Carolina/Louisiana/Nevada (Sep 15 RobotaxiRadar: 27 cities / 15 states driving-data roles); Germany Arzfeld pilot with a safety driver and Japan Kanagawa job listings.
+- Ashok: expanding to a new city is getting cheaper; the end state is operating whole states, not city by city.
+
+ACCESS AND PLANS
+- Official: Robotaxi app waitlist. Access expands as cities open.
+- Testers (Aug 27 WorldlyReviewer): received an email from Tesla advertising Robotaxi. Tester report of Tesla marketing, not a new Official service announcement.
+- Elon (Feb 2026): Tesla owners will be able to add their cars to the Robotaxi network; Tesla collects 25% of revenue.
+- Testers (JPMorgan via folder posts): robotaxi operating cost about $0.50–$0.60 per mile vs $2.50–$3.00 for typical ride-hail; long-term platform goal $0.30 per mile. Older Morgan Stanley note used $0.81 per mile vs Waymo $1.36–$1.43.
+- Folder testers argue Tesla scales on existing Model Y / Cybercab manufacturing and Superchargers, vs lidar-heavy custom cars.
+- Testers (Aug 23): Waymo’s latest self-driving hardware reportedly costs around $20K.
+- See OWNING / FLEET for private-owner economics from the Owning Robotaxi Fleet folder.
+
+SAFETY
+- Elon: scale as fast as possible, but do not harm anyone. One injury becomes a worldwide headline and a regulatory clampdown.
+- Ashok (Jul 2026): zero notable incidents over 380,000 unsupervised miles, across six cities in two states. Cameras only.
+- Testers on NHTSA ADS data (Jun 16, 2025–Jul 15, 2026): zero collisions initiated by the Model Y ADS. Two new incidents were other drivers hitting a stopped or parked Robotaxi (Austin red-arrow stop; Dallas parked). No passengers, no injuries, no tow.
+- Austin: testers said 100% of tracked robotaxi rides in that NHTSA window were unsupervised.
+- Testers: 7x safer than the average human driver is an FSD claim in this folder, not a Robotaxi-only official stat.
+
+FLEET AND INFRASTRUCTURE
+- Official robotaxi (Aug 27): unsupervised fleet is a lot bigger; upgraded intelligence in vehicle distribution and routing. Testers (tslaming) say that gain is backend ops (demand forecasting, fleet placement), not a self-driving software change.
+- Testers (Aug 23): 908 robotaxis in the total fleet (dated). Newer tester tracking-site counts: 969 (Sep 8), 994 (Sep 11 TeslaZoa) — still Testers, not Official.
+- Testers (Aug 19): about 97 Cybercabs at the Houston Robotaxi lot. Model Ys and Cybercabs still rotating in the geofence.
+- Testers: Tesla plans 80 wireless chargers in Austin as Phase 2 of a Robotaxi charging hub.
+- Testers: private (not public) V4 Supercharger depots, including 56 stalls in Chandler / Phoenix East Valley; a Dallas-area fleet depot; a Las Vegas Cybercab wash/service site.
+- Testers: scale needs charging, cleaning, and maintenance automated, not only FSD.
+- Fleet-size tweets in this folder are days-to-months apart and disagree. Do not treat an old 500–600 car count (or the Mar 2026 “8 unsupervised in Austin” fleet-folder snapshot) as current.
+
+USEFUL WORKFLOWS
+- New city: download the Robotaxi app, join the waitlist, ride when your city opens.
+- Live city: book in the Tesla app. Try a multi-stop trip if the app offers it.
+- Airport: testers already used SFO and SJC where those pickups were live.
+- Watch Nevada: paid Las Vegas service after the Aug 20 permit plus leftover admin steps; testers now cite a 5,000-vehicle cap.
+- Watch Austin: testers say public Cybercab rides are “imminent.”
+- Owning a fleet: not open as a turnkey product in this dump. Watch Elon’s owner-network comments + Tesla fee structure; treat $30k/yr and <2yr payback as tester models only.
+
+KEY LINKS
+- Robotaxi folder: x.com/i/history/bookmarks/19… - Owning Robotaxi Fleet folder: x.com/i/history/bookmarks/20… - Official app waitlist: x.com/robotaxi/status/196342… - Official hours / bigger unsupervised fleet (Aug 27): x.com/robotaxi/status/209265… - Nevada full permit (Aug 20): x.com/SawyerMerritt/status/2… - Dallas and Houston unsupervised launch: x.com/SawyerMerritt/status/2… - Fleet economics tester thread: x.com/Teslaconomics/status/2… - Chamath fleet intent: x.com/chamath/status/2030332… - Testers Aug 25 Waymo/Tesla scale compare: x.com/Teslaconomics/status/2… - Testers Aug 25 owning-fleet slogan: x.com/Teslaconomics/status/2… - Testers Aug 27 Tesla Robotaxi email ad: x.com/WorldlyReviewer/status…

@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/MattZirwas/status/2068365802491834541"
 creator_handle: @MattZirwas
 title: I was wrong about the Midjourney ultra-sound scanner.
+hooks: ["I was wrong about the Midjourney ultra-sound scanner."]
 hook_onscreen: ""
 hook_spoken: I was wrong about the Midjourney ultra-sound scanner.
 thumbnail_path: null

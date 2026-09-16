@@ -1,0 +1,112 @@
+when I don’t know how to design a site / app
+
+usually not a talent problem.  
+it’s a tab problem.
+
+too many pretty screens. zero decisions.
+
+so I stopped collecting “inspo” and started sorting it by question.
+
+---
+
+first: split the job
+
+I keep mixing 3 things:
+
+- product (what people actually tap through)
+- marketing (hero, pricing, CTA, store)
+- wow (3D, awards, agency scroll)
+
+wow waits.  
+flow first.
+
+---
+
+write the problem in one line
+
+before figma / cursor:
+
+> 4-step onboarding. value before signup.
+
+can’t write that? I don’t need inspiration yet.
+
+---
+
+where I look
+
+how do real apps solve this  
+→ mobbin  
+→ refero if it’s more web/saas  
+→ page flows if I need timing, not a screenshot
+
+is this component even a thing  
+→ component.gallery same tabs / empty state / pagination across 20 systems. ego down.
+
+ai feature, how do people understand it  
+→ aiverse miniguides  
+discover → instruct → observe → refine → adapt
+
+landing / cta / pricing  
+→ saaspo, land-book, cta.gallery not awwwards. awards don’t sell plans.
+
+what should it feel like  
+→ recent (old godly) or one awwwards site  
+mesh3d only if the product actually needs 3D
+
+motion  
+→ jitter + 60fps / appmotion  
+one transition. not a reel.
+
+agent output looks like slop  
+→ impeccable (audit / polish / typeset)  
+or huashu if I need a direction, not beige + inter + nested cards
+
+---
+
+30 min when I’m stuck
+
+10 — one flow on mobbin  
+5 — 3 versions of the component  
+5 — one microinteraction  
+5 — one craft reference. one.  
+5 — keep / kill list
+
+longer than 30 = procrastination with taste.
+
+---
+
+what I write down
+
+not “love this.”
+
+- what you read first
+- dense or airy
+- one weird choice that works
+- what I won’t copy because it isn’t our product
+
+steal decisions. not pixels.
+
+---
+
+north stars
+
+clarity: linear, things, superhuman, cash app, stripe, notion, perplexity  
+ceiling: awwwards  
+floor: stuff people open every day
+
+---
+
+if an agent is designing
+
+don’t say “make it nice.”  
+give: 1-line problem + 2–3 real refs + an audit.
+
+inspo isn’t the prompt.  
+the prompt is the brief. the gallery is evidence.
+
+---
+
+parking this for future-me who “just checks dribbble for a sec.”
+
+steal it if useful.  
+got a better source for real flows? send it.

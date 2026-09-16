@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/JonLamArt/status/1741545927435784424"
 creator_handle: @JonLamArt
 title: Midjourney developers caught discussing laundering, and creating a database of Artists (who have been dehumanized to styles) to train Midjourney off of. This ha
+hooks: ["Midjourney developers caught discussing laundering, and creating a database of Artists (who have been dehumanized to styles) to train Midjourney off of. This ha"]
 hook_onscreen: ""
 hook_spoken: Midjourney developers caught discussing laundering, and creating a database of Artists (who have been dehumanized to styles) to train Midjourney off of. This ha
 thumbnail_path: thumbs/2026-09-15-midjourney-developers-caught-discussing-laundering.jpg

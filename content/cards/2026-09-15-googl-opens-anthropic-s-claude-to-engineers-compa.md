@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/wallstengine/status/2099630451912802331"
 creator_handle: @wallstengine
 title: $GOOGL OPENS ANTHROPIC’S CLAUDE TO ENGINEERS COMPANY-WIDE
+hooks: ["$GOOGL OPENS ANTHROPIC’S CLAUDE TO ENGINEERS COMPANY-WIDE"]
 hook_onscreen: ""
 hook_spoken: $GOOGL OPENS ANTHROPIC’S CLAUDE TO ENGINEERS COMPANY-WIDE
 thumbnail_path: thumbs/2026-09-15-googl-opens-anthropic-s-claude-to-engineers-compa.png

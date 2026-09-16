@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/FanaHOVA/status/1790488633201553438"
 creator_handle: @FanaHOVA
 title: WebAssembly is aliveeeee 🔥 Gemini Nano will be included in Chrome itself with WebGPU + Wasm.
+hooks: ["WebAssembly is aliveeeee 🔥 Gemini Nano will be included in Chrome itself with WebGPU + Wasm."]
 hook_onscreen: ""
 hook_spoken: WebAssembly is aliveeeee 🔥 Gemini Nano will be included in Chrome itself with WebGPU + Wasm.
 thumbnail_path: thumbs/2026-09-15-webassembly-is-aliveeeee-gemini-nano-will-be-inc.jpg

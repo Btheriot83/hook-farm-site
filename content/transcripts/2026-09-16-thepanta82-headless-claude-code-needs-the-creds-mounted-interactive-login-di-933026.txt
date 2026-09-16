@@ -1,0 +1,1 @@
+@thepanta82 Headless Claude Code needs the creds mounted — interactive login dies in Docker. Volume the config/token and keep the session killable from the host.

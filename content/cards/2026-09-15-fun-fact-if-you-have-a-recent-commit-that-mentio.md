@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/theo/status/2049645973350363168"
 creator_handle: @theo
 title: Fun fact - if you have a recent commit that mentions OpenClaw in a json blob, Claude Code will either refuse your request or bill you extra money.
+hooks: ["Fun fact - if you have a recent commit that mentions OpenClaw in a json blob, Claude Code will either refuse your request or bill you extra money."]
 hook_onscreen: ""
 hook_spoken: Fun fact - if you have a recent commit that mentions OpenClaw in a json blob, Claude Code will either refuse your request or bill you extra money.
 thumbnail_path: thumbs/2026-09-15-fun-fact-if-you-have-a-recent-commit-that-mentio.jpg

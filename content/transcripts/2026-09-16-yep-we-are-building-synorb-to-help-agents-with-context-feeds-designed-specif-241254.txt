@@ -1,0 +1,11 @@
+yep. we are building @synorb to help agents with context feeds designed specifically for them.
+
+our thesis is simple, agents want to receive information from the primitives they monitor for any task.
+
+today they are forced to retrieve most of this from the open web we built for humans. 
+
+then spend runtime tokens to sort and filter out all the echos before they can reason.
+
+give it a go. tell your agent to check out synorb to keep you updated about AI startups or VCs investing in AI.
+
+then watch it do its magic.

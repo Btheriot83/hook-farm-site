@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/elonmusk/status/1848398370219364385"
 creator_handle: @elonmusk
 title: The @xAI API is now live!
+hooks: ["The @xAI API is now live!"]
 hook_onscreen: ""
 hook_spoken: The @xAI API is now live!
 thumbnail_path: null

@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/francedot/status/2098249540268888546"
 creator_handle: @francedot
 title: ok kudos to the ChatGPT team for this one - you can now play snake while waiting for chatGPT to generate your image 🐍
+hooks: ["ok kudos to the ChatGPT team for this one - you can now play snake while waiting for chatGPT to generate your image 🐍"]
 hook_onscreen: ""
 hook_spoken: ok kudos to the ChatGPT team for this one - you can now play snake while waiting for chatGPT to generate your image 🐍
 thumbnail_path: thumbs/2026-09-15-ok-kudos-to-the-chatgpt-team-for-this-one-you-ca.png

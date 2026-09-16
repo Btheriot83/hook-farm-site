@@ -1,0 +1,3 @@
+Claude Opus 5.2 is quietly routing to Claude Code users before Anthropic has said a word.
+First reports: faster, better at visual and 3D tasks, and the model finally stopped being lazy.
+Users say it still trails OpenAI's GPT-6 Astra.

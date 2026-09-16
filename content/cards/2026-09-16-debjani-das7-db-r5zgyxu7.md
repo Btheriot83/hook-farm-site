@@ -1,0 +1,28 @@
+---
+id: 2026-09-16-debjani-das7-db-r5zgyxu7
+collected_at: 2026-09-16T07:42:00-07:00
+platform: instagram
+category: ai
+language: en
+url: "https://www.instagram.com/reel/Db-r5ZGyxU7/"
+creator_handle: "@debjani_das7"
+title: "✨🌅"
+hook_onscreen: "✨🌅"
+hook_spoken: ""
+thumbnail_path: thumbs/2026-09-16-debjani-das7-db-r5zgyxu7.jpg
+thumbnail_url: "https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/773099116_17928392064388047_5335315026374751909_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=107&ig_cache_key=Mzk2Mjc5Nzc4MjEwMDI4NDczMTE3OTI4MzkyMDYxMzg4MDQ3.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjU0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=V_1Pr3IINh0Q7kNvwHQbgWQ&_nc_oc=AdoS-WQF7AlLYan5IinMbi4X7bB-fC-LBWe_QIPh0OqhuO4e0f-5RVMqrae0d97Jg4Q&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=qws5ZdECZ4FY8bzgYdSNhA&_nc_ss=7a3ba&oh=00_AQLeMPhg7RC10N9aqp5VQkFOkrXCcLL6dhVZGlTZMptf0Q&oe=6AAEB6BD"
+transcript_path: transcripts/2026-09-16-debjani-das7-db-r5zgyxu7.txt
+views: 2770053
+likes: None
+comments: 231
+saves: null
+post_date: ""
+niche_tags: [chatgpt, chatgptprompts, fyp, viralprompt, viralreels, ai, prompts]
+pattern_tags: [call_to_action]
+format: short
+notes: Collected from public Instagram hashtag/reel search; caption used as packaging reference.
+---
+
+## Transcript (~30s)
+
+✨🌅 #chatgpt #chatgptprompts #fyp #viralprompt #viralreels

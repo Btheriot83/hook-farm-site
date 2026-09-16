@@ -1,0 +1,8 @@
+"AI agent tool" now means 4 different layers:
+
+• Use AI: one chat UI over 25+ models
+• Verdent: parallel coding agents in git worktrees
+• QM (YC): multiplayer agents for teams, in Slack
+• Omnigent: meta-harness over Claude Code, Codex, Cursor
+
+Know which layer you're buying.

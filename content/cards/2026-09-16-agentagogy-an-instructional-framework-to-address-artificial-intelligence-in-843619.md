@@ -1,0 +1,59 @@
+---
+id: "2026-09-16-agentagogy-an-instructional-framework-to-address-artificial-intelligence-in-843619"
+collected_at: "2026-09-16T07:39:17-07:00"
+platform: x
+category: "ai"
+language: "en"
+url: "https://x.com/MarkEDeschaine/status/2100232702955843619"
+creator_handle: "@MarkEDeschaine"
+title: "Agentagogy: An Instructional Framework to Address Artificial Intelligence in Learning"
+hooks: ["Agentagogy: An Instructional Framework to Address Artificial Intelligence in Learning"]
+hook_onscreen: ""
+hook_spoken: "Agentagogy: An Instructional Framework to Address Artificial Intelligence in Learning"
+thumbnail_path: "thumbs/2026-09-16-agentagogy-an-instructional-framework-to-address-artificial-intelligence-in-843619.svg"
+thumbnail_url: "https://x.com/MarkEDeschaine/status/2100232702955843619"
+transcript_30s: "Agentagogy: An Instructional Framework to Address Artificial Intelligence in Learning\n\nPedagogy, andragogy, and heutagogy remain indispensable. They help us decide who leads learning, how much structure is warranted, and when the learner should determine the path. Pedagogy orients us to guided instruction. Andragogy takes adult experience and purpose seriously. Heutagogy pushes further toward self-determined capability.\n\nIn the era of artificial intelligence and agentic agents, they are not enough.\n\nNone of those frameworks were built for learning environments in which artificial agents can plan, retrieve, write, tutor, assess, and act. The “gogy” continuum (pedagogy – andragogy – heutagogy) still assumes that the primary agents in the room are human: teacher, facilitator, or learner. Once AI can initiate, delegate, and complete cognitive work, the instructional problem changes. We are no longer only asking how to teach children, support adults, or cultivate self-determined learners. We are asking how to design teaching and learning when agency itself is shared, contested, and easily outsourced.\n\nI recently spent time with Seth Fleischauer @LaoshiSeth and Allyson Mitchell on their “Why Distance Learning?” podcast entitled “Why Distance Learning? Episode 88 #88 This Is Online Learning's Moment to Lead - with Dr. Mark Deschaine”. I received feedback and requests for more information related to the term Agentagogy.\n\nThis post is a first public sketch, not a finished theory of that term and concept. I will continue to develop Agentagogy in future presentations and writing. The conversation that prompted these requests is here share.transistor.fm/s/ad1593… I have searched the literature, databases, and the open web for the term agentagogy. I have not found the term in use as an instructional framework. That does not make the idea automatically correct. It does mean we may be looking at a new, and potentially foundational, way to investigate AI as teaching and learning move forward.\n\nMore importantly, I believe clarification is not only important but necessary, because the adjacent term Agentivism is already in circulation.\n\nAgentivism, as proposed by Yan and Gašević, is a learning theory. It asks how durable human capability can still grow when learners can delegate explanation, problem solving, and production to generative and agentic systems. Its concern is process: selective delegation, epistemic monitoring, reconstructive internalization, and transfer under reduced support. That work is significant: it matters, however, I do not see it as the same project.\n\nAgentagogy is an instructional framework. It asks how we design, lead, assess, and govern learning environments in which artificial agents are participants, not merely tools. It sits in the same family as pedagogy, andragogy, and heutagogy: not “how does learning occur in the mind when AI is present,” but “how should teaching and learning be arranged when AI is present.”\n\nThis is not a syllogism.\nAgent + -agogy ≠ a clever rename of Agentivism.\n\nThe distinction matters for practice, and research investigations into that practice. A learning theory can explain why completed work may not equal learned capability. An instructional framework must answer different questions: When should an agent tutor, collaborate, or step back? What remains of the teacher’s responsibility? How do we preserve learner judgment when fluency is cheap? What counts as evidence of learning when performance can be assembled by a system? How do curriculum, assessment, ethics, and leadership change when the learning environment includes nonhuman actors?\n\nIf we collapse those questions into a theory of human–AI cognition, we will keep describing the problem while leaving instructors, programs, and institutions without a design language. If we treat Agentagogy as wordplay, we will miss why the older “gogies” strain under agentic systems: they allocate agency among humans. They do not tell us how to teach when agency can be automated.\n\nAgentagogy, as I am developing it, is an attempt to not only name that instructional gap, but begin filling it. It does not replace pedagogy, andragogy, or heutagogy. It asks what must be added when artificial intelligence is no longer an accessory to the learning environment but a condition of it.\n\nThis is the introduction to the concept. The important work and heavy lifting come next. I have several projects in various stages of authorship in hopes to begin important conversations around the integration of artificial intelligence into learning and teaching environs.\n\nAcknowledgement of AI statement: In true agentagogical form, Super Grok was utilized to assist with this post."
+transcript_path: "transcripts/2026-09-16-agentagogy-an-instructional-framework-to-address-artificial-intelligence-in-843619.txt"
+views: null
+likes: null
+comments: null
+saves: null
+post_date: "Sep 16, 2026 · 2:37 PM UTC"
+niche_tags: ["ai", "grok", "agents"]
+pattern_tags: ["number", "curiosity_gap", "negative", "authority", "demo_first", "replaced_job"]
+format: "text"
+notes: "Public X post; engagement snapshot from read-only search mirror. Retweets excluded."
+---
+
+## Transcript (~30s)
+
+Agentagogy: An Instructional Framework to Address Artificial Intelligence in Learning
+
+Pedagogy, andragogy, and heutagogy remain indispensable. They help us decide who leads learning, how much structure is warranted, and when the learner should determine the path. Pedagogy orients us to guided instruction. Andragogy takes adult experience and purpose seriously. Heutagogy pushes further toward self-determined capability.
+
+In the era of artificial intelligence and agentic agents, they are not enough.
+
+None of those frameworks were built for learning environments in which artificial agents can plan, retrieve, write, tutor, assess, and act. The “gogy” continuum (pedagogy – andragogy – heutagogy) still assumes that the primary agents in the room are human: teacher, facilitator, or learner. Once AI can initiate, delegate, and complete cognitive work, the instructional problem changes. We are no longer only asking how to teach children, support adults, or cultivate self-determined learners. We are asking how to design teaching and learning when agency itself is shared, contested, and easily outsourced.
+
+I recently spent time with Seth Fleischauer @LaoshiSeth and Allyson Mitchell on their “Why Distance Learning?” podcast entitled “Why Distance Learning? Episode 88 #88 This Is Online Learning's Moment to Lead - with Dr. Mark Deschaine”. I received feedback and requests for more information related to the term Agentagogy.
+
+This post is a first public sketch, not a finished theory of that term and concept. I will continue to develop Agentagogy in future presentations and writing. The conversation that prompted these requests is here share.transistor.fm/s/ad1593… I have searched the literature, databases, and the open web for the term agentagogy. I have not found the term in use as an instructional framework. That does not make the idea automatically correct. It does mean we may be looking at a new, and potentially foundational, way to investigate AI as teaching and learning move forward.
+
+More importantly, I believe clarification is not only important but necessary, because the adjacent term Agentivism is already in circulation.
+
+Agentivism, as proposed by Yan and Gašević, is a learning theory. It asks how durable human capability can still grow when learners can delegate explanation, problem solving, and production to generative and agentic systems. Its concern is process: selective delegation, epistemic monitoring, reconstructive internalization, and transfer under reduced support. That work is significant: it matters, however, I do not see it as the same project.
+
+Agentagogy is an instructional framework. It asks how we design, lead, assess, and govern learning environments in which artificial agents are participants, not merely tools. It sits in the same family as pedagogy, andragogy, and heutagogy: not “how does learning occur in the mind when AI is present,” but “how should teaching and learning be arranged when AI is present.”
+
+This is not a syllogism.
+Agent + -agogy ≠ a clever rename of Agentivism.
+
+The distinction matters for practice, and research investigations into that practice. A learning theory can explain why completed work may not equal learned capability. An instructional framework must answer different questions: When should an agent tutor, collaborate, or step back? What remains of the teacher’s responsibility? How do we preserve learner judgment when fluency is cheap? What counts as evidence of learning when performance can be assembled by a system? How do curriculum, assessment, ethics, and leadership change when the learning environment includes nonhuman actors?
+
+If we collapse those questions into a theory of human–AI cognition, we will keep describing the problem while leaving instructors, programs, and institutions without a design language. If we treat Agentagogy as wordplay, we will miss why the older “gogies” strain under agentic systems: they allocate agency among humans. They do not tell us how to teach when agency can be automated.
+
+Agentagogy, as I am developing it, is an attempt to not only name that instructional gap, but begin filling it. It does not replace pedagogy, andragogy, or heutagogy. It asks what must be added when artificial intelligence is no longer an accessory to the learning environment but a condition of it.
+
+This is the introduction to the concept. The important work and heavy lifting come next. I have several projects in various stages of authorship in hopes to begin important conversations around the integration of artificial intelligence into learning and teaching environs.
+
+Acknowledgement of AI statement: In true agentagogical form, Super Grok was utilized to assist with this post.

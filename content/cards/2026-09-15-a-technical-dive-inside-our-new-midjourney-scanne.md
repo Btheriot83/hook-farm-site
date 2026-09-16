@@ -7,6 +7,7 @@ language: en
 url: "https://x.com/midjourney/status/2067422898407837797"
 creator_handle: @midjourney
 title: "A technical dive inside our new \\\"Midjourney Scanner\\\""
+hooks: ["A technical dive inside our new \\\\\\\"Midjourney Scanner\\\\\\"]
 hook_onscreen: ""
 hook_spoken: "A technical dive inside our new \\\"Midjourney Scanner\\\""
 thumbnail_path: thumbs/2026-09-15-a-technical-dive-inside-our-new-midjourney-scanne.jpg
