@@ -1,0 +1,27 @@
+---
+id: 2026-09-16-ig-dxepm4hdsrp
+collected_at: 2026-09-16T07:45:00-07:00
+platform: instagram
+category: rideshare
+url: https://www.instagram.com/reel/DXEpM4HDSrp/
+creator_handle: "@dannah_eve"
+title: "⚠️ UBER, LYFT & RIDESHARE SAFETY TIPS!"
+hook_onscreen: "⚠️ UBER, LYFT & RIDESHARE SAFETY TIPS!"
+hook_spoken: "⚠️ UBER, LYFT & RIDESHARE SAFETY TIPS!"
+thumbnail_path: thumbs/2026-09-16-ig-dxepm4hdsrp.jpg
+thumbnail_url: "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/671098824_18577930567036618_3091000142266177270_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzg3NDQwMjc4NDIzMzk5MDg4OTE4NTc3OTMwNTY0MDM2NjE4.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEzMDguc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=hPG46lR0of0Q7kNvwH57_Qw&_nc_oc=AdqxCnK4hLK8tfUU3vLsoPaXiDepxxFHXFJinvXj2pg2e5RaFQoIsMdI9cuz3otXagg&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_gid=3Xl39r-zMJvP1OBzl3Jm3A&_nc_ss=70689&oh=00_AQLL3lNG9bDlTs1EqDgUnJDhOtWEemR0c86kq_pP2saJYw&oe=6AB07607"
+transcript_30s: ""
+views: null
+likes: 2583
+comments: 100
+saves: null
+post_date: "2026-04-13"
+niche_tags: ["rideshare", "uber", "lyft"]
+pattern_tags: ["list", "before_after"]
+format: short
+notes: "Public Instagram Reel discovered via WebSearch; metadata and thumbnail captured with yt-dlp. Auto-subtitles unavailable."
+---
+
+## Transcript (~30s)
+
+(No auto-subtitles returned; caption metadata is reflected in the hook and notes.)
