@@ -41715,5 +41715,1038 @@
     "post_date": "Sep 16, 2026 · 2:58 AM UTC",
     "thumb": "/thumbs/2026-09-16-you-need-smarter-friends-the-u-s-produces-over-3-million-barrels-of-diesel-p-310712.svg",
     "transcript_30s": "You need smarter friends, the U.S. produces over 3 million barrels of diesel per day. Sounds like your neighbors son is a sanitation mechanic at the oil fields."
+  },
+  {
+    "id": "2026-09-17-ai-image-editing-in-comfyui-flux-2-klein-ep04",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=kNap0VWP1xs",
+    "title": "AI Image Editing in ComfyUI: Flux 2 Klein (Ep04)",
+    "creator_handle": "@pixaroma",
+    "hook_onscreen": "",
+    "hook_spoken": "Are you ready for another video Are you ready for another video tutorial? Today, we will talk about tutorial? Today, we will talk about tutorial? Today, we will talk about editing",
+    "niche_tags": [
+      "flux",
+      "image",
+      "ai"
+    ],
+    "pattern_tags": [
+      "curiosity_gap"
+    ],
+    "views": 95773,
+    "likes": 2963,
+    "comments": 418,
+    "saves": null,
+    "format": "long",
+    "post_date": "2026-02-10",
+    "thumb": "/thumbs/2026-09-17-ai-image-editing-in-comfyui-flux-2-klein-ep04.jpg",
+    "transcript_30s": "Are you ready for another video Are you ready for another video tutorial? Today, we will talk about tutorial? Today, we will talk about tutorial? Today, we will talk about editing images with AI using Flux to editing images with AI using Flux to editing images with AI using Flux to Kline. Kline. Kline. Flux to Kline is an image AI model made Flux to Kline is an image AI model made Flux to Kline is an image AI model made by Black Forest Labs. It is very fast by Black Forest Labs. It is very fast by Black Forest Labs. It is very fast and works on low VRAM. It can do two and works on low VRAM. It can do two and works on low VRAM. It can do two main things. First, it can generate main things. First, it can generate main things. First, it can generate images from text. Second, it can also images from text. Second, it can also images from text. Second, it can also edit images, meaning you can give it a edit images, meaning you can give it a edit images, meaning you can give it a picture and tell it what to change, like picture and tell it what to change, like picture and tell it what to change, like make it night time or change the outfit. make it night time or change the outfit. make it night time or change the outfit. The name Kline basically means little in The name Kline basically means little in The name Kline basically means little in German. So, compared to bigger models, German. So, compared to bigger models, German. So, compared to bigger models, it is designed to run quicker and feel"
+  },
+  {
+    "id": "2026-09-17-comfyui-tutorial-series-ep-52-master-flux-kontex",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=9-onDeEWWvU",
+    "title": "ComfyUI Tutorial Series Ep 52: Master Flux Kontext – Inpainting, Editing & Character Consistency",
+    "creator_handle": "@pixaroma",
+    "hook_onscreen": "",
+    "hook_spoken": "Welcome to episode 52 of our Comfy UI Welcome to episode 52 of our Comfy UI tutorial series",
+    "niche_tags": [
+      "flux",
+      "image",
+      "ai"
+    ],
+    "pattern_tags": [
+      "how_to_promise"
+    ],
+    "views": 112764,
+    "likes": 3411,
+    "comments": 505,
+    "saves": null,
+    "format": "long",
+    "post_date": "2025-06-30",
+    "thumb": "/thumbs/2026-09-17-comfyui-tutorial-series-ep-52-master-flux-kontex.jpg",
+    "transcript_30s": "Welcome to episode 52 of our Comfy UI Welcome to episode 52 of our Comfy UI tutorial series. Today I will talk about tutorial series. Today I will talk about tutorial series. Today I will talk about the free version of Flux Context, a the free version of Flux Context, a the free version of Flux Context, a model you can use on your computer with model you can use on your computer with model you can use on your computer with Comfy UI to generate images, edit them, Comfy UI to generate images, edit them, Comfy UI to generate images, edit them, replace or remove items, create replace or remove items, create replace or remove items, create consistent characters, and many other consistent characters, and many other consistent characters, and many other cool things. It is a model you should cool things. It is a model you should cool things. It is a model you should definitely have, and more importantly, definitely have, and more importantly, definitely have, and more importantly, you should learn how to use it properly. you should learn how to use it properly. you should learn how to use it properly. I will also show you some useful I will also show you some useful I will also show you some useful workflows um I have been working on that workflows um I have been working on that workflows um I have been working on that you can get for free. First, you need to you can get for free. First, you need to you can get for free. First, you need to update Comfy UI to be able to use the update Comfy UI to be able to use the update Comfy UI to be able to use the new nodes. Go to the folder where you"
+  },
+  {
+    "id": "2026-09-17-create-amazing-videos-ai-vfx-pika-ai-2-2-tutoria",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=x1z3Ypd49hs",
+    "title": "Create AMAZING Videos & Ai VFX | PIKA Ai 2.2 Tutorial | 5 Insane Techniques",
+    "creator_handle": "@AtomicGains",
+    "hook_onscreen": "",
+    "hook_spoken": "In this video, I'm going to share with In this video, I'm going to share with you five of my favorite ways on how to you five of my favorite ways on how to you five of my favorite",
+    "niche_tags": [
+      "pika",
+      "video",
+      "ai"
+    ],
+    "pattern_tags": [
+      "how_to_promise"
+    ],
+    "views": 68361,
+    "likes": 2362,
+    "comments": 114,
+    "saves": null,
+    "format": "long",
+    "post_date": "2025-03-07",
+    "thumb": "/thumbs/2026-09-17-create-amazing-videos-ai-vfx-pika-ai-2-2-tutoria.jpg",
+    "transcript_30s": "In this video, I'm going to share with In this video, I'm going to share with you five of my favorite ways on how to you five of my favorite ways on how to you five of my favorite ways on how to create unique content using Pika. I'll create unique content using Pika. I'll create unique content using Pika. I'll be using Pika's amazing features and be using Pika's amazing features and be using Pika's amazing features and show you how to use them to make some show you how to use them to make some show you how to use them to make some really creative videos. Okay, let's get really creative videos. Okay, let's get really creative videos. Okay, let's get into it. For this first effect, I'm into it. For this first effect, I'm into it. For this first effect, I'm going to be using Pika frames, which going to be using Pika frames, which going to be using Pika frames, which pretty much acts as a keyframing tool. pretty much acts as a keyframing tool. pretty much acts as a keyframing tool. So, you give it two images, one for the So, you give it two images, one for the So, you give it two images, one for the start and one for the end, and it will start and one for the end, and it will start and one for the end, and it will create an animation in between the two. create an animation in between the two. create an animation in between the two. And you can do some really creative And you can do some really creative And you can do some really creative things with it. To use Pika frames, all things with it. To use Pika frames, all things with it. To use Pika frames, all you have to do is select it from the you have to do is select it from the you have to do is select it from the bottom and then add in your first and bottom and then add in your first and bottom and then add in your first and last frame. And the really cool thing is"
+  },
+  {
+    "id": "2026-09-17-create-cinematic-ai-videos-with-google-veo-3-ful",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=1lktT4dVAT4",
+    "title": "Create Cinematic Ai Videos with Google VEO 3 (FULL COURSE)",
+    "creator_handle": "@TaoPrompts",
+    "hook_onscreen": "",
+    "hook_spoken": "Google Veil 3 has completely changed the Google Veil 3 has completely changed the AI filmmaking game with its ability to AI filmmaking game with its ability to AI filmmaking game w",
+    "niche_tags": [
+      "veo",
+      "video",
+      "gemini",
+      "ai"
+    ],
+    "pattern_tags": [
+      "curiosity_gap"
+    ],
+    "views": 250482,
+    "likes": 5907,
+    "comments": 435,
+    "saves": null,
+    "format": "long",
+    "post_date": "2025-05-30",
+    "thumb": "/thumbs/2026-09-17-create-cinematic-ai-videos-with-google-veo-3-ful.jpg",
+    "transcript_30s": "Google Veil 3 has completely changed the Google Veil 3 has completely changed the AI filmmaking game with its ability to AI filmmaking game with its ability to AI filmmaking game with its ability to create cinematic AI videos along with create cinematic AI videos along with create cinematic AI videos along with realistic sound effects and character realistic sound effects and character realistic sound effects and character voices all inside one platform. This voices all inside one platform. This voices all inside one platform. This will be the last time you fail me. I will be the last time you fail me. I will be the last time you fail me. I know it's frustrating to watch tutorials know it's frustrating to watch tutorials know it's frustrating to watch tutorials which show clips of highquality videos, which show clips of highquality videos, which show clips of highquality videos, but when you go and try to create the AI but when you go and try to create the AI but when you go and try to create the AI videos yourself, you get lower quality videos yourself, you get lower quality videos yourself, you get lower quality clips like this one that look like clips like this one that look like clips like this one that look like PowerPoint slides. That's why I made PowerPoint slides. That's why I made PowerPoint slides. That's why I made this video specifically for people like this video specifically for people like this video specifically for people like you who want the real advice. Not just a you who want the real advice. Not just a you who want the real advice. Not just a surface level explanation, but a deep"
+  },
+  {
+    "id": "2026-09-17-create-hyperrealistic-ai-characters-that-interac",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=ghFYDG0DF1w",
+    "title": "Create HYPERREALISTIC AI Characters That INTERACT | FREE & LOCAL",
+    "creator_handle": "@Mickmumpitz",
+    "hook_onscreen": "",
+    "hook_spoken": "You can now create a whole cast of AI You can now create a whole cast of AI characters and make them act and characters and make them act and characters and make them act and inter",
+    "niche_tags": [
+      "comfyui",
+      "image",
+      "how-to",
+      "ai"
+    ],
+    "pattern_tags": [
+      "curiosity_gap"
+    ],
+    "views": 60136,
+    "likes": 2252,
+    "comments": 146,
+    "saves": null,
+    "format": "long",
+    "post_date": "2026-07-17",
+    "thumb": "/thumbs/2026-09-17-create-hyperrealistic-ai-characters-that-interac.jpg",
+    "transcript_30s": "You can now create a whole cast of AI You can now create a whole cast of AI characters and make them act and characters and make them act and characters and make them act and interact in the same scene. Thanks to a interact in the same scene. Thanks to a interact in the same scene. Thanks to a brand new generation of open models that brand new generation of open models that brand new generation of open models that are far more photorealistic than ever, are far more photorealistic than ever, are far more photorealistic than ever, rivaling and in my opinion even rivaling and in my opinion even rivaling and in my opinion even surpassing close source tools like surpassing close source tools like surpassing close source tools like ChatGPT and even Nano Banana Pro. They ChatGPT and even Nano Banana Pro. They ChatGPT and even Nano Banana Pro. They work in any style and are super work in any style and are super work in any style and are super controllable. I mean, look at this. You controllable. I mean, look at this. You controllable. I mean, look at this. You can draw a bounding box for each can draw a bounding box for each can draw a bounding box for each character and object and the model character and object and the model character and object and the model places them exactly inside it. This places them exactly inside it. This places them exactly inside it. This gives you full control over your gives you full control over your gives you full control over your composition without needing to rerun the composition without needing to rerun the composition without needing to rerun the prompt 20 times. So, in this video I'm prompt 20 times. So, in this video I'm prompt 20 times. So, in this video I'm going to show you how you can build your going to show you how you can build your going to show you how you can build your own perfect data sets for each own perfect data sets for each own perfect data sets for each character, train your own AI models on character, train your own AI models on character, train your own AI models on them, and keep them all consistent them, and keep them all consistent them, and keep them all consistent across every single shot. So, whether"
+  },
+  {
+    "id": "2026-09-17-google-flow-veo-3-1-tutorial-real-test-results",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=H1QIXRFHAVU",
+    "title": "Google Flow | Veo 3.1 Tutorial & Real Test Results",
+    "creator_handle": "@AI2Play",
+    "hook_onscreen": "",
+    "hook_spoken": "Are you ready for another AI video Are you ready for another AI video tutorial? [Music] [Music] &gt;&gt; We will use Veo 3",
+    "niche_tags": [
+      "veo",
+      "video",
+      "gemini",
+      "ai"
+    ],
+    "pattern_tags": [
+      "how_to_promise"
+    ],
+    "views": 288644,
+    "likes": 3459,
+    "comments": 169,
+    "saves": null,
+    "format": "long",
+    "post_date": "2025-10-23",
+    "thumb": "/thumbs/2026-09-17-google-flow-veo-3-1-tutorial-real-test-results.jpg",
+    "transcript_30s": "Are you ready for another AI video Are you ready for another AI video tutorial? [Music] [Music] &gt;&gt; We will use Veo 3.1 inside the Google &gt;&gt; We will use Veo 3.1 inside the Google &gt;&gt; We will use Veo 3.1 inside the Google Flow platform. &gt;&gt; If you search on Google for Google Flow, &gt;&gt; If you search on Google for Google Flow, usually the first link is from Google usually the first link is from Google usually the first link is from Google Labs, which leads to Google Flow. I Labs, which leads to Google Flow. I Labs, which leads to Google Flow. I recently got access, but others have had recently got access, but others have had recently got access, but others have had it for a long time. So depending on the it for a long time. So depending on the it for a long time. So depending on the country, some might still not have country, some might still not have country, some might still not have access yet. Click on create and on this access yet. Click on create and on this access yet. Click on create and on this page, sign in with your Google Gmail page, sign in with your Google Gmail page, sign in with your Google Gmail account."
+  },
+  {
+    "id": "2026-09-17-how-i-make-ultra-realistic-ai-videos-using-seeda",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=Zo8KaTs0l6k",
+    "title": "How I Make Ultra Realistic AI Videos using Seedance 2.5",
+    "creator_handle": "@DanKieft",
+    "hook_onscreen": "",
+    "hook_spoken": "[panting] [panting] &gt;&gt; Should I be writing any of this down? &gt;&gt; Should I be writing any of this down? &gt;&gt; Should I be writing any of this down? &gt;&gt; No",
+    "niche_tags": [
+      "video",
+      "tooling",
+      "ai"
+    ],
+    "pattern_tags": [
+      "authority",
+      "how_to_promise"
+    ],
+    "views": 199418,
+    "likes": null,
+    "comments": 146,
+    "saves": null,
+    "format": "long",
+    "post_date": "2026-09-01",
+    "thumb": "/thumbs/2026-09-17-how-i-make-ultra-realistic-ai-videos-using-seeda.jpg",
+    "transcript_30s": "[panting] [panting] &gt;&gt; Should I be writing any of this down? &gt;&gt; Should I be writing any of this down? &gt;&gt; Should I be writing any of this down? &gt;&gt; No. &gt;&gt; Wait. &gt;&gt; Wait. Does that guy have six fingers? Does that guy have six fingers? Does that guy have six fingers? &gt;&gt; The machine knew what a hand looked &gt;&gt; The machine knew what a hand looked &gt;&gt; The machine knew what a hand looked like. It just had no idea how to count. &gt;&gt; So, why not fix it?"
+  },
+  {
+    "id": "2026-09-17-how-to-create-long-ai-animation-videos-with-cons",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=0CjArtUh_Wg",
+    "title": "How To Create Long AI Animation Videos With Consistent Characters - Kling 3.0",
+    "creator_handle": "@DanKieft",
+    "hook_onscreen": "",
+    "hook_spoken": "Creating AI animation videos is easier Creating AI animation videos is easier than ever",
+    "niche_tags": [
+      "kling",
+      "video",
+      "ai"
+    ],
+    "pattern_tags": [
+      "how_to_promise"
+    ],
+    "views": 195988,
+    "likes": null,
+    "comments": 147,
+    "saves": null,
+    "format": "long",
+    "post_date": "2026-03-31",
+    "thumb": "/thumbs/2026-09-17-how-to-create-long-ai-animation-videos-with-cons.jpg",
+    "transcript_30s": "Creating AI animation videos is easier Creating AI animation videos is easier than ever. than ever. than ever. But making good AI videos with But making good AI videos with But making good AI videos with consistent characters is hard. That's consistent characters is hard. That's consistent characters is hard. That's why in this video I will break down all why in this video I will break down all why in this video I will break down all the different techniques that all the different techniques that all the different techniques that all YouTubers have been gatekeeping from YouTubers have been gatekeeping from YouTubers have been gatekeeping from you. So by the end of this video you you. So by the end of this video you you. So by the end of this video you should be able to make your own [music] should be able to make your own [music] should be able to make your own [music] AI animation. But first, let me show you AI animation. But first, let me show you AI animation. But first, let me show you an example. &gt;&gt; [music] [music]"
+  },
+  {
+    "id": "2026-09-17-how-to-train-lora-in-comfyui-using-flux-full-ste",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=m3ENCAwWDXc",
+    "title": "How to Train LoRA in ComfyUI Using Flux – Full Step-by-Step Tutorial",
+    "creator_handle": "@VladimirChopine[GeekatPlay]",
+    "hook_onscreen": "",
+    "hook_spoken": "In this video, I will take you step by In this video, I will take you step by step how to use it your data set of step how to use it your data set of step how to use it your data s",
+    "niche_tags": [
+      "flux",
+      "image",
+      "ai"
+    ],
+    "pattern_tags": [
+      "how_to_promise"
+    ],
+    "views": 160120,
+    "likes": 2547,
+    "comments": 241,
+    "saves": null,
+    "format": "long",
+    "post_date": "2025-05-29",
+    "thumb": "/thumbs/2026-09-17-how-to-train-lora-in-comfyui-using-flux-full-ste.jpg",
+    "transcript_30s": "In this video, I will take you step by In this video, I will take you step by step how to use it your data set of step how to use it your data set of step how to use it your data set of images to create the lers that you can images to create the lers that you can images to create the lers that you can use with a flax inside the confi. All use with a flax inside the confi. All use with a flax inside the confi. All our workflow will be residing inside the our workflow will be residing inside the our workflow will be residing inside the confi. In this video, I'm going to use confi. In this video, I'm going to use confi. In this video, I'm going to use confui0.36. You can downloaded this confui0.36. You can downloaded this confui0.36. You can downloaded this version directly from the links down version directly from the links down version directly from the links down below in the descriptions and depend on below in the descriptions and depend on below in the descriptions and depend on what version you used, you can select. I what version you used, you can select. I what version you used, you can select. I would recommend to use it Windows would recommend to use it Windows would recommend to use it Windows portable. That's what I using in this portable. That's what I using in this portable. That's what I using in this video. Just going down and click on video. Just going down and click on video. Just going down and click on direct link. As I mentioned before, all direct link. As I mentioned before, all direct link. As I mentioned before, all links to all resources will be down in"
+  },
+  {
+    "id": "2026-09-17-how-to-use-kling-ai-tutorial-free-high-quality-a",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=anACVZDNw6o",
+    "title": "How to Use Kling AI (Tutorial): Free High Quality AI Video Generator",
+    "creator_handle": "@CaffeinatedBlogger",
+    "hook_onscreen": "",
+    "hook_spoken": "welcome to this tutorial of cing AI here welcome to this tutorial of cing AI here are some of the examples of the videos are some of the examples of the videos are some of the exam",
+    "niche_tags": [
+      "kling",
+      "video",
+      "ai"
+    ],
+    "pattern_tags": [
+      "how_to_promise"
+    ],
+    "views": 178802,
+    "likes": 1975,
+    "comments": 125,
+    "saves": null,
+    "format": "long",
+    "post_date": "2024-12-19",
+    "thumb": "/thumbs/2026-09-17-how-to-use-kling-ai-tutorial-free-high-quality-a.jpg",
+    "transcript_30s": "welcome to this tutorial of cing AI here welcome to this tutorial of cing AI here are some of the examples of the videos are some of the examples of the videos are some of the examples of the videos that have been generated from cing Ai that have been generated from cing Ai that have been generated from cing Ai and as you can see right now cing ai and as you can see right now cing ai and as you can see right now cing ai really is one of the best AI video really is one of the best AI video really is one of the best AI video generators on the market it supports generators on the market it supports generators on the market it supports different lens Styles different styles different lens Styles different styles different lens Styles different styles of the camera I'm going to show you all of the camera I'm going to show you all of the camera I'm going to show you all of this in today's cing AI tutorial I of this in today's cing AI tutorial I of this in today's cing AI tutorial I will show you how to use cing AI from will show you how to use cing AI from will show you how to use cing AI from scratch to generate some awesome images scratch to generate some awesome images scratch to generate some awesome images that look completely real istic so first that look completely real istic so first that look completely real istic so first of all if you go to cing ai.com you will of all if you go to cing ai.com you will of all if you go to cing ai.com you will see a homepage that currently looks like"
+  },
+  {
+    "id": "2026-09-17-how-to-use-sora-2-step-by-step-tutorial",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=lHhHEw-Nkg0",
+    "title": "How to Use Sora 2 (Step-by-Step Tutorial)",
+    "creator_handle": "@KevinStratvert",
+    "hook_onscreen": "",
+    "hook_spoken": "What if you could put yourself or your What if you could put yourself or your family and friends into any video you family and friends into any video you family and friends into an",
+    "niche_tags": [
+      "sora",
+      "video",
+      "openai",
+      "ai"
+    ],
+    "pattern_tags": [
+      "how_to_promise"
+    ],
+    "views": 410143,
+    "likes": 4717,
+    "comments": 466,
+    "saves": null,
+    "format": "long",
+    "post_date": "2025-10-08",
+    "thumb": "/thumbs/2026-09-17-how-to-use-sora-2-step-by-step-tutorial.jpg",
+    "transcript_30s": "What if you could put yourself or your What if you could put yourself or your family and friends into any video you family and friends into any video you family and friends into any video you can imagine? can imagine? can imagine? &gt;&gt; Today we're looking at Sora 2, OpenAI's &gt;&gt; Today we're looking at Sora 2, OpenAI's &gt;&gt; Today we're looking at Sora 2, OpenAI's brand new video and audio generation brand new video and audio generation brand new video and audio generation model. And it's wild. &gt;&gt; Sora 2 adds sound, realistic motion, and &gt;&gt; Sora 2 adds sound, realistic motion, and better control so your ideas move better control so your ideas move better control so your ideas move exactly how you imagine them. exactly how you imagine them. exactly how you imagine them. &gt;&gt; Hi, I'm Kevin and let's dive in. That was incredible. And now let's look That was incredible. And now let's look at how you can do it, too. Oh, and by at how you can do it, too. Oh, and by at how you can do it, too. Oh, and by the way, I am real. I don't know how to"
+  },
+  {
+    "id": "2026-09-17-how-to-use-suno-ai-better-than-99-of-people",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=DrRRvM4oc4w",
+    "title": "How to Use Suno AI Better than 99% of People",
+    "creator_handle": "@IsadoesAI",
+    "hook_onscreen": "",
+    "hook_spoken": "There's a lot of people right now who There's a lot of people right now who open Suno, type a quick prompt, and end open Suno, type a quick prompt, and end open Suno, type a quick",
+    "niche_tags": [
+      "suno",
+      "music",
+      "how-to",
+      "ai"
+    ],
+    "pattern_tags": [
+      "number",
+      "how_to_promise"
+    ],
+    "views": 141217,
+    "likes": null,
+    "comments": 22,
+    "saves": null,
+    "format": "long",
+    "post_date": "2026-03-17",
+    "thumb": "/thumbs/2026-09-17-how-to-use-suno-ai-better-than-99-of-people.jpg",
+    "transcript_30s": "There's a lot of people right now who There's a lot of people right now who open Suno, type a quick prompt, and end open Suno, type a quick prompt, and end open Suno, type a quick prompt, and end up with songs that sound generic or up with songs that sound generic or up with songs that sound generic or nothing like what they had in mind. nothing like what they had in mind. nothing like what they had in mind. Because most people stop at simple Because most people stop at simple Because most people stop at simple prompts and never discover the toolkit prompts and never discover the toolkit prompts and never discover the toolkit that's hidden right under the surface. that's hidden right under the surface. that's hidden right under the surface. And that's why their music sounds And that's why their music sounds And that's why their music sounds AI-generated instead of standing out AI-generated instead of standing out AI-generated instead of standing out with a unique sound that's actually with a unique sound that's actually with a unique sound that's actually theirs. So, I sat down and tested every theirs. So, I sat down and tested every theirs. So, I sat down and tested every single advanced feature in Suno to single advanced feature in Suno to single advanced feature in Suno to figure out what actually makes a figure out what actually makes a figure out what actually makes a difference. By the end of this video, difference. By the end of this video, difference. By the end of this video, you'll know exactly how to use these you'll know exactly how to use these you'll know exactly how to use these features to create music that sounds features to create music that sounds features to create music that sounds better than 99% of other people's better than 99% of other people's better than 99% of other people's creations. If you want to follow along"
+  },
+  {
+    "id": "2026-09-17-how-to-use-suno-from-beginner-to-pro-features-ex",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=Vfai49qhluA",
+    "title": "How to Use Suno: From Beginner to Pro Features Explained",
+    "creator_handle": "@SunoMusic",
+    "hook_onscreen": "",
+    "hook_spoken": "This video covers the absolute basics of This video covers the absolute basics of Suno, but if you've been using the Suno, but if you've been using the Suno, but if you've been usi",
+    "niche_tags": [
+      "suno",
+      "music",
+      "how-to",
+      "ai"
+    ],
+    "pattern_tags": [
+      "before_after",
+      "how_to_promise"
+    ],
+    "views": 223139,
+    "likes": 3868,
+    "comments": 435,
+    "saves": null,
+    "format": "long",
+    "post_date": "2026-05-05",
+    "thumb": "/thumbs/2026-09-17-how-to-use-suno-from-beginner-to-pro-features-ex.jpg",
+    "transcript_30s": "This video covers the absolute basics of This video covers the absolute basics of Suno, but if you've been using the Suno, but if you've been using the Suno, but if you've been using the platform for a while, stick around platform for a while, stick around platform for a while, stick around because we're covering the essentials because we're covering the essentials because we're covering the essentials plus a few hidden tricks like using the plus a few hidden tricks like using the plus a few hidden tricks like using the magic wand to rewrite your lyrics, magic wand to rewrite your lyrics, magic wand to rewrite your lyrics, switching to light mode, or even switching to light mode, or even switching to light mode, or even animating your cover art. So, you might animating your cover art. So, you might animating your cover art. So, you might have missed something. &gt;&gt; [music] &gt;&gt; [music] &gt;&gt; First off, you can use Suno on iOS, &gt;&gt; First off, you can use Suno on iOS, &gt;&gt; First off, you can use Suno on iOS, Android, or the web. I'm going to be Android, or the web. I'm going to be Android, or the web. I'm going to be using a web browser on Mac for this using a web browser on Mac for this using a web browser on Mac for this [music] tutorial. Right off the bat, [music] tutorial. Right off the bat, [music] tutorial. Right off the bat, there's a link in the description. Click there's a link in the description. Click there's a link in the description. Click that, that'll take you to Suno and you that, that'll take you to Suno and you that, that'll take you to Suno and you can make your first song right now. can make your first song right now. can make your first song right now. You'll want to create an account using You'll want to create an account using You'll want to create an account using one of your socials or your phone one of your socials or your phone one of your socials or your phone number. When you log in, you'll land on number. When you log in, you'll land on number. When you log in, you'll land on the home page. If you want to start the home page. If you want to start the home page. If you want to start creating right away, we have an instant"
+  },
+  {
+    "id": "2026-09-17-kling-ai-3-0-is-built-for-viral-content-motion-c",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=yUBGI_kUm-g",
+    "title": "Kling AI 3.0 Is Built for Viral Content (Motion Control)",
+    "creator_handle": "@KingyAI",
+    "hook_onscreen": "",
+    "hook_spoken": "These are the kind of videos going viral These are the kind of videos going viral all over the internet getting millions all over the internet getting millions all over the interne",
+    "niche_tags": [
+      "kling",
+      "video",
+      "ai"
+    ],
+    "pattern_tags": [
+      "curiosity_gap"
+    ],
+    "views": 561172,
+    "likes": 400,
+    "comments": 56,
+    "saves": null,
+    "format": "long",
+    "post_date": "2026-05-08",
+    "thumb": "/thumbs/2026-09-17-kling-ai-3-0-is-built-for-viral-content-motion-c.jpg",
+    "transcript_30s": "These are the kind of videos going viral These are the kind of videos going viral all over the internet getting millions all over the internet getting millions all over the internet getting millions of views and you can create this type of of views and you can create this type of of views and you can create this type of content right alongside a team. Same content right alongside a team. Same content right alongside a team. Same workspace, same workflow. What's going workspace, same workflow. What's going workspace, same workflow. What's going on everybody? Welcome back to another AI on everybody? Welcome back to another AI on everybody? Welcome back to another AI video. Today we're diving into Kling AI video. Today we're diving into Kling AI video. Today we're diving into Kling AI 3.0 and more specifically how to create 3.0 and more specifically how to create 3.0 and more specifically how to create viral content with an emphasis on motion viral content with an emphasis on motion viral content with an emphasis on motion control and how it starts to turn into a control and how it starts to turn into a control and how it starts to turn into a full team workflow because Kling just full team workflow because Kling just full team workflow because Kling just introduced their team plan which introduced their team plan which introduced their team plan which basically turns the Kling platform into basically turns the Kling platform into basically turns the Kling platform into a full production system. Also, the a full production system. Also, the a full production system. Also, the entire platform is now available via entire platform is now available via entire platform is now available via desktop application. Let's get into it. desktop application. Let's get into it. desktop application. Let's get into it. Alrighty, we're inside Kling AI. Now a"
+  },
+  {
+    "id": "2026-09-17-master-midjourney-updated-beginner-to-advanced-c",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=hZv1KGDHW7c",
+    "title": "Master Midjourney - Updated Beginner to Advanced Course",
+    "creator_handle": "@Futurepedia",
+    "hook_onscreen": "",
+    "hook_spoken": "There's a lot of great image generators There's a lot of great image generators now, but Midjourney still wins for now, but Midjourney still wins for now, but Midjourney still wins",
+    "niche_tags": [
+      "midjourney",
+      "image",
+      "ai"
+    ],
+    "pattern_tags": [
+      "curiosity_gap"
+    ],
+    "views": 351377,
+    "likes": 11618,
+    "comments": 368,
+    "saves": null,
+    "format": "long",
+    "post_date": "2024-07-03",
+    "thumb": "/thumbs/2026-09-17-master-midjourney-updated-beginner-to-advanced-c.jpg",
+    "transcript_30s": "There's a lot of great image generators There's a lot of great image generators now, but Midjourney still wins for now, but Midjourney still wins for now, but Midjourney still wins for almost every use case. It has changed a almost every use case. It has changed a almost every use case. It has changed a lot over the past year. The largest lot over the past year. The largest lot over the past year. The largest change being the launch of the website. change being the launch of the website. change being the launch of the website. It's a gigantic improvement over Discord It's a gigantic improvement over Discord It's a gigantic improvement over Discord for usability, aesthetics, inspiration, for usability, aesthetics, inspiration, for usability, aesthetics, inspiration, just all around better everything. So, just all around better everything. So, just all around better everything. So, I've broken everything down with I've broken everything down with I've broken everything down with visualizations to help understand every visualizations to help understand every visualizations to help understand every parameter, systems for prompting, parameter, systems for prompting, parameter, systems for prompting, resources, style reference explorers, resources, style reference explorers, resources, style reference explorers, tons of examples, some more unique tons of examples, some more unique tons of examples, some more unique workflows, and lesser used techniques. workflows, and lesser used techniques. workflows, and lesser used techniques. Everything you need to master as a Everything you need to master as a Everything you need to master as a complete beginner or a longtime user. complete beginner or a longtime user. complete beginner or a longtime user. Once you get the hang of midjourney, it"
+  },
+  {
+    "id": "2026-09-17-meet-nano-banana-pro-next-level-ai-image-generat",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=AeBOzler4nE",
+    "title": "Meet Nano Banana Pro: Next-Level AI Image Generation & Editing",
+    "creator_handle": "@Google",
+    "hook_onscreen": "",
+    "hook_spoken": "I'm really that good",
+    "niche_tags": [
+      "image",
+      "tooling",
+      "ai"
+    ],
+    "pattern_tags": [
+      "curiosity_gap"
+    ],
+    "views": 7671047,
+    "likes": 3679,
+    "comments": 254,
+    "saves": null,
+    "format": "short",
+    "post_date": "2025-11-20",
+    "thumb": "/thumbs/2026-09-17-meet-nano-banana-pro-next-level-ai-image-generat.jpg",
+    "transcript_30s": "I'm really that good. I'm really that good. Just watch this space. Making some Just watch this space. Making some Just watch this space. Making some racket. Give you a taste of a brand new racket. Give you a taste of a brand new racket. Give you a taste of a brand new classic. Yeah, boom. classic. Yeah, boom. classic. Yeah, boom. Hey, take a look. Yeah, I'm really that good. That good. That good. I'm really that good. Yeah. Oh, yeah. So good."
+  },
+  {
+    "id": "2026-09-17-midjourney-s-new-powerful-ai-image-editor-availa",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=sSs_be7BWlw",
+    "title": "Midjourney's NEW POWERFUL AI Image editor (available to everyone!)",
+    "creator_handle": "@WadeMcMaster-CreatorImpact",
+    "hook_onscreen": "",
+    "hook_spoken": "Midjourney's image editor is now Midjourney's image editor is now available to everyone with a massive available to everyone with a massive available to everyone with a massive upg",
+    "niche_tags": [
+      "midjourney",
+      "image",
+      "ai"
+    ],
+    "pattern_tags": [
+      "tool_reveal"
+    ],
+    "views": 120213,
+    "likes": 3663,
+    "comments": 241,
+    "saves": null,
+    "format": "long",
+    "post_date": "2025-04-25",
+    "thumb": "/thumbs/2026-09-17-midjourney-s-new-powerful-ai-image-editor-availa.jpg",
+    "transcript_30s": "Midjourney's image editor is now Midjourney's image editor is now available to everyone with a massive available to everyone with a massive available to everyone with a massive upgrade. They've added not only a few upgrade. They've added not only a few upgrade. They've added not only a few extra features, but a layer system, extra features, but a layer system, extra features, but a layer system, which might not seem like a big deal to which might not seem like a big deal to which might not seem like a big deal to some, but actually changes the game when some, but actually changes the game when some, but actually changes the game when it comes to editing images. And this is it comes to editing images. And this is it comes to editing images. And this is really, really exciting. And today, I'm really, really exciting. And today, I'm really, really exciting. And today, I'm going to run through the entire process going to run through the entire process going to run through the entire process of how this editor works. I've always of how this editor works. I've always of how this editor works. I've always said that Photoshop skills combined with said that Photoshop skills combined with said that Photoshop skills combined with AI art are kind of like the ultimate AI art are kind of like the ultimate AI art are kind of like the ultimate combination. This helps to sort of combination. This helps to sort of combination. This helps to sort of bridge that gap a little bit. Now, a lot bridge that gap a little bit. Now, a lot bridge that gap a little bit. Now, a lot of people aren't that excited about it, of people aren't that excited about it, of people aren't that excited about it, but I think the level of control it now but I think the level of control it now but I think the level of control it now adds is a big step in the right adds is a big step in the right adds is a big step in the right direction. Now, I'm logged into Mid direction. Now, I'm logged into Mid direction. Now, I'm logged into Mid Journey, and you'll notice down here we Journey, and you'll notice down here we Journey, and you'll notice down here we have the edit tab, and I'm going to come"
+  },
+  {
+    "id": "2026-09-17-nano-banana-ai-tutorial-how-to-use-google-s-free",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=lfE-csUyPF4",
+    "title": "Nano Banana AI Tutorial | How to Use Google’s Free Tool (Step-by-Step)",
+    "creator_handle": "@KevinStratvert",
+    "hook_onscreen": "",
+    "hook_spoken": "Here's a picture of me",
+    "niche_tags": [
+      "image",
+      "tooling",
+      "ai"
+    ],
+    "pattern_tags": [
+      "how_to_promise"
+    ],
+    "views": 446539,
+    "likes": 7114,
+    "comments": 194,
+    "saves": null,
+    "format": "long",
+    "post_date": "2025-09-14",
+    "thumb": "/thumbs/2026-09-17-nano-banana-ai-tutorial-how-to-use-google-s-free.jpg",
+    "transcript_30s": "Here's a picture of me. Now, here I am Here's a picture of me. Now, here I am in front of my own private jet sailing in front of my own private jet sailing in front of my own private jet sailing down a chocolate river as a jungle down a chocolate river as a jungle down a chocolate river as a jungle explorer, as a police officer, and even explorer, as a police officer, and even explorer, as a police officer, and even standing in front of my own cookie standing in front of my own cookie standing in front of my own cookie store. Pretty wild, right? Hi everyone, store. Pretty wild, right? Hi everyone, store. Pretty wild, right? Hi everyone, Kevin here. In this video, I'll show you Kevin here. In this video, I'll show you Kevin here. In this video, I'll show you step by step how to use Google's nano step by step how to use Google's nano step by step how to use Google's nano banana AI to create your own images. And banana AI to create your own images. And banana AI to create your own images. And the best part, it only takes a few the best part, it only takes a few the best part, it only takes a few minutes and it's completely free to try. minutes and it's completely free to try. minutes and it's completely free to try. Let's dive in. So, what exactly is Nano Let's dive in. So, what exactly is Nano Let's dive in. So, what exactly is Nano Banana? It's Google's brand new AI image Banana? It's Google's brand new AI image Banana? It's Google's brand new AI image tool built right into Gemini. Think of"
+  },
+  {
+    "id": "2026-09-17-pikaframes-create-amazing-transitions-between-im",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=bR58kNH2BN0",
+    "title": "Pikaframes - Create AMAZING Transitions Between Images To Generate Videos - Pika 2.2",
+    "creator_handle": "@Astrovah",
+    "hook_onscreen": "",
+    "hook_spoken": "hi everyone P has just released their hi everyone P has just released their brand new 2",
+    "niche_tags": [
+      "pika",
+      "video",
+      "ai"
+    ],
+    "pattern_tags": [
+      "curiosity_gap"
+    ],
+    "views": 85167,
+    "likes": 2367,
+    "comments": 126,
+    "saves": null,
+    "format": "long",
+    "post_date": "2025-03-02",
+    "thumb": "/thumbs/2026-09-17-pikaframes-create-amazing-transitions-between-im.jpg",
+    "transcript_30s": "hi everyone P has just released their hi everyone P has just released their brand new 2.2 video model which has much brand new 2.2 video model which has much brand new 2.2 video model which has much better quality and consistency you can better quality and consistency you can better quality and consistency you can also generate 10 second videos now and also generate 10 second videos now and also generate 10 second videos now and they released a brand new feature on the they released a brand new feature on the they released a brand new feature on the platform called pea frames so this is platform called pea frames so this is platform called pea frames so this is essentially key framing now key framing essentially key framing now key framing essentially key framing now key framing is nothing new but the way that pea is nothing new but the way that pea is nothing new but the way that pea frames does this transitioning from one frames does this transitioning from one frames does this transitioning from one image to another looks really amazing image to another looks really amazing image to another looks really amazing and I'll be showing you a whole bunch of and I'll be showing you a whole bunch of and I'll be showing you a whole bunch of creative use cases that you can try so creative use cases that you can try so creative use cases that you can try so let's dive straight into it so from the let's dive straight into it so from the let's dive straight into it so from the homepage at the bottom you should homepage at the bottom you should homepage at the bottom you should automatically have the 2.2 model automatically have the 2.2 model automatically have the 2.2 model selected if you don't just make sure selected if you don't just make sure selected if you don't just make sure that you left click on here and select"
+  },
+  {
+    "id": "2026-09-17-runway-ai-tutorial-for-beginners-in-17-minutes-f",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=FqYRkl12ON8",
+    "title": "Runway AI - Tutorial for Beginners in 17 MINUTES !  [ FULL GUIDE ]",
+    "creator_handle": "@SkillsFactory",
+    "hook_onscreen": "",
+    "hook_spoken": "Hey everyone, welcome to this video Hey everyone, welcome to this video where we explore Runway, a complete where we explore Runway, a complete where we explore Runway, a complete",
+    "niche_tags": [
+      "runway",
+      "video",
+      "ai"
+    ],
+    "pattern_tags": [
+      "number",
+      "how_to_promise"
+    ],
+    "views": 152610,
+    "likes": 1678,
+    "comments": 100,
+    "saves": null,
+    "format": "long",
+    "post_date": "2025-09-08",
+    "thumb": "/thumbs/2026-09-17-runway-ai-tutorial-for-beginners-in-17-minutes-f.jpg",
+    "transcript_30s": "Hey everyone, welcome to this video Hey everyone, welcome to this video where we explore Runway, a complete where we explore Runway, a complete where we explore Runway, a complete creative toolkit that uses the power of creative toolkit that uses the power of creative toolkit that uses the power of AI to generate and edit both images and AI to generate and edit both images and AI to generate and edit both images and videos. You can access it directly videos. You can access it directly videos. You can access it directly through your browser for free, making it through your browser for free, making it through your browser for free, making it easy to start creating without easy to start creating without easy to start creating without installing any software. installing any software. installing any software. [Applause] [Applause] [Applause] [Music] [Music] [Music] First of all, log in with your Runway First of all, log in with your Runway First of all, log in with your Runway account to access the homepage where account to access the homepage where account to access the homepage where you'll find several options on the you'll find several options on the you'll find several options on the right. On the left side, you'll see right. On the left side, you'll see right. On the left side, you'll see sessions which include all your projects sessions which include all your projects sessions which include all your projects in progress."
+  },
+  {
+    "id": "2026-09-17-runway-gen-4-5-tutorial-how-to-use-in-5-minutes",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=w_kKWDyPZnI",
+    "title": "Runway Gen 4.5 - Tutorial & How to Use in 5 MINUTES!  [ 2026 ]",
+    "creator_handle": "@SkillsFactory",
+    "hook_onscreen": "",
+    "hook_spoken": "Hey everybody, this is Zach and welcome Hey everybody, this is Zach and welcome to this video dedicated to the newest to this video dedicated to the newest to this video dedicated",
+    "niche_tags": [
+      "runway",
+      "video",
+      "ai"
+    ],
+    "pattern_tags": [
+      "number",
+      "how_to_promise"
+    ],
+    "views": 56032,
+    "likes": 651,
+    "comments": 36,
+    "saves": null,
+    "format": "long",
+    "post_date": "2026-01-19",
+    "thumb": "/thumbs/2026-09-17-runway-gen-4-5-tutorial-how-to-use-in-5-minutes.jpg",
+    "transcript_30s": "Hey everybody, this is Zach and welcome Hey everybody, this is Zach and welcome to this video dedicated to the newest to this video dedicated to the newest to this video dedicated to the newest Gen 4.5 model from Runway, a powerful Gen 4.5 model from Runway, a powerful Gen 4.5 model from Runway, a powerful update that takes video generation to update that takes video generation to update that takes video generation to the next level. Now, if you are new to the next level. Now, if you are new to the next level. Now, if you are new to Runway or maybe not fully confident with Runway or maybe not fully confident with Runway or maybe not fully confident with the platform yet, make sure to check our the platform yet, make sure to check our the platform yet, make sure to check our dedicated tutorials linked in the video dedicated tutorials linked in the video dedicated tutorials linked in the video description before moving forward. From the dashboard, head to generate From the dashboard, head to generate video to start creating a new video. video to start creating a new video. video to start creating a new video. Alternatively, inside any existing Alternatively, inside any existing Alternatively, inside any existing session, select video at the top. Again,"
+  },
+  {
+    "id": "2026-09-17-seedance-4k-the-world-s-first-native-4k-ai-video",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=dHKKUJTyeuU",
+    "title": "Seedance 4K : The World's First Native 4K AI Video Generator | Seedance 2.0 API",
+    "creator_handle": "@HowToIn5Minutes",
+    "hook_onscreen": "",
+    "hook_spoken": "The native 4K video generator is The native 4K video generator is officially here",
+    "niche_tags": [
+      "video",
+      "tooling",
+      "ai"
+    ],
+    "pattern_tags": [
+      "curiosity_gap"
+    ],
+    "views": 867190,
+    "likes": null,
+    "comments": 45,
+    "saves": null,
+    "format": "long",
+    "post_date": "2026-06-29",
+    "thumb": "/thumbs/2026-09-17-seedance-4k-the-world-s-first-native-4k-ai-video.jpg",
+    "transcript_30s": "The native 4K video generator is The native 4K video generator is officially here. To show you why it officially here. To show you why it officially here. To show you why it matters, [music] matters, [music] matters, [music] I created six side-by-side comparisons I created six side-by-side comparisons I created six side-by-side comparisons using the exact same prompt. On the left is the full HD AI video On the left is the full HD AI video model, and on the right is the ByteDance"
+  },
+  {
+    "id": "2026-09-17-sora-ai-tutorial-how-to-create-stunning-ai-video",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=i8_Pz7sBp_M",
+    "title": "Sora AI Tutorial — How to Create Stunning AI Videos",
+    "creator_handle": "@KevinStratvert",
+    "hook_onscreen": "",
+    "hook_spoken": "if you want to make cool Clips like this if you want to make cool Clips like this stay tuned for today's tutorial on Sora stay tuned for today's tutorial on Sora stay tuned for tod",
+    "niche_tags": [
+      "sora",
+      "video",
+      "openai",
+      "ai"
+    ],
+    "pattern_tags": [
+      "how_to_promise"
+    ],
+    "views": 254076,
+    "likes": 2354,
+    "comments": 97,
+    "saves": null,
+    "format": "long",
+    "post_date": "2025-02-17",
+    "thumb": "/thumbs/2026-09-17-sora-ai-tutorial-how-to-create-stunning-ai-video.jpg",
+    "transcript_30s": "if you want to make cool Clips like this if you want to make cool Clips like this stay tuned for today's tutorial on Sora stay tuned for today's tutorial on Sora stay tuned for today's tutorial on Sora AI an AI video generation app brought to AI an AI video generation app brought to AI an AI video generation app brought to you by the creators of chat GPT by the you by the creators of chat GPT by the you by the creators of chat GPT by the end of this video you'll know how to end of this video you'll know how to end of this video you'll know how to create your first video on Sora how to create your first video on Sora how to create your first video on Sora how to tune your prompts to get the best tune your prompts to get the best tune your prompts to get the best results and how well Sora does at results and how well Sora does at results and how well Sora does at generating six different types of videos generating six different types of videos generating six different types of videos plus stay tuned for our bonus content on plus stay tuned for our bonus content on plus stay tuned for our bonus content on adjusting camera style and lighting to adjusting camera style and lighting to adjusting camera style and lighting to get the right look and feel now to get the right look and feel now to get the right look and feel now to access Sora click the card at the top or access Sora click the card at the top or access Sora click the card at the top or use the link in the description let's"
+  },
+  {
+    "id": "2026-09-17-sound-on-for-sora-2",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=1PaoWKvcJP0",
+    "title": "Sound on for Sora 2",
+    "creator_handle": "@OpenAI",
+    "hook_onscreen": "",
+    "hook_spoken": "One year ago, Sora 1 redefined what was One year ago, Sora 1 redefined what was possible with moving images",
+    "niche_tags": [
+      "sora",
+      "video",
+      "openai",
+      "ai"
+    ],
+    "pattern_tags": [
+      "curiosity_gap"
+    ],
+    "views": 548505,
+    "likes": 11083,
+    "comments": 1300,
+    "saves": null,
+    "format": "long",
+    "post_date": "2025-09-30",
+    "thumb": "/thumbs/2026-09-17-sound-on-for-sora-2.jpg",
+    "transcript_30s": "One year ago, Sora 1 redefined what was One year ago, Sora 1 redefined what was possible with moving images. Today, possible with moving images. Today, possible with moving images. Today, we're announcing the Sora app, powered we're announcing the Sora app, powered we're announcing the Sora app, powered by the allnew Sora 2. by the allnew Sora 2. by the allnew Sora 2. [Music] [Music] [Music] It's the most powerful imagination It's the most powerful imagination It's the most powerful imagination engine ever built, and it's packed with new features. I'll and it's packed with new features. I'll pass it to Bill for more details. pass it to Bill for more details. pass it to Bill for more details. [Music] [Music] [Music] Now, every video comes with sound."
+  },
+  {
+    "id": "2026-09-17-stop-wasting-credits-become-a-veo-3-master-in-8",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=PL_izvWJVLU",
+    "title": "STOP Wasting Credits & Become a VEO 3 Master in 8 Minutes",
+    "creator_handle": "@Roboverse",
+    "hook_onscreen": "",
+    "hook_spoken": "It seems like everyone online is hyping It seems like everyone online is hyping up Google V3 right now",
+    "niche_tags": [
+      "veo",
+      "video",
+      "gemini",
+      "ai"
+    ],
+    "pattern_tags": [
+      "number"
+    ],
+    "views": 189001,
+    "likes": null,
+    "comments": 11,
+    "saves": null,
+    "format": "long",
+    "post_date": "2025-09-20",
+    "thumb": "/thumbs/2026-09-17-stop-wasting-credits-become-a-veo-3-master-in-8.jpg",
+    "transcript_30s": "It seems like everyone online is hyping It seems like everyone online is hyping up Google V3 right now. But the truth is up Google V3 right now. But the truth is up Google V3 right now. But the truth is that almost everyone I've seen using it that almost everyone I've seen using it that almost everyone I've seen using it is doing it completely wrong. They're is doing it completely wrong. They're is doing it completely wrong. They're wasting credits, getting mediocre wasting credits, getting mediocre wasting credits, getting mediocre results, and leaving insane potential on results, and leaving insane potential on results, and leaving insane potential on the table. That's why I've spent the the table. That's why I've spent the the table. That's why I've spent the past month pushing V3 way past what most past month pushing V3 way past what most past month pushing V3 way past what most people think is possible. And along the people think is possible. And along the people think is possible. And along the way, I discovered the best way to use it way, I discovered the best way to use it way, I discovered the best way to use it without wasting credits while still without wasting credits while still without wasting credits while still unlocking its full video potential. So, unlocking its full video potential. So, unlocking its full video potential. So, if you've been frustrated that your if you've been frustrated that your if you've been frustrated that your videos never look like the ones you see videos never look like the ones you see videos never look like the ones you see online, or a VO3 just feels too online, or a VO3 just feels too online, or a VO3 just feels too expensive because your credits vanish expensive because your credits vanish expensive because your credits vanish too fast, today I'm going to show you too fast, today I'm going to show you too fast, today I'm going to show you the exact blueprint I used to go from the exact blueprint I used to go from the exact blueprint I used to go from burning hundreds of credits to burning hundreds of credits to burning hundreds of credits to generating insanely highquality results"
+  },
+  {
+    "id": "2026-09-17-suno-studio-tutorial-for-beginners-and-pros-suno",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=HlkoEt9BleU",
+    "title": "Suno Studio Tutorial for Beginners and Pros: Suno AI Music Production in 15 Mins",
+    "creator_handle": "@MoeLueker",
+    "hook_onscreen": "",
+    "hook_spoken": "I just created a hit song with AI that I just created a hit song with AI that I'm ready to upload to Spotify in order I'm ready to upload to Spotify in order I'm ready to upload to",
+    "niche_tags": [
+      "suno",
+      "music",
+      "how-to",
+      "ai"
+    ],
+    "pattern_tags": [
+      "how_to_promise"
+    ],
+    "views": 152646,
+    "likes": 2386,
+    "comments": 351,
+    "saves": null,
+    "format": "long",
+    "post_date": "2025-09-26",
+    "thumb": "/thumbs/2026-09-17-suno-studio-tutorial-for-beginners-and-pros-suno.jpg",
+    "transcript_30s": "I just created a hit song with AI that I just created a hit song with AI that I'm ready to upload to Spotify in order I'm ready to upload to Spotify in order I'm ready to upload to Spotify in order to go viral. I used JetGBT to come up to go viral. I used JetGBT to come up to go viral. I used JetGBT to come up with custom lyrics and prompts. Then use with custom lyrics and prompts. Then use with custom lyrics and prompts. Then use Sununo to generate the song. And then I Sununo to generate the song. And then I Sununo to generate the song. And then I use this new feature called Sununo use this new feature called Sununo use this new feature called Sununo Studio in order to edit the song exactly Studio in order to edit the song exactly Studio in order to edit the song exactly how I want it to be. Check out how cool how I want it to be. Check out how cool how I want it to be. Check out how cool this sounds. this sounds. this sounds. [Music] &gt;&gt; You're probably like me and you're tired &gt;&gt; You're probably like me and you're tired of AI music that sounds robotic and of AI music that sounds robotic and of AI music that sounds robotic and gives you zero control over the final gives you zero control over the final gives you zero control over the final result, right? But SunoAI just changed result, right? But SunoAI just changed result, right? But SunoAI just changed everything. Sunno just released Sununo everything. Sunno just released Sununo everything. Sunno just released Sununo Studio, which lets you perfect any song Studio, which lets you perfect any song Studio, which lets you perfect any song like a professional producer without"
+  },
+  {
+    "id": "2026-09-17-this-is-how-i-made-an-ultra-realistic-ai-short-f",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=0HIRIT7px9Y",
+    "title": "This is How I Made an Ultra Realistic AI Short Film Using Seedance 2.0 in 4K (Full Workflow)",
+    "creator_handle": "@HiggsfieldAI",
+    "hook_onscreen": "",
+    "hook_spoken": "Think of the last film that hit your Think of the last film that hit your heart",
+    "niche_tags": [
+      "video",
+      "tooling",
+      "ai"
+    ],
+    "pattern_tags": [
+      "authority",
+      "how_to_promise"
+    ],
+    "views": 195183,
+    "likes": 4611,
+    "comments": 363,
+    "saves": null,
+    "format": "long",
+    "post_date": "2026-07-07",
+    "thumb": "/thumbs/2026-09-17-this-is-how-i-made-an-ultra-realistic-ai-short-f.jpg",
+    "transcript_30s": "Think of the last film that hit your Think of the last film that hit your heart. heart. heart. &gt;&gt; A film that made you feel [crying] &gt;&gt; A film that made you feel [crying] &gt;&gt; A film that made you feel [crying] inspired, heartbroken, the guys believed inspired, heartbroken, the guys believed inspired, heartbroken, the guys believed in me, in me, in me, &gt;&gt; or happy. &gt;&gt; or happy. &gt;&gt; or happy. All of those emotions come not just from All of those emotions come not just from All of those emotions come not just from a good idea. It's the colors, the camera a good idea. It's the colors, the camera a good idea. It's the colors, the camera angles, the storytelling. So today, angles, the storytelling. So today, angles, the storytelling. So today, you're not going to just learn how to you're not going to just learn how to you're not going to just learn how to make an AI film [music] like before. You make an AI film [music] like before. You make an AI film [music] like before. You are going to start thinking and creating are going to start thinking and creating are going to start thinking and creating AI films like a real director. Hi, I'm AI films like a real director. Hi, I'm AI films like a real director. Hi, I'm Adil. What you just watched are the Adil. What you just watched are the Adil. What you just watched are the shots from my latest cinematic short shots from my latest cinematic short shots from my latest cinematic short film made entirely with Hixel AI and"
+  },
+  {
+    "id": "2026-09-17-this-is-how-to-use-kling-3-0-like-a-pro-the-only",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=HTBfxEqDCdU",
+    "title": "This Is How To Use Kling 3.0 Like A PRO (The Only Guide You Need)",
+    "creator_handle": "@SebastienJefferies",
+    "hook_onscreen": "",
+    "hook_spoken": "AI videos are about to break the AI videos are about to break the internet with Cling 3",
+    "niche_tags": [
+      "kling",
+      "video",
+      "ai"
+    ],
+    "pattern_tags": [
+      "how_to_promise"
+    ],
+    "views": 178956,
+    "likes": 4402,
+    "comments": 255,
+    "saves": null,
+    "format": "long",
+    "post_date": "2026-02-12",
+    "thumb": "/thumbs/2026-09-17-this-is-how-to-use-kling-3-0-like-a-pro-the-only.jpg",
+    "transcript_30s": "AI videos are about to break the AI videos are about to break the internet with Cling 3.0 because now you internet with Cling 3.0 because now you internet with Cling 3.0 because now you can literally make the most realistic can literally make the most realistic can literally make the most realistic videos with some of the best lip syncs videos with some of the best lip syncs videos with some of the best lip syncs we've ever seen. And trust me when I say we've ever seen. And trust me when I say we've ever seen. And trust me when I say this, but we've got some wild stuff to this, but we've got some wild stuff to this, but we've got some wild stuff to show you because you can literally show you because you can literally show you because you can literally create some dynamic videos like this create some dynamic videos like this create some dynamic videos like this absolutely crazy basketball video. Or absolutely crazy basketball video. Or absolutely crazy basketball video. Or you can do movie like scenes like this you can do movie like scenes like this you can do movie like scenes like this where it continuously transitions to the where it continuously transitions to the where it continuously transitions to the next sequence. Or how about create a next sequence. Or how about create a next sequence. Or how about create a full-on fight scene like this one? or full-on fight scene like this one? or full-on fight scene like this one? or even create multi character talking even create multi character talking even create multi character talking scenes like this, which is absolutely scenes like this, which is absolutely scenes like this, which is absolutely wild. Now, a lot of creators are making wild. Now, a lot of creators are making wild. Now, a lot of creators are making videos about the Cling 3.0 update, but videos about the Cling 3.0 update, but videos about the Cling 3.0 update, but they aren't actually showing you the they aren't actually showing you the they aren't actually showing you the best ways to use it, which is what we're"
+  },
+  {
+    "id": "2026-09-17-tiktok-ai-7681134118255463696",
+    "category": "ai",
+    "platform": "tiktok",
+    "url": "https://www.tiktok.com/@taki.gpt/video/7681134118255463696",
+    "title": "Click the link in my bio to access the full prompt, ChatGPT and Claud...",
+    "creator_handle": "@taki.gpt",
+    "hook_onscreen": "Click the link in my bio to access the full prompt, ChatGPT and Claud...",
+    "hook_spoken": "Click the link in my bio to access the full prompt, ChatGPT and Claud...",
+    "niche_tags": [
+      "ai",
+      "chatgpt",
+      "prompts"
+    ],
+    "pattern_tags": [
+      "curiosity_gap"
+    ],
+    "views": 64400,
+    "likes": 2474,
+    "comments": 383,
+    "saves": null,
+    "format": "short",
+    "post_date": null,
+    "thumb": "/thumbs/2026-09-17-tiktok-ai-7681134118255463696.jpg",
+    "transcript_30s": "Click the link in my bio to access the full prompt, ChatGPT and Claud..."
+  },
+  {
+    "id": "2026-09-17-tiktok-ai-7683646673125379358",
+    "category": "ai",
+    "platform": "tiktok",
+    "url": "https://www.tiktok.com/@nate.b.jones/video/7683646673125379358",
+    "title": "I’m surprised no one is picking up on what AI + Privacy + Sensors rea...",
+    "creator_handle": "@nate.b.jones",
+    "hook_onscreen": "I’m surprised no one is picking up on what AI + Privacy + Sensors rea...",
+    "hook_spoken": "I’m surprised no one is picking up on what AI + Privacy + Sensors rea...",
+    "niche_tags": [
+      "ai",
+      "agents",
+      "how-to"
+    ],
+    "pattern_tags": [
+      "curiosity_gap"
+    ],
+    "views": 32000,
+    "likes": 1806,
+    "comments": 172,
+    "saves": null,
+    "format": "short",
+    "post_date": null,
+    "thumb": "/thumbs/2026-09-17-tiktok-ai-7683646673125379358.jpg",
+    "transcript_30s": "I’m surprised no one is picking up on what AI + Privacy + Sensors rea..."
+  },
+  {
+    "id": "2026-09-17-tiktok-ai-7684085062681283870",
+    "category": "ai",
+    "platform": "tiktok",
+    "url": "https://www.tiktok.com/@nate.b.jones/video/7684085062681283870",
+    "title": "What's your answer? Let me know in the comments. #claude #aiextinctio...",
+    "creator_handle": "@nate.b.jones",
+    "hook_onscreen": "What's your answer? Let me know in the comments. #claude #aiextinctio...",
+    "hook_spoken": "What's your answer? Let me know in the comments. #claude #aiextinctio...",
+    "niche_tags": [
+      "ai",
+      "agents",
+      "how-to"
+    ],
+    "pattern_tags": [
+      "curiosity_gap"
+    ],
+    "views": 58600,
+    "likes": 2765,
+    "comments": 388,
+    "saves": null,
+    "format": "short",
+    "post_date": null,
+    "thumb": "/thumbs/2026-09-17-tiktok-ai-7684085062681283870.jpg",
+    "transcript_30s": "What's your answer? Let me know in the comments. #claude #aiextinctio..."
+  },
+  {
+    "id": "2026-09-17-tiktok-ai-7684360174601047328",
+    "category": "ai",
+    "platform": "tiktok",
+    "url": "https://www.tiktok.com/@milesreevesai/video/7684360174601047328",
+    "title": "Strix just revolutionized app security with AI-powered pen testing th...",
+    "creator_handle": "@milesreevesai",
+    "hook_onscreen": "Strix just revolutionized app security with AI-powered pen testing th...",
+    "hook_spoken": "Strix just revolutionized app security with AI-powered pen testing th...",
+    "niche_tags": [
+      "ai",
+      "claude",
+      "agents"
+    ],
+    "pattern_tags": [
+      "curiosity_gap"
+    ],
+    "views": 11800,
+    "likes": 452,
+    "comments": 8,
+    "saves": null,
+    "format": "short",
+    "post_date": null,
+    "thumb": "/thumbs/2026-09-17-tiktok-ai-7684360174601047328.jpg",
+    "transcript_30s": "Strix just revolutionized app security with AI-powered pen testing th..."
+  },
+  {
+    "id": "2026-09-17-tiktok-ai-7684466722178469150",
+    "category": "ai",
+    "platform": "tiktok",
+    "url": "https://www.tiktok.com/@nate.b.jones/video/7684466722178469150",
+    "title": "A classifier caught all this. #ainews #anthropic #aisafety #cybersecu...",
+    "creator_handle": "@nate.b.jones",
+    "hook_onscreen": "A classifier caught all this. #ainews #anthropic #aisafety #cybersecu...",
+    "hook_spoken": "A classifier caught all this. #ainews #anthropic #aisafety #cybersecu...",
+    "niche_tags": [
+      "ai",
+      "agents",
+      "how-to"
+    ],
+    "pattern_tags": [
+      "tool_reveal"
+    ],
+    "views": 158900,
+    "likes": 9320,
+    "comments": 425,
+    "saves": null,
+    "format": "short",
+    "post_date": null,
+    "thumb": "/thumbs/2026-09-17-tiktok-ai-7684466722178469150.jpg",
+    "transcript_30s": "A classifier caught all this. #ainews #anthropic #aisafety #cybersecu..."
+  },
+  {
+    "id": "2026-09-17-tiktok-ai-7685177483062234398",
+    "category": "ai",
+    "platform": "tiktok",
+    "url": "https://www.tiktok.com/@nate.b.jones/video/7685177483062234398",
+    "title": "Dario punted the big question. #aisafety #claude #darioamodei #cnn #a...",
+    "creator_handle": "@nate.b.jones",
+    "hook_onscreen": "Dario punted the big question. #aisafety #claude #darioamodei #cnn #a...",
+    "hook_spoken": "Dario punted the big question. #aisafety #claude #darioamodei #cnn #a...",
+    "niche_tags": [
+      "ai",
+      "agents",
+      "how-to"
+    ],
+    "pattern_tags": [
+      "curiosity_gap"
+    ],
+    "views": 19900,
+    "likes": 1000,
+    "comments": 90,
+    "saves": null,
+    "format": "short",
+    "post_date": null,
+    "thumb": "/thumbs/2026-09-17-tiktok-ai-7685177483062234398.jpg",
+    "transcript_30s": "Dario punted the big question. #aisafety #claude #darioamodei #cnn #a..."
+  },
+  {
+    "id": "2026-09-17-tiktok-ai-7685852356583378209",
+    "category": "ai",
+    "platform": "tiktok",
+    "url": "https://www.tiktok.com/@milesreevesai/video/7685852356583378209",
+    "title": "Claude Code just made building full mobile apps with zero coding skil...",
+    "creator_handle": "@milesreevesai",
+    "hook_onscreen": "Claude Code just made building full mobile apps with zero coding skil...",
+    "hook_spoken": "Claude Code just made building full mobile apps with zero coding skil...",
+    "niche_tags": [
+      "ai",
+      "claude",
+      "agents"
+    ],
+    "pattern_tags": [
+      "curiosity_gap"
+    ],
+    "views": 31900,
+    "likes": 1158,
+    "comments": 9,
+    "saves": null,
+    "format": "short",
+    "post_date": null,
+    "thumb": "/thumbs/2026-09-17-tiktok-ai-7685852356583378209.jpg",
+    "transcript_30s": "Claude Code just made building full mobile apps with zero coding skil..."
+  },
+  {
+    "id": "2026-09-17-tiktok-ai-7686209498054266142",
+    "category": "ai",
+    "platform": "tiktok",
+    "url": "https://www.tiktok.com/@nate.b.jones/video/7686209498054266142",
+    "title": "This is a real story about Nik Storonsky #ai #news #learnontiktok #le...",
+    "creator_handle": "@nate.b.jones",
+    "hook_onscreen": "This is a real story about Nik Storonsky #ai #news #learnontiktok #le...",
+    "hook_spoken": "This is a real story about Nik Storonsky #ai #news #learnontiktok #le...",
+    "niche_tags": [
+      "ai",
+      "agents",
+      "how-to"
+    ],
+    "pattern_tags": [
+      "how_to_promise",
+      "tool_reveal"
+    ],
+    "views": 49200,
+    "likes": 2704,
+    "comments": 115,
+    "saves": null,
+    "format": "short",
+    "post_date": null,
+    "thumb": "/thumbs/2026-09-17-tiktok-ai-7686209498054266142.jpg",
+    "transcript_30s": "This is a real story about Nik Storonsky #ai #news #learnontiktok #le..."
+  },
+  {
+    "id": "2026-09-17-tiktok-ai-7686488320502795534",
+    "category": "ai",
+    "platform": "tiktok",
+    "url": "https://www.tiktok.com/@sabrina_ramonov/video/7686488320502795534",
+    "title": "Follow me and DM me \"CODES\" on IG/FB only 👇 Most people use ChatGPT l...",
+    "creator_handle": "@sabrina_ramonov",
+    "hook_onscreen": "Follow me and DM me \"CODES\" on IG/FB only 👇 Most people use ChatGPT l...",
+    "hook_spoken": "Follow me and DM me \"CODES\" on IG/FB only 👇 Most people use ChatGPT l...",
+    "niche_tags": [
+      "ai",
+      "chatgpt",
+      "how-to"
+    ],
+    "pattern_tags": [
+      "call_to_action"
+    ],
+    "views": 24400,
+    "likes": 2179,
+    "comments": 236,
+    "saves": null,
+    "format": "short",
+    "post_date": null,
+    "thumb": "/thumbs/2026-09-17-tiktok-ai-7686488320502795534.jpg",
+    "transcript_30s": "Follow me and DM me \"CODES\" on IG/FB only 👇 Most people use ChatGPT l..."
+  },
+  {
+    "id": "2026-09-17-ultimate-beginner-guide-to-learning-comfyui-2026",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=l4CiwGS2ewY",
+    "title": "Ultimate Beginner Guide to Learning ComfyUI (2026)",
+    "creator_handle": "@MaxNovak",
+    "hook_onscreen": "",
+    "hook_spoken": "What's going on guys? Today I'm going to What's going on guys? Today I'm going to share with you my ultimate guide for share with you my ultimate guide for share with you my ultima",
+    "niche_tags": [
+      "comfyui",
+      "image",
+      "how-to",
+      "ai"
+    ],
+    "pattern_tags": [
+      "how_to_promise"
+    ],
+    "views": 101255,
+    "likes": 2009,
+    "comments": 90,
+    "saves": null,
+    "format": "long",
+    "post_date": "2026-04-30",
+    "thumb": "/thumbs/2026-09-17-ultimate-beginner-guide-to-learning-comfyui-2026.jpg",
+    "transcript_30s": "What's going on guys? Today I'm going to What's going on guys? Today I'm going to share with you my ultimate guide for share with you my ultimate guide for share with you my ultimate guide for learning ComfyUI. I'll show you what it learning ComfyUI. I'll show you what it learning ComfyUI. I'll show you what it is, how to get it running on your is, how to get it running on your is, how to get it running on your machine, and what you can do with it machine, and what you can do with it machine, and what you can do with it starting with your very first generation starting with your very first generation starting with your very first generation all the way to the kind of stuff all the way to the kind of stuff all the way to the kind of stuff professionals are using it for right professionals are using it for right professionals are using it for right now. So, I want to start with the why now. So, I want to start with the why now. So, I want to start with the why because the best way to understand why because the best way to understand why because the best way to understand why this tool matters is to see what people this tool matters is to see what people this tool matters is to see what people are actually building with it. So, are actually building with it. So, are actually building with it. So, everything you just saw used ComfyUI in everything you just saw used ComfyUI in everything you just saw used ComfyUI in some way, shape, or form, and the best some way, shape, or form, and the best some way, shape, or form, and the best part is it is completely free. It's open part is it is completely free. It's open part is it is completely free. It's open source, and it runs locally on your own source, and it runs locally on your own source, and it runs locally on your own hardware. That means no subscriptions, hardware. That means no subscriptions, hardware. That means no subscriptions, no cloud fees, no waiting in a queue, no cloud fees, no waiting in a queue, no cloud fees, no waiting in a queue, and because it's node-based, you're also"
+  },
+  {
+    "id": "2026-09-17-ultimate-veo-3-1-update-explained-how-to-use-goo",
+    "category": "ai",
+    "platform": "youtube",
+    "url": "https://www.youtube.com/watch?v=FMdIIBByNZo",
+    "title": "Ultimate VEO 3.1 Update EXPLAINED: How To Use Google Veo-3 For Beginners",
+    "creator_handle": "@AIMaster",
+    "hook_onscreen": "",
+    "hook_spoken": "Hey guys, I need a photo of AI master",
+    "niche_tags": [
+      "veo",
+      "video",
+      "gemini",
+      "ai"
+    ],
+    "pattern_tags": [
+      "how_to_promise"
+    ],
+    "views": 193240,
+    "likes": 3198,
+    "comments": 138,
+    "saves": null,
+    "format": "long",
+    "post_date": "2025-07-09",
+    "thumb": "/thumbs/2026-09-17-ultimate-veo-3-1-update-explained-how-to-use-goo.jpg",
+    "transcript_30s": "Hey guys, I need a photo of AI master. Hey guys, I need a photo of AI master. Do you know who is AI master? Do you know who is AI master? Do you know who is AI master? Make Death Star great again. Make Death Star great again. Make Death Star great again. Okay. Oh, Okay. Oh, Okay. Oh, today I'm pulling back the curtain on today I'm pulling back the curtain on today I'm pulling back the curtain on Google's new VO3, the next gen AI video Google's new VO3, the next gen AI video Google's new VO3, the next gen AI video model that's got me acting like a kid in model that's got me acting like a kid in model that's got me acting like a kid in a tech toy store. We're talking text to a tech toy store. We're talking text to a tech toy store. We're talking text to video. You type a description and VO3 video. You type a description and VO3 video. You type a description and VO3 spits out an 8second video clip with spits out an 8second video clip with spits out an 8second video clip with sound. Yes, audio and video from just sound. Yes, audio and video from just sound. Yes, audio and video from just your words. your words. your words. [Music] [Music] [Music] In this tutorial, I'll show you how to In this tutorial, I'll show you how to In this tutorial, I'll show you how to harness VO3 to create funny viral style harness VO3 to create funny viral style harness VO3 to create funny viral style videos like this. videos like this. videos like this. It's just a few toasters, right? What's"
   }
 ]
